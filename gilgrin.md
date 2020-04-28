@@ -43,97 +43,128 @@ Kiaransalee lost all her power when the hordes of her followers died in this cla
 The scythe is the final part of Kiaransalee's relics. The handle was in Gilgrin, the pommel in the reliquary. But she still has to use the daemon lords to break Waterdeep to get the scythe.
 
 ### Felgolos motivation
-...
+Cursed to stay in this chamber (Annam's Anvil), and can imbue base weapons with fire (for the plus one extra boost up to plus 3)
 
-#### Option 1: Ghosts of a Cult
-Deacons remnants of a cult of the flame.
-Actually undead dwarves sealed therein (Duergar mindmasters?)
 
-#### Option 2: Gravekeeper + Gravekeeper Guardians
-Locked room contains
+### Inside
+Using https://old.reddit.com/r/DnD/comments/aog16x/ocartthe_biggest_dungeon_multilayered_with_mixed/
 
-Felgolos maintains fire, unintentionally keeping the dwaves "alive".
+Old dwarven mine. Taken over. Zoltan uses mind controlled duergar as slaves.
 
+They arrive in through the middle. Straight across is Felgolos - doors locked. Need to barge in to top right door (brekable), fly up in middle, get into locked.
+
+Final altar on the top left contains the Hammer. Unlooted. That's where the giants normally smite, but Umnos uses the dragons abilities
+Seal off lower left.
+
+Some of the best loot is in the side-rooms on the top right.
+
+#### Bottom left: desecrated dwarf
+Destroyed, almost pulverized parts of a dwarven corpse. Room sealed. Statue of Moradin. Skull intact (can let them locate Whelm).
+
+Hammer of thunder lodged in the statue of Mordain.
+
+LORE: Originally crafted here, but "cursed" in Gauntlgrym (via that one named evil dwarf). Now shackled to a the center of a giant statue.
+Door sealed. Sense magic emanating.
+Hammer of Thunder (needs >20 str - can get Manual from felgolos / frostburn on markis, or king for fire belt, or luskan jax for a 21 belt)
+Manual of Bodily Health
+
+Sealed off at construction time as best they could to seal the most evil dwarven weapon off. However, smaller corridors still somewhat accessible (if willing to take lava damage).
+
+##### Bottom left small rooms
+iron ingots, supplies, mostly abandoned.
+library, dusted over, used to be place of worship for Moradin.
+books; one about Akkhan, large dwarf who served as a king 600 years ago and was a champion of Kavaki.
+
+#### Top Left: Entrance hall
+Main doors locked, requires like 25+ athletics to break down, but more feasible. Deadbolt on other side.
+
+#### Top left small rooms
+Felgolos sometimes wander these hallways, and he has repurposed a shrine to Bahamut (good metalic dragon good history 15, as opposed to tiamat worshipped by chromatic dragons). Taking it would not sit well with Felgolos if noticed (will not want to leave without it, and will try to cast locate object).
+
+Leftover materials, large amounts of food summoned here for felgolos. Construct wanders the hall and guards it; Iron Golem CR16.
+
+Room with red; smaller anvils. Used to do tweaks and smaller weaponry. Iron ore and steel ingots.
+
+Books; about famous dragons in the world. Written 800 years ago.
+Talks about Fryggt a young white dragon adopted at birth by giants as peace offering from the dwarves. Talks about Galadaeros a copper dragon of age 100 (who was sometimes in Waterdeep) who gave birth to at the time to Felgolos. Felgolos was watched over by the Arcane Brotherhood in Luskan and has since disappeared and not been seen since. Talks about a two ancient dragons past, a blue and green dragons who resided together, unusually, in the east. Had two babies, one killed, the other lost. Also mentions notable adult guardians at the time. An ancient blue dragon in Neverwinter.
+
+#### Top Left: Dwarven Forge
+Now used by giants. A statue sits resting on the floor. The altar is a Golem, Altar Flame (beefed up). Asks for password when users take weapons near door. Will bullrush down the corridorand breathe fire as he runs to one side.
+
+In forges on left, 3 weapons, just lacking a few finishing touches to the hilt sit hardened and polished.
+
++3 Cleaver Greataxe 1d12 (lets you hit everyone in a 5ft reach in 30ft line - roll to hit against each - but this is an entire action including movement). Needs a 1000gp ruby + 5th level enchantment to activate.
+
++3 Two Handed Flail 2d6 (Golden Scourge - Divine Smite bounces 10 feet to up to 3 additional creatures) - an attempt to recreate Akkhan's weapon. Needs a 5th level radiant damage spell imbued plus the soul of Akkhan / 1000gp opal. Needs 21 strength.
+
++3 Greatsword 2d6 (Aegis Fang - Cast fireball on self on crit) - needs 21 STR - no attunement - needs 5th level evocation spell cast into it along with a 1000gp topaz.
+
+(NB: must cast every day for a month unless upping spell level and gem level)
+(NB: felgolos normally does this in exchange for visitation rights)
+
+#### CENTER: Felgolos
+Rests in the middle of the lava pit, covers large sprawling surface, tail, in the lava.
+
+Felgolos: Massive glossy curved wall of metal. The color is kind of a dull red. 
+Tactics: Will just sleep ray everyone in combat. Place isn't big enough for him to fly. 
+
+Wants: Freedom. But he's held hostage for his continually harvested dragon eggs (which the fire giants use to make topazes for hilts - but lead him on so there's always some alive, and he gets to see them a little). Wyrmlings held below a passage gilgrin beneath one tower (nest guarded by fire giants, occasionally the mage is there coating the eggs (in volcanic rock, hardening in lava) - 2 wyrmlings in cage - cute kids).
+Initially sleepy, but wakes very easily. Will seem hostile in the first 5s. 
+
+Deep voice. More s'es. Slightly mad, but helpful.
+
+"Why wakes me from my slumber."
+Eyes start glowing white, steam starts to flow from them.
+3 seconds pass, steam fades
+"you are not with the giants, nor are you drow"
+"curious"
+
+HAS:
+Shario's Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
+which he will give up
+
+Kept here his entire life. Knows a lot of magic, he can help activate magic weapons, if they can smuggle him out with eggs. One per egg.
+But they have to first ensure its young are escorted out. They are nursed in a nest below Gilgrin. He cannot leave this place unless they destroy the binding magic set up in the library in lower left.
+
+#### Lower Left: Library
+Large spinning set of spheres, looks a mix between astronomical and magical. The three moons of toril spinning around, but you can tell they are creating some kind of force magic. Modified Mytholabe (force dmg over radiant, extra dice, force fields, not jabs). Must be destroyed to end forcefield. Old library in disarray. The labe has completely wrecked all books and the rest of this room.
+
+#### Lower left: Small rooms
+In tact remnants of old dwarven parts. Nothing of huge significance. Hidden room in the back (behind what's not actually a pentagram). Within is a gemstone for Whelm. Moonstone 1000gp (extract aspects).
+
+Ring of Comdemnation (Can cast Comdemn 30ft radius con save vs 8d8 radiant dmg as an action once per day)
+
+Bracers of Archery (coz whatever)
+
+
+#### Top Right: Gravekeeper Guardians + Irae protection
+Irae looted some main items in the top right and tried to seal the room to prevent anyone from figuring out 
+Undead fight in this room. Gravekeeper giant statue comes alive. 2-phase giant fight that summons undead. 200 HP giant.
+Statue to the Magnificent Matriarch (Quenthil Baenrae)
+She will do some matriarch shit?
+
+Summons 4 ogre zombies per round (from each row)
+Top 4 chests empty. But buried heroes above unlooted.
+
+### Top Right: Tombs
++3 Radiant Glaive 1d10 (boosts yourself STR modifier worth of temp hp - without misses against undead) - https://favpng.com/png_view/weapon-glaive-pole-weapon-guandao-blade-png/4qtN5R0i
+
+Main tomb champion who stole from Shario:
+
+
+TODO: sunwuko - Weapon that burns spells on crit Roll D8+1 for spell level - gives truesight, adds slow  instead of stun.
+TODO: sunwuko - monk item that can give truesight?
+
+Cloak of Displacement (probably better in reliquary)
 
 ### Entrance
 in the back
 4 fire giants in the path. (Throw lava etc.)
 Maybe Ring Servants CC318 as guardians within
 
-### Inside
-Using https://old.reddit.com/r/DnD/comments/aog16x/ocartthe_biggest_dungeon_multilayered_with_mixed/
-
-do the map if you have time....
-
-They arrive in through the middle. Straight across is Felgolos.
-Final altar on the top left contains the Hammer.
-Seal off lower left.
-
-
 ### Hammer of Thunder
-Originally crafted here, but "cursed" in Gauntlgrym (via that one named evil dwarf). Now shackled to a the center of a giant statue.
-Door sealed. Sense magic emanating.
-
-Can reach it through hidden passages above (PUZZLE?) OR from via Felgoloos'' chamber in the middle.
-
-Hammer of Thunder (needs >=20 str - can get from felgolos / frostburn on markis, or king for fire belt, or luskan jax for a 21 belt)
-Manual of Bodily Health
-Tome of Clear Thought? :D
-
 ### Top Right
-Statue to the Magnificent Matriarch (Quenthil Baenrae)
+
 
 Iridium Galvanizer
 Wand of Fireballs
-
-+3 weapons of various types:
-
-lets chill a little here:::
-leave some for the champions..
-
-
-+3 Glaive (Radiant Hammer - boosts yourself STR modifier worth of temp hp - without misses against undead) - https://favpng.com/png_view/weapon-glaive-pole-weapon-guandao-blade-png/4qtN5R0i - needs 21 STR
-+3 Greatsword (Aegis Fang - Cast fireball on self on crit) - needs 21 STR - no attunement - (maybe they can extract the power of that and put it into whelm)
-+3 Two Handed Flail 2d8 (Golden Scourge - Divine Smite bounces 10 feet to up to 3 additional creatures)
-+3 Cleaver Greataxe (lets you hit everyone in a 5ft reach in 30ft line - roll to hit against each - but this is an entire action including movement)
-+3 Heaven's Fury (Radiant energy (shotgun) weapon, 3 beams of 2d6 damage + STR)
-Ring of Comdemnation (Can cast Comdemn 30ft radius con save vs 8d8 radiant dmg as an action once per day)
-Ring of Fire (Boosts Fireball range and damage, +20ft, +2d6)
-Ring of Lightning (Boosts lightning bolt Damage +2d6)
-Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
-
-Monk... want to give evasion mantra, but want to take away stunlocking..
-+2 Divine Rapier (Unless you have disadvantage, you cannot miss)
-Bracers of Archery (coz whatever)
-Gloves of Missle Snaring (reliquary)
-Sange/Yasha dual wield combo health regen as an action during evade?
-Weapon that burns spells on crit Roll D8+1 for spell level? maybe instead of stun while we weaken stun?
-Monk item that can give truesight?
-Weapon that slows instead? Stun -> Slow?
-
-Caster:
-Cloak of Displacement (probably better in reliquary)
-
-### Felgolos
-Rests in the middle of the lava pit.
-
-Felgolos: Massive glossy curved wall of metal. The color is kind of a dull red. 
-
-Tactics: Will just sleep ray everyone in combat. Place isn't big enough for him to fly. 
-
-Wants: Freedom. But he's held hostage for his dragon eggs. Held below a passage gilgrin beneath one tower.
-Initially sleepy, but wakes very easily. Will seem hostile in the first 5s. 
-
-Deep voice. 
-
-"Who wakes me from my slumber."
-Eyes start glowing white.
-
-if no one says anything for a while
-eyes power down, "you are not with the fire giants, nor are you drow"
-"curious"
-
-Kept here his entire life. Knows a lot of magic and if they smuggle it out he can fix the elevator and go to the council in Waterdeep.
-But they have to first ensure its young are escorted out. They are nursed in a nest below Gilgrin.
-
-## Nursery

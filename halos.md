@@ -117,6 +117,17 @@ Belt of Giant Strength below (21).
 Wand of Lightning Bolts
 Information about Sunwuko? Monkey king's relics can be found inside the Pentachoron.
 
+Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
+Tome of Clear Thought. +2 int.
+Gloves of Missle Snaring (reliquary)
+
+TODO: Shario - Ring of Lightning (Boosts lightning bolt Damage +2d6)
+TODO: Shario - Ring of Fire (Boosts Fireball range and damage, +20ft, +2d6)
+
+Monk... want to give evasion mantra, but want to take away stunlocking..
++2 Divine Rapier (Unless you have disadvantage, you cannot miss)
+Sange/Yasha dual wield combo health regen as an action during evade?
+
 
 # EBA1: 11/16 Staircase leads to Waterfountain fight from BL2 wizard tower
 Circular  outlook point. This is a trap. Storm of Vengeance. If triggered calls guards. 

@@ -10,6 +10,7 @@ She faced a set of powerful enemies:
 - Shario Dyounoru a champion of Mystra
 - Akkhan worked under Umnos and was was the chosen of Kavaki
 - Sunwuko was the champion of Selune
+- Natalya was the champion of the Raven Queen
 
 Laeral will know about her, but all the powers she used to banish her caused the great sundering. Magic ceased to function. Shario perished
 
@@ -23,6 +24,7 @@ Waterdeep mages made a pact with the gods to get rid of her, but could not
 ## Super Past
 500 years old.
 
+Has a painting that takes you to her lair (which does contain her phylactery now).
 
 ## Past
 Freed Silth from Magnificent Matriarch and infiltrated it within the storm giants lair.
@@ -33,6 +35,7 @@ Had Giants coordinatedly open portal to the abyss to let demon lords through.
 Uses the magic divices there to steer one demon lord at a time, so she can infiltrate and grab the most powerful artifacts.
 
 She gives some to her servants as they help steer the demon lords.
+She stole the diamond from Luskan after the raid.
 
 ## Fighting her in her lair
 She is like Friede. https://www.youtube.com/watch?v=wvZTBG7UMqU
