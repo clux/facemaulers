@@ -8,3 +8,6 @@ gnome master who has a crossbow machinegun
 
 future like wasteland where only slave knights are alive
 NEED A SLAVE KNIGHT 
+
+
+extra member found herein?

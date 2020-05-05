@@ -116,8 +116,11 @@ bailing -> polymorph follow them: "you think i am bound by this chamber?"
 History: roamed the world in his 100s, saw the rise and fall of Kiaransalee.
 Attended funeral of Akkhan. Knows 3 others disappeared and performed a sacrifice.
 
+"find my children, they should have hatched by now"
+"well, neither zoltan nor umnos have not answered my requests as of late" (persuasion)
+
 ### Felogolos Kiaransalee Lore
-He is old enough to know about the first rise of Kiaransalee. Knows that she fell in Aruanoch in a mutual clash with Sunwuko and the champions Shario + Akkhan + Sunwuko + Natalya 700 years ago. He has Shario's bracers + Akkhan's ring.
+He is old enough to know about the first rise of Kiaransalee. Knows that she fell in Aruanoch in a mutual clash with Sunwuko and the champions Shario + Akkhan + Sunwuko + Natalya 700 years ago. He has Shario's bracers + Akkhan's ring. Some of Sharia's loot is in Halos.
 
 Books tell about societies fallen; in the east to the undead. All communication gone. The whole society corrupted. The empire of the netherese was wiped out due to the corruption of their citizens, not by greedy magicians.
 
@@ -158,8 +161,8 @@ Undead fight in this room. Gravekeeper giant statue comes alive. 2-phase giant f
 Summons 4 ogre zombies per round (from each row)
 Top 4 chests looks heavily looted. But does have 2 scraps:
 
-Wand of Fireballs
 Bracers of Archery (coz whatever)
+Cloak of Displacement (probably better in reliquary)
 Iridium Galvanizer
 
 ### Top Right: Tombs
@@ -170,7 +173,9 @@ Main tomb champion who stole from Shario:
 TODO: sunwuko - Weapon that burns spells on crit Roll D8+1 for spell level - gives truesight, adds slow  instead of stun.
 TODO: sunwuko - monk item that can give truesight?
 
-Cloak of Displacement (probably better in reliquary)
+Uroum Emberbeard
+Wand of Fireballs
+
 
 ### Entrance
 in the back
