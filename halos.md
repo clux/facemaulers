@@ -36,9 +36,12 @@ Looking forward to ruling Stormguard after Irae is done. Dragons know they can't
 Part of that is ensuring powerful artifacts stay outside the hands of both giants. She normally persuades them to obtain things of danger to them and hide it away. While sweet-talking Serissa.
 
 
+## Guard
+Havil. Wielding a dragon tooth as a maul.
+
 ## Umnos
 Huge bulging blue muscles with a large golden cumberbud.
-Blue light emits from his jaw, eyes, and it crackles from his hair (huge, windswept, crazy, even eyebrows and beard follows this). Shoes up to his knees and as large as a party member. Search for it. Very Zeusy.
+Blue light emits from his jaw, eyes, and it crackles from his hair (huge, windswept, crazy, even eyebrows and beard follows this style). Shoes up to his knees and as large as a party member. Search for it. Very Zeusy.
 Feeblemind?.. can be ended by greater restoration..
 Dominate Monster at 9th level lasts up to 8 hours... she is just better at it..
 Umnos in non-dominated is a previous champion of Auril, but does not need her anymore, he is as close to his own godhood as is possible.
@@ -116,6 +119,13 @@ Belt of Giant Strength below (21).
 
 Wand of Lightning Bolts
 Information about Sunwuko? Monkey king's relics can be found inside the Pentachoron.
+
+https://www.dota2.com/items/
+https://dota2.gamepedia.com/Heaven%27s_Halberd
+https://dota2.gamepedia.com/Maelstrom
+https://dota2.gamepedia.com/Echo_Sabre
+https://dota2.gamepedia.com/Dragon_Lance
+https://dota2.gamepedia.com/Mjollnir
 
 Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
 Tome of Clear Thought. +2 int.

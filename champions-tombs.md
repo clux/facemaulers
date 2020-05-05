@@ -3,7 +3,8 @@
 diamond mine?
 desert netherese?
 acropolis?
-
+Sunset Mountains - South of Netheril (in ruins)
+Netheril east/west border is undead territory.
 
 Heaven's Fury (Radiant energy d3 shotgun) helmet
 Whenever hit with weapon, it hits with the power of kavaki in 3 directions

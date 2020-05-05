@@ -29,23 +29,6 @@ If they destroy it, they better fucking high-tail it. They might persuade him to
 
 
 ## Vault
-### Felogolos Kiaransalee Lore
-He is old enough to know about the first rise of Kiaransalee. Knows that she fell in a mutual clash with Sunwuko and the champions Shario + Akkhan + Sunwuko + Natalya 700 years ago.
-
-Books tell about societies fallen; in the east to the undead. All communication gone. The whole society corrupted. The empire of the netherese was wiped out due to the corruption of their citizens, not by greedy magicians.
-
-Sunwuko a master monk ruled the City of Shade. They had developed a completely different style of fighting to combat the stun-proof elites of the undead; fast shooting weaponry.
-
-Tells of the fighting style of Kiaransalee; magically imbued scythe. Could not be charmed, could not be stunned, and could not be transformed in any way. Attacks out of nothing (invis), and when angry.
-
-Kiaransalee lost all her power when the hordes of her followers died in this clash. Though the last remaining champion, Shario, distributed parts of her relics to various magocracies on the coast. The Eternal Star, a diamond which in its natural form was half a meter in diameter, the pommel of her scythe. The scythe of shadow was taken to Waterdeep.
-
-The scythe is the final part of Kiaransalee's relics. The handle was in Gilgrin, the pommel in the reliquary. But she still has to use the daemon lords to break Waterdeep to get the scythe.
-
-### Felgolos motivation
-Cursed to stay in this chamber (Annam's Anvil), and can imbue base weapons with fire (for the plus one extra boost up to plus 3)
-
-
 ### Inside
 Using https://old.reddit.com/r/DnD/comments/aog16x/ocartthe_biggest_dungeon_multilayered_with_mixed/
 
@@ -63,7 +46,7 @@ Destroyed, almost pulverized parts of a dwarven corpse. Room sealed. Statue of M
 
 Hammer of thunder lodged in the statue of Mordain.
 
-LORE: Originally crafted here, but "cursed" in Gauntlgrym (via that one named evil dwarf). Now shackled to a the center of a giant statue.
+LORE: Originally crafted here, but "cursed" in Gauntlgrym (via that one named evil dwarf - Grymin). Now shackled to a the center of a giant statue.
 Door sealed. Sense magic emanating.
 Hammer of Thunder (needs >20 str - can get Manual from felgolos / frostburn on markis, or king for fire belt, or luskan jax for a 21 belt)
 Manual of Bodily Health
@@ -103,54 +86,86 @@ In forges on left, 3 weapons, just lacking a few finishing touches to the hilt s
 (NB: felgolos normally does this in exchange for visitation rights)
 
 #### CENTER: Felgolos
-Rests in the middle of the lava pit, covers large sprawling surface, tail, in the lava.
+Rests in the middle of the lava pit, covers large sprawling surface, tail, in the lava / across closed lava acqueduct.
 
-Felgolos: Massive glossy curved wall of metal. The color is kind of a dull red. 
+Felgolos: Massive glossy curved wall of metal. The color is kind of a dull red, yellowy.
 Tactics: Will just sleep ray everyone in combat. Place isn't big enough for him to fly. 
 
-Wants: Freedom. But he's held hostage for his continually harvested dragon eggs (which the fire giants use to make topazes for hilts - but lead him on so there's always some alive, and he gets to see them a little). Wyrmlings held below a passage gilgrin beneath one tower (nest guarded by fire giants, occasionally the mage is there coating the eggs (in volcanic rock, hardening in lava) - 2 wyrmlings in cage - cute kids).
-Initially sleepy, but wakes very easily. Will seem hostile in the first 5s. 
+Wants: Freedom now. He voluntarily sacrificed himself to be a guardian of the place, he's engineered many of the setups, and lets giants in, until recently. He has not heard from his eggs in ages, and his lair is now his tomb.
 
-Deep voice. More s'es. Slightly mad, but helpful.
+Sacrifice deal: Oversee his offspring and spread them far and wide, and get them into different societies across the continent (5 succeeded, 3 five years ago unknown) He will rest in the cozy lair herein, with access to all knowledge requested, a forge for experimentation (enjoys this)
 
-"Why wakes me from my slumber."
+Eggs: last remaining held below a passage gilgrin beneath one tower (guarded by fire giants, occasionally the mage is coating an egg (in volcanic rock, hardening in lava). Eggs are harnessed for their magical potential and are used as the crystal orbs.
+
+Deep mercer voice. Authoritarian leader type, not very monstery.
+
 Eyes start glowing white, steam starts to flow from them.
-3 seconds pass, steam fades
-"you are not with the giants, nor are you drow"
-"curious"
 
-HAS:
+
+"This? This is what you send? WHERE ARE THEY?"
+"What have you DONE to them?"
+
+"State. Your business."
+
+appeasing -> steam fades, eyes stop glowing white, and you now see his normal, but still gargantuan reptilian eyes looking at you. small smile forming at mouth?
+
+bailing -> polymorph follow them: "you think i am bound by this chamber?"
+
+"tell me, have you seen my children?" - chult (Galadaeros), zemnia (Ilnezhara), netherese (Pocyr) - 3 unnamed ones from last batch
+
+History: roamed the world in his 100s, saw the rise and fall of Kiaransalee.
+Attended funeral of Akkhan. Knows 3 others disappeared and performed a sacrifice.
+
+### Felogolos Kiaransalee Lore
+He is old enough to know about the first rise of Kiaransalee. Knows that she fell in Aruanoch in a mutual clash with Sunwuko and the champions Shario + Akkhan + Sunwuko + Natalya 700 years ago. He has Shario's bracers + Akkhan's ring.
+
+Books tell about societies fallen; in the east to the undead. All communication gone. The whole society corrupted. The empire of the netherese was wiped out due to the corruption of their citizens, not by greedy magicians.
+
+Sunwuko a master monk ruled the City of Shade. They had developed a completely different style of fighting to combat the stun-proof elites of the undead; fast shooting weaponry (auto-reload crossbows).
+
+Tells of the fighting style of Kiaransalee; magically imbued scythe. Could not be charmed, could not be stunned, and could not be transformed in any way. Attacks out of nothing (invis), and when angry.
+
+Kiaransalee lost all her power when the hordes of her followers died in this clash (Helm Rift above the acropolis). Though the last remaining champion, Shario, distributed parts of her relics to various magocracies on the coast. The Eternal Star, a diamond which in its natural form was half a meter in diameter, the pommel of her scythe. The scythe of shadow was taken to Waterdeep.
+
+The scythe is the final part of Kiaransalee's relics. The handle was in Gilgrin, the pommel in the reliquary. But she still has to use the daemon lords to break Waterdeep to get the scythe.
+
+### Felgolos Items
 Shario's Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
-which he will give up
-
-Kept here his entire life. Knows a lot of magic, he can help activate magic weapons, if they can smuggle him out with eggs. One per egg.
-But they have to first ensure its young are escorted out. They are nursed in a nest below Gilgrin. He cannot leave this place unless they destroy the binding magic set up in the library in lower left.
-
-#### Lower Left: Library
-Large spinning set of spheres, looks a mix between astronomical and magical. The three moons of toril spinning around, but you can tell they are creating some kind of force magic. Modified Mytholabe (force dmg over radiant, extra dice, force fields, not jabs). Must be destroyed to end forcefield. Old library in disarray. The labe has completely wrecked all books and the rest of this room.
-
-#### Lower left: Small rooms
-In tact remnants of old dwarven parts. Nothing of huge significance. Hidden room in the back (behind what's not actually a pentagram). Within is a gemstone for Whelm. Moonstone 1000gp (extract aspects).
-
 Ring of Comdemnation (Can cast Comdemn 30ft radius con save vs 8d8 radiant dmg as an action once per day)
 
-Bracers of Archery (coz whatever)
+Kept here his entire life. Knows a lot of magic, he can help activate magic weapons, if they can smuggle him out with the last egg.
+He cannot leave this place unless they destroy the binding magic set up in the library in lower left.
 
+Stay in this chamber (Annam's Anvil), and can imbue base weapons with fire (for the plus one extra boost up to plus 3), and can polymorph into things. Wants to disguise as a yellow robed wanderer with the faceless white mask.
+
+#### Lower Right: Library
+Large spinning set of spheres, looks a mix between astronomical and magical. The three moons of toril spinning around, but you can tell they are creating some kind of force magic. Modified Mytholabe (force dmg over radiant, extra dice, force fields, not jabs). Must be destroyed to end forcefield. Old library in disarray. The labe has completely wrecked all books and the rest of this room.
+
+#### Lower Right: Small rooms
+In tact remnants of old dwarven parts. Akkhan had a room here. Hidden room in the back (behind what's not actually a pentagram). Within is a gemstone for Whelm. Moonstone 1000gp (extract aspects).
+
+Moonstone can be used to talk to Kavaki. GW sees it light up in green (whisper). Like Cadeuces good, but with colors around illusions. Green very yes. Red, very no. Purple, mostly no, teal, mostly yes.
+
+Load Bearing Mimic in hallway below.
 
 #### Top Right: Gravekeeper Guardians + Irae protection
-Irae looted some main items in the top right and tried to seal the room to prevent anyone from figuring out 
-Undead fight in this room. Gravekeeper giant statue comes alive. 2-phase giant fight that summons undead. 200 HP giant.
+Irae looted parts of Kiaransalee's relics here, and left the room cursed.
 Statue to the Magnificent Matriarch (Quenthil Baenrae)
-She will do some matriarch shit?
+But as soon as they step past the middle or start looting corpses, touching doors/buttons she will trigger and turn into a bone golemn.
+Undead fight in this room. Gravekeeper giant statue comes alive. 2-phase giant fight that summons undead. 200 HP giant. First 100HP, then she will fall to her knees, summon fires within and start the waves.
+
 
 Summons 4 ogre zombies per round (from each row)
-Top 4 chests empty. But buried heroes above unlooted.
+Top 4 chests looks heavily looted. But does have 2 scraps:
+
+Wand of Fireballs
+Bracers of Archery (coz whatever)
+Iridium Galvanizer
 
 ### Top Right: Tombs
 +3 Radiant Glaive 1d10 (boosts yourself STR modifier worth of temp hp - without misses against undead) - https://favpng.com/png_view/weapon-glaive-pole-weapon-guandao-blade-png/4qtN5R0i
 
 Main tomb champion who stole from Shario:
-
 
 TODO: sunwuko - Weapon that burns spells on crit Roll D8+1 for spell level - gives truesight, adds slow  instead of stun.
 TODO: sunwuko - monk item that can give truesight?
@@ -161,10 +176,3 @@ Cloak of Displacement (probably better in reliquary)
 in the back
 4 fire giants in the path. (Throw lava etc.)
 Maybe Ring Servants CC318 as guardians within
-
-### Hammer of Thunder
-### Top Right
-
-
-Iridium Galvanizer
-Wand of Fireballs
