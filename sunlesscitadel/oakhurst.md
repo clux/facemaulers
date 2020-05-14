@@ -1,6 +1,10 @@
 ## oakhurst
-muisc: tristram https://www.youtube.com/watch?v=lZ3exrllHz0
-better: https://www.youtube.com/watch?v=omInzyNPaao
+music bladurs gate romance: https://www.youtube.com/watch?v=6ODM747G20o
+
+It's the year 1496 DR. Sun sets over the world of toril and the sword coast. While in in the mountain west of Neverwinter, in the city of Gauntlgrym. The forges keep on fuming.
+
+But one young dwarf finds themselves out in the woods having ventured through the thick brush for 8 hours. You find yourself tired.
+
 
 start: dwarf + gnome venturing together
 bard in old boar inn
@@ -12,6 +16,8 @@ on your journey you encountered a small gnome who took an interest in your quest
 Arrive by nightfall in the small village of Oakhurst.
 
 ### Old Boar Inn
+music tavern music: https://www.youtube.com/watch?v=dtk307vlfsQ
+
 Bard story:
 "Once upon a time, there was a beautiful fortress, inhabited by many aspiring sorcerers. They worshipped the dragon Ashardalon. They thought themselves successful, and tried obtaining fortunes and favours from this draconic being. Where they successful? Well, they built one of the most grandiose fortresses of their time, at least one not confined within city walls to be used for corrupt rulers. But as we all know; a human is to a dragon, what a bug is to a human. They probably used goblins as slaves to build the damn fortress, and how far did it get them in the end? You've all seen the state of it. Sunken. Into the ground. A fortress for goblins below below the planet's crust. Destroyed by Ashardalon? Who knows. This is what you get when you dabble with powers you don't understand.
 
@@ -62,6 +68,9 @@ Tell them about cattle hearders rumor.
 Tell them about kobold friend.
 "You're not going to kill them are you?" "the greenskins and the reptiles?"
 "They are only defending themselves." (trap warning)
+
+If you must go down there, find out what happened to the place. The place gives me the creeps, and not a lot of natural things do.
+Ask Bublan for recipes.
 
 ### General Store - Kerowyn distressed matriarch
 Kerowyn - seeds the rescue mission arc. 125gp reward per signet ring each.

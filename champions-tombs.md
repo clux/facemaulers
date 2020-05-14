@@ -19,3 +19,4 @@ nice boss for the tomb.
 
 ## failure
 Failure here can turn GW into a villain death knight?
+https://i.redd.it/n9kv95j532y41.jpg
