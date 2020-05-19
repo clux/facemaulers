@@ -95,12 +95,13 @@ Wants: Freedom now. He voluntarily sacrificed himself to be a guardian of the pl
 
 Sacrifice deal: Oversee his offspring and spread them far and wide, and get them into different societies across the continent (5 succeeded, 3 five years ago unknown) He will rest in the cozy lair herein, with access to all knowledge requested, a forge for experimentation (enjoys this)
 
-Eggs: last remaining held below a passage gilgrin beneath one tower (guarded by fire giants, occasionally the mage is coating an egg (in volcanic rock, hardening in lava). Eggs are harnessed for their magical potential and are used as the crystal orbs.
+Eggs: last remaining one transformed ia passage in gilgrin beneath one tower (guarded by fire giants, occasionally an assistant mage (just in it for the money) is coating an egg (in volcanic rock, hardening in lava). Eggs are harnessed for their magical potential and are used as the crystal orbs.
+Layout: Small lab in a purple worm lair. Desk. Pulley with diamond tether lowers it into lava periodically when it flashes.
 
+
+##### Felgolos Intro:
 Deep mercer voice. Authoritarian leader type, not very monstery.
-
 Eyes start glowing white, steam starts to flow from them.
-
 
 "This? This is what you send? WHERE ARE THEY?"
 "What have you DONE to them?"
@@ -118,6 +119,8 @@ Attended funeral of Akkhan. Knows 3 others disappeared and performed a sacrifice
 
 "find my children, they should have hatched by now"
 "well, neither zoltan nor umnos have not answered my requests as of late" (persuasion)
+
+more tricksy voice in polymorphed humanoid form (faceless one style, yellow robe, white mask)
 
 ### Felogolos Kiaransalee Lore
 He is old enough to know about the first rise of Kiaransalee. Knows that she fell in Aruanoch in a mutual clash with Sunwuko and the champions Shario + Akkhan + Sunwuko + Natalya 700 years ago. He has Shario's bracers + Akkhan's ring. Some of Sharia's loot is in Halos.
