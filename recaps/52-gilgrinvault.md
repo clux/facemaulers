@@ -36,3 +36,17 @@ the statue of the matriarch then revealed its true form and turned into blood go
 however you were able to brute force it down and break its summoning cycle with a flying spell
 
 found cooking recipe scroll (he threw it away)
+
+54 vault 3
+book inscription akkhan
+moontone gem - lights up green (he can use it)
+golden helm (of telepathy) with purple lens
+trance?
+
+TODO: spellbook of Gorym (wizard)
+just trying to make ends meet - decent paying position
+
+TODO: god classification for Akkhan
+
+mist form with 2 people in bag
+passed by in steam cover (do not believe you were seen)

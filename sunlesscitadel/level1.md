@@ -41,7 +41,7 @@ Meepo knows they sealed away southern end. "Section mMade us all funny." referri
 super hungry rats
 
 ### 21 Yusdrayl Throne
-Talk vaguely. This guy is like a cult leader.
+She talk vaguely. This guy is like a cult leader.
 Feigns knowledge. Meepo more helpful.
 
 NB: One quirky looking shaman (inventor) replaces one elite.

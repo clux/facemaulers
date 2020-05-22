@@ -120,7 +120,7 @@ Attended funeral of Akkhan. Knows 3 others disappeared and performed a sacrifice
 "find my children, they should have hatched by now"
 "well, neither zoltan nor umnos have not answered my requests as of late" (persuasion)
 
-more tricksy voice in polymorphed humanoid form (faceless one style, yellow robe, white mask)
+more tricksy voice in polymorphed humanoid form (faceless one style, yellow robe, white mask) [uses name el-golo]
 
 ### Felogolos Kiaransalee Lore
 He is old enough to know about the first rise of Kiaransalee. Knows that she fell in Aruanoch in a mutual clash with Sunwuko and the champions Shario + Akkhan + Sunwuko + Natalya 700 years ago. He has Shario's bracers + Akkhan's ring. Some of Sharia's loot is in Halos.
@@ -147,12 +147,12 @@ Stay in this chamber (Annam's Anvil), and can imbue base weapons with fire (for 
 #### Lower Right: Library
 Large spinning set of spheres, looks a mix between astronomical and magical. The three moons of toril spinning around, but you can tell they are creating some kind of force magic. Modified Mytholabe (force dmg over radiant, extra dice, force fields, not jabs). Must be destroyed to end forcefield. Old library in disarray. The labe has completely wrecked all books and the rest of this room.
 
+If they do it, and were detected earlier, they have to fight Zoltan and his meat shield on the way out. But if they destroyed the crystal then Felgy can help.
+
 #### Lower Right: Small rooms
 In tact remnants of old dwarven parts. Akkhan had a room here. Hidden room in the back (behind what's not actually a pentagram). Within is a gemstone for Whelm. Moonstone 1000gp (extract aspects).
 
 Moonstone can be used to talk to Kavaki. GW sees it light up in green (whisper). Like Cadeuces good, but with colors around illusions. Green very yes. Red, very no. Purple, mostly no, teal, mostly yes.
-
-Load Bearing Mimic in hallway below.
 
 #### Top Right: Gravekeeper Guardians + Irae protection
 Irae looted parts of Kiaransalee's relics here, and left the room cursed.
