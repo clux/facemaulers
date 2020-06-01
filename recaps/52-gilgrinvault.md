@@ -63,17 +63,18 @@ Allustriel in Faeywild
 Bonris knew Arklem's name why?
 Sansuri Safe passage
 
-TODO: book about gods named akkhan
-TODO: moonstone of kavaki IDENTIFY!
+CHECK:
+- book about gods named akkhan (kavaki.md)
+- moonstone of kavaki IDENTIFY (kavaki.md)
+- Divine Scourge needs a stone (moonstone)
+
 TODO: luskan what's Arklem's role.
-Divine Scourge needs a stone (moonstone)
-TODO: identify moonstone
 TODO: waterdeep academy
 TODO: magic shop
 - Gael's Magical Emporium (low-end)
 - Mage Guild's Suppliers
 TODO: proficiency / book + skill
-TODO: divine word for goat weaver?
+
 
 Vengeance is the search for justice: {internal justice, external justice}.
 Maintainers of justice can be comically inept/ineffective.
