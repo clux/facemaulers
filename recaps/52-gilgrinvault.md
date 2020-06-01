@@ -67,8 +67,8 @@ CHECK:
 - book about gods named akkhan (kavaki.md)
 - moonstone of kavaki IDENTIFY (kavaki.md)
 - Divine Scourge needs a stone (moonstone)
+- luskan what's Arklem's role (lich, loose cooperation with Irae)
 
-TODO: luskan what's Arklem's role.
 TODO: waterdeep academy
 TODO: magic shop
 - Gael's Magical Emporium (low-end)
