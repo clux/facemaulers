@@ -48,8 +48,6 @@ just trying to make ends meet - decent paying position
 has a mistress; Janet outside of Luskan (who's the wife of Beniago Kurth)
 he's been doing it on eggs of large sea creatures (he knows a priest of slarkrathel)
 
-TODO: god classification for Akkhan
-
 mist form with 2 people in bag
 passed by in steam cover (do not believe you were seen)
 
@@ -76,5 +74,14 @@ TODO: magic shop
 TODO: proficiency / book + skill
 
 
-Vengeance is the search for justice: {internal justice, external justice}.
-Maintainers of justice can be comically inept/ineffective.
+55 Waterdeep with Hanir
+He wakes up from a deep sleep coverd in dark dreams. Dreams of him being taken away.
+
+Going to waterdeep to stop Irae from taking the blade of shadows. Artifact used for Kiarensalee's weapon that was stashed there. Felgolos told you about the 3 parts, 2 of which you believe is now in Irae's possession.
+
+4 days of downtime before Demogorgon attacks.
+They get to prep and learn magic.
+Diana can help Mordai boost his chronomancy. That was the interesting part she learned bits of from Shario. She has two spells?
+Ursula can help GW learn about Akkhan's burial, since she has the books of Shario. (Maybe she recognises his light?)
+Faey/Pendle: Braegan + shops training.
+Hanir can meet with Jarlaxle?
