@@ -1,5 +1,6 @@
 # Kavaki - The Ram Lord
 Domains: Protection, Strength, Travel, War.
+Druidic-style faith.
 
 ## Boreal Temple
 Pilgrimage place for Goliaths.
@@ -15,9 +16,11 @@ Valkyrie Herfjatur tells them about Kavaki's philosophy:
 The first part of that is being able to know the difference between right or wrong. Good or Evil, if you will."
 
 ## Lore
-Book found in Gilgrin. Talks about various creator gods at the early times when the elves were considered gods. Unlike what's been told that Goliath's being some sort of mutant human, or giant cross bread, the Goliath race was created by Kavaki:
+Book found in Gilgrin. Talks about various creator gods at the early times when the elves were considered gods. Unlike what's been told that Goliath's being some sort of mutant human, or giant cross bread, the Goliath race was created by Kavaki.
 
 Ram-Lords clerics tell that he found atop the highest mountain peak, a bush that grew gems instead of fruit. He plucked the gems and from them came the first goliaths, whom he instructed to find hidden bounty amidst the mountains, and to protect the tribe from harm.
+
+Kavaki is the chief of all chieftains; thus the chief offers a prayer to Kavaki every morning. Kavaki is invoked to bless games, bestow honorifics, or bless a campsite; temples to Kavaki are often simple, portable, wooden, and have a ram's skull atop it.
 
 It also tells of the story of Gruumsh (god of the orcs) who in ancient time battled with the elven god of Corellon Larethian, and lost an eye to a magical spear cast by Corellon. This book instead claims he was blinded Condemn, a spell of radiant energy only known to Kavaki and his champion. After being blinded, Gruumsh willingly gouged his eye out.
 
@@ -44,3 +47,6 @@ Alternatively, it can be used passively to cast Holy Weapon once per day.
 
 ## Herald
 The herald of Kavaki is a titan with 20 Hit Dice that looks like a ram-headed goliath. His allies are hound archons, leonal guardinals, and hound archon heroes.
+
+## Visiting Elysium
+...blah. need a very competition themed challenge to impress. also, normal difficulties of leaving elysium.
