@@ -49,10 +49,34 @@ NB: One quirky looking shaman (inventor) replaces one elite.
 ## Past goblin den
 catacombs music: https://www.youtube.com/watch?v=EFbejkJjIt0
 
-## level 2
-caverns of areanae music: https://www.youtube.com/watch?v=x8f5YEKsAIY
-caves music: https://www.youtube.com/watch?v=DS-17B8cmYI
+## hilter skeleton
+almost blew up the potion
+
+## goblins
+slug, widenose assassinated (high stealth)
 
 
-later map found on dead adventurer
+## kobold / erky info
+know of goblin bandits and randsom practice
+know of a "belak"
+erky knows of the fruit
+kobolds know of Balsag - creature who stole Calcryx - heard a lot of noise north of here heard big noise
+
+has this map:
 https://i.redd.it/kymxblqhf8j11.jpg
+
+erky is bublan's uncle
+
+## 38 pantry
+highlight for bublan - add some vegy food
+
+## goblinville
+4 warriors tons of commonrs
+
+## hall of chief
+Durnn hobgoblin - tyrant wants to rule?
+Grenl - goblin wizard! she can be convinced - blue cloak
+
+gold ring in chest - ignore trap
+
+Grenl knows about Belak.
