@@ -112,7 +112,7 @@ appeasing -> steam fades, eyes stop glowing white, and you now see his normal, b
 
 bailing -> polymorph follow them: "you think i am bound by this chamber?"
 
-"tell me, have you seen my children?" - chult (Galadaeros), zemnia (Ilnezhara), netherese (Pocyr) - 3 unnamed ones from last batch
+"tell me, have you seen my children?" - chult (Baratathlaer), zemnia (Ilnezhara), netherese (Pocyr) - 3 unnamed ones from last batch
 
 History: roamed the world in his 100s, saw the rise and fall of Kiaransalee.
 Attended funeral of Akkhan. Knows 3 others disappeared and performed a sacrifice.
@@ -133,7 +133,7 @@ Tells of the fighting style of Kiaransalee; magically imbued scythe. Could not b
 
 Kiaransalee lost all her power when the hordes of her followers died in this clash (Helm Rift above the acropolis). Though the last remaining champion, Shario, distributed parts of her relics to various magocracies on the coast. The Eternal Star, a diamond which in its natural form was half a meter in diameter, the pommel of her scythe. The scythe of shadow was taken to Waterdeep.
 
-The scythe is the final part of Kiaransalee's relics. The handle was in Gilgrin, the pommel in the reliquary. But she still has to use the daemon lords to break Waterdeep to get the scythe.
+The scythe is the final part of Kiaransalee's relics in Waterdeep. The handle was in Gilgrin, the pommel in the Luskan. But she still has to use the daemon lords to break Waterdeep to get the scythe.
 
 ### Felgolos Items
 Shario's Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
@@ -171,10 +171,7 @@ Iridium Galvanizer
 ### Top Right: Tombs
 +3 Radiant Glaive 1d10 (boosts yourself STR modifier worth of temp hp - without misses against undead) - https://favpng.com/png_view/weapon-glaive-pole-weapon-guandao-blade-png/4qtN5R0i
 
-Main tomb champion who stole from Shario:
-
-TODO: sunwuko - Weapon that burns spells on crit Roll D8+1 for spell level - gives truesight, adds slow  instead of stun.
-TODO: sunwuko - monk item that can give truesight?
+Main tomb champion who stole from Shario.
 
 Uroum Emberbeard
 Wand of Fireballs

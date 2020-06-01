@@ -93,7 +93,17 @@ There is portal straight in there from Rimehaze, from the citadels construction 
 Alternative way; take the elevator down
 Alternative 2; drink fire resist potions.
  
+### Development
+Luskan scried upon. Tower still standing, but looks like it's taken a heavy beating. Gnoll corpses everywhere.
 
+### Felgy Interaction
+saw the destroyed eggs
+investigate
+Gludom (min wiz) ultimately sent for a mage to help construct the spine
+so he knows about the eggs => he knows about felgy
+=> apologetic, points to other children (Baratathlaer in CHult, Ilnezhara in Zemnia, Pocyr)
+=> felgy resentful, does not know the structure they've set up
+"did they not tell you of the wailing banshee growing up?"
 
 
  

@@ -39,6 +39,9 @@ Part of that is ensuring powerful artifacts stay outside the hands of both giant
 ## Guard
 Havil. Wielding a dragon tooth as a maul.
 
+## Distraction Treasure Goblin
+ah-haaa! runs with bag of gold.
+
 ## Umnos
 Huge bulging blue muscles with a large golden cumberbud.
 Blue light emits from his jaw, eyes, and it crackles from his hair (huge, windswept, crazy, even eyebrows and beard follows this style). Shoes up to his knees and as large as a party member. Search for it. Very Zeusy.
@@ -122,19 +125,17 @@ Information about Sunwuko? Monkey king's relics can be found inside the Pentacho
 
 https://www.dota2.com/items/
 https://dota2.gamepedia.com/Heaven%27s_Halberd
-https://dota2.gamepedia.com/Maelstrom
-https://dota2.gamepedia.com/Echo_Sabre
-https://dota2.gamepedia.com/Dragon_Lance
-https://dota2.gamepedia.com/Mjollnir
+Desolator - +4 Obsidian Sword slows enemy movement on hit (last for one round on enemy)
+https://dota2.gamepedia.com/Echo_Sabre - +3 Sabre that unlocks Echo Strike (Hasted attack, double attacks, once per long rest)
 
-Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0)
+https://dota2.gamepedia.com/Dragon_Lance - +3 Spear with 20ft reach.
+
+https://dota2.gamepedia.com/Mjollnir - Lightning Boosting Hammer - downgrades lg immunity -> resistance, resitance -> no resistance, no resistance -> weakness on enemies hit by lightning damage
+NB: Usable for a mage with 12 strength due to passive
+
 Tome of Clear Thought. +2 int.
 Gloves of Missle Snaring (reliquary)
 
-TODO: Shario - Ring of Lightning (Boosts lightning bolt Damage +2d6)
-TODO: Shario - Ring of Fire (Boosts Fireball range and damage, +20ft, +2d6)
-
-Monk... want to give evasion mantra, but want to take away stunlocking..
 +2 Divine Rapier (Unless you have disadvantage, you cannot miss)
 Sange/Yasha dual wield combo health regen as an action during evade?
 

@@ -43,10 +43,37 @@ moontone gem - lights up green (he can use it)
 golden helm (of telepathy) with purple lens
 trance?
 
-TODO: spellbook of Gorym (wizard)
+spellbook of Gorym (wizard): [Life Transference, Ray of Enfeeblement, Fire Shield, Resilient Sphere, Wall of Force, Modify Memory]
 just trying to make ends meet - decent paying position
+has a mistress; Janet outside of Luskan (who's the wife of Beniago Kurth)
+he's been doing it on eggs of large sea creatures (he knows a priest of slarkrathel)
 
 TODO: god classification for Akkhan
 
 mist form with 2 people in bag
 passed by in steam cover (do not believe you were seen)
+
+Felgy/El-golo will want to visit Waterdeep once he's freed to meet Laeral
+
+suri + felgy in rimehaze - he tunneled through
+Egg of Galadaeros is crystal in Luskan
+
+Allustriel in Faeywild
+
+Bonris knew Arklem's name why?
+Sansuri Safe passage
+
+TODO: book about gods named akkhan
+TODO: moonstone of kavaki IDENTIFY!
+TODO: luskan what's Arklem's role.
+Divine Scourge needs a stone (moonstone)
+TODO: identify moonstone
+TODO: waterdeep academy
+TODO: magic shop
+- Gael's Magical Emporium (low-end)
+- Mage Guild's Suppliers
+TODO: proficiency / book + skill
+TODO: divine word for goat weaver?
+
+Vengeance is the search for justice: {internal justice, external justice}.
+Maintainers of justice can be comically inept/ineffective.
