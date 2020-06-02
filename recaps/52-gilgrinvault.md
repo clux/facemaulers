@@ -77,7 +77,10 @@ TODO: proficiency / book + skill
 55 Waterdeep with Hanir
 He wakes up from a deep sleep coverd in dark dreams. Dreams of him being taken away.
 
-He learn that whenever Mordai uses Chronomancy, there's a small surge of Wild magic. They can harness it to create combos (so he has an incentive to die?).
+He learn that whenever Mordai uses Chronomancy, there's a small surge of Wild magic. They can harness it to create combos (so he has an incentive to die?). Necrotic energy surged from your fingertips, and killed all the plants in Ailos's tree garden. But it also harmed you. As this happenend, you had strange twisting visions of seeing the gaping maw of a black beast drain the life out of you.
+Mages kept him in isolation.
+
+Hans wants to learn history of himself. It was Arklem who brainwashed him.
 
 Going to waterdeep to stop Irae from taking the blade of shadows. Artifact used for Kiarensalee's weapon that was stashed there. Felgolos told you about the 3 parts, 2 of which you believe is now in Irae's possession.
 

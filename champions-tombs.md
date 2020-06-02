@@ -68,12 +68,28 @@ and her legendary longbow.
 ## Kiaransalee's Resting Place
 Ex-netherese Empire beneath Acropolis of Thanatos in V'elddrinnsshar.
 
+### Mechanics
 Magically imbued scythe. Egg of Galadaeros (aka the Eternal Star) compressed as the pommel (given to the Arcane Brotherhood to protect).
 Iridium Blade of Shadow, buried with Shario.
 Staff of Thunder and Lightning (used to belong to Umnos, but he sealed it in Gilgrin) ((perhaps make it lightning only, but higher stun DC))
 
 Could not be charmed, could not be stunned, and could not be transformed in any way. Attacks out of nothing (invis), and when angry.
 
+### Lore
+The Crones of Thanatos was the cult dedicated to her worship. Primarily surface drow in the east. Dressed in loose black robes, gray skullcap. At least one silver ring on each hand. Faces smeared with a mix of ashes, white hourglass necklace around their neck.
+
+Accomplished necromancers. Became Revenants, or Kiaranshee (elvish ghost type "keening spirit") - basically banshees with their wail. Cabrath Nelinderra. Undead priestess of Kiaransalee. Head priestess in the Acropolis of Thanatos.
+
 Kiaransalee lost all her power when the hordes of her followers died in this clash (Helm Rift above the acropolis). Though the last remaining champion, Shario, distributed parts of her relics to various magocracies on the coast.
 
-The handle was in Gilgrin, the pommel in the Luskan. But she still has to use the daemon lords to break Waterdeep to get the scythe.
+Graverending; Annual holy day of the faith. Midwinter Eve. Animated as many undead as each cleric could handle => became Vengeance Hunters and were set lose with this desire for revenge against those that ended their lives (had 24hours). The undead returned to their graves after 24h or after vengeance executed.
+
+Held complete rule in the eastern coast of Faerun for several hundred years. Only after they started tearing down the netherese and zemnian empires that they encountered resistance (and it was only at the highest level were this was even considerable).
+
+She saw any affront to her power as a symbol of the continued oppression from the elves against the dark elves, and were determined to use any of her slain dark elves against their enemies in undead form.
+
+Learn about the final battle; a master monk from the city of shade, the ruler and arch-huntress of zemnia, the champion of the creator god kavaki, and shario, a master evoker from zemnia. Even with all these they had to battle hordes of undead, their wailing clerics.
+
+After the battle, Shario herself ensured every member received a properly defended burial, and the powerful item they held protected so that they never fell into the wrong hands. (TALK ABOUT THE BURIAL CHAMBERS + ITEMS).
+
+The staff, believed to be a staff of thunder, was in Gilgrin (the most secure, vault in the contintent), the pommel in the Luskan, the most powerful mages academy on the sword coast, and the blade of shadow in the most heavily defended blackstaff tower - at the heart of the city of splendor.

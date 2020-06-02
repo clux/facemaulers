@@ -1,5 +1,13 @@
 # Waterdeep Siege
+Battleplan for Irae, Kua-Toans + Demogorgon assaulting Waterdeep.
 
+## Pre-battle Prep
+Mages will slowly uncover lore about Shario (Diano knows basic, Ursula can research as she believes it). Slowly uncover bits and bobs every day. Learn about the final battle just before.
+
+They can visit the tomb of Shario below Castle Waterdeep (middle of mountain, sealed). Winding tunnel. Several seals, and several magical keys. First have to spend two hours magically excavating the tunnel. At the bottom, a single room with 2x Deva's + Planetar (to make sure it's not lied to) returning as soon at they touch. If their intentions are good they can POSSIBLY see the body. But need super persuasive powers to take the amulet.
+
+
+## General Plan
 Demogorgon + 50 Kua-Toans coming up from the sewer grates.
 Shooshar running up before everything? Rides a giant turtle from darklake.
 One Kua-Toan will ask for the blade of shadows, or the Prince of Shadows will come to retrieve it himself.
@@ -9,7 +17,10 @@ Attack will happen at midnight, during a blood moon.
 Mages will defend the city against Demogorgon.
 Demogorgon will smash the mages tower (massive bludgeoning to everyone inside) so the safe with the blade gets to ground level.
 
-While the battle rages, Irae will swoop in to grab it.
+While the battle rages, Irae will swoop in to grab it. NB: Don't do this at all costs. If they escape with it, she'll definitely stalk them at night.
+
+If they leave the mages by themselves, they are likely to die alone.
+But they might be able to run away with the blade.
 
 
 ## Irae tactics
