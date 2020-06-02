@@ -3,7 +3,7 @@
 ## Council
 Diana is on the council as a masked lord.
 Lilith also (captains guild)
-Carril Byndraeth (rogue of gemcutters guild)
+Carril Byndraeth (rogue of gemcutters guild) - runs expensive gem shop
 Jarlaxle
 Gideon Rotchild (noble they robbed)
 

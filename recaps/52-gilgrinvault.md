@@ -73,6 +73,11 @@ TODO: magic shop
 - Mage Guild's Suppliers
 TODO: proficiency / book + skill
 
+54 Recap
+The 3 of you went on a raiding mission into the vault of gilgrin (secure).
+Therein, you found the hammer of grymin, various other high level weaponry, and also a brass dragon, Felgolos, who could shapeshift.
+Partially, self-isolating, (fire giants ensure his children were spread wide while he had access to the spine, its forge, hobbies, reading), but recently he was actually imprisoned.
+Umnos.
 
 55 Waterdeep with Hanir
 He wakes up from a deep sleep coverd in dark dreams. Dreams of him being taken away.
@@ -90,3 +95,23 @@ Diana can help Mordai boost his chronomancy. That was the interesting part she l
 Ursula can help GW learn about Akkhan's burial, since she has the books of Shario. (Maybe she recognises his light?)
 Faey/Pendle: Braegan + shops training.
 Hanir can meet with Jarlaxle?
+
+## RECAP
+GLUDOM MESSAGE ON CHANGES.
+Felgolos message: "forgotten about blade, moonlight ward?"
+hey felgy, mages forgotten scythe, will lower protections fo ryou, do you know of the moonlight ward, have a good trip
+
+felgo: Callistis. (great great aunt of ursula) moonlight ward.
+
+sending celerum: Mordai, what's your status? luskan destroyed. where is star? summoning caused by lich. kiaransalee. who attacked luskan? where are you now/
+
+celerum: yeah, i know. many gnolls, ported out. gone to safe place, don't try to find me. saw arklem with star.
+
+Goals:
+- arklem
+- history of area (test of law of council)
+- hans: past (hist future) something happened before?
+- faey: night time excursions thieving (funducation, practice lockpicking)
+- gw: study book, "never worn a belt" (belt of giant smarts), dragon lance
+- gw on dog on pugweaver
+- mordai: lotte chronomancy

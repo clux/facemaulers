@@ -26,3 +26,7 @@ Lines:
 - Well shit, look at that.
 - Time for a nice relaxing voyage.
 - Sonofabitch! Reload the cannons!
+
+### Brick
+Large muscly barbarian captain, bandana.
+Deep husky voice.

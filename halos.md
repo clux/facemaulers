@@ -127,9 +127,6 @@ https://www.dota2.com/items/
 https://dota2.gamepedia.com/Heaven%27s_Halberd
 Desolator - +4 Obsidian Sword slows enemy movement on hit (last for one round on enemy)
 https://dota2.gamepedia.com/Echo_Sabre - +3 Sabre that unlocks Echo Strike (Hasted attack, double attacks, once per long rest)
-
-https://dota2.gamepedia.com/Dragon_Lance - +3 Spear with 20ft reach.
-
 https://dota2.gamepedia.com/Mjollnir - Lightning Boosting Hammer - downgrades lg immunity -> resistance, resitance -> no resistance, no resistance -> weakness on enemies hit by lightning damage
 NB: Usable for a mage with 12 strength due to passive
 
