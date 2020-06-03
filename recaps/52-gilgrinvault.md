@@ -115,4 +115,5 @@ Goals:
 - faey: night time excursions thieving (funducation, practice lockpicking)
 - gw: study book, "never worn a belt" (belt of giant smarts), dragon lance
 - gw on dog on pugweaver
+- gw: item that perhaps give int?
 - mordai: lotte chronomancy
