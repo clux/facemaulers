@@ -40,6 +40,17 @@ Umbral Form: Bonus action: resistance all dmg for 1 minute, move through creatur
 War Caster: cast as a reaction (legendary action)
 Strength of the Grave (might not die die on death)
 
+HP stack:
+- blade ward cantrip legendary action
+- potion invulnerability
+- shield guardian
+- warding bond cast by a cultist
+
+### Phylactery Battle
+Glyph of wardings everywhere
+Clerics to help concentrate
+hallucinatory terrain, mirage arcana going all the time
+Force Cage
 
 ## Demogorgon Tactics
 Tentacle attacks against any that deals damage to it. Otherwise straight for tower. Stops to tentacle anything attacking it.

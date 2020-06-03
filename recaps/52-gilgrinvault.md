@@ -111,6 +111,7 @@ Goals:
 - arklem
 - history of area (test of law of council)
 - hans: past (hist future) something happened before?
+- something chronomancy that lets him decipher the surge
 - faey: night time excursions thieving (funducation, practice lockpicking)
 - gw: study book, "never worn a belt" (belt of giant smarts), dragon lance
 - gw on dog on pugweaver
