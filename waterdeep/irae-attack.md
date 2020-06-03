@@ -50,7 +50,7 @@ HP stack:
 Glyph of wardings everywhere
 Clerics to help concentrate
 hallucinatory terrain, mirage arcana going all the time
-Force Cage
+Force Cage + Cloudkill
 
 ## Demogorgon Tactics
 Tentacle attacks against any that deals damage to it. Otherwise straight for tower. Stops to tentacle anything attacking it.
