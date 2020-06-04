@@ -24,6 +24,17 @@ Play up dragon cult origins. More fire snakes. Gems + fire harnessing rising up.
 ## Asharaldon shrine
 Play up Asharaldon - and maybe let them cleric their way to it with a Religion check. Grant them a blessing: charisma check bonus still.
 
+HE GLOWS AND REVERBS WITH SUCCESSFUL ILLUMINATION
+THEN HE PERSUADES THE PARTY TO CAST FIRE ON THE STATUE
+BUBLAN DOES SO.
+
+STATUE LIGHTS UP ON FIRE. EYES LIGHT UP.
+RASPUTIN'S EYES LIGHT UP.
+
+he's possessed by Asharaldon?
+he gets some clerical powers?
+fire breath?
+
 ## 51 Library
 Book in draconic. About Asharaldon. Ancient Blue Dragon of ages past.
 "Talks about human sacrifices kept Asharaldon happy and gave the mages the powers to build the citadel."
