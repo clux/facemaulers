@@ -35,7 +35,7 @@ Level up.
 And a water cache. Some saphires in the jar.
 
 ### 15
-Meepo knows they sealed away southern end. "Section mMade us all funny." referring to magic effect of room beyond locked.
+Meepo knows they sealed away southern end. "Section made us all funny." referring to magic effect of room beyond locked.
 
 ### 17 HORRIBLE STENCH
 super hungry rats
