@@ -108,12 +108,21 @@ sending celerum: Mordai, what's your status? luskan destroyed. where is star? su
 celerum: yeah, i know. many gnolls, ported out. gone to safe place, don't try to find me. saw arklem with star.
 
 Goals:
-- arklem
+- arklem (he doesn't want to be found - anti-scry)
 - history of area (test of law of council)
 - hans: past (hist future) something happened before?
 - something chronomancy that lets him decipher the surge
 - faey: night time excursions thieving (funducation, practice lockpicking)
-- gw: study book, "never worn a belt" (belt of giant smarts), dragon lance
+- gw: study book, "never worn a belt" (belt of goblin smarts), dragon lance
 - gw on dog on pugweaver
-- gw: item that perhaps give int?
+- gw: item that perhaps give int? (Belt of Goblin Smarts (raises int by 2, to a maximum of 10)
+- gw: create the lance + gem (gave him the flavor text)
 - mordai: lotte chronomancy
+- PRE-BATTLE GORGON: gaze at someone scrying at him
+
+## RECAP PRE BATTLE
+Arrived in Waterdeep by teleport. Felgolos takes a 4 day trip instead to avoid consequences of getting stuck in dragon defenses.
+
+You've told Diana, the arch mage, about Irae and the 3 artifacts of Kiaransalee that she appears to be gathering, the last of which in Waterdeep. She went on scrying on the areas on the map where you believed the closest demon lords were.
+
+Ursula started doing research on Kiaransalee and the Crones of Thanatos. And excitedly last night, she reported on having found information (heavily erased) on Sharia's burial chamber - at the foundation of Castle Waterdeep. However, just as this was happening, an earthquake struck the city.

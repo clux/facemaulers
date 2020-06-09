@@ -12,9 +12,10 @@ Demogorgon + 50 Kua-Toans coming up from the sewer grates.
 Shooshar running up before everything? Rides a giant turtle from darklake.
 One Kua-Toan will ask for the blade of shadows, or the Prince of Shadows will come to retrieve it himself.
 
-Attack will happen at midnight, during a blood moon.
+Attack will happen at midnight, during a full moon. Dark mist covers the air.
+Music: https://www.youtube.com/watch?v=mArRG9aV9cY
 
-Mages will defend the city against Demogorgon.
+Mages will defend the city against Demogorgon. Delayed blast fireball. Demo will pick it up if it's too soon. Ursula: "Don't look it in the eyes."
 Demogorgon will smash the mages tower (massive bludgeoning to everyone inside) so the safe with the blade gets to ground level.
 
 While the battle rages, Irae will swoop in to grab it. NB: Don't do this at all costs. If they escape with it, she'll definitely stalk them at night.
@@ -22,10 +23,23 @@ While the battle rages, Irae will swoop in to grab it. NB: Don't do this at all 
 If they leave the mages by themselves, they are likely to die alone.
 But they might be able to run away with the blade.
 
+Level them if they defeat the Prince of Daemons.
+Demogorgon leaves once Irae is satisfied.
+
 
 ## Irae tactics
+### Time Stop (PLOT - 40s)
+Everything goes gray. Not in the sense of you losing control, but in the sense that there is only darkness. You do not see nor hear anything. You do not exist. Except for you Mordai. You see the world. Grey, black mist swirling all around you. Your movement, limited, but your hands responsive, yet slowed. You look around, all your party members, Goatweaver, Faey, mages, all frozen in time. Yet to the side, Hanir, stands there, glitchily flickering in and out of what can only be described as a temporal time stop. As your vision shifts, an elven figure comes into view, casting dim blue light, and has a trail of smoke around her figure, she steps towards you. As her strong jawline and flesh hits the moonlights it reveals hollow bone beneath her illusionism.
+
+(When she sees Mordai not affected). How interesting. You understand the flow of time yourself.
+Fulfilling a prophecy, of course. You of all people should know this. Creatures do not exist in this timeline unless they have been interferring.
+"And what are you going to do? You are too late. By the time the baboon's face stares down the soul of your desparate champions, I will be long gone."
+
+
+Casting chronomancy within timestop will summon Dahaka.
+
 ### Spells
-Time Stop (to steal blade when she sees it)
+Time Stop (to steal blade when she sees it - won't affect Mordai)
 Metor Swarm: 78 fire dmg, 63 bludgeoning dmg - in panic
 
 
@@ -41,8 +55,10 @@ War Caster: cast as a reaction (legendary action)
 Strength of the Grave (might not die die on death)
 
 HP stack:
-- blade ward cantrip legendary action
+- blade ward cantrip legendary action (all physical dmg resist)
+- reaction shield (+5 ac)
 - potion invulnerability
+- globe of invulnerability (contingency on spell save failed - <=5th immunity)
 - shield guardian
 - warding bond cast by a cultist
 
@@ -65,8 +81,14 @@ immune charm exhausted frightened poisoned
 resistance: cold,fire,lightning
 immunity: non-magical weap commoners
 TENTACLE REDUCES MAX HP
+NB: Insanity Gaze (just nullifies them) or Beguiling Gaze (stuns).
 
 mages have like 3 rounds before demogorgon wades through all guards to target them directly
+
+### Ways to save it
+Don't be a dick: throw in a Feeblemind/Fear against party or a tentacle against champions if they are in serious trouble (near death or too charmed)
+Felgolos will arrive near the end (deus ex machina). DC21 DEX SAVE VS FIRE.
+Champions can tank some tentacles?
 
 ## Mages Tactics
 Diana:

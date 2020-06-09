@@ -35,7 +35,7 @@ Actually, a 750 year old wizard turned lich, that just keeps Modify Memory / Gli
 Been harnessing the power of the Eternal Star (Irae), and growing increasingly careless over the years as his power has been unchecked.
 
 Holds the top area at the tower. Given control over Yeenoghu for Eternal Star.
-Husband of the former Valindra Shadowmantle. Went to Thay with several items, to reunite with Valindra.
+Husband of the former Valindra Shadowmantle. Went to Thay with several items, to reunite with Valindra. He has a deal with Irae. He'll get Neverwinter? They share phylactery?
 https://neverwinter.fandom.com/wiki/Arklem_Greeth - grab some stuff here..
 
 ### Celerum

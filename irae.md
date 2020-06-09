@@ -47,11 +47,9 @@ She faced a set of powerful enemies:
 - Sunwuko was the champion of Selune
 - Natalya was the champion of the Raven Queen
 
-Laeral will know about her, but all the powers she used to banish her caused the great sundering. Magic ceased to function. Shario perished
-
+Ursula will know about her, but all the powers she used to banish her caused the great sundering. Magic ceased to function. Shario perished
 
 All books about it were erased.
-
 
 Waterdeep mages made a pact with the gods to get rid of her, but could not 
 
