@@ -149,3 +149,12 @@ gw in tower with archers (and wand of fireballs)
 drink potion of fire immunity (felgy)
 wail at it with spells, archers
 then paladin and everyone gank
+remember haste on GW
+
+TODO: design paladin, madeiron has a +2 greataxe
+TODO: how can irae sense the location of the blade inside the bag of holding?
+TODO: when can irae interrupt with timestop? half-way through? scry mid battle?
+TODO: SIMULATE BATTLE. HOW MUCH DAMAGE DOES MAGES DO UNDER GIVEN INITIAL CONDITIONS. HOW MUCH DAMAGE DOES DEMOGORGON DO? HOW MANY ROUNDS DO THEY GET OF FLAK? PROJECT IMAGE START?
+Fighters all fall quickly -> morale failure rest (unless madeiron)
+Archers are pretty weak.
+Fireball adv save and +10 DEX, +16CON +11WIS, +15CHA, PPERC 29, truesight
