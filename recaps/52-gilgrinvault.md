@@ -123,6 +123,29 @@ Goals:
 ## RECAP PRE BATTLE
 Arrived in Waterdeep by teleport. Felgolos takes a 4 day trip instead to avoid consequences of getting stuck in dragon defenses.
 
+Talked to CPC Grey aware captain of the Pestillence, and did various shopping.
+(Created Dragon Lance, but not the kavaki gem)
+
 You've told Diana, the arch mage, about Irae and the 3 artifacts of Kiaransalee that she appears to be gathering, the last of which in Waterdeep. She went on scrying on the areas on the map where you believed the closest demon lords were.
 
 Ursula started doing research on Kiaransalee and the Crones of Thanatos. And excitedly last night, she reported on having found information (heavily erased) on Sharia's burial chamber - at the foundation of Castle Waterdeep. However, just as this was happening, an earthquake struck the city.
+
+
+HI FELGY, BTW THERE'S A DEMON LORD WERE ABOUT TO FIGHT. WE FOUND SHARIO'S TOMB.
+
+BATTLE PLAN:
+GW persuades 3 archers to stand on eastern wall
+400 ft wall to wall
+bow arrow from southern tower
+holy weapon paladin (tons of radiant - simulate)
+tons of fire spells when faey and gw smashes
+archers (will fail unless they crit for 3 dmg)
+beacon of hope (adv wisdom saves party)
+oil of slipperyness (restrained/paralyzed immunity)
+blade of shadow in mordai's bag
+wall of stone around demo from mordai
+fighters + madeiron flank center
+gw in tower with archers (and wand of fireballs)
+drink potion of fire immunity (felgy)
+wail at it with spells, archers
+then paladin and everyone gank

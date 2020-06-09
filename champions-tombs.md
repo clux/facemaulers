@@ -49,9 +49,12 @@ Diana + the others know the story, but considers it a fairy tale.
 
 In Castle Waterdeep. But you can't just loot it unless there's a distraction happening. City guard elite near at hand.
 
+Celestial god helped bury her. Kavaki was her champion. Selune.
+Shario Dyunōru. Was buried here, she has the amulet around her neck + key in arm. They grab key, unleashing some radiant energy. Ditto amulet.
+
 ### Items
 - Shario's Bracers of Evocation (Boosts Evocation Spells, extra dmg dice to all spells of level > 0) __Felgolos__
-- Moonlight Ward: When receiving fatal damage, you are instead restored to 100% maximum life and resources. The item is the rendered unmagical for the next 100 years __Burial Chamber__
+- Moonlight Ward: When receiving fatal damage, you are instead restored to 100% maximum life and resources. The item is then rendered unmagical for the next 100 years __Burial Chamber__
 - Ring of Lightning (Boosts lightning bolt Damage +2d6) __Ursula__
 - Ring of Fire (Boosts Fireball range and damage, +20ft, +2d6) __Halos__
 

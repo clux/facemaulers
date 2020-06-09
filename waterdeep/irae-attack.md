@@ -26,6 +26,8 @@ But they might be able to run away with the blade.
 Level them if they defeat the Prince of Daemons.
 Demogorgon leaves once Irae is satisfied.
 
+Irae's been scrying on the party successfully. If they try to escape with the artifact, she will follow them.
+
 
 ## Irae tactics
 ### Time Stop (PLOT - 40s)
