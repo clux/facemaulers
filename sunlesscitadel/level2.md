@@ -109,3 +109,12 @@ Sharowyn:
 Mage armor -> 15 (cast)
 - Magic Missle / Sleep / Ray of Frost
 - Dagger
+
+
+## EPILOGUE
+They saved Sir Bradford with the fruit.
+Brought him back to the village. Dwarf completed his quest, complimented by Brumin.
+Clementine got money from Kerowyn
+Bublan looted the druid
+They both took acid and karaoked together.
+Rasputin tried to fuck the dragon and died in ice breath.
