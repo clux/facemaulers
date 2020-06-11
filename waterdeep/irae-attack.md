@@ -64,11 +64,15 @@ HP stack:
 - shield guardian
 - warding bond cast by a cultist
 
+NB: base lich has 18d8+54HP (i.e up to 200hp), also cold/necrotic/lightning res, immunity poison (and non-magical physical)
+
 ### Phylactery Battle
 Glyph of wardings everywhere
-Clerics to help concentrate
+Clerics to help concentrate on protection
 hallucinatory terrain, mirage arcana going all the time
 Force Cage + Cloudkill
+Simulacrum
+
 
 ## Demogorgon Tactics
 Tentacle attacks against any that deals damage to it. Otherwise straight for tower. Stops to tentacle anything attacking it.
