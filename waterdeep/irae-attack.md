@@ -99,25 +99,27 @@ Champions can tank some tentacles?
 ## Mages Tactics
 Diana:
 - Lightning Strike at range Dex DC 17 with Staff of Thunder
-- Power Word Stun: CON save 18 (haaard - adv and +16 for demo)
 - Disintegrate: DEX save 18 (reasonable chance)
 - Sunbeam: CON save 18 (hard, adv and +16)
-- Mordenkainen's Private Sanctum for mages in desperation (unwise to escape with shadow blade in there)
+- Mordenkainen's Private Sanctum for mages in desperation (unwise to escapewith shadow blade in there)
 - Locate Creature (to find Irae)
 - Synaptic Static
 - Teleport (emergency - where TF to.. - AT MOST 8 PEOPLE - PARTY + GUILD ONLY)
+- Feeblemind (desperate attempt.. but can be really powerful)
+- Sunburst (con save vs radiant dmg)
 - Counterspell (battle roll vs Irae) - PROBABLY DONT DO THIS...
 Ursula:
 - staff of healing: mass cure wounds
 - delayed blast fireball (dramatic entrance)
+- haste
 - mass suggestion (morale vs guards)
 - cone of cold
 - banishment
 Lotte:
-- Sunbeam / Lightning Bolt / Blight
+- Sunbeam / Blight
 - Disintegrate / Sunbeam / Dawn
 - Freezing Sphere
-- Mage Armor / Shield / Fly / Tenser's Transformation
+- Mage Armor / Shield / Fly / Tenser's Transformation / Haste
 - Dispel / Dimension Door
 Sucy:
 - Bless / Healing Word / Life Transference / Prayer of Healing / Revivify
@@ -128,3 +130,8 @@ Sucy:
 ## Royal Guard Tactics
 Note Aghairon's Dragonward. Will crash after one round.
 City guards are champions CR5
+
+Madeiron:
+- 2 attacks with battleaxe (sacred weapon gives him +12)
+- Beacon of Hope / Dispel / Lesser Restoration / Sanctuary / Protection from Evil and Good
+- Protection Reaction: impose disadv on attack roll when you see a target attack other than you <=5ft
