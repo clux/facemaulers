@@ -46,6 +46,7 @@ Arklem? Hah, always quick to acquiesce when tempted.
 
 
 "And what are you going to do? You are too late. By the time the baboon's face stares down the soul of your desparate champions, I will be long gone."
+(didn't say this because i proc'd timestop as demogorgon died)
 
 Once she takes the bag, it procs timestop. She will then use movement to fly 50ft away. Cast spells as legendary action/reaction.
 
@@ -149,3 +150,38 @@ Read about the Acropolis.
 "if one is close to obtaining the power of a god..."
 
 learn of V'elddrinnsshar a city to the east cituated in a mile wide island in the centre of the Moondeep Sea (below Galena Mountains to the east).
+
+note that if they are to keep facing daemon lords, they ought to learn about their weaknesses. "according to our analysis, the attack of demogorgon would have been successful if it were not from a single source of radiant damage."
+Now, we do not mean to diminish the endeavors of anyone in this battle, but praise is required here; "Goatweaver; we owe you so much."
+Honorary Arch-Mage title offered.
+
+
+## Recap Demogorgon battle
+Defended the city of Waterdeep from an attack against the prince of daemons.
+A battle that raged on for 7 rounds, with a hasted, beaconed, holy weaponed paladin unloading all the radiant energy at their disposal, the battle was swinging back and forth heavily as black mist started swirling above the battle field.
+
+The mages helped out a little bit, but unfortunately most of their protective magic and healing was useless against demogorgon's health max draining attacks.
+
+Hans was charmed, cast cone of cold on Mordai.
+Faey was charmed, punched GW to the ground and critted against him on the ground.
+
+The sky started crackling with arcane energy as the swirl turned into an eye of a storm, and large black arcane runes became visible.
+
+Goatweaver came back up from a cure wounds delivered via Mordai's familiar and he dealt another 102 damage before misty stepping away leaving demogorgon mortally wounded.
+
+Still, this was not enough to take him down, so next time around, the prince followed and killed GW (reduced to 0 max hp), and carried on hitting Faey (also very low).
+
+Mordai from the skies delivered the final blow via his familiar and inflict wounds. However, just as this hit, time stopped. Irae swooped down to see everyone frozen, except Mordai, strangely, who seemed to be somewhat resistent to the effects of the time-altering magic.
+
+On a path to "fulfilling a prophecy", she cut the band around the bag of holding, ending the time stop, and she started flying away with it.
+
+This now caused a race between the wizard Lotte, starting a resurrection ritual below after having gotten Hans and Faey, and Mordai ushering Faey to rather focus on Irae.
+
+In the end, Irae got away with a teleport, but not without suffering heavy damage (her defenses did not look super impressive). Goatweaver, otoh, laid there, half-ignored from the resurrection ritual.
+
+Goatweaver, you are here today, because Hans shook your happy soul to the core; reminding you of the purpose you still have left unfilfilled.
+Less than an hour ago; you were unloading radiant energy on a divine scale into the prince of demons. You see his corpse right there on the ground, you should feel like a hero. But looking at your party, something is amiss. You look at your Hans, having just helped you up, while giving you a friendly smile and a hug, you feel his green aura extends from his body and warm your spirit. Looking around to the rest of the party; that familiar warmth is feeling a little colder today.
+
+You look over to your trustworthy elf, and see the master manipulator you've come to appreciate on the battlefield. Capable of locking down almost any enemy, and deflecting damage away from the party. But do you really know what he's after? His aura is confusing.
+
+Then there's the thiefling. Clearly very smart, always on the hunt for knowledge and as far as you can tell, in it for some definition of the greater good. But does that definition of the greater good, include you?
