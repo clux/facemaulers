@@ -12,7 +12,7 @@ Demogorgon + 50 Kua-Toans coming up from the sewer grates.
 Shooshar running up before everything? Rides a giant turtle from darklake.
 One Kua-Toan will ask for the blade of shadows, or the Prince of Shadows will come to retrieve it himself.
 
-Attack will happen at midnight, during a full moon. Dark mist covers the air.
+Attack will happen at mid day, but dark mist covers the air (~mirage arcana), blocks out the sun.
 Music: https://www.youtube.com/watch?v=mArRG9aV9cY
 
 Mages will defend the city against Demogorgon. Delayed blast fireball. Demo will pick it up if it's too soon. Ursula: "Don't look it in the eyes."
@@ -31,12 +31,23 @@ Irae's been scrying on the party successfully. If they try to escape with the ar
 
 ## Irae tactics
 ### Time Stop (PLOT - 40s)
-Everything goes gray. Not in the sense of you losing control, but in the sense that there is only darkness. You do not see nor hear anything. You do not exist. Except for you Mordai. You see the world. Grey, black mist swirling all around you. Your movement, limited, but your hands responsive, yet slowed. You look around, all your party members, Goatweaver, Faey, mages, all frozen in time. Yet to the side, Hanir, stands there, glitchily flickering in and out of what can only be described as a temporal time stop. As your vision shifts, an elven figure comes into view, casting dim blue light, and has a trail of smoke around her figure, she steps towards you. As her strong jawline and flesh hits the moonlights it reveals hollow bone beneath her illusionism.
+Just before: As the battle rages on and the darkness now covering the entire sky, it feels like you are in the midst of an eclipse, while all the spells light up the city from below. The mist, however, swirls like a tornado above you.
+
+As the mists swirls intensify, you start noticing a shape in the midst of this now very circular eye of the storm. Big black arcane runes etched into the sky.
+
+Everything goes gray. Not in the sense of you losing control, but in the sense that there is only darkness. You do not see nor hear anything. You do not exist. Except for you Mordai. You see the world. Grey, black mist swirling all around you at a different rate. Your body, restrained by an inherent slowness. You slowly look around, all your party members, Goatweaver, Faey, mages, all frozen in time. Yet to the side, Hanir, floats in the air, mid jump, glitchily flickering in and out of existence. As you slowly turn your head up towards the darkness, an elven figure floating into view, casting dim blue light from the luminescent smoke trailing her figure. As her strong jawline and flesh reaches a certain point of proximity, the illusion is broken; you see reveals hollow bone covering her face.
 
 (When she sees Mordai not affected). How interesting. You understand the flow of time yourself.
-Fulfilling a prophecy, of course. You of all people should know this. Creatures do not exist in this timeline unless they have been interferring.
+*Casts higher level locate object (divination 3)* (does not proc timestop end)
+
+Why/what?
+Fulfilling a prophecy, of course. You of all people should know this. Creatures do not exist in this timeline unless they have been tampering with it.
+Arklem? Hah, always quick to acquiesce when tempted.
+
+
 "And what are you going to do? You are too late. By the time the baboon's face stares down the soul of your desparate champions, I will be long gone."
 
+Once she takes the bag, it procs timestop. She will then use movement to fly 50ft away. Cast spells as legendary action/reaction.
 
 Casting chronomancy within timestop will summon Dahaka.
 
@@ -66,14 +77,6 @@ HP stack:
 
 NB: base lich has 18d8+54HP (i.e up to 200hp), also cold/necrotic/lightning res, immunity poison (and non-magical physical)
 
-### Phylactery Battle
-Glyph of wardings everywhere
-Clerics to help concentrate on protection
-hallucinatory terrain, mirage arcana going all the time
-Force Cage + Cloudkill
-Simulacrum
-
-
 ## Demogorgon Tactics
 Tentacle attacks against any that deals damage to it. Otherwise straight for tower. Stops to tentacle anything attacking it.
 
@@ -97,6 +100,7 @@ Felgolos will arrive near the end (deus ex machina). DC21 DEX SAVE VS FIRE.
 Champions can tank some tentacles?
 
 ## Mages Tactics
+Ask them to stay close before fireball hits, we can haste after.
 Diana:
 - Lightning Strike at range Dex DC 17 with Staff of Thunder
 - Disintegrate: DEX save 18 (reasonable chance)
@@ -135,3 +139,13 @@ Madeiron:
 - 2 attacks with battleaxe (sacred weapon gives him +12)
 - Beacon of Hope / Dispel / Lesser Restoration / Sanctuary / Protection from Evil and Good
 - Protection Reaction: impose disadv on attack roll when you see a target attack other than you <=5ft
+
+
+## After battle
+Research into burial grounds?
+Try to scry on her? (hard: vs mindblank)
+Read about the Acropolis.
+"If history can teach us something here, it's necromancers can work together, if united under the banner of a deity allowed to ascend. Divinity carries a plethora of stories like these; Bhaal (lord of murder), Myrkul (lord of bones), Bane (lord of darkness), and, it would seem; Kiaransalee (the revenancer).
+"if one is close to obtaining the power of a god..."
+
+learn of V'elddrinnsshar a city to the east cituated in a mile wide island in the centre of the Moondeep Sea (below Galena Mountains to the east).

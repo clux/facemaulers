@@ -153,9 +153,9 @@ remember haste on GW
 
 NB: Liches traditionally have spell immunity to level <=5 (globe invuln)
 
-TODO: design paladin, madeiron has a +2 greataxe
-TODO: how can irae sense the location of the blade inside the bag of holding? antagonist at rest..
-TODO: when can irae interrupt with timestop? half-way through? scry mid battle?
+CHECK: design paladin, madeiron has a +2 greataxe
+CHECK: how can irae sense the location of the blade inside the bag of holding? (locate object within 100ft + scry seeded) antagonist at rest..
+MAYBE: when can irae interrupt with timestop? half-way through? scry mid battle?
 TODO: SIMULATE BATTLE. HOW MUCH DAMAGE DOES MAGES DO UNDER GIVEN INITIAL CONDITIONS. HOW MUCH DAMAGE DOES DEMOGORGON DO? HOW MANY ROUNDS DO THEY GET OF FLAK? PROJECT IMAGE START? BEAD RETURN?
 Fighters all fall quickly -> morale failure rest (unless madeiron)
 Archers are pretty weak.

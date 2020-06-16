@@ -1,5 +1,6 @@
 # Expectation 2 Rounds
 ## Madeiron
+sacred weapon pre-battle 1minute
 just above 50% hit rate, 14dmg per hit => 28 dmg
 takes quarter of hp per demo hit => half hp if two hits
 => E(DMG) = 28
@@ -61,3 +62,4 @@ Sucy: Bless 3 creatures + Heal Once
 6 tentacle attacks => 168 dmg
 1 hypno on highest dealer
 gw is lynch pin, hypnotize him early and fuck with madeiron
+take out 90% of militia in first round, hypno gw in r2

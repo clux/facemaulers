@@ -4,11 +4,14 @@ Drow high priestess of Kiaransalee (turned champion). Lived in Maerimydra but to
 Became a lich whilst studing forbidden necromancy in the Acropolis of Vanathos. 
 
 ## OMEGA PLANS
+https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
 ### STAGE 1: ARROGANCE
 They think they're just going to get the last piece of the relic. Sends demon lords at Waterdeep in an epic battle.
 Demogorgon on her side.
 Party + Felgolos + Diana and mages guild on other side.
-Something major needs to be sacrificed here. Demon lords needs to fade after this.
+Sacrifice: Demogorgon, biggest demon lord.
+Arrogance at this point is leaving Halos undefended.
+Piece of her cloak drops to the ground (to scry on).
 
 ### STAGE 2: TRANSFORMATION
 She gets the last relic and start absorbing the powers of Kiaransalee, perhaps even transform into her. She will rip through cities using this.
@@ -19,6 +22,14 @@ Players use their final abilities to somehow take her down in a multi-stage figh
 ### STAGE 4: BLOWBACK
 Chase her back into her phylactery based on previous knowledge.
 USE PLAYER PLANNING TO STEAL GOOD IDEAS.
+
+### Phylactery Battle
+Glyph of wardings everywhere
+Clerics to help concentrate on protection
+hallucinatory terrain, mirage arcana going all the time
+Force Cage + Cloudkill
+Simulacrum
+Celerum + Arklem there serving her.
 
 ### Fighting her in her lair
 She is like Friede. https://www.youtube.com/watch?v=wvZTBG7UMqU
@@ -38,6 +49,13 @@ Necrotic waves (higher AOE range) instead of cold now.
 https://www.youtube.com/watch?v=wvZTBG7UMqU
 
 If phylactery is dead, then with every hit, she releases souls that creep out and damage with necromantic red energy.
+
+## Fighting Servants in the Acropolis
+Music: https://www.youtube.com/watch?v=1sVCmeiAacE (aldia scholar first sin)
+why go to the acropolis? where she'll ascend (so she can cast more than one ninth level spell)
+more acropolis: https://www.youtube.com/watch?v=mArRG9aV9cY (grey wolf ds3)
+trudging through east: https://www.youtube.com/watch?v=d69AvVj4FkE (abysswalker artorias)
+
 
 ## History of Kiaransalee
 Took over the east, and rendered it corrupted. 700 years ago.
@@ -59,6 +77,9 @@ Waterdeep mages made a pact with the gods to get rid of her, but could not
 
 Has a painting that takes you to her lair (which does contain her phylactery now).
 
+## Mannerisms
+Draws out her vowels in every other word.
+
 ## Past
 Freed Silth from Magnificent Matriarch and infiltrated it within the storm giants lair.
 Had storm giants cause trouble below, cut off trading routes.
@@ -70,35 +91,26 @@ Uses the magic divices there to steer one demon lord at a time, so she can infil
 She gives some to her servants as they help steer the demon lords.
 She stole the diamond from Luskan after the raid.
 
-## Servants
-### Koth M'gog Mindgorger - Nihileth
-Has the powers of Whelm + the amulet of Mordai
-Silth. Has a lair in the underdark
-(Took out 2 players; Zed + Iz)
-
-### Silth the Infestor - Ancient Viridian Dragon
-Has the power of a green and blue dragon. Can poison the minds of people and lower their intelligence. Truesight. PP30. Symptoms; paranoia + coughing.
-
-### Celerum - Mage
-
-### Umnos / Fracto Nimbuli - Storm Giant Elite
-Can cast storm spear: https://www.reddit.com/r/UnearthedArcana/comments/f7a6xj/storm_spear_two_variants_strike_your_enemies_down/ . Same as Lightning strike, but a withering bone spear attack instead that has CON save vs Necrotic DMG.
-On failed save DC17, creature is paralyzed+restrained for up to a minute (Concentration).
-
-Umnos is a Storm Giant with champion capabilities. Legendary resists.
-18 AC. More HP. CON: 24 (+12 save). Immunity to charm/stun (partial)/polymorph.
-Resists Cold + Lightning.
-Wields Bracers of Defense + Greatsword on his back (+16 to hit 10ft reach).
-The greatsword is a +3 iridium greatsword that can be used to 
-
-Can also cast Storm of Vengeance.
-
 ## Motivation
-Revenge on all mages guild across the world for the punishment of the dark elves. Racial banishment because of one bad drow?
+Restoring the legacy of the revenancer so the world can be restortored in the darkness of Kiaransalee.
+
+She wants revenge on the mages guild across the world for the punishment of the dark elves. Racial banishment because of one bad drow?
 
 Also bad blood for the entrapment of Kiaransalee to Lolth (hence destruction there - most of her followers not in Menzo anyway).
 
+She wants to complete the cycle. Tying up revenge debt once and for all (insanity).
+
 NB: "Revenge is about something that has already happened, and when you are trying to achieve vengeance, you are investing your everything into a venture that will lead you to no benefit at the end."
+
+### Connection to party
+She had to bring Chronomancy into the world on Moonshae, and she had to sacrifice a large part of herself(?) to do so. Her tampering is part of the cause for the rift that is doomed to send Hanir to the past.
+
+She had to sacrifice her clerics in V'elddrinnsshar so her empire is weak?
+She had to sacrifice levels? Phylactery power?
+
+Weaknesses (beyond the phylactery). She is not high level right now?
+They can kill her if she attacks? Maybe Arklem attacks? Well, have to rewrite then...
+
 
 ## Drow History -> Dark Seldarine
 Ilythiri (old elven race that became the drow)
@@ -115,7 +127,7 @@ Cleric of Ghaunadaur might be a drow thing now after Ghaunadaur took Juiblex's p
 ## Goals
 Wants to grab the diamond in the tower arcane after getting Yeenoghu to destroy the defenses and cause a weakening in its defenses. Then can become powerful enough to cast high level spells.
 
-Will then want to raid Waterdeep of its most powerful artifacts. By sending Baphomet down.
+Will then want to raid Waterdeep of its most powerful artifacts. By sending Demogorgon down. If that fails. Baphomet is next (with whatever mages survived).
 
 But needs to keep Halos under her control to steer the Demon Lords, they are fickle.
 
@@ -126,3 +138,27 @@ Has a 10 day contingency to do X (5th level spell that uses one action) if BAD C
 
 Passive flight + truesight. 
 Chronomancy. She imprisoned Andariel (Neko Hime). 
+
+## Servants
+### Koth M'gog Mindgorger - Nihileth
+Has the powers of Whelm + the amulet of Mordai
+Silth. Has a lair in the underdark
+(Took out 2 players; Zed + Iz)
+
+### Silth the Infestor - Ancient Viridian Dragon
+Has the power of a green and blue dragon. Can poison the minds of people and lower their intelligence. Truesight. PP30. Symptoms; paranoia + coughing.
+
+### Celerum - Mage
+Persuaded to join Kiaransalee told he could become a lich as well. Stops responding. Went to the Acropolis to change. Arklem there.
+
+### Umnos / Fracto Nimbuli - Storm Giant Elite
+Can cast storm spear: https://www.reddit.com/r/UnearthedArcana/comments/f7a6xj/storm_spear_two_variants_strike_your_enemies_down/ . Same as Lightning strike, but a withering bone spear attack instead that has CON save vs Necrotic DMG.
+On failed save DC17, creature is paralyzed+restrained for up to a minute (Concentration).
+
+Umnos is a Storm Giant with champion capabilities. Legendary resists.
+18 AC. More HP. CON: 24 (+12 save). Immunity to charm/stun (partial)/polymorph.
+Resists Cold + Lightning.
+Wields Bracers of Defense + Greatsword on his back (+16 to hit 10ft reach).
+The greatsword is a +3 iridium greatsword that can be used to?
+
+Can also cast Storm of Vengeance.
