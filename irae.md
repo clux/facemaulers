@@ -5,6 +5,10 @@ Became a lich whilst studing forbidden necromancy in the Acropolis of Vanathos.
 
 ## OMEGA PLANS
 https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
+
+her arc mirrors omega:
+arrogant steal, tranform to take kiaransalee's powers, rip through cities, but gets too arrogant, transform as she has to revive later (giving party time to clean out)
+
 ### STAGE 1: ARROGANCE
 They think they're just going to get the last piece of the relic. Sends demon lords at Waterdeep in an epic battle.
 Demogorgon on her side.
@@ -12,6 +16,8 @@ Party + Felgolos + Diana and mages guild on other side.
 Sacrifice: Demogorgon, biggest demon lord.
 Arrogance at this point is leaving Halos undefended.
 Piece of her cloak drops to the ground (to scry on).
+
+Stole all the parts so now super confident.
 
 ### STAGE 2: TRANSFORMATION
 She gets the last relic and start absorbing the powers of Kiaransalee, perhaps even transform into her. She will rip through cities using this.

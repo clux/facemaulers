@@ -179,6 +179,7 @@ This now caused a race between the wizard Lotte, starting a resurrection ritual 
 
 In the end, Irae got away with a teleport, but not without suffering heavy damage (her defenses did not look super impressive). Goatweaver, otoh, laid there, half-ignored from the resurrection ritual.
 
+TODO: leave this more ambiguous if GW wants to be in on it...
 Goatweaver, you are here today, because Hans shook your happy soul to the core; reminding you of the purpose you still have left unfilfilled.
 Less than an hour ago; you were unloading radiant energy on a divine scale into the prince of demons. You see his corpse right there on the ground, you should feel like a hero. But looking at your party, something is amiss. You look at your Hans, having just helped you up, while giving you a friendly smile and a hug, you feel his green aura extends from his body and warm your spirit. Looking around to the rest of the party; that familiar warmth is feeling a little colder today.
 
