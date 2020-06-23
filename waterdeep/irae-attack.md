@@ -141,48 +141,64 @@ Madeiron:
 - Beacon of Hope / Dispel / Lesser Restoration / Sanctuary / Protection from Evil and Good
 - Protection Reaction: impose disadv on attack roll when you see a target attack other than you <=5ft
 
-
-## After battle
-Research into burial grounds?
-Try to scry on her? (hard: vs mindblank)
-Read about the Acropolis.
-"If history can teach us something here, it's necromancers can work together, if united under the banner of a deity allowed to ascend. Divinity carries a plethora of stories like these; Bhaal (lord of murder), Myrkul (lord of bones), Bane (lord of darkness), and, it would seem; Kiaransalee (the revenancer).
-"if one is close to obtaining the power of a god..."
-
-learn of V'elddrinnsshar a city to the east cituated in a mile wide island in the centre of the Moondeep Sea (below Galena Mountains to the east).
-
-note that if they are to keep facing daemon lords, they ought to learn about their weaknesses. "according to our analysis, the attack of demogorgon would have been successful if it were not from a single source of radiant damage."
-Now, we do not mean to diminish the endeavors of anyone in this battle, but praise is required here; "Goatweaver; we owe you so much."
-Honorary Arch-Mage title offered.
-
-
 ## Recap Demogorgon battle
-Defended the city of Waterdeep from an attack against the prince of daemons.
-A battle that raged on for 7 rounds, with a hasted, beaconed, holy weaponed paladin unloading all the radiant energy at their disposal, the battle was swinging back and forth heavily as black mist started swirling above the battle field.
+Music: https://www.youtube.com/watch?v=hAGo5aYhPw4 (celeste awake)
 
-The mages helped out a little bit, but unfortunately most of their protective magic and healing was useless against demogorgon's health max draining attacks.
+Defended the city of Waterdeep from the prince of daemons.
+An destructive battle that raged on for 7 rounds, even with an array of mages, millitia, archers helping from the sidelines, and even with a hasted, beaconed, holy weaponed paladin unloading all his radiant energy at his disposal, the battle was raged on as black mist started swirling above the battle field.
 
-Hans was charmed, cast cone of cold on Mordai.
-Faey was charmed, punched GW to the ground and critted against him on the ground.
+The mage guild were present, but unfortunately most of their protective magic and healing was useless against demogorgon's health max draining attacks, and protections.
 
-The sky started crackling with arcane energy as the swirl turned into an eye of a storm, and large black arcane runes became visible.
+Hans was charmed by this fiendish baboon, and cast cone of cold on Mordai.
+Faey was charmed, punched GW to the ground and kept going after he fell.
+
+The sky started crackling with arcane energy as the swirly above converged, and in the eye of a storm; large black arcane runes became visible.
 
 Goatweaver came back up from a cure wounds delivered via Mordai's familiar and he dealt another 102 damage before misty stepping away leaving demogorgon mortally wounded.
 
-Still, this was not enough to take him down, so next time around, the prince followed and killed GW (reduced to 0 max hp), and carried on hitting Faey (also very low).
+Still, this was not enough to take him down, so next time around, the fiend followed and killed GW (reduced to 0 max hp), and almost took Faey with him afterwards (he was very low).
 
-Mordai from the skies delivered the final blow via his familiar and inflict wounds. However, just as this hit, time stopped. Irae swooped down to see everyone frozen, except Mordai, strangely, who seemed to be somewhat resistent to the effects of the time-altering magic.
+From the church above, Mordai did deliver the final inflict wounds via proxy familiar. However, just as this hit, time stopped. Irae swooped down to see everyone frozen, except Mordai, strangely, who seemed to be somewhat resistent to the effects of the time-altering magic.
 
 On a path to "fulfilling a prophecy", she cut the band around the bag of holding, ending the time stop, and she started flying away with it.
 
-This now caused a race between the wizard Lotte, starting a resurrection ritual below after having gotten Hans and Faey, and Mordai ushering Faey to rather focus on Irae.
+This now caused a race between the wizard Lotte, starting a resurrection ritual below after having gotten Hans and Faey. But Mordai ushered Faey to focus on Irae instead.
 
-In the end, Irae got away with a teleport, but not without suffering heavy damage (her defenses did not look super impressive). Goatweaver, otoh, laid there, half-ignored from the resurrection ritual.
+In the end, Irae got away, but not without suffering significant damage (her defenses did not look super impressive). Goatweaver, otoh, laid there as the resurrection ritual began to fade..
 
-TODO: leave this more ambiguous if GW wants to be in on it...
-Goatweaver, you are here today, because Hans shook your happy soul to the core; reminding you of the purpose you still have left unfilfilled.
-Less than an hour ago; you were unloading radiant energy on a divine scale into the prince of demons. You see his corpse right there on the ground, you should feel like a hero. But looking at your party, something is amiss. You look at your Hans, having just helped you up, while giving you a friendly smile and a hug, you feel his green aura extends from his body and warm your spirit. Looking around to the rest of the party; that familiar warmth is feeling a little colder today.
+### Goatweaver intro
+Goatweaver, you are here today, because Hans reminded you of something deep within your soul; a purpose, you still have left unfilfilled.
 
-You look over to your trustworthy elf, and see the master manipulator you've come to appreciate on the battlefield. Capable of locking down almost any enemy, and deflecting damage away from the party. But do you really know what he's after? His aura is confusing.
+Less than an hour ago; you were unloading radiant energy on a divine scale into the prince of demons. Its corpse still twitching from leftover nerve impulses less than 20m away from you. That only a few archers and members of the militia lie dead on the ground is a miracle. You should feel like a hero.
 
-Then there's the thiefling. Clearly very smart, always on the hunt for knowledge and as far as you can tell, in it for some definition of the greater good. But does that definition of the greater good, include you?
+But something is amiss. You look at your friend Hans, having just helped to pull you up, you are greeted with a smile as he moves in to give you a hug; his aura warms your spirit.
+
+But looking beyond Hans, there's a more ambivalent feel over battlefield. The destruction is enormous. The mages, the rest of your party somewhat distant.
+
+Checking:
+You look over to your lawful elf, and see the master manipulator you've come to appreciate on the battlefield. Capable of locking down almost any enemy, and deflecting damage away from the party. WIS: 10. But how well do you really understand him? WIS: 20 You get the sense that something else happened when you were out.
+
+Then there's the thiefling. A mastermind, always on the hunt for knowledge and as far as you can tell, in it for some definition of the greater good. WIS 20: You get the sense that he experienced something else while you were out.
+
+### Felgolos Return
+"I have returned. You have done well, champions. This beast, must have been a formidable foe."
+
+-> Diana will interact:
+
+"Felgolos. The champions told of your arrival, but I must say, I am still surprised to see you here."
+"The pleasure is all mine, mylady." - then transform.
+
+Learning of Irae's assembly:
+
+"(choking) No."
+"So she controls these fiends, and now, she has the artifacts of Kiaransalee. Heavens."
+"(stumbles) I have lived too long. Even time feels cyclical."
+
+Speculating on Irae:
+
+"That I do not know. The scythe, fully formed, is an almost unstoppable force by itself. Does she intend to wield it? Or can she bring her back?"
+
+..what can he do? Bring them east. Teleport with them north, travel further up.
+
+He can help fight Frygt at Halos. But he'll be trapped if he goes to V'elddrinnsshar - knows the drow has done terrible things to dragons in the past to sustain the most powerful pets imaginable.
+Knows the fight happened east of the netherese empire. Can tell you the location of Sunwuko's tomb.

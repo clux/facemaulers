@@ -130,7 +130,6 @@ You've told Diana, the arch mage, about Irae and the 3 artifacts of Kiaransalee 
 
 Ursula started doing research on Kiaransalee and the Crones of Thanatos. And excitedly last night, she reported on having found information (heavily erased) on Sharia's burial chamber - at the foundation of Castle Waterdeep. However, just as this was happening, an earthquake struck the city.
 
-
 HI FELGY, BTW THERE'S A DEMON LORD WERE ABOUT TO FIGHT. WE FOUND SHARIO'S TOMB.
 
 BATTLE PLAN:
@@ -152,11 +151,3 @@ then paladin and everyone gank
 remember haste on GW
 
 NB: Liches traditionally have spell immunity to level <=5 (globe invuln)
-
-CHECK: design paladin, madeiron has a +2 greataxe
-CHECK: how can irae sense the location of the blade inside the bag of holding? (locate object within 100ft + scry seeded) antagonist at rest..
-MAYBE: when can irae interrupt with timestop? half-way through? scry mid battle?
-TODO: SIMULATE BATTLE. HOW MUCH DAMAGE DOES MAGES DO UNDER GIVEN INITIAL CONDITIONS. HOW MUCH DAMAGE DOES DEMOGORGON DO? HOW MANY ROUNDS DO THEY GET OF FLAK? PROJECT IMAGE START? BEAD RETURN?
-Fighters all fall quickly -> morale failure rest (unless madeiron)
-Archers are pretty weak.
-Fireball adv save and +10 DEX, +16CON +11WIS, +15CHA, PPERC 29, truesight

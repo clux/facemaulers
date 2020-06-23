@@ -47,11 +47,53 @@ NB: Has the elusive ring (use damage resistance on reaction).
 
 Callistis was her great grand mother. Her memoirs mention the burial of Shario, and the sealing of her tomb.
 
+#### Post-demogorgon research
+...ursula senses chronomancy...
+"Vast quantities of arcane energy were unleashed here today. Enormous remnants of magic dispersed from the clouds as demogorgon fell. Did he have some kind of contingency? The most concerning thing is that no-one noticed an effect."
+
+"if this is a school of magic we do not even know about, we need to study it."
+
+if Mordai offers up, she'll ask for examples. HARM HANIR.
+Explain from Hanir POV as he focuses on the magical swirl and all he can see is the black vortex above the sky from before. But it lingers in your mind. It envelops your every thought. Your vision clouds up, your eyes swell and fill with darkness. All of you suddenly see Hans' eyes go completely black, and his necrotic shroud tears itself from his body (CHA SAVE 16 vs frightened) => plants in the room wither. -> psychic dmg.
+
+any spells after trigger wild magic effects..
+
+...ursula learns about Irae's assembly...
+
+"So she was behind this. If she has the power to command creatures of this power, creatures not native to this plane, then we are all still in danger."
+
+"I did not believe, and I still skeptical, that these creatures could even be truly killed on this plane." (no, they reform in the abyss after 10 days).
+(bring up the story of when dragon cultists summoned an avatar of tiamat).
+
+...ursula talks about necromancers
+
+"If history can teach us something here, it's necromancers can work together, if united under the banner of a deity allowed to ascend. Divinity carries a plethora of stories like these; Bhaal (lord of murder), Myrkul (lord of bones), Bane (lord of darkness), and, it would seem; Kiaransalee (the revenancer).
+
+"if one is close to obtaining the power of a god..."
+
+..ursula researches the acropolis...
+Read about the Acropolis.
+learn of V'elddrinnsshar a city to the east cituated in a mile wide island in the centre of the Moondeep Sea (below Galena Mountains to the east).
+
+Try to scry on her? (hard: vs mindblank)
+Successful scry: Talk about a skull pyramid deep underground, blue fogged figure, stepping up.
+
+Research into burial grounds?
+
 ### Diana (Arch-Mage War Magic Wizard 15)
 Pale, blonde haired. Beautiful. Standoffish (transmutation / evocation)
 She has teleportation circles at top.
 
 Diana looks like Laerral Silverhand. Rest outta Witcho.
+
+#### Post-demogorgon actions
+Invites party to a meal.
+
+"according to our analysis, the attack of demogorgon would have been successful if it were not from a single source of radiant damage."
+Now, we do not mean to diminish the endeavors of anyone in this battle, but praise is required here; "Goatweaver; we owe you so much."
+Honorary Arch-Mage title offered.
+
+Serious note: if they are to keep facing daemon lords, they ought to learn about their weaknesses. "We will be gathering our most gifted students and start a research task force dedicated to gathering all the lore we have of these demons, so that we will have the most of an advantage as possible. This one seemed to almost ignore fire/lightning and cold. If the rest have other strengths, we should know about them."
 
 ## Post-Irae
 Ursula has been scrying worriedly at Neverwinter. Sees events happening. Baphomet near Neverwinter. Yeenoghu has hit Luskan.
