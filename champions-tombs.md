@@ -34,7 +34,7 @@ Worshipped the Monkey King. Incredible agility gave him great prowess in battle 
 
 ### Items
 - weapon that burns spell on crit roll D8+1 for level slot, but can only slow instead of stun. Gives truesight.
-- spirit stone: grant Breath of Heaven spell (heal all allies within 30 ft - 25% of monk's health)
+- spirit stone: grant Breath of Heaven spell (heal all allies within 30 ft - ~25% of monk's health)
 - auto-reloading crossbow (generate ki on hits, cannot stun while equipped?)
 - Divine Rapier +2 (Cannot miss unless disadvantaged + amplifies dodge action, becomes completely immune to damage) __Halos__
 

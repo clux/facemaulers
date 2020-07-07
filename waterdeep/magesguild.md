@@ -75,10 +75,27 @@ any spells after trigger wild magic effects..
 Read about the Acropolis.
 learn of V'elddrinnsshar a city to the east cituated in a mile wide island in the centre of the Moondeep Sea (below Galena Mountains to the east).
 
+(Veldrin and shar meaning concealment and mind respectively) and thus the name could mean Concealed Mind or some variation there upon.
+
+TODO: deities names in chronomancy book
+
+info against liches? learn about phylacteries, resurrect.
+
+
+TODO: felgolos help gain an entrance and occupy Frygt. hmm... they want to fly further up to avoid halos entirely... need to put basic sanity on it.
+
+TODO: ursula dispel like 8th level spell to MAYBE disable the egg.
+TODO: dwarven history book for GW.
+TODO: mooseweaver has awful monster voice (smeagolweaver)
+
 Try to scry on her? (hard: vs mindblank)
 Successful scry: Talk about a skull pyramid deep underground, blue fogged figure, stepping up.
 
 Research into burial grounds?
+
+Skrying on Arklem
+???
+
 
 ### Diana (Arch-Mage War Magic Wizard 15)
 Pale, blonde haired. Beautiful. Standoffish (transmutation / evocation)

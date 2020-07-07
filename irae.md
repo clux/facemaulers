@@ -47,10 +47,10 @@ If she hits you, she will always get in a combo. Either by lifting you with a sc
 
 Stage 2.
 Dying => Father/Statue joins the fight, throwing fire all around the place in a giant vase (huge AOE fire damage) and half destroying the place (all obstacles around), and they will fight together with fire and ice.
-Note that father/statue has super high perception and will opportunity attack legendary action.
+Note that father/statue has super high perception and will opportunity attack legendary action. Fire everywhere to mess with concentration?
 
 Stage 3.
-If they both die, all energy is left used to resurrect her one final time; blackflame friede. Higher damage / range scythe, she can now fly charge attack.
+If they both die, all energy is left used to resurrect her one final time; blackflame friede. Higher damage / range scythe / scythe fractal split for double attacks, she can now fly charge attack.
 Necrotic waves (higher AOE range) instead of cold now.
 https://www.youtube.com/watch?v=wvZTBG7UMqU
 

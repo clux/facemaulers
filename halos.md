@@ -1,5 +1,8 @@
-# Entrance 
+# Halos
+## Lore
+Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent) with trident.
 
+# Entrance
 Circular hangar either through open hole cylinder in floor (peek down through clouds to Protectorate). Two doors on either side lead down to bridges. Patrols Circle through here. 2 on bridge for 3 minutes as they walk halfway down as a unit while2 stands guard (will join battle by shooting lightning). 
  
 If they get passed it, then they can proceed up the hallway leading to the battlemap (modified snurre 2) 
@@ -7,40 +10,139 @@ If they get passed it, then they can proceed up the hallway leading to the battl
 Also a circular indent in the floor above with hexagonal outlines, but can't see through. (Where dragon resides).
 40ft Square grate above them leading to 13E. 1 sleeping storm giant there.
  
+## DUNGEON
+SCALE: 2x larger than 5ft square. 10ft squares!
+Storm Giants very perceptive, they'll just instintively nom Petros.
 
-# Lore 
-Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent) with trident.
+## CENTER + TOP
+### 13A Door
+2 Storm Giants Guarding entrance plus 13F. They'll attack on sight, and with sufficient noise, people from 13 will wake.
 
-## Silth the Infestor (Ancient Viridian Dragon 700yo)
-(Modified Shapechange Retains ability scores + senses) into Storm Giant
-Looks high ranking, commander. Goes by Laufey as a Giant. Yellow eyes.
-Cyan robes. Druid spells. Blue dragon breath, green dragon stats. Can poison the minds of people. Lower INT. Needs greater restoration.
+NB: Doors in center are lightning activated. PERC15 to understand mechanism.
 
-Truesight, PP30. Weakened the storm giants horde from within. Irae could then easily take over even these demigods. (Paranoia + Coughing)
+## 13D Protecttive holes
+Storm giants chuck extra lightning through here.
 
-Will rule this place after Irae is done attempting to steer the demonlords towards major cities. Will not let them enter the vault. Which acts as her lair.
-Apathetic about the beast Fryggt and levitating storm giants. She entered as a fake storm giant anyway. Knows enough druid spells to deceive.
-
-She tried to cause a distraction near waterdeep (Gulthias tree)
-
-Will extort them to get something of theirs so she does not call the guards.
-Then will do it anyway. If they can't fight their way out, Irae will put them in the Pentachoron.
-
-PERC: 20+ grace > normal giants
-Posh + annoyed accent.
-
-## Why is she there?
-Does not need the attention of gods. Just having fun seeing humanity fail to react to risk. Will throw some chaos in for fun. Raised in Menzoberranzen under the Magnificent Matriarch, but escaped 100 years ago.
-Looking forward to ruling Stormguard after Irae is done. Dragons know they can't fight DLs. So the fact that they are there now means she's not too concerned with Irae's plan.
-
-Part of that is ensuring powerful artifacts stay outside the hands of both giants. She normally persuades them to obtain things of danger to them and hide it away. While sweet-talking Serissa.
+## 13C
+RIGHT: -> keys to 13F first door
+Sleeping giant in 13E has the other.
 
 
-## Guard
-Havil. Wielding a dragon tooth as a maul.
+### 14A Resting chamber
+1 storm giants sleeping + 2 eating. Chest contains shit!
+One of them is an elite elite with huge hammer: https://www.pinterest.co.uk/pin/563935184592880430/
+REMEMBER STORM SPELLS
+https://www.reddit.com/r/UnearthedArcana/comments/f7a6xj/storm_spear_two_variants_strike_your_enemies_down/ -> https://i.redd.it/5uatytj4w6i41.jpg
 
-## Distraction Treasure Goblin
-ah-haaa! runs with bag of gold.
+
+After gates in 13F. Blue lightning scars the walls. Large footsteps has depressed the floors in this hallway. Giant sized, but clearly heavier.
+
+### 12A Serissas Chamber
+Storm Giant Quintessent. Throne in center. Paranoid. Slightly mad. Will have a chat, but unwilling to let anyone pass unless they really smooch up to her vanity (like set up a church to her). Spells? Champion of `Talos` the storm Lord.
+
+Queen Serissa: https://www.pinterest.co.uk/pin/374572894004775015/ ish
+Opulent. Oozes elecric energy. Hard to tell if she's even a corporeal being, but her dress sparkles with gold. Her staff bears a large ruby and the statue of phoenix. She's oversees the treasury, but haven't given a dime downwards anymore (she's a little insane.) Won't hear it if they talk about Irae.
+
+soft english / ethereal voice:
+"Oh, how the guards have failed."
+"you know you are not allowed up here anymore?"
+"well, no matter, i am not afraid to use my hands, if you know what i mean"
+about irae: "she has been a tremendous help for us, do not speak ill of her"
+about umnos: "umnos is accomplishing just incredible things these days"
+"but i sense power in you - Talos guide me" - Cast Prismatic Wall with her dress.
+death: "you fools. you dare challenge the gods. Neri will perforate your bodies so thoroughly you'd have wished you never came here"
+
+STATS AC18 otherwise quintessent, some spells.
+Crazy contingency. That also sets up a prismatic wall (can't see through it - without red wall so Champion can shoot through. Champion sees through a third eye in Serissa's forehead.
+
+If spells fail, stat using standard quintessent attacks
+
+Special Contigency; Stoneskin + Blur => perma res to physical dmg + disadv to hit
+Fighting with Queen Neri with a special bow. Who will use Windforce. +2 awakened legendary bow. On hit can infuse electrican energy into arrow for extra 3d8 thunder damage CON SAVE 15 vs deafened (once per long rest).
+Behind a prismatic wall.
+
+Key to first part of 13F on Serissa.
+
+## BATTLE NOTES
+Prismatic wall is there, no red wall.
+Havil is out. +14 to hit multiattack. Undecided dmg
+Serissa is quite wounded. Probably will escape next round on legendary action if she takes another hit.
+Havil will fight to the death though. Likely use the line attack through Faey and GW (auto crit) it it is long enough (yeah prolly, <60ft)
+revealed legendary actions, but not legendary saves (allow a clutch stun, he only has +10 hit)
+
+Active Spells: Pass Without a Trace, Prismatic Wall, Contingency(Serissa special), Whirlwind (action to move)
+
+### EBA FAILURE
+They throw them to Fryggt to die.
+
+
+### 12B Asylum
+Insane cloud giant `Sifthor` resides here. He was trying to get a meet up. He knows a lot, but speaks like an asylum patient. Shackled to the bed. Pleads with them to let them out.
+
+
+### 13-10 Havil Patrol Guard
+Wielding a dragon tooth as a maul. Full Plate + Shield AC22.
+Slow ass crazy dmg attacks infused with lightning. If failing too much he'll do the wave attack.
+Wanders the corridors between 10A and 12A. Possible to dodge
+Has one door key. Can be lured all the way up to 13F.
+
+Havil has Stats similar to Fire Giant Dreadnaught. +1 plate. +2 shield 28STR
+Wielding a tusk. Bludgeoning swipe attack +13 hit 4d10+8 bludgeoning. 2 attacks. Tusk is an ancient dragon tooth.
+
+
+## RIGHT + VAULT
+### 13F Vault Door 1/2
+Locked through arcane lock (knock undoes it for 10minutes)
+Giants can assemble into 13D to throw bolts if sounds are heard.
+If they pound their way through, they will have an army on their hands. They can escape through 16A if so, but they will face Fryggt.
+Note that passive lightning damage from the cave here as this is below the spine.
+
+### 16A corridor
+If they got through here, then they probably have the key to 16A. Found in 13C (right.)
+
+### 16B Light room
+Controls the rotation of the spire
+Only affects what point the path ends out on.
+9 configurations: all off => north, binary count around
+000 => 0deg (north - allows passage backwards - otherwise seals light room)
+001 => 45deg
+010 => 90deg (east - fryggts lair)
+011 => 135deg
+100 => 180deg (south - overview over giants patrol below)
+101 => 225deg
+110 => 270deg (west)
+111 => 315deg
+
+NB: Feeding hatch for Fryggt. Large disc outside covered in blood and half chewed remains of flesh.
+
+### 15B Reliquary
+Relics inside + 50k gold in coints, goblets, necklaces. Filled with a yellow mist mist. Hear the tossing of goblets on gold.
+
+#### Distraction Treasure Goblin Galzug
+ah-haaa! runs with bag of gold - tries to escape into pentachoron.
+otherwise drops his gold sack with 15k gold in it. If they see it disappear they can see understand the nature of the escape with DC20 arcana. Pentachoron is a portal to a goblin realm.
+
+If they stop him; he'll monster voice and explain that he found a way in through sneak platform. Part of an ancient goblin tribe that silently replaces gold in vault with a fake knockoff material made from a rich citrine vein near their location. Where is this? Below Gauntlgrym. Red dragon there controls the hoard. They'll have to torture him Galzug to get him to reveal information. How far will they go?
+
+#### Loot (outside gold)
+Sunwuko's Spirit: Grant Breath of Heaven Spell: Heal all allies within 30ft 6d8 as action.
+
+Tome of Clear Thought. +2 int.
+
+Somnambulists's Wraps: Can use a KI point to infuse your hands with Slow on hit (lasts for one round if they fail a CON save) => -2AC/DEX SAVE penalties + no reactions ++ normal slow effect. Attunement required.
+
+Mjollnir. Extremely light hammer that, in a round when the creature has taken damage from you, can as a bonus action, lift the hammer into the air and make that creature extra prone to lightning damage (downgrades: lg immunity -> lg resistance -> no lg resistance -> lg weakness) STR req 10, req level 10, attunement.
+via https://dota2.gamepedia.com/Mjollnir
+
+
+## SOUTH
+### 9 Barracks / sleeping chamber
+
+## END FLOOR
+
+## Spire pathway
+Glass sylinder with stormy weather outside. They can see Fryggt and Felgolos breathe on their way up. Lightning spine carries on. They can also see bits of the lightning in 13F (direcly underneath).
+
 
 ## Umnos
 Huge bulging blue muscles with a large golden cumberbud.
@@ -59,83 +161,6 @@ She can be inside the prismatic wall with it and use Dominate Monster on Umnos.
 Door up to Umnos is heavily guarded and no one can actually enter.
 
 
-Irae confrontation
-"You know, I don't have to use my most powerful magic all the time you know"
-Create undead: Summons 6 ghouls / 3 ghasts as a lair action during the battle
-While in the middle of Globe of Invulnerability (conc)
-
-
-# DUNGEON
-SCALE: 2x larger than 5ft square. 10ft squares!
-
-## 13A Door
-2 Storm Giants Guarding entrance plus 13F
-
-## 13F Vault Door 1/2
-ocked through arcane lock (knock undoes it for 10minutes)
-Giants can assemble into 13D to throw bolts if sounds are heard.
-
-## 12A Serissas Chamber
-Storm Giant Quintessent. Throne in center. Paranoid. Slightly mad.
-Not helpful in current state, but lucid. Will have a chat, but unwilling to let anyone pass unless they really smooch up to her vanity (like set up a church to her). Spells? Champion of `Talos` the storm Lord.
-
-Queen Serissa: https://www.pinterest.co.uk/pin/374572894004775015/
-
-## 12B Asylum
-Insane cloud giant `Sifthor` resides here. He was trying to get a meet up. He knows a lot, but speaks like an asylum patient. Shackled to the bed. Pleads with them to let them out
-
-## 9 Barracks / sleeping chamber
-
-## 14A Resting chamber
-1 storm giants sleeping + 2 eating. Chest contains shit!
-One of them is an elite elite with huge hammer: https://www.pinterest.co.uk/pin/563935184592880430/
-REMEMBER STORM SPELLS
-
-After gates in 13F. Blue lightning scars the walls. Large footsteps has depressed the floors in this hallway. Giant sized, but clearly heavier.
-
-## 16A corridor Shalzardiadile / Laufey
-maybe close off 16A. 16B leads up side spire?
-
-grins in unnatural giant.
-you're new. (eyes up down, glancing at various magical items (PERC20))
-PERC10 notice her footsteps are loud and thunderous, 15+ cause large depressions in the ground (similar to outside)
-will not let them pass without serious persuasion. 
-what does she want? them not to take anything that will harm dragons.
-can be persuaded by an offering from gilgrin (hammer?)
-
-(She will behave like her normal self because she knows no-one will believe they got in there to talk to her without use of force (in which case they won't be able to explain it away anyway).
-You're aware you are breaking the rules, correct? (posher voice than usual)
-These big doors are not to be opened, and Serissa would never let anyone through, so... that begs the question, why you are here.
-TRANSMUTATION DETECT MAGIC ON ALL OF HER.
-
-
-## 15B Reliquary
-Relics inside. Filled with mist. She'll walk in there with them.
-30x30 feet size. Her head will peek up.
-
-### Loot:
-Pentachoron: containing locked away wizard. 700 years ago. Was the matriarch who held Shalzardiadile captive? Was sealed by a powerful wizard at the time; Halaster Blackcloak.
-
-Frostburn gauntlets with ice powers (set str to max(22, curr+2) and add d6 ice dmg once per day?). Works with Hammer of Thunderbolts instead of gauntlets of ogre power.
-Still need the Kavaki's Binding (str 22 to start with)
-Belt of Giant Strength below (21).
-
-Wand of Lightning Bolts
-Information about Sunwuko? Monkey king's relics can be found inside the Pentachoron.
-
-https://www.dota2.com/items/
-https://dota2.gamepedia.com/Heaven%27s_Halberd
-Desolator - +4 Obsidian Sword slows enemy movement on hit (last for one round on enemy)
-https://dota2.gamepedia.com/Echo_Sabre - +3 Sabre that unlocks Echo Strike (Hasted attack, double attacks, once per long rest)
-https://dota2.gamepedia.com/Mjollnir - Lightning Boosting Hammer - downgrades lg immunity -> resistance, resitance -> no resistance, no resistance -> weakness on enemies hit by lightning damage
-NB: Usable for a mage with 12 strength due to passive
-
-Tome of Clear Thought. +2 int.
-Gloves of Missle Snaring (reliquary)
-
-+2 Divine Rapier (Unless you have disadvantage, you cannot miss)
-Sange/Yasha dual wield combo health regen as an action during evade?
-
 
 # EBA1: 11/16 Staircase leads to Waterfountain fight from BL2 wizard tower
 Circular  outlook point. This is a trap. Storm of Vengeance. If triggered calls guards. 
@@ -145,3 +170,9 @@ If NOT triggered, they might be able to sneak past the fountain (BL2 wizard pool
 # EBA2: Cave
 Hidden path up through the Behir + Basilisks. 
 
+
+# Ignored
+## Irae confrontation (she left)
+"You know, I don't have to use my most powerful magic all the time you know"
+Create undead: Summons 6 ghouls / 3 ghasts as a lair action during the battle
+While in the middle of Globe of Invulnerability (conc)
