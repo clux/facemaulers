@@ -59,12 +59,15 @@ INV20: see caloused knuckles and very beefy hand even for this smaller giant, do
 CHEST: keys to shackles.
 
 info:
-- doors open by electricity, but the queens see this
+- doors open by electricity
+- the queens see through the gems
 - the queens control the vault
 - serissa's dress and neri's mask are the keys to the vault
 - neri sees everything
 - umnos under the influence of the white lady
 - he wants to become the ultimate death knight
+
+only got some of these ^
 
 https://www.dndbeyond.com/profile/sszynrae/characters/32026495
 Proficiency on saves. Spend ki to reroll result.
@@ -107,6 +110,10 @@ If Serissa ports ports, she MIGHT restore HP if they rest, but she will be furth
 If they tread on immediately, she'll only have short rested and won't have her defenses.
 In either case, she needs to fall before they can go to level 2.
 
+repeat battle: has one 6th level spell: chain lightning
+127hp recoverded from short and no protective incantation
+Dress can be purposed as a Cloak of Displacement (blur) but what about stoneskin? Maybe give 1 round invulnerability.
+
 ## BATTLE NOTES
 Prismatic wall is there, no red wall.
 Havil is out. +14 to hit multiattack. Undecided dmg
@@ -117,7 +124,9 @@ revealed legendary actions, but not legendary saves (allow a clutch stun, he onl
 Active Spells: Pass Without a Trace, Prismatic Wall, Contingency(Serissa special), Whirlwind (action to move)
 Arrow of Slaying on the ground (perhaps recoverable)
 
-Recap: bought a lot of stuff, misted in a stange way and found two bosses, and did not drink lightnint resistance.
+Recap: bought a lot of stuff, misted in a stange way and found two bosses, and did not drink lightning resistance.
+
+Recap2: They killed Havil, destroyed his armor with the first grymin crit (with a hold monster combo). Took the fuckoff shield(?). Snuck around in the various places, found `Zavag`, an incarcerated slender giant monk who was looking to escape. You freed him in exchange for some information. Then you took down two sleeping giants with 3/4 grymin crits and silence. However, the last miss meant Mordai burned EBs to finish the last giant. This was outside the silence and heard. 2 giants (one next to the door), now stare you down, and shout; "the intruders, they are here" (in giant).
 
 ### EBA FAILURE
 They throw them to Fryggt to die.
@@ -180,6 +189,8 @@ via https://dota2.gamepedia.com/Mjollnir
 +2 Aeon Disk (Ethereal Shield) +1 to all saving throws. 13STR.
 Resistance to necrotic damage.
 > A powerful artifact long ago smuggled out of the Acropolis of Thanatos. Or so many believe.
+
+Monk robes with thorns?
 
 Opal (that fits in ring of wishes). Looks like it was cut for a ring. Investigation 15, remember you've seen a gem like this before explode inside the ring you retrieved form the shadowfell.
 

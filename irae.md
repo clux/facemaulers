@@ -142,7 +142,8 @@ Casts mindblank every morning (immune to mind control type + divination spells)
 
 Has a 10 day contingency to do X (5th level spell that uses one action) if BAD CONDITION 
 
-Passive flight + truesight. 
+Passive flight + truesight.
+Maybe cloak of Invisibility
 Chronomancy. She imprisoned Andariel (Neko Hime). 
 
 ## Servants

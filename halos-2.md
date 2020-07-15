@@ -102,6 +102,10 @@ See a specral jackal headed figure standing behind your parental figures. The on
 ## Exit (Faey)
 Hans standing there? Seelie court?
 TODO: ask Faey for information on how he would like to ascend?
+12 monk subclass way of the shadow
+will be 3 rogue: assassin
+utilitarian
+protect the feywild, keep the balance (nature good/evil circle of life)
 
 # EBA1: 11/16 Staircase leads to Waterfountain fight from BL2 wizard tower
 Circular  outlook point. This is a trap. Storm of Vengeance. If triggered calls guards.
