@@ -112,7 +112,6 @@ In either case, she needs to fall before they can go to level 2.
 
 repeat battle: has one 6th level spell: chain lightning
 127hp recoverded from short and no protective incantation
-Dress can be purposed as a Cloak of Displacement (blur) but what about stoneskin? Maybe give 1 round invulnerability.
 
 ## BATTLE NOTES
 Prismatic wall is there, no red wall.
@@ -137,7 +136,7 @@ Slow ass crazy dmg attacks infused with lightning. If failing too much he'll do 
 Wanders the corridors between 10A and 12A. Possible to dodge
 Has one door key. Can be lured all the way up to 13F.
 
-Havil has Stats similar to Fire Giant Dreadnaught. +1 plate. +3 shield 28STR (hard to wield 22STR req).
+Havil has Stats similar to Fire Giant Dreadnaught. +1 plate. +2 shield 28STR (hard to wield 22STR req - Chest High Wall - speed reduction -5ft).
 Wielding a tusk. Bludgeoning swipe attack +13 hit 4d10+8 bludgeoning. 2 attacks. Tusk is an ancient dragon tooth.
 
 
@@ -181,18 +180,35 @@ Sunwuko's Spirit: Grant Breath of Heaven Spell: Heal all allies within 30ft 6d8 
 Tome of Clear Thought. +2 int.
 
 Somnambulists's Wraps: Can use a KI point to infuse your hands with Slow on hit (lasts for one round if they fail a CON save) => -2AC/DEX SAVE penalties + no reactions ++ normal slow effect. Attunement required. Only affects unarmed strike attacks. (Cannot be used in combination with stunning strike.)
-Once per day; cast Antilife Shell. No concentration, but requires a CON check of DC10 to maintain.
+Once per day: chance to deflect "ranged spell attack".
 
-Mjollnir +3 Light hammer that radiates electricity, in a round when the creature has taken damage from you, can as a bonus action, lift the hammer into the air and make that creature extra prone to lightning damage (downgrades: lg immunity -> lg resistance -> no lg resistance -> lg weakness) STR req 10, req level 10, attunement. Returns on throw.
-via https://dota2.gamepedia.com/Mjollnir
+Conductor's Tuning Fork that radiates electricity. Can be placed down as an action to create a 30ft field around the fork that make everyone inside the field to become prone to lg dmg.
+(downgrades 1 step: lg immunity -> lg resistance -> no lg resistance -> lg weakness).  Plant fork in the ground. No attunement requirement. Tuning required (once per long rest).
 
-+2 Aeon Disk (Ethereal Shield) +1 to all saving throws. 13STR.
-Resistance to necrotic damage.
-> A powerful artifact long ago smuggled out of the Acropolis of Thanatos. Or so many believe.
-
-Monk robes with thorns?
+Thorns Robe: "Robe of Roses" Enemy takes 2d8 poison damage when they hit you.
+> Roses are read. Punch me you're dead.
 
 Opal (that fits in ring of wishes). Looks like it was cut for a ring. Investigation 15, remember you've seen a gem like this before explode inside the ring you retrieved form the shadowfell.
 
 ## SOUTH
+### DEAD BRIGADE
+"How... Why...Why"
+"Serissa and Neri will never let you enter the reliquary"
+
+### 10 Neri's notes
+Large topaz with light. Can cast light with it.
+Also got potion of storm giant strength.
+Robe of Useful items. They rolled for patches.
+
 ### 9 Barracks / sleeping chamber
+Empty. Chest looted. Crawl space into vents where they can look down on from 13F to 14, inner 13A/E, down to 10
+
+### 10 Serissa
+Behind is Serissa healing herself. (She's had a short rest).
+Robe is healing her, and she's just waking up in next round.
+Robe colapses into a gem, almost fossil like in shap.
+
+She has the fork:
+https://old.reddit.com/r/UnearthedArcana/comments/hu2ogq/ocart_noble_tasters_spork_dd_item_by_catilus/
++ the key to the first door.
+Dress can be purposed as a Cloak of Displacement (blur) but what about stoneskin? Maybe give 1 round invulnerability.

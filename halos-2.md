@@ -13,7 +13,15 @@ If they stay still and scout as an action, then they will will be able to ready 
 
 ## Queen Neri
 Slender storm giant. Smaller than the other. Still 14 feet.
-taunt: "if you value your life..."
+"no one ventures beyond the veil unless accompanied by me and serissa"
+
+taunt: "if you value your life...".
+You will leave our chambers.
+
+
+### Difficulties
+If they go in the wrong direction put a Golem War Machine 205 CC
+(modified lightning)
 
 ## Timeline Note Drow
 Drow started attacking Gilgrin as they've gotten wind of the source of the summoning. However, this is not the main enclave, because they took Gracklstugh and was happy to see chaos reign (good for the drow in the long run - if they can survive).
@@ -44,9 +52,9 @@ On hit, she switches
 - Distance: flying platforms, misty step (changes faces legendary 2 actions)
 
 Has Lightning Bolt Bow: Lightning Bolt on Crit
-Once per day chain lighting launch attack: launch three arrows (as attack action), each casting chain lightning on hit. Note that the while this cascading chain lightning can arc to up to 9 targets, it cannot double dip on a single target.
+Once per day chain lighting launch attack: launch one arrows (as attack action), casting chain lightning on hit. Note that the while this cascading chain lightning can arc to up to 9 targets.
 
-Refresher Orb. A one time use item that can be to re-activate a magical item that has lost its charge. Also can restoring 3 ki or 2 sorcery points or one spell slot of (maximum usable spell level - 1) by concentrating on holding it as an action. After using the one-time ability, the daily restore ability stops working for one week.
+Refresher Orb. Also can restoring 3 ki or 2 sorcery points or one spell slot of (maximum usable spell level - 1) by concentrating on holding it as an action. After using the one-time ability, the daily restore ability stops working for one week.
 
 swap faces?
 legendary action change faces
@@ -98,6 +106,8 @@ See a specral jackal headed figure standing behind your parental figures. The on
 -> find familiar must be one of the standard from the spell list (no imp)
 -> eldritch blast gains the 17th level ability
 -> cannot take another level in warlock
+
+alternatively, find familiar starts malfunctioning (up to pit fiend)
 
 ## Exit (Faey)
 Hans standing there? Seelie court?
