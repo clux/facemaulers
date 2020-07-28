@@ -176,6 +176,8 @@ otherwise drops his gold sack with 15k gold in it. If they see it disappear they
 
 If they stop him; he'll monster voice and explain that he found a way in through sneak platform. Part of an ancient goblin tribe that silently replaces gold in vault with a fake knockoff material made from a rich citrine vein near their location. Where is this? Below Gauntlgrym. Red dragon there controls the hoard. They'll have to torture him Galzug to get him to reveal information. How far will they go?
 
+Goblin realm has funny goblins: "why can't i meet your parents? are you embarrased of me?"
+
 #### Loot (outside gold)
 Sunwuko's Spirit: Grant Breath of Heaven Spell: Heal all allies within 30ft 6d8 as action.
 
