@@ -15,13 +15,41 @@ If they stay still and scout as an action, then they will will be able to ready 
 Slender storm giant. Smaller than the other. Still 14 feet.
 "no one ventures beyond the veil unless accompanied by me and serissa"
 
-taunt: "if you value your life...".
-You will leave our chambers.
+taunt: "if you value your life, you will turn back now, you will not receive a second warning"
 
+She'll stand behind one of the pillars in the open room.
+
+## Queen Neri
+Archer queen, splits her personality between 3 storm giant archers.
+On hit, she switches. Each of the three archers revive in lair after 1 hour.
+(Electrical fade animation - it looks like they're dying, but spirit drawn away - creating a trail of sparks through the wall).
+
+All wearing large silver masks. They'll see who she is if she attacks. Her pow lights up the room with lightning.
+
+3 large gems there at the end. Once they are dead. She's defenseless.
+If they go straight for her, one of each of her acomplises join per round, and she'll poof between them.
+If ONE dies. Lair action rotate happens.
+Otherwise lair action SWAP people.
+
+Storm Bow: +2 Lightning Bolt Bow: Lightning Bolt on Crit CON 18 save vs 8d6
+Once per day chain lighting launch attack: launch one arrows (as attack action), casting chain lightning on hit. Note that the while this cascading chain lightning can arc to up to 9 targets.
+
+flying platforms, misty step (changes faces legendary 2 actions)
+
+swap faces?
+legendary action change faces
+
+lair action teleport people (translation polar coords)
+or a person swap
 
 ### Difficulties
 If they go in the wrong direction put a Golem War Machine 205 CC
 (modified lightning)
+comes from end and chases them around. if chased all the way around it punches through walls?
+
+
+## Mask notability
+Created by Umnos early on. They prevent magical divination like scrying from working on the wearer.
 
 ## Timeline Note Drow
 Drow started attacking Gilgrin as they've gotten wind of the source of the summoning. However, this is not the main enclave, because they took Gracklstugh and was happy to see chaos reign (good for the drow in the long run - if they can survive).
@@ -38,29 +66,15 @@ Maybe they have to pass through the hall of ancients;
 pass through water in https://www.pinterest.co.uk/pin/AZhpMsuya3CsjgOwxBT5p8zPvozCHuK-QWjgwjNXjS2-rUBbdCabV_8/
 
 
-## Spire pathway
+
+
+# Spire pathway
 Glass sylinder with stormy weather outside. They can see Fryggt and Felgolos breathe on their way up. Lightning spine carries on. They can also see bits of the lightning in 13F (direcly underneath).
 
 (to highlight they can't go around)
 
 maybe 120deg/60deg of the cylinder is just open (glass cover), portal below that dumps them into the air
 
-## Queen Neri
-Archer queen, splits her personality between 4 storm giant archers.
-On hit, she switches
-
-- Distance: flying platforms, misty step (changes faces legendary 2 actions)
-
-Has Lightning Bolt Bow: Lightning Bolt on Crit
-Once per day chain lighting launch attack: launch one arrows (as attack action), casting chain lightning on hit. Note that the while this cascading chain lightning can arc to up to 9 targets.
-
-Refresher Orb. Also can restoring 3 ki or 2 sorcery points or one spell slot of (maximum usable spell level - 1) by concentrating on holding it as an action. After using the one-time ability, the daily restore ability stops working for one week.
-
-swap faces?
-legendary action change faces
-
-lair action teleport people (translation polar coords)
-or a person swap
 
 ## Umnos
 Huge bulging blue muscles with a large golden cumberbud.

@@ -165,6 +165,8 @@ Only affects what point the path ends out on.
 
 NB: Feeding hatch for Fryggt. Large disc outside covered in blood and half chewed remains of flesh.
 
+alternatively; dragon repellent!
+
 ### 15B Reliquary
 Relics inside + 50k gold in coints, goblets, necklaces. Filled with a yellow mist mist. Hear the tossing of goblets on gold.
 
@@ -188,7 +190,9 @@ Conductor's Tuning Fork that radiates electricity. Can be placed down as an acti
 Thorns Robe: "Robe of Roses" Enemy takes 2d8 poison damage when they hit you.
 > Roses are read. Punch me you're dead.
 
-Opal (that fits in ring of wishes). Looks like it was cut for a ring. Investigation 15, remember you've seen a gem like this before explode inside the ring you retrieved form the shadowfell.
+<!--Opal (that fits in ring of wishes). Looks like it was cut for a ring. Investigation 15, remember you've seen a gem like this before explode inside the ring you retrieved form the shadowfell.-->
+
+they took 30k
 
 ## SOUTH
 ### DEAD BRIGADE
@@ -206,9 +210,29 @@ Empty. Chest looted. Crawl space into vents where they can look down on from 13F
 ### 10 Serissa
 Behind is Serissa healing herself. (She's had a short rest).
 Robe is healing her, and she's just waking up in next round.
-Robe colapses into a gem, almost fossil like in shap.
+Robe colapses into a gem, almost fossil like in shape.
+
+Storm of cloud?
 
 She has the fork:
 https://old.reddit.com/r/UnearthedArcana/comments/hu2ogq/ocart_noble_tasters_spork_dd_item_by_catilus/
-+ the key to the first door.
-Dress can be purposed as a Cloak of Displacement (blur) but what about stoneskin? Maybe give 1 round invulnerability.
+Dress/Cloak of Displacement (blur)
+Symbol on the dress detaches and can be used as a key
+
+On death:
+- I cannot die.
+- Neri will bring me back.
+
+## Neri foreshadowing
+portrait with maze (ubtao)
+4 names
+W zilos, N silozar, E slutnir, neri
+silver masks
+arrows
+
+button, no one can use it again..
+but what does it do - whatever
+
+## peryton
+stagweaver
+slightly crazier kobold voice
