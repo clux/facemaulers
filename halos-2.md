@@ -113,6 +113,11 @@ Contains a spectral goliath. You don't know him, but he looks at you with a big 
 
 GW: Your wisdom increases to 13.
 
+Kavaki is a Barbarian (Grog). Wearing big green robes (dressed for the occasion, wouldn't want to be sending the wrong message).
+Welcome to your arisening. It's come to my attention...wait.. too hard. I've haerd you've been smashing really hard lately. And you have reached a critical threashold of paladineosis/paladiniusness you've become a real palagorn, and as much must retrieve your reward.
+
+To my most devout goatlings.
+
 ## Exit (Mordai)
 See a specral jackal headed figure standing behind your parental figures. The ones you have not seen in years. The figure slices through your parents, but they retain their smiles. But as he does, a winged figure from the heavens descends and sends a beam of white energy towards the jackall. His power over you, is no more. You are favoured by the gods, do not forget it. You see the what's left of the jackal (his spectral form filled with burn marks) begrudgingly look at you. "You have served me well. You have earned your powers."
 (see into his eyes and you can see his powers, and he dislikes it).
@@ -123,6 +128,10 @@ See a specral jackal headed figure standing behind your parental figures. The on
 
 alternatively, find familiar starts malfunctioning (up to pit fiend)
 
+maybe he can choose to fight it or not.
+solar would like like to gift something, but you would have to leave this dark creature from gehanna; then have to battle it 1v1 / solar does it.
+solar: "according to elysial rule, i cannot gift you this..."
+
 ## Exit (Faey)
 Hans standing there? Seelie court?
 TODO: ask Faey for information on how he would like to ascend?
@@ -130,6 +139,12 @@ TODO: ask Faey for information on how he would like to ascend?
 will be 3 rogue: assassin
 utilitarian
 protect the feywild, keep the balance (nature good/evil circle of life)
+sunwuko faey god monkey king?
+
+maybe he just feels assassination being better...
+maybe spend ki point to gain advantage
+bonus to wisdom (for his stun dc)
+can do this during the halos battle
 
 # EBA1: 11/16 Staircase leads to Waterfountain fight from BL2 wizard tower
 Circular  outlook point. This is a trap. Storm of Vengeance. If triggered calls guards.

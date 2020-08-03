@@ -184,7 +184,11 @@ Sunwuko's Spirit: Grant Breath of Heaven Spell: Heal all allies within 30ft 6d8 
 Tome of Clear Thought. +2 int.
 
 Somnambulists's Wraps: Can use a KI point to infuse your hands with Slow on hit (lasts for one round if they fail a CON save) => -2AC/DEX SAVE penalties + no reactions ++ normal slow effect. Attunement required. Only affects unarmed strike attacks. (Cannot be used in combination with stunning strike.)
-Once per day: chance to deflect "ranged spell attack".
+
+On reaction: chance to deflect "ranged spell attack" reaction + ki point.
+Deflect in a random direction: roll d12 (target spell hits first in line, aoe roll d100 ft, first major obstacle in that path (unless person fails dex))
+
+Once per day: reaction, absorb spell, can cast next turn (use bonus action next turn, have to release or make CON SAVE to maintain DC12+spell level). Use monks WIS DC.
 
 Conductor's Tuning Fork that radiates electricity. Can be placed down as an action to create a 30ft field around the fork that make everyone inside the field to become prone to lg dmg.
 (downgrades 1 step: lg immunity -> lg resistance -> no lg resistance -> lg weakness).  Plant fork in the ground. No attunement requirement. Tuning required (once per long rest).
