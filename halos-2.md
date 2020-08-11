@@ -15,37 +15,74 @@ If they stay still and scout as an action, then they will will be able to ready 
 Slender storm giant. Smaller than the other. Still 14 feet.
 "no one ventures beyond the veil unless accompanied by me and serissa"
 
-taunt: "if you value your life, you will turn back now, you will not receive a second warning"
-
-She'll stand behind one of the pillars in the open room.
-
-## Queen Neri
 Archer queen, splits her personality between 3 storm giant archers.
 On hit, she switches. Each of the three archers revive in lair after 1 hour.
 (Electrical fade animation - it looks like they're dying, but spirit drawn away - creating a trail of sparks through the wall).
 
-All wearing large silver masks. They'll see who she is if she attacks. Her pow lights up the room with lightning.
+All wearing large silver masks. They'll see who she is if she attacks. Her bow lights up the room with lightning. Misty steps as bonus actions. Rogue.
 
-3 large gems there at the end. Once they are dead. She's defenseless.
+3 large gems there at the end. Lapus lazuli. Storm Giants reform there after they're dead. Once they are, she's defenseless (no one to port through, and rotate doesn't work as well - less and less successful per one down).
 If they go straight for her, one of each of her acomplises join per round, and she'll poof between them.
 If ONE dies. Lair action rotate happens.
-Otherwise lair action SWAP people.
 
 Storm Bow: +2 Lightning Bolt Bow: Lightning Bolt on Crit CON 18 save vs 8d6
 Once per day chain lighting launch attack: launch one arrows (as attack action), casting chain lightning on hit. Note that the while this cascading chain lightning can arc to up to 9 targets.
 
 flying platforms, misty step (changes faces legendary 2 actions)
 
-swap faces?
 legendary action change faces
-
+lair action swap people
 lair action teleport people (translation polar coords)
-or a person swap
 
-### Difficulties
-If they go in the wrong direction put a Golem War Machine 205 CC
-(modified lightning)
-comes from end and chases them around. if chased all the way around it punches through walls?
+### Lines
+taunt: "so you've come after all, welcome"
+"you have a lot to answer for"
+
+"irae is not be happy about you"
+"but i am happy to be the one that ends you"
+
+taunt: "welcome to your tomb"
+
+She'll stand behind one of the pillars in the open room.
+
+Difficult terrain. It's her favoured terrain.
+
+items; scroll of identify x2. scroll of lightning arrow.
+
+### Surrender
+She's angry with them. They invaded their lair. They killed white dragon pets.
+They killed Neri, you burned her body.
+Irae warned us about you, but no one thought you were going to be this... destructive.
+She gave umnos an ancient black sword with incredible necrotic powers.
+
+### Resurrection Pods
+Blue gems.
+She'll be at one of them, retreat if they come. Otherwise they have a chance to destroy the gem. Visible giant corspe shattering. Necrotic energies.
+Either they all die, and she'll surrender, or she'll surrender if locked down (but will try to revive if possible).
+
+### Transition to Halos 3
+See two horns coiled around a goliath's head?
+
+### Stats
+Neri is a storm giant quintesssent. But uses lightning bow; 2 attacks +14 to hit. 5d8 lightning + 1d8+10 piercing.
+Alternatively; chain lighting bow action; recharde 5/6 on d6.
+Otheswise same legendary actions as quintescent.
+
+Hunters mark. Misty step. Passive lightning arrow at 4th level to justify dmg.
+Normal rangers have 1d8+7 piercing + 4d8 lg (double attack).
+
+### RECAP 4
+They extracted 6 LG resistance potions from birdweaver. Unfortunately, he was very obvious on the way up and got ancient dragoned.
+
+You went up. Found Neri and 3 creatures she swapped places with.
+
+Mechanics: she does chain lightning once per cycle. Each cycle is one giant enters per round. She will change faces if she's hit. If one giant helper dies, rotate happens.
+
+Once she is alone; enrage? Tenser? Haste? (she has that..)
+Stats: https://www.dndbeyond.com/profile/sszynrae/characters/33246188
+
+### START 5
+GW starts starts to hear Kavaki.
 
 
 ## Mask notability
@@ -54,10 +91,12 @@ Created by Umnos early on. They prevent magical divination like scrying from wor
 ## Timeline Note Drow
 Drow started attacking Gilgrin as they've gotten wind of the source of the summoning. However, this is not the main enclave, because they took Gracklstugh and was happy to see chaos reign (good for the drow in the long run - if they can survive).
 
+
+
+
+
+
 ## Ideas
-
-
-
 Large walkway partially destroyed. Archers on either side?
 Tree roots sprouting everywhere (indicative of yggdrasil above)
 Tree has allowed Umnos to ascend - and you see the aspect of him?
@@ -65,86 +104,12 @@ Tree is atop the thumb of a hand: https://www.pinterest.co.uk/pin/83971029301119
 Maybe they have to pass through the hall of ancients;
 pass through water in https://www.pinterest.co.uk/pin/AZhpMsuya3CsjgOwxBT5p8zPvozCHuK-QWjgwjNXjS2-rUBbdCabV_8/
 
-
-
-
 # Spire pathway
 Glass sylinder with stormy weather outside. They can see Fryggt and Felgolos breathe on their way up. Lightning spine carries on. They can also see bits of the lightning in 13F (direcly underneath).
 
 (to highlight they can't go around)
 
 maybe 120deg/60deg of the cylinder is just open (glass cover), portal below that dumps them into the air
-
-
-## Umnos
-Huge bulging blue muscles with a large golden cumberbud.
-Blue light emits from his jaw, eyes, and it crackles from his hair (huge, windswept, crazy, even eyebrows and beard follows this style). Shoes up to his knees and as large as a party member. Search for it. Very Zeusy.
-Feeblemind?.. can be ended by greater restoration..
-Dominate Monster at 9th level lasts up to 8 hours... she is just better at it..
-Umnos in non-dominated is a previous champion of Auril, but does not need her anymore, he is as close to his own godhood as is possible.
-He is CG normally. Enjoys the worship of all the Giants as Annam's presence has subsided. Wants to be the next Kavaki.
-
-Can Irae really dominate a demi-god? Yes.
-Divine boon to party if they save him +1 STR up to 20.
-
-ALTERNATIVELY; he's crucified and about to ascend to become a death knight giant - he'll fly around in spectral form while his body is hung (they need to cast something to cancel it)
-
-lines when freed (deep husky voice):
-- "disease"
-- "free"
-- "not enemies" (holding back attack)
-- "spell...fading...loosing hold...of my mind"
-- "yeees. (backwards drawl pulling in air) i am back. thank the heavens."
-- "you "
-
-## Spire
-Contains final crystal. Prismatic wall (30 foot sphere around it - repeat cast with the power of the spine at full power).
-She can be inside the prismatic wall with it and use Dominate Monster on Umnos.
-Door up to Umnos is heavily guarded and no one can actually enter.
-
-## Exit (Kavaki)
-Portal leading to a path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/
-Contains a spectral goliath. You don't know him, but he looks at you with a big smile.
-
-"You have come so far, my son. Much more far than I thought you would."
-"You saw me cry. You may not have known, but you saved me."
-"and now, you can save yourself."
-"go meet your guiding spirit." -> goliath cutscene with Kavai
-
-GW: Your wisdom increases to 13.
-
-Kavaki is a Barbarian (Grog). Wearing big green robes (dressed for the occasion, wouldn't want to be sending the wrong message).
-Welcome to your arisening. It's come to my attention...wait.. too hard. I've haerd you've been smashing really hard lately. And you have reached a critical threashold of paladineosis/paladiniusness you've become a real palagorn, and as much must retrieve your reward.
-
-To my most devout goatlings.
-
-## Exit (Mordai)
-See a specral jackal headed figure standing behind your parental figures. The ones you have not seen in years. The figure slices through your parents, but they retain their smiles. But as he does, a winged figure from the heavens descends and sends a beam of white energy towards the jackall. His power over you, is no more. You are favoured by the gods, do not forget it. You see the what's left of the jackal (his spectral form filled with burn marks) begrudgingly look at you. "You have served me well. You have earned your powers."
-(see into his eyes and you can see his powers, and he dislikes it).
-
--> find familiar must be one of the standard from the spell list (no imp)
--> eldritch blast gains the 17th level ability
--> cannot take another level in warlock
-
-alternatively, find familiar starts malfunctioning (up to pit fiend)
-
-maybe he can choose to fight it or not.
-solar would like like to gift something, but you would have to leave this dark creature from gehanna; then have to battle it 1v1 / solar does it.
-solar: "according to elysial rule, i cannot gift you this..."
-
-## Exit (Faey)
-Hans standing there? Seelie court?
-TODO: ask Faey for information on how he would like to ascend?
-12 monk subclass way of the shadow
-will be 3 rogue: assassin
-utilitarian
-protect the feywild, keep the balance (nature good/evil circle of life)
-sunwuko faey god monkey king?
-
-maybe he just feels assassination being better...
-maybe spend ki point to gain advantage
-bonus to wisdom (for his stun dc)
-can do this during the halos battle
 
 # EBA1: 11/16 Staircase leads to Waterfountain fight from BL2 wizard tower
 Circular  outlook point. This is a trap. Storm of Vengeance. If triggered calls guards.

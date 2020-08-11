@@ -3,6 +3,17 @@ Drow high priestess of Kiaransalee (turned champion). Lived in Maerimydra but to
 
 Became a lich whilst studing forbidden necromancy in the Acropolis of Vanathos. 
 
+## SOURCES
+https://forgottenrealms.fandom.com/wiki/Irae_T%27sarran
+https://forgottenrealms.fandom.com/wiki/Crones_of_Thanatos
+https://forgottenrealms.fandom.com/wiki/Kiaransalee
+https://forgottenrealms.fandom.com/wiki/V%27elddrinnsshar
+https://forgottenrealms.fandom.com/wiki/Promenade_of_the_Dark_Maiden
+https://forgottenrealms.fandom.com/wiki/Claw_of_the_revenancer
+https://forgottenrealms.fandom.com/wiki/Rod_of_the_twisted_Weave
+https://forgottenrealms.fandom.com/wiki/Eyes_of_the_spider
+https://forgottenrealms.fandom.com/wiki/Silveraith
+
 ## OMEGA PLANS
 https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
 
