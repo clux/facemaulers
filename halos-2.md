@@ -60,24 +60,12 @@ Blue gems.
 She'll be at one of them, retreat if they come. Otherwise they have a chance to destroy the gem. Visible giant corspe shattering. Necrotic energies.
 Either they all die, and she'll surrender, or she'll surrender if locked down (but will try to revive if possible).
 
-### Transition to Halos 3
-Picture of portal water coming out of it as Faey approaches it (he is the key). https://youtu.be/QvFBvIjUlr4?t=512 for picture. It will take them to Faey's exit. Show top of Mithrendain: https://youtu.be/QvFBvIjUlr4?t=445 picture.
-
-After Seelie Court. Message from below saying things happened, fryggt is gone? Come down. We have much to tell you. Message from Ailos. If you've dispatched the queens, then you control the lower end. The portal above is probably attuned to you.
-
-felgolos had to head eastwards to save Baratathlaer (taken by Irae and gang)
-He had to go, but he said as token of his appreciation he left this. Divine Scourge, and he taught Ailos how to prepare you a feast for heroes.
-
-They can get Sansuri. She demands blood. Remind them of powers. Identify things.
-Fryggt left post (when queens both ded). Cold res?
-They've researched more into the potential of dragon eggs as amplifiers to open gates. If enacted, you need to deactivate or destroy all of them. Felgolos wanted them to deactivate one. Dispel/Greater Restoration.
-
-Gate changes. Something for Mordai or the path up.
-
 ### Stats
 Neri is a storm giant quintesssent. But uses lightning bow; 2 attacks +14 to hit. 5d8 lightning + 1d8+10 piercing.
 Alternatively; chain lighting bow action; recharde 5/6 on d6.
-Otheswise same legendary actions as quintescent.
+Otherwise same legendary actions as quintescent.
+Can step into ethereal plane while 3 lapus lazuli crystals are in place.
+Favoured terrain. Will try Banishment.
 
 Hunters mark. Misty step. Passive lightning arrow at 4th level to justify dmg.
 Normal rangers have 1d8+7 piercing + 4d8 lg (double attack).
@@ -95,6 +83,22 @@ Stats: https://www.dndbeyond.com/profile/sszynrae/characters/33246188
 ### START 5
 GW starts starts to hear Kavaki.
 
+
+### Transition to Halos 3
+Picture of portal water coming out of it as Faey approaches it (he is the key). https://youtu.be/QvFBvIjUlr4?t=512 for picture. It will take them to Faey's exit. Show top of Mithrendain: https://youtu.be/QvFBvIjUlr4?t=445 picture.
+
+After Seelie Court. Message from below saying things happened, fryggt is gone? Come down. We have much to tell you. Message from Ailos. If you've dispatched the queens, then you control the lower end. The portal above is probably attuned to you.
+
+felgolos had to head eastwards to save Baratathlaer (taken by Irae and gang)
+He had to go, but he said as token of his appreciation he left this. Divine Scourge, and he taught Ailos how to prepare you a feast for heroes.
+
+They can get Sansuri. She demands blood. Remind them of powers. Identify things.
+Fryggt left post (when queens both ded). Cold res?
+They've researched more into the potential of dragon eggs as amplifiers to open gates. If enacted, you need to deactivate or destroy all of them. Felgolos wanted them to deactivate one. Dispel/Greater Restoration.
+
+Gate changes. Path up that turns icy.
+
+(Pentachoron identified as a planar teleporter. Goblin came out of it earlier trying to move it. But he escaped into it. We think it contains a rather large plane, demi-plane, pocket-plane hard to tell.)
 
 ## Mask notability
 Created by Umnos early on. They prevent magical divination like scrying from working on the wearer.

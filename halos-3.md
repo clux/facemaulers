@@ -77,27 +77,6 @@ To my most devout goatlings, (with the best name, i knew from birth that you wer
 
 But it time. You have proven yourself worthy of my powers. I will grant you a portion of my powers. But in return, you must save the world, and spread the good word of me, Kavaki. So that the legacy can live on. Also, I still need followers so I can stay here.
 
-## Exit (Mordai)
-Path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/ inside, much bigger.
-
-See a specral jackal headed figure standing behind your parental figures. The ones you have not seen in years. The figure slices through your parents, but they retain their smiles. But as he does, a winged figure from the heavens descends and sends a beam of white energy towards the jackall. His power over you, is no more. You are favoured by the gods, do not forget it. You see the what's left of the jackal (his spectral form filled with burn marks) begrudgingly look at you. "You have served me well. You have earned your powers."
-(see into his eyes and you can see his powers, and he dislikes it).
-
--> find familiar must be one of the standard from the spell list (no imp)
--> eldritch blast gains the 17th level ability
--> cannot take another level in warlock
-
-alternatively, find familiar starts malfunctioning (up to pit fiend)
-
-maybe he can choose to fight it or not.
-solar would like like to gift something, but you would have to leave this dark creature from gehanna; then have to battle it 1v1 / solar does it.
-solar: "according to elysial rule, i cannot gift you this..."
-
-TODO: no solar. owning fiend is the god!
-goals of a fiend? provided giant souls. time magic could also help devils.?
-mordai lends book to guy in luskan, but celerom then sows the idea in the mind of the human to dig into chronomancy. could cause to reverse some decision that didn't benefit the fiend...something..
-machination by fiend.
-
 ## Exit (Faey)
 From picture of mithrendain top after portal; a staircase. Eventually leading to Seelie Court. But on brige up to that; Spectral Hans standing in the center. Warm but somber smile. Gives you a hug, his energy swirls around you in a constant circle, not dissapating just constantly spinning. You feel it reaching into the very center of your being. As you focus on it, it quickly starts swirling inwards otwards your heart. (Ki restore ability; Focus of Hans)
 
@@ -145,7 +124,39 @@ you do not know where this voice comes from, but you find it oddly calming, to s
 what happened to him
 
 
+## Exit (Mordai)
+Fiend he's ultimately related to Mephisto(pheles)
+https://i.imgur.com/NEboCVd.png
+Bonus; Spell Shield (adv saving throws vs spells, on save, temp hp == spell level)
+Bonus; Spell Leech; bonus action grab lowest level spell of spell slot of creature it can see within 30 ft (and you gain it).
+EB -> Can be Frost. Remodel freeze ray.
+
+Delivery. Icy path around what looks like a model of an icy spire. It looks like it's right there on the wall, and tiny, but as you put your hand out, it passes through a dimensional shimmer. Snow covered Imp walks out of a bridge out of this spire and jumps through the barrier with a tome in his hand. Steps up to Mordai. "Master 'phisto has declared that as his favoured child, you be rewarded with this."
+
+Infernal: Mephisto is happy to have received so many corrupted storm giants. They are great for his experiments. From Cania in the Icy Citadel of Mephistar conducts series of arcane experiments. Highly irregular mind control that affected these giants.
+(he's also happy to see weird magic from him, and they're trying to study it, but hard from afar)
+P.S. We can sense magical energies we've never detected before from you or your vicitiny. Please keep doing what you are doing.
+P.P.S. You are welcome at any time to visit Cania.
+
+All info sent in a locked soulbound tome to mordai via an imp with the message.
+
 ## Dropped
+### mordai sketch 1
+Path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/ inside, much bigger.
+
+See a specral jackal headed figure standing behind your parental figures. The ones you have not seen in years. The figure slices through your parents, but they retain their smiles. But as he does, a winged figure from the heavens descends and sends a beam of white energy towards the jackall. His power over you, is no more. You are favoured by the gods, do not forget it. You see the what's left of the jackal (his spectral form filled with burn marks) begrudgingly look at you. "You have served me well. You have earned your powers."
+(see into his eyes and you can see his powers, and he dislikes it).
+
+-> find familiar must be one of the standard from the spell list (no imp)
+-> eldritch blast gains the 17th level ability
+-> cannot take another level in warlock
+
+alternatively, find familiar starts malfunctioning (up to pit fiend)
+
+maybe he can choose to fight it or not.
+solar would like like to gift something, but you would have to leave this dark creature from gehanna; then have to battle it 1v1 / solar does it.
+solar: "according to elysial rule, i cannot gift you this..."
+
 ### Umnos mindcontrol
 Feeblemind?.. can be ended by greater restoration..
 Dominate Monster at 9th level lasts up to 8 hours... she is just better at it..
