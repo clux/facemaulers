@@ -69,7 +69,7 @@ Sleet storm, wind wall, dispel, hold person, moonbeam, find traps, polymorph, gr
 Understands that the domination magic is the same as what aboleths used. The drow used to study them.
 
 ### Gludom ; Minister of Wizardly (science/energy)
-Faster talking, wants to revolutionise the energy production of the protectorate to have lights and weather control – he ultimately designed the spine. Apologetic, but not unreasonably so. Concerned with the unauthorised use of it. Worried the humans are sent to judge him for its use. Nervous. 
+Faster talking, wants to revolutionise the energy production of the protectorate to have lights and weather control – he ultimately designed the spine. Apologetic, but not unreasonably so. Concerned with the unauthorised use of it. Worried the humans are sent to judge him for its use. Nervous.
 
 He offered them rest below, and the key.
 Tell them about:

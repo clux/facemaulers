@@ -80,17 +80,13 @@ Mechanics: she does chain lightning once per cycle. Each cycle is one giant ente
 Once she is alone; enrage? Tenser? Haste? (she has that..)
 Stats: https://www.dndbeyond.com/profile/sszynrae/characters/33246188
 
-### START 5
-GW starts starts to hear Kavaki.
-
-
 ### Transition to Halos 3
 Picture of portal water coming out of it as Faey approaches it (he is the key). https://youtu.be/QvFBvIjUlr4?t=512 for picture. It will take them to Faey's exit. Show top of Mithrendain: https://youtu.be/QvFBvIjUlr4?t=445 picture.
 
 After Seelie Court. Message from below saying things happened, fryggt is gone? Come down. We have much to tell you. Message from Ailos. If you've dispatched the queens, then you control the lower end. The portal above is probably attuned to you.
 
 felgolos had to head eastwards to save Baratathlaer (taken by Irae and gang)
-He had to go, but he said as token of his appreciation he left this. Divine Scourge, and he taught Ailos how to prepare you a feast for heroes.
+He had to go, but he said as token of his appreciation he left this. Divine Scourge, and he taught Gludom how to prepare you a feast for heroes.
 
 They can get Sansuri. She demands blood. Remind them of powers. Identify things.
 Fryggt left post (when queens both ded). Cold res?
@@ -99,6 +95,19 @@ They've researched more into the potential of dragon eggs as amplifiers to open 
 Gate changes. Path up that turns icy.
 
 (Pentachoron identified as a planar teleporter. Goblin came out of it earlier trying to move it. But he escaped into it. We think it contains a rather large plane, demi-plane, pocket-plane hard to tell.)
+
+### RECAP 5
+They defeated Neri after a long fight where she retreated continuously and tried to revive her allies. Hard battle where she swapped bodies with her identically dressed rangers, only revealing who she was when attacking with her storm bow.
+
+You cycled through quote a bit of healing potions and ammunition, but after both GW and Mordai had gone down (one at a time), Faey finished her off with a critical hit Arrow of Slaying to the face.
+
+Before resting you found a surprise portal to the Faeywild's Seelie Court were you spoke to Titania and had a minor spiritual goodbye for Hans.
+
+You were messaged by Gludom, who had learned some tricks from Felgolos. Felgy unfortunately had to depart for now. But he left you many tips and goods. Plus, you also managed to identify all the goods from Halos' reliquary.
+
+However, you did learn about Umnos being a barbarian known for riding dragons. And you heard Fryggt hard left his post.
+
+With plenty of items identified, and some rough plans starting to form, we carry on were we left off.
 
 ## Mask notability
 Created by Umnos early on. They prevent magical divination like scrying from working on the wearer.
