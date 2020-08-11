@@ -3,6 +3,12 @@
 
 Big FU on door?
 
+### Spire
+Contains final crystal. Prismatic wall (30 foot sphere around it - repeat cast with the power of the spine at full power).
+Enormous tree in the center growing with blue roots hooked seemingly into the stone below.
+
+## Peak; Halos Omphalos
+
 ## Umnos
 No larger than a regular giant.
 Huge bulging blue muscles and black energy swirling inside of him. large golden cumberbud (belt).
@@ -47,11 +53,6 @@ Legendary actions:
 
 Haste as enrage; 3 attacks.
 
-## Spire
-Contains final crystal. Prismatic wall (30 foot sphere around it - repeat cast with the power of the spine at full power).
-She can be inside the prismatic wall with it and use Dominate Monster on Umnos.
-Door up to Umnos is heavily guarded and no one can actually enter.
-
 ## Exit (Kavaki)
 Path up the tree. Spectral form simply asking goatweaver to "come with me".
 At the top of the tree, he's in Ysgard.
@@ -77,6 +78,8 @@ To my most devout goatlings, (with the best name, i knew from birth that you wer
 But it time. You have proven yourself worthy of my powers. I will grant you a portion of my powers. But in return, you must save the world, and spread the good word of me, Kavaki. So that the legacy can live on. Also, I still need followers so I can stay here.
 
 ## Exit (Mordai)
+Path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/ inside, much bigger.
+
 See a specral jackal headed figure standing behind your parental figures. The ones you have not seen in years. The figure slices through your parents, but they retain their smiles. But as he does, a winged figure from the heavens descends and sends a beam of white energy towards the jackall. His power over you, is no more. You are favoured by the gods, do not forget it. You see the what's left of the jackal (his spectral form filled with burn marks) begrudgingly look at you. "You have served me well. You have earned your powers."
 (see into his eyes and you can see his powers, and he dislikes it).
 
@@ -96,21 +99,46 @@ mordai lends book to guy in luskan, but celerom then sows the idea in the mind o
 machination by fiend.
 
 ## Exit (Faey)
-Portal leading to a path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/
+From picture of mithrendain top after portal; a staircase. Eventually leading to Seelie Court. But on brige up to that; Spectral Hans standing in the center. Warm but somber smile. Gives you a hug, his energy swirls around you in a constant circle, not dissapating just constantly spinning. You feel it reaching into the very center of your being. As you focus on it, it quickly starts swirling inwards otwards your heart. (Ki restore ability; Focus of Hans)
 
-Hans standing there? Seelie court?
-TODO: ask Faey for information on how he would like to ascend?
+Trees, gossamer treads, gems, marble columns, irridescent blues, greens and purples. Phosphorescent flowers. Amathysts, Saphires line pathways to throne.
+
+At the top of Mithrendain normally (https://youtu.be/QvFBvIjUlr4?t=445 picture), but it's really a travelling pocket plane moving to where it is needed.
+
+The pinnacle of perfection sit ruling. 4 Arch-fey ruling + Queen
+- Titania - Summer Queen with diamond tipped wand, golden eyes
+- Nathair Sgiathach (neigh-er skey-ak) - Pseudo Dragon Prince. 60cm tall. Huge smile. Tiny dragon with gossamer butterfly-wings and a prehensile tail. Jester. Red light on buttock pranks.
+- Fionnghuala (fin-ell-ah) - Swanmays (human ranger), swan feathered everywhere. Gossamer armor. Brave. Selfless. Virtuous.
+- Caoimhin (koo-ev-inn) - large noused killmoulis, thick ragged wool garment and gossamer armor (shy)
+- Emmantiensien (emm-ann-tee-enz-ee-an) - treants. Light reflecting bark. Super high wisdom, but quiet.
+- Sunwuko - Monkey King
+
+Faeries abount. Pixies, unicorns all float or dot the parts outside the main platform. Smell of freshly cut grass
+Rest of party must wait before bridge.
+
+Titania: Faeynore. It is time, you were granted an audience.
+(She's frivolous, brilliant strategist, dry sense of humor, pragmatic, hard to hanger)
+I'm not sure it has fully dawned on you. But Hans, is gone. Vanished from the face of your reality if you will.
+You have no idea how much he's helped you, but now that all you did for him, was heavily appreciated. For him to rise in the ranks as an Assimar in the Faeywild with such troubles behind him, is nothing short of a miracle.
+But we also have to recognise that he is gone. You two would have been a fine team leading the Watchers.
+_Anything to say about Hans?_
+
+Titania wants Umnos gone. The place sits as a gateway to Mithrendain and is corrupted by the portal. It's upsetting the balance of this place. The center of Toril weave.
+
+Do this and you will be granted the title of Lord of Shadow and Master of the Watchers. Your name will spread wide. You will have your own section of the faeywild. And you will start to gain the renown needed to help others through your patronage. I could not think of a better elf to ensure the balance is in harmony. While your mastery of the shadows is near unprecedented, try not to succumb to its corruption. I have already lost one sister to darkness.
+
+
+Faey motivation:
 12 monk subclass way of the shadow
 will be 3 rogue: assassin
 utilitarian
 protect the feywild, keep the balance (nature good/evil circle of life)
-sunwuko faey god monkey king?
 
-maybe he just feels assassination being better...
-maybe spend ki point to gain advantage
-bonus to wisdom (for his stun dc)
+Bonuses:
+- spend ki point to gain advantage
+- bonus to wisdom (for his stun dc)
+
 can do this during the halos battle
-
 hans' spirit helps him find his center; regain 5 ki points as an action once per day
 "i did what i had to do, and so must you"
 you do not know where this voice comes from, but you find it oddly calming, to see hans' face so calm after all the hardship he's gone through
