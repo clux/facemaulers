@@ -13,6 +13,7 @@ https://forgottenrealms.fandom.com/wiki/Claw_of_the_revenancer
 https://forgottenrealms.fandom.com/wiki/Rod_of_the_twisted_Weave
 https://forgottenrealms.fandom.com/wiki/Eyes_of_the_spider
 https://forgottenrealms.fandom.com/wiki/Silveraith
+https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
 
 ## OMEGA PLANS
 https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
