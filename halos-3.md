@@ -127,20 +127,57 @@ what happened to him
 ## Exit (Mordai)
 Fiend he's ultimately related to Mephisto(pheles)
 https://i.imgur.com/NEboCVd.png
-Bonus; Spell Shield (adv saving throws vs spells, on save, temp hp == spell level)
-Bonus; Spell Leech; bonus action grab lowest level spell of spell slot of creature it can see within 30 ft (and you gain it).
-EB -> Can be Frost. Remodel freeze ray.
 
-Delivery. Icy path around what looks like a model of an icy spire. It looks like it's right there on the wall, and tiny, but as you put your hand out, it passes through a dimensional shimmer. Snow covered Imp walks out of a bridge out of this spire and jumps through the barrier with a tome in his hand. Steps up to Mordai. "Master 'phisto has declared that as his favoured child, you be rewarded with this."
+Waylain mid teleport. Mephistar. Cania.
 
+All info sent in a locked soulbound tome to mordai via an imp with the message.
+
+High level: Contract shit, voiding patron. Reasons: 9 hells and gehanna opposed? Cannot receive more power. Throughput? Data breach issue.
+
+Pit fiend. Azeryx. Senior Operations at Caina.
+Eriness. Tryx(ira) High level divine relations at Mephistar.
+Annoyed she has to do this.
+
+Look. Your divine claim is important to us. Your contributions in the material plane is valuable to us, you've clearly put a lot of energy into legitimizing your continued claim to the "divine".
+But your path is really no longer going to work at high level operations. The fact that a creature on Gehanna can eavesdrop on our divine gifts to you is not acceptable at this level. In fact, at any higher order gifts, would be considered a weave breach. And we take our security very seriously. As does my friend Azeryx over here.
+
+Azeryx (stops hands).
+Common: "I am ready to turn your faces into hood ornaments"
+
+
+So we are going to need some sacrifices from you. You need to sever your relations to your patron. Which means that active patron gifts will have to stop working. Eldritch invocations will cannot work as it is magic proxied through Gehanna, and that is the security hole we have to close. So eldritch blast, has to go. Find familiar we can migrate to a divine blessing. We have enough imps to spare. Eldritch sight can also be migrated.
+
+However. We realise that this leaves you feeling a little lessened by this contractual revision. So we are prepared to offer you a gracious selection of  divine offerings, at greatly discounted rates.
+
+However, we need one thing of you if you wish to continue your service with us. You need to start a Cult. It doesn't need to be a big thing at first, but you do have to tend to it at least every week, or get someone you trust on it. As a leader of a Cult of Mephistoles, you'll be able to grant signature spells to your fellow cultists; Fire Bolt, burning hands(2nd), flaming sphere (3rd). Which is going to be necessary for you to get enough weave throughput at your higher level adventures.
+Goal: Magical skill and power, backed with the will to use it to crush rivals. Find eager recruits willing to study magic. Any monsters that use spells can be convinced to follow, but wizards or other conclaves of sages are also good.
+
+As a result; can keep EB benefits, but it becomes a Mephisto Blast (cold dmg / fire swappable great deal, adding spell casting power (cha modifier) to spell dmg also purchasable). Same dmg.
+
+Bonus sales:
+- Grafitti a house of a Good deity when in a city. "Mephisto judges all who serves under {{WORSHIPPED GOD}}". Simple spreading of fear. We probably won't even do anything with that, but we sow a seed of doubt.
+- The carcasses of 49 cats, to be delivered in a single bulk payment.
+- Soul of Umnos; early access otherworldly wings (14th sorc feat)
+- Nickname fo summoning.
+(Not as powerful as your true name, but need one of emotional significance. So we can summon you to Cania every now and then. Only in a form where you cannot be permanently injured.)
+(Though can still force him to fight. Can command you to perform duties (as you are a summoned creature), but torture will not have any real effect.)
+Can also come and collect any high level creatures you kill in the next 3 days.
+
+Wagers:
+- +2 CHA/ +2 INT for a random -1d4 STR
+- If you dies in the next 3 days. We get your soul. Prevents resurrection magic. GET: one ability bonus of your choice +1.
+
+CULT BONUSES (if you get at least 3 followers, then 10)
+3 Bonus; Spell Shield (adv saving throws vs spells, on save, temp hp == spell level)
+10 Bonus; Spell Leech; bonus action grab lowest level spell of spell slot of creature it can see within 30 ft (and you gain it).
+
+## Dropped
+### mordai sketch 2
 Infernal: Mephisto is happy to have received so many corrupted storm giants. They are great for his experiments. From Cania in the Icy Citadel of Mephistar conducts series of arcane experiments. Highly irregular mind control that affected these giants.
 (he's also happy to see weird magic from him, and they're trying to study it, but hard from afar)
 P.S. We can sense magical energies we've never detected before from you or your vicitiny. Please keep doing what you are doing.
 P.P.S. You are welcome at any time to visit Cania.
 
-All info sent in a locked soulbound tome to mordai via an imp with the message.
-
-## Dropped
 ### mordai sketch 1
 Path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/ inside, much bigger.
 
