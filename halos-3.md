@@ -129,13 +129,16 @@ Fiend he's ultimately related to Mephisto(pheles)
 https://i.imgur.com/NEboCVd.png
 
 Waylain mid teleport. Mephistar. Cania.
+Or infernal:
+infernal: e·tir  tot  zo·ga·ment  a·tle  ho·ha·har
+common: child, your presence is required
 
 All info sent in a locked soulbound tome to mordai via an imp with the message.
 
 High level: Contract shit, voiding patron. Reasons: 9 hells and gehanna opposed? Cannot receive more power. Throughput? Data breach issue.
 
-Pit fiend. Azeryx. Senior Operations at Caina.
-Eriness. Tryx(ira) High level divine relations at Mephistar.
+Pit fiend. Azeryx. High Level Relations at Caina.
+Eriness. Tryx(ira) Senior Operations at Mephistar.
 Annoyed she has to do this.
 
 Look. Your divine claim is important to us. Your contributions in the material plane is valuable to us, you've clearly put a lot of energy into legitimizing your continued claim to the "divine".
@@ -143,7 +146,7 @@ But your path is really no longer going to work at high level operations. The fa
 
 Azeryx (stops hands).
 Common: "I am ready to turn your faces into hood ornaments"
-
+Infernal: ath  hant  gu·te  ew  zont  tot  du·zo  hop  mun  e·to·gent
 
 So we are going to need some sacrifices from you. You need to sever your relations to your patron. Which means that active patron gifts will have to stop working. Eldritch invocations will cannot work as it is magic proxied through Gehanna, and that is the security hole we have to close. So eldritch blast, has to go. Find familiar we can migrate to a divine blessing. We have enough imps to spare. Eldritch sight can also be migrated.
 

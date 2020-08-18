@@ -109,6 +109,13 @@ However, you did learn about Umnos being a barbarian known for riding dragons. A
 
 With plenty of items identified, and some rough plans starting to form, we carry on were we left off.
 
+### Recap 6
+BOUGHT ALL THE POTIONS. SUMMONED STAGWEAVER.
+
+Heroes feast. 5 potions on GW + Valkyrie + Stagweaver.
+
+Interruption; gates to Mephistar on which you met Tryx, an Erinye working on Mephistar. Implied they were behind some of the blessings and divine spark behind Mordai's powers. Mordai turned away before any concrete offers were laid on the table. No powers seemed to be influenced by this.
+
 ## Mask notability
 Created by Umnos early on. They prevent magical divination like scrying from working on the wearer.
 
