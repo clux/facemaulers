@@ -16,9 +16,7 @@ Specials:
 
 ## Enemy specials
 - Fracto: Adv on attack rolls when mounted
-- Fracto: Force attacks toward himself rather than mount (both ways)
-- Mount: takes no damage if it saves (maybe nerf for both ways ^)
-- Fryggt; 3x leg res. 3 leg ctions per turn.
+- Fracto: Force attacks toward himself rather than mount (both ways modified)
 - STR SAVES: +8 FRYGGT, +16 FRACTO
 - DEX SAVES: +6 FRYGGT, +4 FRACTO
 - CON SAVES: +14 FRYGGT, +13 FRACTO
@@ -38,16 +36,20 @@ Dragon dead: two turns;
 
 
 ## Fracto; AC21
-+18 to hit. 2d6+13 (or 16 rage) slashing (ignoring re-roll, likely disadv against GW)
++18 to hit. 2d6+13 (or 16 rage) base necro, bonus lg (ignoring re-roll, likely disadv against GW), crits 5d6 necro base.
+=> 20 per hit expected with lg res
 2 attack. Sentinel while riding.
 LOTS OF HP IF HE CONSUMES FRYGGT 257+(162..504)
 Leg 1: Riposte reaction attack. Add superiority dice to dmg.
 Leg 1: Sweeping strike; hit another within reach
-Leg 1: Pushing attack; 15ft on STR save fail DC24 - make it bludgeoning.
+Leg 1: Thunderwave 2d8 thunder on CON save 20
+Leg 1: Pushing attack; 15ft on STR save fail DC24 - 2d8 bludgeoning.
 
-=> E(DMG) = 176 (4 attacks) 132 (3 attacks), 96 (2)
-assumes rage (+3)
-Do 2 attacks baseline. MAYBE MORE LATER.
+E(DMG) = 80 (2 attacks per round), 120 (3 attacks per round)
+Should always get three attacks with sweeping / riposte (leg action) (or haste). Haste cancels out slow except for one less leg action.
+If he's slowed he can only do one leg action + one push
+B(BUFFED) = 23*4*2 = 184  (96 p round with haste, 2 leg actions)
+
 
 ## Fryggt; AC20
 +14 to hit.
@@ -59,6 +61,7 @@ Do 2 attacks baseline. MAYBE MORE LATER.
 Breath; recharge 5/6; 90ft cone DC22 CON vs 16d8 cold dmg. Half on success.
 Pointless fear (do it at start, onions and garlic).
 NOTE: 72 two one or TWO creatures (hiffee) on breath
+USE BREATH OFTEN. IT'S ACTUALLY BETTER WHEN THEY HAVE RESIST.
 
 (EXPECT TO BE SLOWED)
 => 1 less claw, 1 less leg action => -(2d8+8 +2d6+8 bonus), -2AC
@@ -88,6 +91,7 @@ Healing pool; 116 HP + 70 HP lay on hands + 10d4+20 Supreme + 8d4+8 superior
 holy weapon for one round (likely max last two conc) => 3x2d8*2 dmg
 => E(DMG) = 60*2+50 = 200
 (but decreasing after holy weap)
+=> E_late(DMG) = 150
 
 ## Faey; 21 AC
 Hasted => 21 AC
@@ -97,14 +101,14 @@ stinger => 1d8+13 +d6 frostjade (x2 haste) => 44pr
 unarmed => 1d8+7 (x2 on bonus) => 24pr
 
 => E(DMG) = 108 ranged + 50 LIGHTNING / 144 melee
-
+Pretty consistent dmg when not healing
 Stun CON 17. Slow WIS 17.
 Healing pool; Supreme; x2 10d4+20, AOE 8d8
 
 ## Mordai; AC 17 (23 SHIELD)
 Hex on a save!
 Lightling 14d6 from staff at max => 56 once
-Fireball; 8d6 Dex save => 32 per cast
+Fireball; 8d6 Dex save => 32 per cast, 36 emp
 Chance to hold (leg save)
 Chance to polymorph; WIS SAVE
 BEACON OF HOPE (MAX HP ON HEALS)
@@ -112,15 +116,18 @@ Heal pool; Cure wounds 1d8+(Nd8)+5 (MANY), Potions; 8d8+4, 10d4+20
 Beacon Max => 60 on supreme, 68 on superior, 37 on 4th CW.
 
 EB: 2/3 beams hit for 11 each
-=> E(DMG) = 56 LG + 32 => 88
+=> E(DMG) = 56 LG + 32 EB + 36 FB = 124
+=> E_late(DMG) = 3*32 = 96
 
 ## DEUS EX: Sansuri
 Smiling one. Take focus for a turn or two.
 
 
 ## ROUGH CALCULATION;
-Party; can do 500dmg in 2 rounds
-Enemies; at most 200 per round (keep Umnos maintaining dragon ride)
+Party; can do 500dmg in 2 rounds, but reliably 300
+Enemies; with dragon, expect 200 in two rounds.
+
+Dragon can go down in 2/3 rounds. At which point 300dmg dealt.
 Try to limit Umnos to 100 per round. TODO: maybe scale weapon to have some LG.
 
 Party has: 300 HP. Can heal about 100 per round at the cost of not damaging.
