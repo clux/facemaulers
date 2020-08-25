@@ -29,6 +29,7 @@ Specials:
 - Fracto: adv STR checks / saves
 - Fracto; ADV ON ALL WHEN TEMP HPd
 - Fracto; Levitate if steed banished
+- Fracto; dodge when alone uncentered; negates arrows.
 
 Dragon dead: two turns;
 - Absorb dragon
@@ -36,26 +37,35 @@ Dragon dead: two turns;
 
 
 ## Fracto; AC21
-+18 to hit. 2d6+13 (or 16 rage) base necro, bonus lg (ignoring re-roll, likely disadv against GW), crits 5d6 necro base.
-=> 20 per hit expected with lg res
++18 to hit. 2d6+13 (or 16 rage) base LG, bonus necro (ignoring re-roll, likely disadv against GW), crits 5d6 LG base.
+=> 20 per hit with lg res and rage
 2 attack. Sentinel while riding.
 LOTS OF HP IF HE CONSUMES FRYGGT 257+(162..504)
 Leg 1: Riposte reaction attack. Add superiority dice to dmg.
-Leg 1: Sweeping strike; hit another within reach
-Leg 1: Thunderwave 2d8 thunder on CON save 20
+Leg 1: Sweeping strike; hit both within reach, but LG dmg on bonus
+Leg 1: Thunderwave arc 15 foot cone 3d8 thunder on CON save 20
+Leg 2: Lightning lift; STR contest on HIT. Fail => extra leg action, lift SHOOT. 8d6 LG + 16 NECRO (44 with res). Then they are prone.
 Leg 1: Pushing attack; 15ft on STR save fail DC24 - 2d8 bludgeoning.
 
-E(DMG) = 80 (2 attacks per round), 120 (3 attacks per round)
-Should always get three attacks with sweeping / riposte (leg action) (or haste). Haste cancels out slow except for one less leg action.
-If he's slowed he can only do one leg action + one push
-B(BUFFED) = 23*4*2 = 184  (96 p round with haste, 2 leg actions)
+MAKE ATTACKS COOL AND WIDE.
+JUMP INTO COMBAT.
+Special attacks; Call chain lightning. Weapon to heavens. (full action)
 
+Always do 2 leg actions; (even if slowed => 4 attacks pr)
+Haste cancels out slow except for one less leg action.
+Crit once every other round. => one out of 8 hits does: 36 (26 with lg res)
+If enemy backs off, he can parry shots with weapon when dodging.
+
+E(DMG) = 20*3+26 + 2*20 + 15 + 10 = 151
+(3 attcks, 1 crit, 2 sweep/riposte +thwave +push)
+E_haste(DMG) = 20*5 +26 + 2*20 + 15 + 10 = 191
+(5 attacks, 1 crit, same 4 leg actions)
 
 ## Fryggt; AC20
 +14 to hit.
-1x Bite 15ft 2d10+8 pierce + 2d8 cold
-2x Claw 10ft: 2d6+8 slashing
-(Leg 1) Tail: 2d8+8 bludgeoning
+1x Bite 15ft 2d10+8 pierce + 2d8 cold = 23 (with res)
+2x Claw 10ft: 2d6+8 slashing = 16
+(Leg 1) Tail: 2d8+8 bludgeoning = 18
 (Leg 1) Detect (perception check)
 (Leg 2) Wing+FLY: 15ft radius DC22 DEX save vs 2d6+8 bludgioning or PRONE.
 Breath; recharge 5/6; 90ft cone DC22 CON vs 16d8 cold dmg. Half on success.
@@ -70,6 +80,7 @@ USE BREATH OFTEN. IT'S ACTUALLY BETTER WHEN THEY HAVE RESIST.
 => E(DMG) = 128 slowed melee, 196 unslowed melee
 NB: More if breath hits more than one. Otherwise breath is roughtly equal.
 Breath worse if they CON SAVE 22.
+Breath on 3x is about the same as unslowed melee.
 
 
 ## Hiffee - Valkyrie; 19AC
@@ -94,13 +105,13 @@ holy weapon for one round (likely max last two conc) => 3x2d8*2 dmg
 => E_late(DMG) = 150
 
 ## Faey; 21 AC
-Hasted => 21 AC
-bow: 1d8+13 => 36 pr (+half of slaying; 3d10) (10d8 stormbow)
+Hasted => 21 AC, 3 attacks
+bow: 1d8+13 => 54 pr (then half of arrow slaying; 3d10) (10d8 stormbow)
 sneak: d6 pr => 4
-stinger => 1d8+13 +d6 frostjade (x2 haste) => 44pr
+stinger => 1d8+13 +d6 frostjade (x3 w haste) => 66pr
 unarmed => 1d8+7 (x2 on bonus) => 24pr
 
-=> E(DMG) = 108 ranged + 50 LIGHTNING / 144 melee
+=> E(DMG) = 121 ranged + 50 LIGHTNING / 184 melee
 Pretty consistent dmg when not healing
 Stun CON 17. Slow WIS 17.
 Healing pool; Supreme; x2 10d4+20, AOE 8d8
@@ -124,10 +135,28 @@ Smiling one. Take focus for a turn or two.
 
 
 ## ROUGH CALCULATION;
-Party; can do 500dmg in 2 rounds, but reliably 300
-Enemies; with dragon, expect 200 in two rounds.
+Party; can maybe do 500dmg in 2 rounds, but reliably 300
+Rider combo; with dragon, expect 200 in two rounds (if we let umnos attack)
+Umnos solo: 75 pr. 100 hasted.
+
 
 Dragon can go down in 2/3 rounds. At which point 300dmg dealt.
 Try to limit Umnos to 100 per round. TODO: maybe scale weapon to have some LG.
 
 Party has: 300 HP. Can heal about 100 per round at the cost of not damaging.
+
+Math;
+Average; 250+300+300 dmg needed. (3 rounds)
+Hard: 250+500+500 (5 rounds)
+
+in 5 rounds;
+- 2 rounds: rider combo has done 200 (then died)
+- (none round: dragon drained and umnos raging (one extra if they are weak)
+- 2-4 rounds: umnos has lost his temp hp (at least 3 on hard) 150-300dmg
+- 2 rounds; umnos on last hp, raging 200dmg
+
+1 round sacrifice on sansuri?
+1 round sacrifice on hiffee? (breath on her early)
+
+up to 700 dmg taken by party. They have 300 + can heal 133 each => 700
+They need to do some lockdown and magic to do well. Mordai has control magic, they have crit potential.
