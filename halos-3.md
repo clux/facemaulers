@@ -1,11 +1,9 @@
-
 ## Entrance
 
-Big FU on door?
-
 ### Spire
-Contains final crystal. Prismatic wall (30 foot sphere around it - repeat cast with the power of the spine at full power).
-Enormous tree in the center growing with blue roots hooked seemingly into the stone below.
+Contains final crystal. Prismatic wall (30 foot sphere around it - repeat cast with the power of the spine at full power, disappears if umnos dies).
+Broken tree in the center.
+Grows enormous with growing with blue roots that hook into the stone and spire below, and link the variour platforms.
 
 ## Peak; Halos Omphalos
 
@@ -14,8 +12,16 @@ No larger than a regular giant.
 Huge bulging blue muscles and black energy swirling inside of him. large golden cumberbud (belt).
 Blue light emits from his jaw, eyes, and it crackles from his hair (huge, windswept, crazy, even eyebrows and beard follows this style). Very Zeusy.
 
+## Lines
+She told me there would be more to come.
+TODO: lines
+I didn't believe her when she told me they would slaughter my family to get the job done.
+(Ok with world burning, mind affecting)
+
+TODO: lines during battle. It's going to take a while.
+
 ### Motivation
-Allied with Irae. Sword now in a perfect symbiotic relationship with him. Irae has infused the sword with properties akin to Blackrazor.
+Allied with Irae. Sword now in a perfect symbiotic relationship with him. Irae has infused the sword with properties akin to Blackrazor. Been around since the time of Kiaransalee, so he is infused with the powers of them.
 
 LVL 18 GIANT BARBARIAN RIDING A AN ANCIENT WHITE DRAGONG.
 Fryggt.
@@ -53,150 +59,9 @@ Legendary actions:
 
 Haste as enrage; 3 attacks.
 
-## Exit (Kavaki)
-Path up the tree. Spectral form simply asking goatweaver to "come with me".
-At the top of the tree, he's in Ysgard.
 
-A large spectral goliath is there, two large horns curling half a rotation around the side of his head, but somehow, he ends up looking less like a fiend, but rather more cute. You don't know him, but he looks at you with a big smile.
-Kavaki is a ascended Barbarian (Grog style).
-
-Wearing big green vestments that are too big for him (not closing properly).
-Uh. Hi. I don't usually do this. But you've been really good.
-(he has to do this so he can maintain godhood, otherwise fades into obscurity)
-
-oh, (excited) dressed for the occasion, wouldn't want to be sending the wrong message, with the ol' sight and all.
-
-Welcome to your arisening. I've you've been doing real well, uh, i mean, you've been smashing things really hard lately. (oh, this sounded so much better earlier).
-
-Well, you see. I am actually a really good god. I don't even have to try very hard, that's how good I am. I was the strongest Goliath in goat master tribe of redwater. I smashed things so hard, they called me the ram. No one else smashed as hard, even when I was near, I heard them calling my name. It made me even stronger.
-(One of the next leaders actually went on to save the world, and it was the best thing. He attributed it all to me, and I've been able to pick and choose my favourite goliaths ever since. Akkhan.)
-(Now they call me their creator, just because I helped the tribe when I was younger.)
-
-Anyway. And you have reached a critical threashold of paladineosis/paladiniusness you've become a real palagorn, and as much must retrieve your reward.
-To my most devout goatlings, (with the best name, i knew from birth that you were going to be special, i had already chosen).
-
-But it time. You have proven yourself worthy of my powers. I will grant you a portion of my powers. But in return, you must save the world, and spread the good word of me, Kavaki. So that the legacy can live on. Also, I still need followers so I can stay here.
-
-## Exit (Faey)
-From picture of mithrendain top after portal; a staircase. Eventually leading to Seelie Court. But on brige up to that; Spectral Hans standing in the center. Warm but somber smile. Gives you a hug, his energy swirls around you in a constant circle, not dissapating just constantly spinning. You feel it reaching into the very center of your being. As you focus on it, it quickly starts swirling inwards otwards your heart. (Ki restore ability; Focus of Hans)
-
-Trees, gossamer treads, gems, marble columns, irridescent blues, greens and purples. Phosphorescent flowers. Amathysts, Saphires line pathways to throne.
-
-At the top of Mithrendain normally (https://youtu.be/QvFBvIjUlr4?t=445 picture), but it's really a travelling pocket plane moving to where it is needed.
-
-The pinnacle of perfection sit ruling. 4 Arch-fey ruling + Queen
-- Titania - Summer Queen with diamond tipped wand, golden eyes
-- Nathair Sgiathach (neigh-er skey-ak) - Pseudo Dragon Prince. 60cm tall. Huge smile. Tiny dragon with gossamer butterfly-wings and a prehensile tail. Jester. Red light on buttock pranks.
-- Fionnghuala (fin-ell-ah) - Swanmays (human ranger), swan feathered everywhere. Gossamer armor. Brave. Selfless. Virtuous.
-- Caoimhin (koo-ev-inn) - large noused killmoulis, thick ragged wool garment and gossamer armor (shy)
-- Emmantiensien (emm-ann-tee-enz-ee-an) - treants. Light reflecting bark. Super high wisdom, but quiet.
-- Sunwuko - Monkey King
-
-Faeries abount. Pixies, unicorns all float or dot the parts outside the main platform. Smell of freshly cut grass
-Rest of party must wait before bridge.
-
-Titania: Faeynore. It is time, you were granted an audience.
-(She's frivolous, brilliant strategist, dry sense of humor, pragmatic, hard to hanger)
-I'm not sure it has fully dawned on you. But Hans, is gone. Vanished from the face of your reality if you will.
-You have no idea how much he's helped you, but now that all you did for him, was heavily appreciated. For him to rise in the ranks as an Assimar in the Faeywild with such troubles behind him, is nothing short of a miracle.
-But we also have to recognise that he is gone. You two would have been a fine team leading the Watchers.
-_Anything to say about Hans?_
-
-Titania wants Umnos gone. The place sits as a gateway to Mithrendain and is corrupted by the portal. It's upsetting the balance of this place. The center of Toril weave.
-
-Do this and you will be granted the title of Lord of Shadow and Master of the Watchers. Your name will spread wide. You will have your own section of the faeywild. And you will start to gain the renown needed to help others through your patronage. I could not think of a better elf to ensure the balance is in harmony. While your mastery of the shadows is near unprecedented, try not to succumb to its corruption. I have already lost one sister to darkness.
-
-
-Faey motivation:
-12 monk subclass way of the shadow
-will be 3 rogue: assassin
-utilitarian
-protect the feywild, keep the balance (nature good/evil circle of life)
-
-Bonuses:
-- spend ki point to gain advantage
-- bonus to wisdom (for his stun dc)
-
-can do this during the halos battle
-hans' spirit helps him find his center; regain 5 ki points as an action once per day
-"i did what i had to do, and so must you"
-you do not know where this voice comes from, but you find it oddly calming, to see hans' face so calm after all the hardship he's gone through
-what happened to him
-
-
-## Exit (Mordai)
-Fiend he's ultimately related to Mephisto(pheles)
-https://i.imgur.com/NEboCVd.png
-
-Waylain mid teleport. Mephistar. Cania.
-Or infernal:
-infernal: e·tir  tot  zo·ga·ment  a·tle  ho·ha·har
-common: child, your presence is required
-
-All info sent in a locked soulbound tome to mordai via an imp with the message.
-
-High level: Contract shit, voiding patron. Reasons: 9 hells and gehanna opposed? Cannot receive more power. Throughput? Data breach issue.
-
-Pit fiend. Azeryx. High Level Relations at Caina.
-Eriness. Tryx(ira) Senior Operations at Mephistar.
-Annoyed she has to do this.
-
-Look. Your divine claim is important to us. Your contributions in the material plane is valuable to us, you've clearly put a lot of energy into legitimizing your continued claim to the "divine".
-But your path is really no longer going to work at high level operations. The fact that a creature on Gehanna can eavesdrop on our divine gifts to you is not acceptable at this level. In fact, at any higher order gifts, would be considered a weave breach. And we take our security very seriously. As does my friend Azeryx over here.
-
-Azeryx (stops hands).
-Common: "I am ready to turn your faces into hood ornaments"
-Infernal: ath  hant  gu·te  ew  zont  tot  du·zo  hop  mun  e·to·gent
-
-So we are going to need some sacrifices from you. You need to sever your relations to your patron. Which means that active patron gifts will have to stop working. Eldritch invocations will cannot work as it is magic proxied through Gehanna, and that is the security hole we have to close. So eldritch blast, has to go. Find familiar we can migrate to a divine blessing. We have enough imps to spare. Eldritch sight can also be migrated.
-
-However. We realise that this leaves you feeling a little lessened by this contractual revision. So we are prepared to offer you a gracious selection of  divine offerings, at greatly discounted rates.
-
-However, we need one thing of you if you wish to continue your service with us. You need to start a Cult. It doesn't need to be a big thing at first, but you do have to tend to it at least every week, or get someone you trust on it. As a leader of a Cult of Mephistoles, you'll be able to grant signature spells to your fellow cultists; Fire Bolt, burning hands(2nd), flaming sphere (3rd). Which is going to be necessary for you to get enough weave throughput at your higher level adventures.
-Goal: Magical skill and power, backed with the will to use it to crush rivals. Find eager recruits willing to study magic. Any monsters that use spells can be convinced to follow, but wizards or other conclaves of sages are also good.
-
-As a result; can keep EB benefits, but it becomes a Mephisto Blast (cold dmg / fire swappable great deal, adding spell casting power (cha modifier) to spell dmg also purchasable). Same dmg.
-
-Bonus sales:
-- Grafitti a house of a Good deity when in a city. "Mephisto judges all who serves under {{WORSHIPPED GOD}}". Simple spreading of fear. We probably won't even do anything with that, but we sow a seed of doubt.
-- The carcasses of 49 cats, to be delivered in a single bulk payment.
-- Soul of Umnos; early access otherworldly wings (14th sorc feat)
-- Nickname fo summoning.
-(Not as powerful as your true name, but need one of emotional significance. So we can summon you to Cania every now and then. Only in a form where you cannot be permanently injured.)
-(Though can still force him to fight. Can command you to perform duties (as you are a summoned creature), but torture will not have any real effect.)
-Can also come and collect any high level creatures you kill in the next 3 days.
-
-Wagers:
-- +2 CHA/ +2 INT for a random -1d4 STR
-- If you dies in the next 3 days. We get your soul. Prevents resurrection magic. GET: one ability bonus of your choice +1.
-
-CULT BONUSES (if you get at least 3 followers, then 10)
-3 Bonus; Spell Shield (adv saving throws vs spells, on save, temp hp == spell level)
-10 Bonus; Spell Leech; bonus action grab lowest level spell of spell slot of creature it can see within 30 ft (and you gain it).
 
 ## Dropped
-### mordai sketch 2
-Infernal: Mephisto is happy to have received so many corrupted storm giants. They are great for his experiments. From Cania in the Icy Citadel of Mephistar conducts series of arcane experiments. Highly irregular mind control that affected these giants.
-(he's also happy to see weird magic from him, and they're trying to study it, but hard from afar)
-P.S. We can sense magical energies we've never detected before from you or your vicitiny. Please keep doing what you are doing.
-P.P.S. You are welcome at any time to visit Cania.
-
-### mordai sketch 1
-Path outside where the weather is serene. Pass by a house with purple flowers and light. https://www.pinterest.co.uk/pin/312859505366843177/ inside, much bigger.
-
-See a specral jackal headed figure standing behind your parental figures. The ones you have not seen in years. The figure slices through your parents, but they retain their smiles. But as he does, a winged figure from the heavens descends and sends a beam of white energy towards the jackall. His power over you, is no more. You are favoured by the gods, do not forget it. You see the what's left of the jackal (his spectral form filled with burn marks) begrudgingly look at you. "You have served me well. You have earned your powers."
-(see into his eyes and you can see his powers, and he dislikes it).
-
--> find familiar must be one of the standard from the spell list (no imp)
--> eldritch blast gains the 17th level ability
--> cannot take another level in warlock
-
-alternatively, find familiar starts malfunctioning (up to pit fiend)
-
-maybe he can choose to fight it or not.
-solar would like like to gift something, but you would have to leave this dark creature from gehanna; then have to battle it 1v1 / solar does it.
-solar: "according to elysial rule, i cannot gift you this..."
-
 ### Umnos mindcontrol
 Feeblemind?.. can be ended by greater restoration..
 Dominate Monster at 9th level lasts up to 8 hours... she is just better at it..
