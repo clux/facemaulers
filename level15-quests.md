@@ -1,3 +1,12 @@
+## Final session
+Ysgard:
+https://en.wikipedia.org/wiki/Norse_mythology#Gods_and_other_beings
+https://en.wikipedia.org/wiki/%C3%86sir#List_of_%C3%86sir
+
+Offer what it would be like to see through others eyes?
+https://old.reddit.com/r/UnearthedArcana/comments/igig3p/bizarre_substitution_when_youre_into_pranks_but/
+Who would prank that.. Faey creatures!
+
 ## Exit (Kavaki)
 Path up the tree. Spectral form simply asking goatweaver to "come with me".
 At the top of the tree, he's in Ysgard.
@@ -63,6 +72,8 @@ protect the feywild, keep the balance (nature good/evil circle of life)
 Bonuses:
 - spend ki point to gain advantage
 - bonus to wisdom (for his stun dc)
+- extract aspects? (cobalt soul - learn dmg vulnerabilities with ki point)
+- item? something that gives him shadow blade? 2d8 psychic dmg extra per round?
 
 can do this during the halos battle
 hans' spirit helps him find his center; regain 5 ki points as an action once per day
@@ -103,6 +114,8 @@ However, we need one thing of you if you wish to continue your service with us. 
 Goal: Magical skill and power, backed with the will to use it to crush rivals. Find eager recruits willing to study magic. Any monsters that use spells can be convinced to follow, but wizards or other conclaves of sages are also good.
 
 As a result; can keep EB benefits, but it becomes a Mephisto Blast (cold dmg / fire swappable great deal, adding spell casting power (cha modifier) to spell dmg also purchasable). Same dmg.
+
+Bonuses;? wish stones?
 
 Bonus sales:
 - Grafitti a house of a Good deity when in a city. "Mephisto judges all who serves under {{WORSHIPPED GOD}}". Simple spreading of fear. We probably won't even do anything with that, but we sow a seed of doubt.
