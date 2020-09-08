@@ -11,28 +11,6 @@ Who would prank that.. Faey creatures!
 Path up the tree. Spectral form simply asking goatweaver to "come with me".
 At the top of the tree, he's in Ysgard.
 
-A large spectral goliath is there, two large horns curling half a rotation around the side of his head, but somehow, he ends up looking less like a fiend, but rather more cute. You don't know him, but he looks at you with a big smile.
-Kavaki is a ascended Barbarian (Grog style).
-
-Wearing big green vestments that are too big for him (not closing properly).
-Uh. Hi. I don't usually do this. But you've been really good.
-(he has to do this so he can maintain godhood, otherwise fades into obscurity)
-
-oh, (excited) dressed for the occasion, wouldn't want to be sending the wrong message, with the ol' sight and all.
-
-Welcome to your arisening. I've you've been doing real well, uh, i mean, you've been smashing things really hard lately. (oh, this sounded so much better earlier).
-
-Well, you see. I am actually a really good god. I don't even have to try very hard, that's how good I am. I was the strongest Goliath in goat master tribe of redwater. I smashed things so hard, they called me the ram. No one else smashed as hard, even when I was near, I heard them calling my name. It made me even stronger.
-(One of the next leaders actually went on to save the world, and it was the best thing. He attributed it all to me, and I've been able to pick and choose my favourite goliaths ever since. Akkhan.)
-(Now they call me their creator, just because I helped the tribe when I was younger.)
-
-Anyway. And you have reached a critical threashold of paladineosis/paladiniusness you've become a real palagorn, and as much must retrieve your reward.
-To my most devout goatlings, (with the best name, i knew from birth that you were going to be special, i had already chosen).
-
-But it time. You have proven yourself worthy of my powers. I will grant you a portion of my powers. But in return, you must save the world, and spread the good word of me, Kavaki. So that the legacy can live on. Also, I still need followers so I can stay here.
-
-Bonus; damage dice increase on axe/mauls. 2d8 now.
-
 ## Exit (Faey)
 From picture of mithrendain top after portal; a staircase. Eventually leading to Seelie Court. But on brige up to that; Spectral Hans standing in the center. Warm but somber smile. Gives you a hug, his energy swirls around you in a constant circle, not dissapating just constantly spinning. You feel it reaching into the very center of your being. As you focus on it, it quickly starts swirling inwards otwards your heart. (Ki restore ability; Focus of Hans)
 
