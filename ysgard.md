@@ -46,6 +46,8 @@ Well, I can give you the blessings if you spread the word.
 Cast Stoneskin once per day.
 
 (can help him tap into the weave through him, warlock patron replacement)
+has to change to http://dnd5e.wikidot.com/warlock:celestial
+reskin eldritch blast (kavaki bop)
 (or selune could help him intuit sorcery and funnel it through ysgard)
 
 ## Intro for GW
@@ -84,10 +86,13 @@ music: https://www.youtube.com/watch?v=hOVdjxtnsH8
 
 Infinite staircase (transparent path) only visible during moonlight (every night in Gladsheim, follow the fjord to the end of the world - some will arc down, another island floats in the distance). Space boat, or walk across gate at night.
 
+(they used her wishes)
+
 ## Selune
-Basically Tannis from BL2.
+Basically Tannis from BL2. Slightly maniacal. Mad scientistu.
+Silver haired, tanned lady. Ragged mithril armor
 https://borderlands.fandom.com/wiki/Patricia_Tannis/Quotes
-She controls "Digistruct Peak" aka. "Netheril Peak".
+She controls "Digistruct Peak" aka. "Argentil Peak".
 
 https://borderlands.fandom.com/wiki/Patricia_Tannis/Quotes
 See digistruct peak quotes ^
@@ -99,6 +104,7 @@ Tells them about the path to return is in the Griffon eyrie in mount waterdeep a
 "Oh, hey! Hello! Welcome to my secret lab. Secret lair? Moon Pavilion? Yes, I like that one the best."
 "Uh, you're from the prime material. You smell oddly. Who let you in here?"
 "Kavaki? hurgph, that brute."
+"ooh, wait someone is getting married. he's a follower so he needs a wedding night blessing."
 
 "Sometimes I put my hand on the shoulder of the nearest passer-by -- which for the record aggravates my vomit reflex -- and I say Good job! Lord Garflax of the Tardik system values your sacrifice, to mess with them! And then I burn an effigy to Lord Garflax."
 
@@ -110,3 +116,15 @@ Unreachable mountain peak. Does not take visitors.
 BOON OF THE ELEMENTAL LORD
 You further infuse yourself to a specific elemental power
 Title Gained: Stormlord When you cast a spell that deals lightning or thunder damage you cast it as if it was 4 levels higher
+
+
+## Recap Ysgard1
+Old goliath lady guids you two Kavaki's spartan place. Leather chair, dusted over books. He talks about deities portfolios, and Kavaki's is "pretty simple".
+
+He gives GW kavaki true sight.
+
+Infinite staircase to Selune. Also accessible at top of Mount Waterdeep by the Griffie Eyrie. She had a bit of a mad scientist feel to her. And was mentioning that she needed test subjects for her "Argentil Peak" gauntlet.
+
+You saved the last dragon egg from destruction. The spine powered down, and giants are once more under new rule.
+
+Goatweaver collects a bunch of armor components from the frost dragon. Felgolos could do some more enchantments later.
