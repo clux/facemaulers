@@ -119,12 +119,12 @@ Title Gained: Stormlord When you cast a spell that deals lightning or thunder da
 
 
 ## Recap Ysgard1
-Old goliath lady guids you two Kavaki's spartan place. Leather chair, dusted over books. He talks about deities portfolios, and Kavaki's is "pretty simple".
+Old goliath lady guids you two Kavaki. A simple god with a simple mesage. He talks about his simplified portfolio, and offers a simple warlock domain to Mordai.
 
-He gives GW kavaki true sight.
+He gives GW kavaki true sight. Titania conspires with Kavaki to also let him travel through plants.
 
 Infinite staircase to Selune. Also accessible at top of Mount Waterdeep by the Griffie Eyrie. She had a bit of a mad scientist feel to her. And was mentioning that she needed test subjects for her "Argentil Peak" gauntlet.
 
-You saved the last dragon egg from destruction. The spine powered down, and giants are once more under new rule.
+You saved the last dragon egg from destruction. The spine powered down, and giants are once more under a cloudocracy; this time without storm giants.
 
 Goatweaver collects a bunch of armor components from the frost dragon. Felgolos could do some more enchantments later.
