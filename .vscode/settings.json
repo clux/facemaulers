@@ -1,0 +1,31 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "workbench.colorTheme": "Gray Matter Dark",
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  },
+  "note-macros": {
+    "recaps": [
+      {
+        "type": "note",
+        "directory": "recaps",
+        "extension": ".md",
+        "name": "recap",
+        "date": "yyyy-W"
+      }
+    ]
+  },
+
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+}

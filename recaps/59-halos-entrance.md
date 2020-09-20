@@ -1,0 +1,1 @@
+Recap: bought a lot of stuff, misted in a stange way and found two bosses, and did not drink lightning resistance.

@@ -119,22 +119,4 @@ Dead giant that is an early clue of how it died.
 
 Hjarka mind control showcase? 
 
-Irae displacer cat (displacement illusion disadv to hit, half damage saving throw vs all dmg) 
-
-
-## DRAGON ARMOR
-eyes of dragon (blue)
-talons, 2, fangs 3, back rows of teeth
-back spikes
-front ice breast plate
-two large wings
-all items left with Gludom
-fire giants
-
-with gem and/or heart of storm giant
-
-they took hammer of grym
-
-## DOWNTIME
-mordai wizardy prep.
-dragon armor gw
+Irae displacer cat (displacement illusion disadv to hit, half damage saving throw vs all dmg)
