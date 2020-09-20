@@ -1,3 +1,4 @@
+04/08
 ### RECAP 4
 They extracted 6 LG resistance potions from birdweaver. Unfortunately, he was very obvious on the way up and got ancient dragoned.
 

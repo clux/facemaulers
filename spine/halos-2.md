@@ -70,11 +70,6 @@ Favoured terrain. Will try Banishment.
 Hunters mark. Misty step. Passive lightning arrow at 4th level to justify dmg.
 Normal rangers have 1d8+7 piercing + 4d8 lg (double attack).
 
-### RECAP 4
-They extracted 6 LG resistance potions from birdweaver. Unfortunately, he was very obvious on the way up and got ancient dragoned.
-
-You went up. Found Neri and 3 creatures she swapped places with.
-
 Mechanics: she does chain lightning once per cycle. Each cycle is one giant enters per round. She will change faces if she's hit. If one giant helper dies, rotate happens.
 
 Once she is alone; enrage? Tenser? Haste? (she has that..)
@@ -96,33 +91,11 @@ Gate changes. Path up that turns icy.
 
 (Pentachoron identified as a planar teleporter. Goblin came out of it earlier trying to move it. But he escaped into it. We think it contains a rather large plane, demi-plane, pocket-plane hard to tell.)
 
-### RECAP 5
-They defeated Neri after a long fight where she retreated continuously and tried to revive her allies. Hard battle where she swapped bodies with her identically dressed rangers, only revealing who she was when attacking with her storm bow.
-
-You cycled through quote a bit of healing potions and ammunition, but after both GW and Mordai had gone down (one at a time), Faey finished her off with a critical hit Arrow of Slaying to the face.
-
-Before resting you found a surprise portal to the Faeywild's Seelie Court were you spoke to Titania and had a minor spiritual goodbye for Hans.
-
-You were messaged by Gludom, who had learned some tricks from Felgolos. Felgy unfortunately had to depart for now. But he left you many tips and goods. Plus, you also managed to identify all the goods from Halos' reliquary.
-
-However, you did learn about Umnos being a barbarian known for riding dragons. And you heard Fryggt hard left his post.
-
-With plenty of items identified, and some rough plans starting to form, we carry on were we left off.
-
-### Recap 6
-BOUGHT ALL THE POTIONS. SUMMONED STAGWEAVER.
-
-Heroes feast. 5 potions on GW + Valkyrie + Stagweaver.
-
-Interruption; gates to Mephistar on which you met Tryx, an Erinye working on Mephistar. Implied they were behind some of the blessings and divine spark behind Mordai's powers. Mordai turned away before any concrete offers were laid on the table. No powers seemed to be influenced by this.
-
 ## Mask notability
 Created by Umnos early on. They prevent magical divination like scrying from working on the wearer.
 
 ## Timeline Note Drow
 Drow started attacking Gilgrin as they've gotten wind of the source of the summoning. However, this is not the main enclave, because they took Gracklstugh and was happy to see chaos reign (good for the drow in the long run - if they can survive).
-
-
 
 
 

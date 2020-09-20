@@ -73,7 +73,7 @@ Faster talking, wants to revolutionise the energy production of the protectorate
 
 He offered them rest below, and the key.
 Tell them about:
-- their last emmisary `Sifthor` (never returned from Halos)
+- ~~their last emmisary `Sifthor` (never returned from Halos)~~
 - Hammer in Gilgrin
 
 ### Arfius: Minister of defence

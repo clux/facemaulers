@@ -1,3 +1,4 @@
+28/07
 ## recap 3
 killed serissa + 2 guards
 found spork (can detect poison and disease 3 times per day + adv on all saving throws vs foodborne poisons and diseases eaten with spork)

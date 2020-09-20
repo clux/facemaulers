@@ -1,0 +1,15 @@
+26th of March 2019
+
+Boat crashes on shore at the end of last episode. Now it's stranded. They want tar to help patch it up.
+They go exploring on the island.
+Alma is there (planar creature), likes to be near Umberlee, and she tells us that this is her main temple.
+Cameron also there (he was a stowaway).
+Mordai also fails art critic roll.
+
+They enter the temple on Moray. Find lots of things, lots of things they ignore (like Undine with her fake white dragon).
+Find a river lord in a dark lake, they smite him and take his river juices (maybe tar).
+
+Fire ball a spider cupboard in classic wizard a-move.
+
+Then they find a mirror with Cameron in it, who thinks you are the ones in the mirror.
+They flip around and turn inside the mirror.

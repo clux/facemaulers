@@ -1,3 +1,4 @@
+18/08
 BOUGHT ALL THE POTIONS. SUMMONED STAGWEAVER.
 
 Heroes feast. 5 potions on GW + Valkyrie + Stagweaver.

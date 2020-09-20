@@ -1,4 +1,4 @@
-## 52 hammer of grymin
+## 51 hammer of grymin
 Ported in from 51 (puzzle episode)
 made a lot of rucous broke in got hammer from desecrated moradin statue
 looted 3 powerful weapons in forge
@@ -14,7 +14,7 @@ Players:
 - Mordai
 - Goatweaver
 
-## 53 felgolos
+## 52 felgolos 19/05
 talked to a brass dragon, not initially keen on you
 but you talked to it for a while in some moderately precarious circumstances
 and you got it to open up.
@@ -45,7 +45,7 @@ Players:
 - Mordai
 - Goatweaver
 
-## 54 memories of akkhan
+## 53 memories of akkhan 26/05
 TL;DR south end explored to try to free felgolos, then returning egg from outside.
 found a book inscription akkhan.
 moontone gem - lights up green (he can use it)
@@ -81,7 +81,7 @@ TODO: magic shop
 - Mage Guild's Suppliers
 TODO: proficiency / book + skill
 
-54 Recap
+53 Recap
 The 3 of you went on a raiding mission into the vault of gilgrin (secure).
 Therein, you found the hammer of grymin, various other high level weaponry, and also a brass dragon, Felgolos, who could shapeshift.
 Partially, self-isolating, (fire giants ensure his children were spread wide while he had access to the spine, its forge, hobbies, reading), but recently he was actually imprisoned.

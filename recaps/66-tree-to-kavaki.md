@@ -1,3 +1,4 @@
+08/09
 ## DRAGON ARMOR
 eyes of dragon (blue)
 talons, 2, fangs 3, back rows of teeth

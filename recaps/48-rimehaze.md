@@ -1,5 +1,5 @@
 
-# 47 rimehaze entrace
+# 48 rimehaze entrace
 first remote session
 
 fought 2 young frost dragons.
@@ -13,7 +13,7 @@ Players:
 - Goatweaver
 - Hanir
 
-# 48 rimehaze inner
+# 49 rimehaze inner
 Big Mordai exploration session. Flew across. Saw the whole Giant great hall. Saw an Everlasting one. Saw a green giant wormtonguing him.
 Then the familiar got shafted by a icy spear in 20B.
 
@@ -28,7 +28,7 @@ Players:
 - Goatweaver
 - Hanir
 
-# 49 rimehaze battle
+# 50 rimehaze battle
 Opened the door in 18B. Saw the glowing crystal in the center (spine center point). Behind was Arazia. Void Giant CC187.
 Big battle with her and mysterious figure cast spells in the background (flying invisibly). Chrono: Unstable Singularity activated. Delayed blast fireball bead on crystal.
 First interaction with Irae. She did a dominate/charm as she dimensioned doored out (mass suggestion).
