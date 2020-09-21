@@ -2,3 +2,22 @@
 You find Iz washed up on the beach of Grundsgryn before leaving. New party member.
 
 Raven arrived at ship with message about a treasure that sank with a ship; the Aubreck Drallion (rich trader from Luskan.)
+
+Cameron is still aboard your ship and you have a big dinner and steering session as you inevitably head into the head of the storm.
+In the eye of the storm you see the Emperor of the Waves, the missing ship.
+You row on over and enter.
+
+Within, death, decay, and a tentacle altar (old one style). Room full of rats, and a room of undead with worms all over them.
+You kill the undead properly so you can use speak with dead; 5 questions.
+
+Before final room, you battle 3 purple slime which have 1d4 strength drain. Hits Mordai twice, he rolls two 4s. He has 8STR.
+Flavour text on Purple Slime; any creature reduced to 0 str with this dies. Oops. Revived with new diamond.
+Gets gauntlets of Ogre Power ironically from them.
+
+Up ahead, some warlock there, Command "drop" from GW to halt the combat.
+
+Players:
+- James
+- Florent
+- April
+- Guy

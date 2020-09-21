@@ -1,0 +1,20 @@
+8th of August 2019
+## 44 - Into the Depths
+Pendle back. Gets a new handler Anjanu, who clips off a fingernail, and gives him a cloak that can glow with any color (TOC). Glowing red for now. GW __not__ pleased.
+
+Cooking competition between Iz and Jacques. Chose your own ingredients and specials.
+Iz uses drake root, a chance to cause paralysis..
+Jackques uses angel dust.
+Iz gets addicted to it. Pendle touches his book to notify devils of a soul in trouble.
+
+They use potions of water breathing, but not pressure capsules so they have to come back up. Quickly back down and towards the "Pit of Hatred". The place where the aft of the ship is visible (crashed into the ground, causing an underground crater). Inside, more drowned ascetics/blades/assassins.
+
+After accidentally exploding a bag of holding under water, they continue onwards.
+Below is the undead captain of the Tameraut; Syrgaul. He's got tentacles now. Pendle uses teleporting arrow to get in its face, Iz summons more undead.
+
+Players:
+- April
+- James
+- Richard
+- Guy?
+- Florent?
