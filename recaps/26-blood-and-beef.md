@@ -10,3 +10,8 @@ Goat stew given to Moraga (great idea).
 
 GW gets beefed up on goat stew. 20STR.
 Villagers escorted to Waterdeep after sad end.
+
+Players:
+- April
+- Guy
+- Flo
