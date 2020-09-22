@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-players=( Guy Florent April Jay Richard Svein Verity Rhys )
+players=( Guy Florent April Jay Richard Svein Verity Rhys Shaun Spike James )
 
 for p in "${players[@]}"; do
     echo "$(rg Players: -A 6 recaps/ | grep -E "\- $p" | sort -n | wc -l) $p"
