@@ -40,5 +40,6 @@ April not there.
 Players:
 - Florent
 - Richard
+- Guy
 - James
 - Jay

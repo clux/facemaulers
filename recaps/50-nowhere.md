@@ -25,6 +25,7 @@ It's not quite what she had in mind, but after some persuasion by Goatweaver giv
 Players:
 - Florent
 - Richard
+- Guy
 - April
 - James
 - Jay
