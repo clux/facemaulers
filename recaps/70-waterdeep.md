@@ -1,4 +1,4 @@
-## 54 Hanir Awakens 02/06
+## 70 Hanir Awakens 02/06
 (Birthday dnd. I resigned that week.)
 
 Hanir wakes up from a deep sleep with dark dreams in the protectorate. Dreams of him being taken away.
@@ -43,7 +43,7 @@ Goals:
 - mordai: lotte chronomancy
 - PRE-BATTLE GORGON: gaze at someone scrying at him
 
-## 55 Preparing for Battle 09/06
+## 71 Preparing for Battle 09/06
 Arrived in Waterdeep by teleport. Felgolos takes a 4 day trip instead to avoid consequences of getting stuck in dragon defenses.
 
 Talked to CPC Grey aware captain of the Pestillence, and did various shopping.
@@ -75,7 +75,7 @@ remember haste on GW
 
 NB: Liches traditionally have spell immunity to level <=5 (globe invuln)
 
-## 56 Battle 16/06
+## 72 Battle 16/06
 actual battle. slugfest.
 See [[irae-attack]].
 

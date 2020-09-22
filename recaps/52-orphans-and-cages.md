@@ -10,6 +10,11 @@ You visit the scrying sphere, and while it's not working, you do bribe a raven w
 
 You scry some more and see more things you shouldn't. Lolth. Mordecai drinking.
 
+You go into evil Mordai's place and prepare for a battle. Setup commences in the living room of the manor.
+He is a warlock, not one for close combat, but he uses Force Cage on all of you. 1 hour.
+
+He then fights Goatweaver alone. It's not great, so he dimension doors upstairs, but Goatweaver follows. Claudia in undead form also there. They fight 2vGW.
+GW almost kills both, but it's not enough. He goes down.
 
 Players:
 - April

@@ -31,3 +31,11 @@ TRANSMUTATION immunity for bosses?
 side effects for transmutation
 polymorph -> no turtle -> trex
 fly -> half flying speed due to heavy
+
+
+CHECK:
+- Allustriel in Faeywild
+- book about gods named akkhan (kavaki.md)
+- moonstone of kavaki IDENTIFY (kavaki.md)
+- Divine Scourge needs a stone (moonstone)
+- luskan what's Arklem's role (lich, loose cooperation with Irae)
