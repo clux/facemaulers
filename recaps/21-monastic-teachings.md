@@ -12,7 +12,10 @@ They failed miserably. Mordai twinned hold person on them.
 One they know were seeking blackrazor. Lord they never followed up on near Neverwinter.
 They get the poem and head for white plume.
 
+You get part way in towards the left area as DM improvs his way in (had not read adventure).
+
 Players:
 - Guy
 - Richard
 - Flo
+- Spike
