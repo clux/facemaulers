@@ -12,6 +12,6 @@ Also took a statue of Bahamut.
 Finally, you snuck past an Iron Golem, and you got sandwiched between it and the lair of a gargantuan metallic dragon.
 
 Players:
-- Faey
-- Mordai
-- Goatweaver
+- Florent
+- Guy
+- Jay

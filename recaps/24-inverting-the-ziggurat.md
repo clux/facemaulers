@@ -7,7 +7,7 @@ They find blackrazor.
 Efreeti keep them from leaving.
 
 Players:
-- Mordai
-- Hjarka
-- WindSorrow
-- Pendle
+- Guy
+- April
+- Spike
+- Richard

@@ -29,3 +29,10 @@ You finish off the year with a meal at Madame Rosene's and Goatweaver insists th
 A rare CON save failure causes a projectile vomit battle. Monk gets his first deflect (counts as a missle).
 
 Your armor is ready.
+
+Players:
+- Jay
+- James
+- Guy
+- April
+- Florent

@@ -27,7 +27,7 @@ Goatweaver (giving crowbar - very popular); 3 questions
 - Is he him from the past him from the future? (confusing answer)
 
 Players:
-- Faey
-- Mordai
-- Hanir
-- Goatweaver
+- Florent
+- Guy
+- Jay
+- James

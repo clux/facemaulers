@@ -20,3 +20,8 @@ Scrying reveals Luskan breached by gnolls.
 Fryggt also guards Halos, floating rock up parallel to it.
 
 Told about places good for a fight; Halos Reliquary and Vault of Gilgrin.
+
+Players:
+- Florent
+- Guy
+- Jay

@@ -10,3 +10,9 @@ You've told Diana, the arch mage, about Irae and the 3 artifacts of Kiaransalee 
 Ursula started doing research on Kiaransalee and the Crones of Thanatos. And excitedly last night, she reported on having found information (heavily erased) on Sharia's burial chamber - at the foundation of Castle Waterdeep. However, just as this was happening, an earthquake struck the city.
 
 HI FELGY, BTW THERE'S A DEMON LORD WERE ABOUT TO FIGHT. WE FOUND SHARIO'S TOMB.
+
+Players:
+- Florent
+- Guy
+- Jay
+- James

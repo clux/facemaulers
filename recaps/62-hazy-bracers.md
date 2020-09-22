@@ -5,7 +5,9 @@ Found ghost hyrkzag former Merkis to Jarl Storvald. Was betrayed by Ymir, monstr
 TODO: more here?
 
 Players:
-- Mordai
-- Faey
-- Goatweaver
-- Hanir (dodgy conn)
+- Florent
+- Guy
+- Jay
+- James
+
+NB: James had a dodgy conn here.

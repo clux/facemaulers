@@ -8,3 +8,9 @@ There's a series of self-destructive toads (through DM error) that you quickly d
 Then there's the Soul Eater from kobold press, which kills Hanir and you use your one diamond on the character introduced in the same game.
 
 Hanir death count: 1.
+
+Players:
+- James
+- Guy
+- April
+- Florent

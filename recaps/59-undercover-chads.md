@@ -15,8 +15,9 @@ There they met Zoltan, his body guard (dual shielded fire giant dreadnought from
 End of the game they turtle both the enemies. Zoltan thrown off (but he has fire immunity), and body guard 300ft into the air (from flight).
 
 Players:
-- Faey
-- Mordai
-- Hanir
+- Guy
+- Jay
+- James
+
 
 (Flo down under)

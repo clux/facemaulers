@@ -11,3 +11,8 @@ You were messaged by Gludom, who had learned some tricks from Felgolos. Felgy un
 However, you did learn about Umnos being a barbarian known for riding dragons. And you heard Fryggt hard left his post.
 
 With plenty of items identified, and some rough plans starting to form, we carry on were we left off.
+
+Players:
+- Florent
+- Guy
+- Jay

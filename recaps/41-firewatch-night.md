@@ -11,7 +11,7 @@ They also finds the cache upstairs that they missed last session.
 
 Players:
 - James
-- Pendle
-- Flo
+- Richard
+- Florent
 - Jay
 - Guy

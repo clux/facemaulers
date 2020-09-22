@@ -16,3 +16,9 @@ This was a Celeste redemption arc, but they banish Hjaka's dual instead, and the
 Hjarka actually turns more evil as a result of this.
 
 They cross a indiana jones style invisible chasm with a name puzzle to get across. In a room on a pedestal is the deck of many things.
+
+Players:
+- James
+- Guy
+- April
+- Florent

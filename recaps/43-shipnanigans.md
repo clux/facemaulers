@@ -10,7 +10,7 @@ Iz has a GOO dream underwater.
 
 Players:
 - James
-- Flo
+- Florent
 - Guy
 - Jay
 - April

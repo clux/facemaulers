@@ -15,7 +15,7 @@ Protectorate is revealed to have manage lesser giants. They should seek them out
 We do our first remote roll20 session. You fight 2 young frost dragons.
 
 Players:
-- James
-- Jay
 - Florent
-- Mordai
+- Guy
+- Jay
+- James

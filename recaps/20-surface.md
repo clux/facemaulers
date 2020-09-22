@@ -8,3 +8,10 @@ Blood soaked note book of Ilvara contained:
 - Map of Telnarquel (later believed to be illithid colony)
 
 Kazook uses the lightning source (barrels from devil room) to activate the lightning drill.
+
+Players:
+- Guy
+- Richard
+- Florent?
+- Spike?
+- April?

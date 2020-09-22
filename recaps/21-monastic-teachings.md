@@ -17,5 +17,5 @@ You get part way in towards the left area as DM improvs his way in (had not read
 Players:
 - Guy
 - Richard
-- Flo
+- Florent
 - Spike

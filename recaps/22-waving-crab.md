@@ -3,8 +3,8 @@
 Abandonment of initial plan to go left after seeing the Ziggurate. Goes for crab kill instead. Gets Wave.
 
 Players:
-- Mordai
-- Dhoznak
-- Goatweaver
-- Hjarka?
-- Pendle?
+- Guy
+- Spike
+- Florent
+- Richard?
+- April?

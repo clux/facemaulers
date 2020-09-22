@@ -11,6 +11,6 @@ Puzzle was half the episode before they ended up in Gilgrin. (Tryout listened in
 They solved diffie hellman key exchange.
 
 Players:
-- Faey
-- Mordai
-- Goatweaver
+- Florent
+- Guy
+- Jay

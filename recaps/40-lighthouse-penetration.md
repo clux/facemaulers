@@ -14,5 +14,5 @@ Kitchen recently used. Find hidden chamber hidden behind potato bin. Survivors i
 Players:
 - Jay
 - April
-- Flo
+- Florent
 - Guy

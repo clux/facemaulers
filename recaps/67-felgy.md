@@ -25,6 +25,6 @@ however you were able to brute force it down and break its summoning cycle with 
 found cooking recipe scroll (he threw it away)
 
 Players:
-- Faey
-- Mordai
-- Goatweaver
+- Florent
+- Guy
+- Jay

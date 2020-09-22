@@ -7,7 +7,7 @@ Made a [blog post about this](https://clux.github.io/probes/post/2019-01-17-thre
 They find Whelm.
 
 Players:
-- Mordai
-- Hjarka
-- Pendle
-- Goatweaver
+- Guy
+- April
+- Florent
+- Richard

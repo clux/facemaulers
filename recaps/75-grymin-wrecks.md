@@ -12,3 +12,8 @@ The last sleeping storm giant inside the center facility was also murderised. 3/
 
 However, the last miss meant Mordai burned EBs to finish the last giant.
 This was outside the silence and heard. 2 giants (one next to the door), now stare you down, and shout; "the intruders, they are here" (in giant).
+
+Players:
+- Florent
+- Guy
+- Jay

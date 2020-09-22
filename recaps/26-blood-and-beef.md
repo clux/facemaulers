@@ -14,4 +14,4 @@ Villagers escorted to Waterdeep after sad end.
 Players:
 - April
 - Guy
-- Flo
+- Florent

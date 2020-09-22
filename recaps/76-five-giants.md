@@ -8,3 +8,8 @@ You also loot a dormitory up north and find a potion of storm giant strength, a 
 Notebook mentions a floating mage visited 5 somethings ago. Also mentions much gold in reliquary.
 
 Bran's chest had a Robe of useful items.
+
+Players:
+- Florent
+- Guy
+- Jay

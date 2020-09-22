@@ -10,3 +10,8 @@ somewhat matching a drawing you found from giants (rotated)
 used serissa key to open 1 reliquary door, dimensioned door through the other (with one in the bag). found treasure goblin, who escaped. left behind a 4d tetrahedron.
 grabbed 30k gold + 1k per person, a bunch of items
 found path to dragon, and some buttons
+
+Players:
+- Florent
+- Guy
+- Jay

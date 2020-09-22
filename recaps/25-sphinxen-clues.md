@@ -15,7 +15,7 @@ Goat village wants them to stop their raiding. They kill their prize goats.
 Arel is a "cleric of Selune" and identifies stuff for them.
 
 Players:
-- Mordai
-- Hjarka
-- WindSorrow
-- Pendle
+- Guy
+- April
+- Spike
+- Richard

@@ -18,3 +18,9 @@ As she laboriously lugs the heavy weaponry aboard ship after ship, she revels in
 While the mother's true motivations are yet to be determined, you wonder how deep Kenny's capitalistic form of vengeance goes. With an entire sea worth of pirate treasure in his possession, perhaps it's not the child that needs support.
 
 And the greatest mystery of all yet remains: who is Bob?
+
+Players:
+- Guy
+- April
+- Florent
+- Spike

@@ -12,3 +12,10 @@ On the top, Gwyn is there. 3 warlock moon by rowboat.
 GW is still down in the water with the treasure chest weighing him down. He swims very slowly upwards but hast lost orientation. Hjarka tries to shine light through, but a bad perception roll causes GW to perceive it as evil light and he swims away from it. He eventually washes up on an island with a lighthouse.
 
 Gwyn does not want to go to the island, but they do find out he was using the tentacle altar.
+
+Players:
+- Jay
+- James
+- April
+- Florent
+- Guy

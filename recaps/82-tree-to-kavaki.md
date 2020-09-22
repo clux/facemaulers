@@ -37,3 +37,9 @@ KA VA KI!
 ## DOWNTIME
 mordai wizardy prep.
 dragon armor gw
+
+
+Players:
+- Florent
+- Guy
+- Jay

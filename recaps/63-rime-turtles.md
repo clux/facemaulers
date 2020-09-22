@@ -16,6 +16,6 @@ First interaction with Irae. She did a dominate/charm as she dimensioned doored 
 "you've caused enough trouble already. why don't you go back and talk to the frost giants.."
 
 Players:
-- Mordai
-- Faey
-- Goatweaver
+- Florent
+- Guy
+- Jay

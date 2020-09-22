@@ -13,5 +13,6 @@ Find altar with what looks like a greycloak (hint; it's not).
 Players:
 - Guy
 - Jay
+- James
 - April
 - Rhys

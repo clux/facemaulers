@@ -13,3 +13,8 @@ Fire ball a spider cupboard in classic wizard a-move.
 
 Then they find a mirror with Cameron in it, who thinks you are the ones in the mirror.
 They flip around and turn inside the mirror.
+
+Players:
+- Guy
+- April
+- Florent

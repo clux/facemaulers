@@ -12,7 +12,7 @@ In the end they get various pieces of food for the seagul. Liver, heart, anal pl
 
 Players:
 - James
-- Pendle
-- Flo
+- Richard
+- Florent
 - Jay
 - Guy?
