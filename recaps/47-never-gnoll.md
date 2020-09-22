@@ -12,7 +12,7 @@ Main cavern finds a bunch of beefed up gnolls; flinds, fang of yeenoghu, Shooshu
 A huge statue of yeenoghu also found (which Iz also tries to drink the juice of).
 
 Players:
-- Flo
+- Florent
 - April
 - James
 - Jay

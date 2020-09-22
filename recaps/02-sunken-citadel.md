@@ -8,7 +8,7 @@ As you are about to step out into the kobold chambers once more, you hear a knoc
 
 You notice Erky is gone.
 
-Participants:
+Players:
 - Verity
 - Paul
 - Spike

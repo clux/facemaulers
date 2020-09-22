@@ -8,7 +8,7 @@ In a long battle with the 9th level spellcaster; the `Pudding King`, along with 
 
 What happens to `Blingdenstone` and the `Goldwhiskers` now? Where's your monk gone off to? Where can you go at this point?
 
-Participants:
+Players:
 - April
 - Guy
 - Spike

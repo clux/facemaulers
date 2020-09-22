@@ -5,7 +5,7 @@ You rode to Oakhurst, with Filaire, spoke briefly to the inhabitants before head
 Contents of reward seemed rather dubious, but nevertheless, you set off, and brought Meepo with you as your occasionally useful guide. You had battled your way through multiple giant rats, and one enormous, diseased looking one.
 And just as we left off, you were wandering deeper into the Citadel, when you opened a door hooked up to a metal bell on the other side, setting off a very audible gong throughout the Citadel.
 
-Participants:
+Players:
 - Verity
 - Paul
 - Spike

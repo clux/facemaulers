@@ -20,7 +20,7 @@ Goatweaver talks philosophically about regret, motivation coming from dogs? It's
 You buy a bunch of spells and explore the relation between toenail sizes and strength potion power.
 
 Players:
-- Flo
+- Florent
 - Guy
 - James
 - Jay?

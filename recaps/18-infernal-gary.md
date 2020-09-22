@@ -7,7 +7,7 @@ Poison cloud went down immediately on all the poison immune creatures. Hjarka ju
 
 The horned devil Vankesh greeted you back in Solas' domain after clearing the trial, and explained the terms and conditions a little bit. As a result of the trials you are left with knowledge of how to operate the infernal tinkerer. But once you do decide to attune to it, you will have to kill the old owner Solas (within 1 year).
 
-Participants:
+Players:
 - April
 - Guy
 - Spike

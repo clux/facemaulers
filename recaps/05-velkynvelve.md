@@ -9,7 +9,7 @@ After being downed multiple time by this summonend fiend, Ilvara caught up with 
 Escaped with Shooshar, Stool, Quaggoth prince.
 Dhoz dies tried to save Eldeth.
 
-Participants:
+Players:
 - Richard
 - Paul
 - Spike

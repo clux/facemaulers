@@ -10,7 +10,7 @@ The beholder's wounding ray, combined with various lair actions caused a tough b
 
 A second burning weapon was obtained in the blue fires of its lair, along with enough silver to buy you two protective magic items from the Blue Shadow. With your warlock familiar summoned, and new items attuned, the Grove awaits..
 
-Participants:
+Players:
 - Paul
 - Spike
 - Guy

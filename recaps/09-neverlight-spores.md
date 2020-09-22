@@ -8,7 +8,7 @@ A drow warned about the seeder, saying it was a trap from the lady of decay, and
 
 Deep within the caverns around the enormous mushroom tower Yggmorgus, `Pendle` retrieved `Azuth`, but failing a madness roll in the process from this proximity.
 
-Participants:
+Players:
 - Richard
 - Spike
 - Guy

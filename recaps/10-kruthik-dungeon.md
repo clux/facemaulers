@@ -10,7 +10,7 @@ With the excellent battle tactics of `Mordai 2. (the mad)` you dispatch of numer
 
 In this condition, `Pendle/Mordai2` is sure to be a valuable member, fully capable of dealing with whatever's inside an ominously large chrysalis. Tune in next week.
 
-Participants:
+Players:
 - Richard
 - Paul
 - Spike

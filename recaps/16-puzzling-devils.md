@@ -7,7 +7,7 @@ You fought your way towards the lab, protected by some mechanised shield creatur
 
 In the main lab, a chain devil along with two spined devils sought a debt to be repaid with violence. A currency that you were able to supply with interest. With a mysterious book partially decoded, and a paywall of a contract signed, trials start on Tuesday.
 
-Participants:
+Players:
 - April
 - Guy
 - Spike

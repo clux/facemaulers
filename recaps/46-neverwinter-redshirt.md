@@ -39,6 +39,6 @@ Saw his manor, but he didn't want visitors.
 April not there.
 Players:
 - Florent
-- Pendle
+- Richard
 - James
 - Jay

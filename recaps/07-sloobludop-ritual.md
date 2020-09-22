@@ -8,7 +8,7 @@ Things are looking good for `Ploop`, the rival archpriest is almost dead despite
 
 An hour later, the village is in ruins, you all suffer from various forms of indefinite madness after witnessing a demon lord on the loose. The only thing you manage is to loot the remains of the village before casting off in Darklake with `Stool` in search of a friendlier place, your bets hedged on the `Neverlight Grove`…
 
-Participants:
+Players:
 - Richard
 - Paul
 - Spike

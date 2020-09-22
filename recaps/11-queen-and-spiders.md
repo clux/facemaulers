@@ -10,7 +10,7 @@ Still, you reached the inner gates, without further madness :-)
 We have notes now due to April <3
 https://paper.dropbox.com/doc/Session-Notes-0oWR0cmuMrCW4LKxswa5n
 
-Participants:
+Players:
 - Richard
 - April
 - Guy

@@ -13,8 +13,8 @@ Note to self self: Never do this again. Bad ideas:
 
 Players:
 - Richard?
-- Mordai
+- Guy
 - Spike
-- Flo
+- Florent
 - April
 - Shaun (remote)

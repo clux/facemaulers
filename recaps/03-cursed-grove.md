@@ -8,7 +8,7 @@ Thanks to the less than stealthy approaches by Lahevik
 
 And as we left off. Sharwyn falls, Belak stands lifeless, encased in bark. And a piece of red fruit visible on the tree itself.
 
-Participants:
+Players:
 - Verity
 - Paul
 - Florent

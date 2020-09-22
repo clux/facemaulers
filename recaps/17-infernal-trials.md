@@ -7,7 +7,7 @@ It's a close battle where you almost manage to take advantage of the otherwise s
 
 In the second challenge, you fought your way out of an elder mimic, whose shenanigans you saw through pretty quickly.  Any bystanders where quickly assaulted by `WindSorrow` who no longer wanted any part of these infernal trials. Chest fed, second trial passed.
 
-Participants:
+Players:
 - April
 - Guy
 - Spike

@@ -12,7 +12,7 @@ An early attempt at nullifying `Neheedra` was temporarily successful; `Suggestio
 
 How will you continue on your quest to cleanse `Rockblight` without `WindSorrow` (petrified) and `Mordai` (holiday at the Foaming Mug) next week? Will mystery guests appear? How will you deal with the oozes? Will you broker a truce between the `Goldwhisker` clan and the `Diggermattocks`?
 
-Participants:
+Players:
 - Richard
 - April
 - Spike

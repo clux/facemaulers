@@ -8,7 +8,7 @@ The self-healing priestess catches wind of the sneaky `Pendle`, and with some br
 
 Eventually, control is reclaimed, but you spare no more time than necessary to rush back to the `Blingdenstone` temple. Therein `Gurnik` starts a costly divine ritual where you implore Pendle (more-or-less aggressively) to return from his infernal resting place...
 
-Participants:
+Players:
 - April
 - Guy
 - Spike

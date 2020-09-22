@@ -11,6 +11,6 @@ If they bone structure and yellowy skin didn't give away its infernal ancestry t
 April absent.
 Players:
 - Richard
-- Mordai
+- Guy
 - Spike
-- Flo
+- Florent

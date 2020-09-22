@@ -6,7 +6,7 @@ Insect armor is possibly being commissioned, various alchemical ingredients are 
 
 Will you hit up the goldwhisker clan in the west for chief `Dorbo`? Will it rain oozes in `Blingdenstone`? Will you find out any more potential drow or medusas and discover the source of the elemental banes of `Rockblight`? Will `Hjarka` enjoy being part elemental in `Rockblight`? Will April even be there? Tune in next Tuesday.
 
-Participants:
+Players:
 - Richard
 - April
 - Paul

@@ -16,7 +16,7 @@ Reaching the final chamber with limited resources, you found faerzress energy su
 
 As the entire cavern flooded with water, you desperately swam to a cylindrical chamber with a bit of headroom, riding the rising tide to unknown heights...
 
-Participants:
+Players:
 - Richard
 - Paul
 - Spike

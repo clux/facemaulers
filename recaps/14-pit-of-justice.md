@@ -12,7 +12,7 @@ Then, you joined forces, where `Pendle`, `WindSorrow` and `Goatweaver` (with a c
 
 The three of you continued out to reactivate the infested stone temple in `Rockblight` once more, and with `Goatweaver` with you (albeit on curfew), you took on a final guardian elemental. Brazen after your earlier victories; `Goatweaver` was struck down. However, after a nat20 on his death save, his 1hp was just what h needed to fearlessly throw down a final, ending blow.
 
-Participants:
+Players:
 - Richard
 - Florent
 - Spike
