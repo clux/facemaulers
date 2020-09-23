@@ -25,7 +25,6 @@ hey felgy, mages forgotten scythe, will lower protections fo ryou, do you know o
 felgo: Callistis. (great great aunt of ursula) moonlight ward.
 
 sending celerum: Mordai, what's your status? luskan destroyed. where is star? summoning caused by lich. kiaransalee. who attacked luskan? where are you now/
-
 celerum: yeah, i know. many gnolls, ported out. gone to safe place, don't try to find me. saw arklem with star.
 
 NB: Session ends with Diano reporting on tremors of something huge approaching Waterdeep.
