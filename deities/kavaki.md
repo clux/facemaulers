@@ -2,19 +2,6 @@
 Domains: Protection, Strength, Travel, War.
 Druidic-style faith.
 
-## Boreal Temple
-Pilgrimage place for Goliaths.
-
-Valkyrie Herfjatur tells them about Kavaki's philosophy:
-- pursue competition
-- fair play
-- survival of the fittest
-
-
-"The philosophy of Kavaki is pretty simple. We strive to live an authentic life. A life in tune with our values, so that we can act on our instincts and know that we did all we could.
-
-The first part of that is being able to know the difference between right or wrong. Good or Evil, if you will."
-
 ## Lore
 Book found in Gilgrin. Talks about various creator gods at the early times when the elves were considered gods. Unlike what's been told that Goliath's being some sort of mutant human, or giant cross bread, the Goliath race was created by Kavaki.
 
@@ -52,3 +39,60 @@ The herald of Kavaki is a titan with 20 Hit Dice that looks like a ram-headed go
 
 ## Visiting Elysium
 ...blah. need a very competition themed challenge to impress. also, normal difficulties of leaving elysium.
+
+## Boreal Temple
+Pilgrimage place for Goliaths.
+
+### Path
+Meets frost giant party on the way asking to see who's your owner? ..dangerous
+Icy path up a mountain. Windchill is harsh. Teardrop in door for entering. Two large horns protrude from the corners of the large stone door.
+
+NAH: Teardrop like entrance (can put the teardrop in there? - technically described it as such, but he's using it as an internal light)… Anything he does that's sensible will open the door... and also unlock the kavaki sense (descibe it as something strange resonating within him).
+
+Valkyrie waiting within.
+Valkyrie Herfjatur tells them about Kavaki's philosophy:
+- pursue competition
+- fair play
+- survival of the fittest
+
+though actually;
+"The philosophy of Kavaki is pretty simple. We strive to live an authentic life. A life in tune with our values, so that we can act on our instincts and know that we did all we could.
+
+The first part of that is being able to know the difference between right or wrong. Good or Evil, if you will."
+
+## Valkyrie Herfjatur
+"You must have taken the wrong path Goliath!? Or have you..."
+"The rite of passage is usually completed when much younger than you are, no offense. You look great."
+"We teach you how to tell good from evil so that you can find your way in the world.
+
+Then.. If you are particularly good at it, you might become one of Kavaki's own chosen."
+
+The philosophy of Kavaki is pretty simple. We strive to live an authentic life. A life in tune with our values, so that we can act on our instincts and know that we did all we could.
+
+The first part of that is being able to know the difference between right or wrong. Good or Evil, if you will.
+
+### Beyond Good & Evil
+Kavaki's trials (skill challenge) - perception makes you see things clearer.
+He will have advantage because paladin. Goal? Deal with the antagonists appropriately.
+
+Easy Stealing. Couple having a good time at a bar. Perception to see thief in the back.
+Easy Greed: A child being bequeathed magical powers from a mysterious entity. You see him holding a red gem over a child, and seeing his essence pour into the gem.
+
+When passing the easy ones, he gets the Kavaki Sense. "Creatures whose intentions YOU judge to be morally wrong, or evil, will immediately register with you." It does not mean they are "evil" or that they can be reduced to a simple instruction that gives you the go-ahead to kill, but it means that on a guttural level, you disagree with their underlying intent.
+
+Let us put this to a more advanced test... Do not act so quickly this time.
+
+Hard: Anger/Lust; a goliath hitting his wife in his house for not taking care of his child (but woman is having an affair).
+Hard Greed: A kid sneaking up on an adult to poison him. Adult also red. Adult is abusing the kid.
+
+Late: Determine evildoer. PERCEPTION to sense internal color. Child has been killed by the hands of neglectful parents. Father with a drug addiction, the other a spiteful mother (both have red glows inside of them)?
+
+I can see you have already gotten the sense?
+
+### Beyond Valkyrie
+Winning implies her using her Death Ward.
+Losing implies being knocked down.
+She will do flying bow attacks first. In trouble she will conjure 8 wolves.
+
+Reward: resistance to radiant damage + being able to summon her once if he wins.
+https://old.reddit.com/r/DnDBehindTheScreen/comments/erym81/50_plot_hooks_for_paladins/

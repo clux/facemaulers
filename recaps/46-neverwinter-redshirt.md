@@ -4,6 +4,7 @@ Loosened Gwyn who told them he was going to seek out his master via octopus ride
 Then teleported out.
 
 Ship to NWN. 7 days.
+Then Mordecai will head down to Baldurs Gate and cash in on the reward. They will take a comission, but owed the party 2k gold from then sent to Neverwinter afterwards.
 Stayed with Madame Rosene in fine rooms.
 
 Breakfast with beets under Jackques. 100 roll on alcohol percentage.
