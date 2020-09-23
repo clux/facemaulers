@@ -11,6 +11,12 @@ GW finds a fascinator that he clips onto his nightvision goggles.
 Painting of the Tameraut below. Zed is a storm herald barbarian and dislikes the painting.
 Kitchen recently used. Find hidden chamber hidden behind potato bin. Survivors in the basement.
 
+### Old log
+- Missed wizards cache. Have an NPC?
+- Tapestry of the Tameraut. With the Tameraut note...
+- Blind priest Oloran painted it blind under the influence. Said it was a warning.
+- Ring part of Archais (wizard of old) found. Ring of Mind Shielding
+
 Players:
 - Jay
 - April

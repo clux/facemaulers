@@ -13,6 +13,11 @@ GW is still down in the water with the treasure chest weighing him down. He swim
 
 Gwyn does not want to go to the island, but they do find out he was using the tentacle altar.
 
+### Old log
+- Prayed to umberlee (20 WIS) to summon kraken to kill giant octopus. Gwyn upset he was not transported down.
+- Gwyn has been reluctant in giving information, but he doesn't need to harm the party. He wants to get to Baldur's Gate to find another power point.
+- Drunken party with warlocks (too drunk to remember).
+
 Players:
 - Jay
 - James
