@@ -3,6 +3,14 @@ Warlock, only took a few levels in it and hid Chronomancy from patron.
 Divine Soul sorcerer after. Blessed by devils in Mephistar.
 Wizard. Time to study.
 
+## Looks
+Black “eyes”, purple skin, horns. Robe.
+
+## Motivation
+- epic lore
+- knowledge
+- power
+
 ## Developments
 - [[03-cursed-grove]] Paxos requests the fruit, but Mordai fails to get/steal it
 - [[10-kruthik-dungeon]] Warlock dream 1 (too Fjord-like, failed to do much, mordai pops all the eggs)
@@ -11,6 +19,39 @@ Wizard. Time to study.
 ## Patron Paxos
 Arcanoloth in the Gehanna
 
+## Fruit Quest
+"Mordai."
+“I sense that are entering a place of great power. You should be careful when threading here.”
+“I sense an unnatural form of healing magic around this place - which I assume you are here for. But I also sense a different type of magic hidden away.”
+“The outcast possess the pale crop of a tree. I need you to stealthily obtain this.”
+Whats in it for me? “Heh, I will show you in due time. I promise to make it worth your while however.”
+“Keep it hidden. Keep it safe.”
+
+Plant white fruit for staff quest!
+- Guiding staff creation http://homebrewery.naturalcrit.com/share/ryOD5kAxQ
+
+Plant quest continued:
+Send me parts of the fruit. Concentrate on me. (Banishment 4th level spell on it through Paxus). Red hexagonal cage of sylindrical spokes appear around.
+Beautiful. This will do greatly.
+Do with the rest as you wish. But if you have people you value, do not feed it to them.
+
+future: Rewarding increasingly evil quests
+
+## Vision 1
+Mordai vision in Kruthik Dungeon:
+You find yourself in the midst of an endless sea of mist - rising about 2ft up from the ground, extending seemingly endlessly out into the horizon. However around your person is a circle of red fire about 1ft tall clawing at your feet.
+
+Walk into/over/touch the fire -> Fire forms into a path leading to some sort of elevated feature.
+
+Walk towards it - see large 10ft circle out of makeshift stone around faerzress fire. At the edges is a one-ft-wide smaller circle. Seemingly empty and no fire.
+Quick flash of a jackal-headed figure. FEED.
+
+You are in a different room, standing in the middle of a room filled entirely with white spherical eggs, about the size of an adult head.
+
+Another word echoes; “ENERGY”
+
+Pick one up, flash back to the other room.
+It can light up in the smaller circle. He will be enveloped and woken up in center afterwards.
 
 ## Level 15 ultimatum
 Fiend he's ultimately related to Mephisto(pheles)

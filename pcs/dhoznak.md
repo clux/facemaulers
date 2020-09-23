@@ -1,0 +1,46 @@
+# Dhoznak
+Presented to temple as teenager. Took refuge in routine.
+Wants to bring order and hope to others. Altruist.
+Minor cleric of moradin.
+Been to other temples, last serving in Waterdeep.
+
+## Family
+Sharindlar father
+4 daughters 5 sons (Dhoznak middle of them)
+Mother abandoned father.
+Poor father (where does he live? undecided)
+Where are the siblings?
+
+## Backstory
+Spent a week in the Feywild, but they disliked him.
+Then worked as a smith + 10 years in small temple
+
+### Silvertounged Steve
+He was however distracted by the arrival of Silvertonged Steve (so called due to a magical accident early in his life, rather than any particular gift of the gab, giving his tongue a literal shine), a refugee human bard, who arrived at a small temple on the edge of Waterdeep soon after, and formed a close relationship with Dhoznak, leading to them both travelling from the temple on an ultimately successful quest. Dhoznak hung on to his share of the gold, whilst Silvertongued Steve is now living in fear of the many husbands he has offended, and constantly on the move as a result, the money frittered away in inns and travel.
+
+### Ada Rodra
+Fell in love with a travelling dwarven peddler, Adal Rodra during temple/smith years.
+
+Shortly after his return to the village (post Steve), Dhoznak was accused of extortion by a rival for the hand of Adal Rodra, after some considerable arguement, Dhoznak was exonerated by the temple court, however his rival, Garrtag Valney, is still bitter over the situation. Dhoznak spent a further few years working at the smithy, and preaching the word of Moradin, but the urge to move on, and work towards something greater has been buiding within him. Rigid and unbending, Dhoznak will either weather the storm or be broken, but will resist to his last!
+
+## Rewards from temple
+Helm of Comprehend Languages (uncommon minor magic)
+
+## Filaire
+Filaire dick poked Doz on the horses and got drunk in the hucrelean inn.
+Will be upset that Dohznak didn’t reciprocate his love.
+
+## Siblings
+### Brothers
+Kardahr
+Galrum
+Bhalgus
+Dearla
+
+### Sisters
+Edeth
+Ingnyl
+Braenlinn
+
+## Background
+You have long had a curious recurring dream about vesetehg a vaulted stone library in the depths of the Uriderdark, and becoming lost in the endless lore it holds
