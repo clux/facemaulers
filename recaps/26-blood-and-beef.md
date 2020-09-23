@@ -11,6 +11,20 @@ Goat stew given to Moraga (great idea).
 GW gets beefed up on goat stew. 20STR.
 Villagers escorted to Waterdeep after sad end.
 
+## Old recap
+Went to kobold village, didn't start a fight. Didn't probe deeper with detect thoughts. Investigated cleric. Found hag, killed hag. Almost entirely with hold person. 72dmg GW, 70dmgHj (1 round!) auto crits.
+
+Then she crat back and downed both GW and HJ. Stole the face of GW. But the killed her.
+Bought one barrel of food back to Moraga, he tested it, they waited nicely.
+
+They got some powder. One tattoo <4k for free, maybe another bought.
+Dragon can level now. BEEFY DRAGON.
+
+Inner / outer dragon conversation : Pendle (blip) tries to persuade Meepo to not eat food.
+Kobold fire breath -> warlock invis escape.
+
+GW eats the food anyway. Willingly fails the CON save. He goat now.
+
 Players:
 - April
 - Guy

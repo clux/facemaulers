@@ -9,6 +9,15 @@ Goliaths here have really perfected their fighting style.
 Great battle
 battle music: https://www.youtube.com/watch?v=synJbsrk0k8
 
+## Inspiration
+Ysgard:
+https://en.wikipedia.org/wiki/Norse_mythology#Gods_and_other_beings
+https://en.wikipedia.org/wiki/%C3%86sir#List_of_%C3%86sir
+
+Offer what it would be like to see through others eyes?
+https://old.reddit.com/r/UnearthedArcana/comments/igig3p/bizarre_substitution_when_youre_into_pranks_but/
+Who would prank that.. Faey creatures!
+
 Owlbear. Goliaths.
 Giants (Annam)
 Dragons (ancient, planar travellers).

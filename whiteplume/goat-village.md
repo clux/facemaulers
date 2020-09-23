@@ -1,0 +1,99 @@
+Small smoke signals up on the horizons. Farmlands. Sheep, goats.
+
+## Village
+Villagers annoyed at Kobolds for stealing goats. hates kobolds
+"They've brought such misery upon us since they arrived. Two of our kids disappeared."
+"We're strong, but not strong enough to take down a kobold lair."
+One pregnant.
+
+- Ornold
+- Hames
+- Hilda
+- Mery
+
+## Reward
+Plate to stay + food and shelter.
+
+## Children
+Town elder. Lyndon. Straw in tooth.
+Last seen playing a field.
+"We've lived peacefully here for generations, mister."
+"Cleric? Recent 5months. She studied up in Luskan. Tired of the city life. Wanted to help us out, bless her heart."
+"Kobolds first seen two months ago."
+"Goat disappeared little after that."
+"Kids disappeared one month ago."
+"One was 6 another, 10, and one was 12 years old."
+
+## Arelle Confronted about food
+"It's a bit of magic really. Pick the finest grass and throw one our signature enchantments on it."
+"We do this everywhere in Luskan to our livestock."
+"It's a bit like good berry."
+
+DC15 insight => she's being a bit short with her answers, slightly uncomfortable by this line of questioning.
+
+"Why would want animal feed? It's not intended for humans."
+"Where are you taking it?"
+
+She can be persuaded to pick up a barrel from below. Will try to make them wait outside.
+"Will you please wait outside while I prepare it, it's still a bit of a secret."
+Blood choke curse on most objectionable person. (But make it non-trivial to identify the source.)
+
+**If they don't leave**, she'll lure them down below and she'll fight them.
+
+## Arelle fight
+Downstairs is like witch's place in divinity2 - Treated Like Cattle Quest (Divinity Original Sin 2)
+Large barrels, almost like wine cellar. Multiple rats across. Large cauldron brewing and dark smoke.
+Chamber just filled with blood. Improv it..
+
+Mostly straight attacks, misty step to whomever she likes, claw + drink.
+Maybe invis if she's doing too well.
+Cloudkill also thematic. Make room big enough for 20ft sphere to dissappate after one round.
+Call the blood: rupturing arteries on a GW.
+Face peel on grappled: DC17 dex or 8d6+10 slashing
+
+## Treasure
+Wand with 5 charges of Fear
+
+**If they leave**, she'll return with a fake barrel and MM one of them to make them think it's believable.
+**If they kill her and take the real food: they can take it to the dragon for reward**.
+But they'll know the food is made out of people.
+
+## Thoughts
+You sense an eerie level of contentment and interest that is unexpected from the way she is projecting herself.
+Whisper: "There is a hidden part of her in which you sense a deep seething malevolence."
+Immediate MM reaction to make him forget with a whisper.
+If they push her away. She invises and moves into cellar. Undetected without check. They'll find her there hiding later.
+
+## Belgian blue style goats
+Secret sauce? Arelle. Village cleric is feeding them powerfood she enhances.
+She pretends it's goodberry.
+
+## Arelle Hut
+If they go there to seek her out she'll show them a bunch of barrels of fish/bloodgrass, looking quite ordinary.
+Young blue haired elf. Apprenticeship. Pretend hippy.
+Serves "Selune".
+Felt the sword was compelling. Wanted the book. Wanted the sword. But hid it well.
+
+Can cast false life (don't say the name) gives 1d4 +4temp hp 1h.
+Actually just modifying memory on them to think they received healing.
+**Pre-game wis saves**
+Blood hag . ToB242
+Summon baby skeletons.
+
+Secret lab downstairs. If they try to enter.
+She's chopped up the kids.
+
+## Goat food
+Con save. Temporary hunger for grass and wanting to lick slab of salt.
+The more you eat the more salt you want to have on this meat.
+You feel powerful. +1 str.
+Permanent: On fear: must bullrush (if in range) then fear save: or wis save vs. Paralyze for one round.
+
+Weregoat. Ramming Charge (Charge Feat)
+
+## NPCS
+### Lyndon Devereux
+Has been to Moonshae.
+
+### Discarded
+Tyrant Goat. Hjallarhorn from Goat Giant.
