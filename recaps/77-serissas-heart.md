@@ -1,5 +1,5 @@
 28/07
-# 77-serissas-heart
+## 77-serissas-heart
 killed serissa + 2 guards
 found spork (can detect poison and disease 3 times per day + adv on all saving throws vs foodborne poisons and diseases eaten with spork)
 torched her fat husk body
