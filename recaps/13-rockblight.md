@@ -1,5 +1,6 @@
 18th Sep 2018
 
+![](rockblight-medusa.png)
 On Tuesday, you delved into the sealed of caverns of `Blingdenstone`. There had been sightings of a Drow, and potentially a Medusa therein, but no one had dared to venture in far because something was possessing all earth elementals in its proximity.
 
 Inside `Rockblight` you struggled with the damage resistances of an insane earth elemental, and traded mantis-legs (with magic damage) to expedite the process. Further in; a crystal cavern with rows upon rows of statues of drow warriors was discovered, and once you got closer; one row after another animated in the presence of an ancient controlling spirit.
