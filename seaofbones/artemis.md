@@ -40,6 +40,7 @@ If they lose a mast can get them to an island with a tree to
 
 ## Jackques Bordain – ex head chef
 I ave prreepaerd a delicacy. (SEE FOOD PAGE)
+https://localcuisine.github.io/
 
 Accent: french:
 - "brring theese red cars"
