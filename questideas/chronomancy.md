@@ -1,4 +1,4 @@
-# Chronomancy
+## Chronomancy
 Custom spell school that's not supposed to exist.
 
 ## Inspiration
