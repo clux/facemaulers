@@ -65,8 +65,12 @@ Present: sphinx is caught in "Preserved indefinitely (8th level spell)" - only v
 
 
 ## Time device
-Available deep in the dungeon. They can use it to travel one week back in time.
-DoTT?
+Day-of-the-tentacle style. Misty tub available deep in the dungeon.
+They can use it to travel to 3 discrete points { -30y, 0, +30y } in time.
+Energy available as time liquid? They need it to cast spells?
+Give out a "Retry Way Point" stake?
+Time Walk. 4th
+See [[chronomancy]].
 
 ## Talk to sphinx
 Describe scroll through skill challenge.
@@ -123,6 +127,54 @@ Each use of the device:
 - drains them of powers the further away from source time / timeline
 - Has a chance to malfunction and send them to dinosaur battle
 
+## NPCS
+## Zelben
+![](zelben.png)
+
+- Leader of Booze Religion. 1 commandment. God needs booze.
+- Gives out berries to Jendn so he can help cast in the hunt.
+- Elegant Staff + Robe stands out. The rest of him is a bit in shambles. Hair goes everywhere, 50 year old.
+- Naïve helper in the past – young, inherited same stuff.
+- No shave, long hair in past. Middle wavy hair + scruff later + beard.
+- Unconscious irritations: if people don't appreciate his work. Eyes shifty.
+- Slightly manipulated the Sphinx to help out in the name of the people.
+- Minor "greater good arguments".
+- How are everyone getting food in the future? "Ooh, that's a great idea."
+
+### Items:
+- Bag of tricks.
+- Horn of Valhalla
+- Staff of Woodland Power (reduce cooldown on conjuration spells)
+
+His horn is well hidden in his room in the future.
+
+### Tactics
+Horn + Fire Storm + Tsunami (maybe) + Giant Scorpion
+
+### Zelben Past
+- Weak sorcerer/druid turned farmer, discovered opening to Sphinx.
+- Became the spokesperson.
+- Sphinx makes holy berries / mistletoe for him, so he can cast: good berry + conjure woodland beings.
+- Talks about it. The God in the Mountain.
+- Sphinx gets left alone for time studies. Glory days of Sphinx. Just starting to make berries. Zelban + him are best buds.
+
+### Zelben Present
+Sphinx incapacitated so him being the religious leader in a castle is unpopular. Fortress magic keeps him safe. He knows the sphinx is aging things and experimenting with time. Secret
+
+Has whiskey.
+## Andariel [[andariel]]
+
+## VOID DRAGON
+Arrived in present and has locked sphinx down in stasis. Adult Void Dragon, well-fortified in present.
+ToB138. Nihilanth. Wings showing reflections of stars. Light warps around its face and there's a disk around the centre of its jaw. However, seems to bend around it underneath.
+
+"You should not have come here."
+Aura of madness attack. Frighten everyone -> Mess with dials.
+"Do not touch that."
+
+Wants quiet around his area so he can use his magic to become ancient. Lair actions in present.
+Energy beams redirected from lab into chamber with berries
+
 ## EBA
 Dinosaur battle. If this happens, describe rip in spacetime.  Which lasts for 3 rounds in combat vs Trex?
 
@@ -154,6 +206,16 @@ Get Chronomancy spell Timewalk (special 5 – not in list), lets them manoeuvre 
 - They can cull present as well... (evil reward)
 - Give crystal bowl from present to past Sphinx
 
+## Future Dragon
+"Oh, look, so you are alive. Not the best place to escape to was it.
+
+## DAHAKAS
+Riders that show up if they come close to the essence chamber. Tower.
+
+
+
+
+
 ## Rejected
 
 ## Riddles
@@ -184,6 +246,9 @@ Some require solving in the future.
 Bring pot of fire to reverse time room. Turn into earth.
 Setting up something complex by triggering timestop to start again.
 
+### Continuing adventure?
+- Boat into astral sea.
+- Dragon escapes to astral sea? Sphinx chases with boat from present?
 
 ### Futurama alternate timelines
 Slightly different versions of themselves
@@ -199,3 +264,35 @@ Change self?
 
  ## Enemies
 Childhood nalfeshnee
+
+## Alternate concept: Stable time loop scenario
+They travel back to the past and meet themselves.
+If they see versions of themselves fighing, they are from the future from their point of view.
+Ergo, they  must do either:
+- Do stuff in present before travelling back in time and meet past selves
+- Travel back immediately and meet future selves
+
+In either case, there's a chance that they'll get to betray themselves.
+- When they travel back they can betray what they saw from their past selves
+- When they eventually become future selves, they can portray what they say from their past ones
+
+Actually really hard to ensure..
+
+### Alternate concept: Timeline idea?
+- Characters having travelled back in time freezes themselves to get to a later timeline
+- Present: characters enter dungeon
+- Characters travel back in time
+- Characters find cryo frozen players from further past and wakes them up
+
+Hard to script this..
+
+MULITPLE TIME LINES BETTER
+They get to interact with version of themselves form other timelines and exist in different parts, but never their own.
+
+Lead with: good to see you again.
+Travel to past to setup
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[chronomancy]: ../questideas/chronomancy "Chronomancy"
+[andariel]: ../npcs/andariel "andariel"
+[//end]: # "Autogenerated link references"
