@@ -36,7 +36,7 @@ https://old.reddit.com/r/UnearthedArcana/comments/igig3p/bizarre_substitution_wh
 Who would prank that.. Faey creatures!, travels out to rift, with creatures only
 - summons octopus, interrupted by party
 - lets them go down anyway, but doesn't know about kraken interruption
-- [[38-iz-ship]] party interupts gwyn on the emperor
+- [[38-iz-ship]] party interupts gwyn on the [[empress]]
 - [[40-lighthouse-penetration]] Party finds Orolan's research plus his spiritual painting of the Tameraut
 - [[41-firewatch-night]] Undeads reset
 - [[42-reefer-seagull]] Getting information from [[virgil]] about where the Tameraut sank
@@ -160,6 +160,7 @@ Vines, roof collapses. slipperiness oil. Reinforcing the door. Use arrow slits t
 [Gwyn]: ../npcs/gwyn "Gwyn"
 [39-sinking-octopus]: ../recaps/39-sinking-octopus "39-sinking-octopus"
 [38-iz-ship]: ../recaps/38-iz-ship "38-iz-ship"
+[empress]: empress "Empress"
 [40-lighthouse-penetration]: ../recaps/40-lighthouse-penetration "40-lighthouse-penetration"
 [41-firewatch-night]: ../recaps/41-firewatch-night "41-firewatch-night"
 [42-reefer-seagull]: ../recaps/42-reefer-seagull "42-reefer-seagull"
