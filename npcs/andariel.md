@@ -1,4 +1,4 @@
-# Nekohime
+# Andariel
 Houses Sphinx Andariel. Similar to androsphinx from whiteplume but has chronomancy at will.
 Sphinx is feminine, but extremely muscular, short hair. Androgynous vibe to it. She lives on [[grundsgryn]].
 
