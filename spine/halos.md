@@ -3,13 +3,13 @@
 Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent) with trident.
 
 # Entrance
-Circular hangar either through open hole cylinder in floor (peek down through clouds to Protectorate). Two doors on either side lead down to bridges. Patrols Circle through here. 2 on bridge for 3 minutes as they walk halfway down as a unit while2 stands guard (will join battle by shooting lightning). 
- 
-If they get passed it, then they can proceed up the hallway leading to the battlemap (modified snurre 2) 
+Circular hangar either through open hole cylinder in floor (peek down through clouds to Protectorate). Two doors on either side lead down to bridges. Patrols Circle through here. 2 on bridge for 3 minutes as they walk halfway down as a unit while2 stands guard (will join battle by shooting lightning).
+
+If they get passed it, then they can proceed up the hallway leading to the battlemap (modified snurre 2)
 
 Also a circular indent in the floor above with hexagonal outlines, but can't see through. (Where dragon resides).
 40ft Square grate above them leading to 13E. 1 sleeping storm giant there.
- 
+
 ## DUNGEON
 SCALE: 2x larger than 5ft square. 10ft squares!
 Storm Giants very perceptive, they'll just instintively nom Petros.
@@ -245,18 +245,6 @@ but what does it do - whatever
 ## peryton
 stagweaver
 slightly crazier kobold voice
-
-## recap 3
-killed serissa + 2 guards
-found spork (can detect poison and disease 3 times per day + adv on all saving throws vs foodborne poisons and diseases eaten with spork)
-torched her fat husk body
-cut out her heart (remained unburnt)
-found a strange circular maze structure secured to the wall
-somewhat matching a drawing you found from giants (rotated)
-
-used serissa key to open 1 reliquary door, dimensioned door through the other (with one in the bag). found treasure goblin, who escaped. left behind a 4d tetrahedron.
-grabbed 30k gold + 1k per person, a bunch of items
-found path to dragon, and some buttons
 
 ## buttons
 control magic field dragons take 2d8 force damage per turn if it's active.

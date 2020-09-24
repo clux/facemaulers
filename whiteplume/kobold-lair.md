@@ -1,3 +1,4 @@
+# Moraga's Lair
 Powerfood +2 STR –max hp? -int 2. Tunnel vision? (repeat con saves)
 Unless immune to disease/poison
 They can talk to the master to learn more.

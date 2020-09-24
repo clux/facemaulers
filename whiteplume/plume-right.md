@@ -1,4 +1,4 @@
-# Right Vampire Section
+# Whiteplume Coffin
 ## Globe room
 Have fun with air elemental blasting all globes. And having people struggle with the ring.
 Give them a few spells to dispell darkness? It's super hard otherwise...

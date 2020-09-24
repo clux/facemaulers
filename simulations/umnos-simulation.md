@@ -1,4 +1,4 @@
-# Expectation DMG in 2 rounds
+## Expectation DMG in 2 rounds
 Buffs:
 - Fear immunity, poison immunity, ADV on WIS saves (feast)
 - Bonus HP (feast)

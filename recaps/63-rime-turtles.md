@@ -1,6 +1,5 @@
+# 63-rimehaze
 7th of April 2020
-
-# rimehaze battle
 Found a book detailing the legend of Grymin the giantslayer.
 
 Big Mordai exploration session. Flew across. Saw the whole Giant great hall. Saw an Everlasting one. Saw a green giant wormtonguing him.

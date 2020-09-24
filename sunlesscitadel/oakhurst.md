@@ -1,4 +1,4 @@
-## oakhurst
+# Oakhurst
 music bladurs gate romance: https://www.youtube.com/watch?v=6ODM747G20o
 
 It's the year 1496 DR. Sun sets over the world of toril and the sword coast. While in in the mountain west of Neverwinter, in the city of Gauntlgrym. The forges keep on fuming.

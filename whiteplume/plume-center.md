@@ -1,4 +1,4 @@
-# Central Crab ARc
+# Whiteplume Bubble
 
 ## Deep room
 2x CR4 Kelpies (Crit role S2E43 I think). Masquerades as something else.

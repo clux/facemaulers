@@ -1,4 +1,4 @@
-## Painting
+# Painting Quest
 
 
 particular oil (unique ratio per pigment, unique grind proportions)

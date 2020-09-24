@@ -1,4 +1,5 @@
-# Kavaki - The Ram Lord
+# Kavaki
+> The Ram Lord
 Domains: Protection, Strength, Travel, War.
 Druidic-style faith.
 

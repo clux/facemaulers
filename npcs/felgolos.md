@@ -1,4 +1,4 @@
-
+# Felgolos
 ## Encounters
 - [[67-felgy]] (initial encounter)
 - [[68-goryms-egg]] (freeing felgolos)

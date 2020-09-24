@@ -1,4 +1,4 @@
-# Expectation 2 Rounds
+## Expectation 2 Rounds
 ## Madeiron
 sacred weapon pre-battle 1minute
 just above 50% hit rate, 14dmg per hit => 28 dmg

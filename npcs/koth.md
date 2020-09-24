@@ -1,4 +1,5 @@
-# Koth M'gog Mindgorger
+# Koth M'gog
+
 The patron Mindgorger has made Mordai a powerful player in battle for power in the sword coast. He thinks he's being careful. He's being used by the Aboleth. Ultimately connected to the Lich.
 
 Can only be killed in the Shadowfell.

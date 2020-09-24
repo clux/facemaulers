@@ -1,4 +1,4 @@
-# Ziggurat section
+# Whiteplume Ziggurat
 
 ## Silver sheen trap
 Pre-treasure in Sir Bluto's post.

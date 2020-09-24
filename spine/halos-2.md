@@ -1,5 +1,4 @@
-## Halos Level 2
-
+# Halos Labyrinth
 Pass through spiral pathway upwards with Neri and her guards protecting.
 
 ## Entrance

@@ -1,4 +1,4 @@
-
+# Whiteplume Escape
 2x CR11 Efreeti? Holy shit. 130-260HP AC 17.
 One weak, does only Hurl Flame twice. One beefy, only uses scimitar. One way of weakening them a bit.
 Still. Lethal. Describe muscles + natural armor (22STR, how plate like it feels).

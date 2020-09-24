@@ -1,4 +1,4 @@
-## Entrance
+# Halos Omphalos
 
 ### Spire
 Contains final crystal. Prismatic wall (30 foot sphere around it - repeat cast with the power of the spine at full power, disappears if umnos dies).

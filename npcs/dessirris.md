@@ -1,4 +1,4 @@
-## Sphinx from Whiteplume
+# Dessirris
 Sphinx from [[plume-center]] after being freed. Can identify and offer cryptic clues to the state of the world. Celestial voice, monotone.
 
 ## Intro

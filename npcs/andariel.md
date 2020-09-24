@@ -1,5 +1,5 @@
-## Nekohime
-Houses Sphinx Andariel/Dessirris. Similar to androsphinx from whiteplume but has chronomancy at will.
+# Nekohime
+Houses Sphinx Andariel. Similar to androsphinx from whiteplume but has chronomancy at will.
 Sphinx is feminine, but extremely muscular, short hair. Androgynous vibe to it. She lives on [[grundsgryn]].
 
 - Met party in [[36-grundsgryn]] and [[37-day-of-the-androsphinx]].
