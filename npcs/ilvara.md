@@ -2,6 +2,8 @@
 > Mizzrym
 
 DISEASED high priestess of Lolth.
+Ilvara (priestess): http://chisaipete.github.io/bestiary/creatures/drow-priestess-of-lolth
+
 Killed [[pendle]] once. Killed [[dhoznak]].
 
 Had several clues in her notebook about demon lord origin:
