@@ -12,6 +12,9 @@ Airship battle over a volcano is dangerous, but let them do it.
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/
 https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
 
+## Empire exploration
+Depressive Music; https://www.youtube.com/watch?v=QifCYaJgDVM
+
 
 ## Lich fight
 https://www.critrolestats.com/blog/2017/6/15/monster-analysis-delilah-briarwood-and-the-remnants

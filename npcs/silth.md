@@ -1,14 +1,6 @@
-# menzoberranzan
+# Silth
+> Silth the Infestor (Ancient Viridian Dragon 700yo)
 
-Quenthel Baenre is the magnificent matriarch
-
-city not in great shape after demon lords.
-place raided by Irae.
-
-Quenthel + Silth still alive. All priests have been out investigating the underdark. Taking over Gracklstough after Menzo's demise. They defeated Fraz there. They teleported most of their city on top of it? They have more control over the world if they just sit this one out (fits the evil archetype).
-
-
-## Silth the Infestor (Ancient Viridian Dragon 700yo)
 (Modified Shapechange Retains ability scores + senses) into Storm Giant
 Looks high ranking, commander. Goes by Laufey as a Giant. Yellow eyes.
 Cyan robes. Druid spells. Blue dragon breath, green dragon stats. Can poison the minds of people. Lower INT. Needs greater restoration.
