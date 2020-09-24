@@ -11,6 +11,15 @@ Sunwuko has one item in Halos, rest in shrine in eastern monastery.
 The original champion of [[kavaki]].
 Tomb in a diamond mine - near boreal temple / icewind dale.
 
+### icewind dale mine
+based on mir diamond mine
+1000m deep. shafts going straight at first into gnome like train tracks
+...but below it breaks through to something ancient
+70 degrees warmer than below
+#### intro
+Tales of miners not returning in Icewind Dale.
+Downstream (Luskan / Neverwinter), out of diamonds.
+
 ### Items
 - Heaven's Fury (Radiant energy d3 shotgun) helmet
 Whenever hit with weapon, it hits with the power of kavaki in 3 directions
