@@ -1,5 +1,33 @@
 # Castle Never
 
+## Courtyard
+### Geography.
+Up one tower. Across one aqueduct. Into one tower. Spire that leads to mid air.
+Main castle entrance only reachable from air gate across.
+
+### History
+Drow hit squad + earth quake caused the state it's in. Aboleths and their invasion after earth quake.
+
+### Enemies
+Deathlocks + Wights if resting.
+Banshees in abandoned towers.
+Specteres who offer encouragement or cryptic secrets to visitors
+Ghosts equally likely to attack/ignore.
+Not willing to provide hints of treasure. Violent reaction towards perceived thieves.
+
+### Old Drow encampment
+Now kept up to date by 10 grey cloaks. Holding off zombies with torches and
+
+### Treasure
+Crown of Neverwinter (Adv on Charisma check once per day)
+
+### Aboleth can reach up to the house with phantasmal force
+Also telepathy first. Quick "hello" sufficient. Then phantasmal illusion of Umberlee. Serpentine humanoid figure. Wavy teal hair that looks like it's fully enveloped in water. Floating above a translucent teal bridge that.
+
+No words, but int save!
+If she steps on it. Likely fall.
+If she dosen't fade it away. Try Kavaki on GW.t
+
 ## Original story
 To the uninformed eye, Castle Never looks like a big, hulking ruin. Half its towers fell in the cataclysm, and the wall on its seaward side crumbled to rubble. Chunks of stone and fallen statues litter the windswept courtyard. Inside, the stone corridors stink of ash and dust, which swirls up around the feet of intruders. Even in their emptiness, the corridors never seem vacant. The spirits of the hundreds who died here linger on.
 
