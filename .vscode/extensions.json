@@ -21,6 +21,9 @@
     "tchayen.markdown-links",
 
     // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    "philipbe.theme-gray-matter",
+
+    // paste image from clipboard functionality
+    "mushan.vscode-paste-image"
   ]
 }

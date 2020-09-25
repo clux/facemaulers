@@ -1,4 +1,5 @@
-# Kazook Pickshine
+# Kazook
+> Pickshine
 https://forgottenrealms.fandom.com/wiki/Kazook_Pickshine
 
 Led [[pendle]] towards the trials and solas. Lives in [[blindgenstone]].
