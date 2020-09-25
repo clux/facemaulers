@@ -8,3 +8,23 @@ If army takes over island and starts cracking up the rift sufficiently, Orcus ca
 Syrgaul down there undead with the rest working on it.
 Ultimately Orcus' is not important here. Syrgaul could just have been powered by an GOO as well.
 In which case, various nautilus ships can surface if the undead rip up the coastline.
+
+## Orcus's Ship
+Watches over the seas near the rift. Will attack anyone who's been on the island to erase notices.
+
+Huge galleon made out of bone (keratin). Figurehead is a shark skeleton that can be animated. Horns everywhere.
+Comes towering out of the mist. Mistake it for a wall at first.
+
+He can pull them in to the Island of Bones.
+Need MTOF + volos.
+
+They can escape with Lee/other magic... Otherwise it's a fucked up battle where they are captured and brought to island of bones. Arena on the island to turn people evil. Paladdin is delicious for them. Only way out is to become an oath breaker.
+
+Ghoul Necrophage Ghast CR4
+https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/undead/ghoul/ghoul-necrophage-ghast/
+Ghoul Tar CR4
+https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/undead/ghoul/ghoul-tar/
+Ghoulsteed?
+
+Bone golem CR7
+https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/constructs/golems/golem-bone/

@@ -102,7 +102,7 @@ Regal figure with a crown on the far end. Blue light emanating from the head. Ne
 
 5ft at a time.
 
-## Aboleth stalling
+## Crusher
 Room with a giant white gemstone sylinder floor and ceiling. Blood and crushed bones visible on the floor of it. Water around the corners of the room. 20d10 bludgeoning.
 
 ## Death Slaad
@@ -148,8 +148,6 @@ Dragonslayer greatsword.
 ## Deus Ex machina
 Enemy of the gods: buff paladin + cleric
 Voice/ghost/greycloak: run. Find Mordai. He knows.
-
-
 
 ## Gnoll enclave
 Special gnoll dog. Whorlestone tunnels nearby?
