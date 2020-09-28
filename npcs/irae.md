@@ -1,9 +1,9 @@
 # Irae T'sarran
 Drow high priestess of Kiaransalee (turned champion). Lived in [[maerimydra]] but took over the city, exterminated everyone, and moved it into a pocket dimension where she built her fortress.
 
-![](irae.png)
-
 Became a lich whilst studing forbidden necromancy in the Acropolis of Vanathos.
+
+![](irae.png)
 
 ## Encounters
 - [[58-hill-giant-hotel]] (initial mind control of Hans)
