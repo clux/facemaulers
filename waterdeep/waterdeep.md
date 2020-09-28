@@ -12,6 +12,8 @@ They sometimes hire non-drow.
 - [[docks]]
 - [[magesguild]]
 
+## Shops
+
 ## Aghairon’s Dragonward
 Magical spell that protects the city.
 Propped up by magical crystals in the sewers. Can be stolen and used to restore spell slots (highest level they can cast). But they'll get focus pretty quickly.
