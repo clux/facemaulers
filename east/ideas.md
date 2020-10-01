@@ -1,4 +1,6 @@
 ## East
+
+### Goals
 Dial down battle focus.
 Allow more RP in battle..
 Non-combat solutions.
@@ -7,6 +9,12 @@ Allow yourself
 Make a situation/ecosystem that is so vibrant/multifaceted, so that even you as the DM has the capacity to be surprised by what the players will do.
 Not like a puzzle (with a correct solution), but like a playground. Lava, rickety bridges, summonable monster. Make things intuitive, at birds eye level.
 Airship battle over a volcano is dangerous, but let them do it.
+
+## Motivation
+The world will end if they don't tackle Irae. Why?
+
+- PRO: Giants are on their side, and summoning portal is closed
+- CON: Demon lords still in the world (can tackle them though..)
 
 ## Sunwuko's lost temple
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/
@@ -39,6 +47,19 @@ This place is best left shunned and uninhabited.
 Mini-genie providing limited wishes.
 Inspiration: https://www.reddit.com/r/AskReddit/comments/9kfmtz/youve_been_granted_one_wish_by_the_douchebag/
 
+## undead relations
+halloween undead city
+https://old.reddit.com/r/comics/comments/j1navv/the_wolfman_prepares_for_october_oc/
+werewolves / weaker vampires (children?) / mummies spooking cities
+city feeding them surplus chicken
+undead provide protection from the undead horde (telling them there's no-one there)
+the undead city provides healing herbs (that party can use to make healing potions with - Mordai)
+
+## undead sentience
+some undead have lingering brain power and can act in self-interest
+
+## undead library
+librarian pyramidhead: https://old.reddit.com/r/UnearthedArcana/comments/j1au5n/the_librarian_low_cr_mythical_monster_prithee/
 
 ## A vampire city
 https://old.reddit.com/r/dndmaps/comments/igdcfo/saint_vol_city_of_the_vampire_lord/
