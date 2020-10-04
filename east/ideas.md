@@ -23,10 +23,14 @@ https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagica
 ## Empire exploration
 Depressive Music; https://www.youtube.com/watch?v=QifCYaJgDVM
 
+## Whelm ideas
+Find contract for Mordai Well
+With Koth?
 
 ## Lich fight
 https://www.critrolestats.com/blog/2017/6/15/monster-analysis-delilah-briarwood-and-the-remnants
-
+https://www.reddit.com/r/dndnext/comments/3fj8oi/i_want_to_hear_your_time_stop_shenanigans/
+forcecage + fireshield + mirror image + incendiary cloud
 ## Mad people from destruction
 blaming god
 "this is our fault for sinning against X"
@@ -58,12 +62,34 @@ the undead city provides healing herbs (that party can use to make healing potio
 ## undead sentience
 some undead have lingering brain power and can act in self-interest
 
+- cemetery self-transport to bone city
+- low level crone working the graveyard shift
+
 ## undead library
 librarian pyramidhead: https://old.reddit.com/r/UnearthedArcana/comments/j1au5n/the_librarian_low_cr_mythical_monster_prithee/
+
+## ghoul market
+brain market - druid crafted banana leaf
+
+## turn undead
+protected cleric
+
+## undead mafia
+
+## vegan vampires
+heme-phir
 
 ## A vampire city
 https://old.reddit.com/r/dndmaps/comments/igdcfo/saint_vol_city_of_the_vampire_lord/
 could maybe do colville style S&F?
+
+## police state with people resisting
+
+## Prismatic Wall + Reverse Gravity
+Prismatic wall in sphere form over enemies, then reverse gravity within.
+
+## Weather conversions
+https://old.reddit.com/r/dndmaps/comments/j3xui1/nomadic_tribe_on_the_move/
 
 ## Horsemen
 Prosperity: A "white horseman" who is a figurehead for the prevailing religion, and essentially arrives to foretell the coming apocalypse, but also represents the apparent strength of the societies that will come to ruin.
