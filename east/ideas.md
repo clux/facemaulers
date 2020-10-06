@@ -10,6 +10,9 @@ Make a situation/ecosystem that is so vibrant/multifaceted, so that even you as 
 Not like a puzzle (with a correct solution), but like a playground. Lava, rickety bridges, summonable monster. Make things intuitive, at birds eye level.
 Airship battle over a volcano is dangerous, but let them do it.
 
+## Felgolos slow conversion to a ghost dragon
+GHOST DRAGON: CC170
+
 ## Intro
 Mordecai + artemis back. Cameron there?
 
@@ -49,6 +52,10 @@ Sending this message was important to us. We considered ourselves to be a powerf
 This message is a warning about danger. The danger is in a particular location... it increases towards a center... the center of danger is here... of a particular size and shape, and below us. The danger is still present in your time, as it was in ours. The danger is to the body, and it can kill. The form of the danger is an emanation of energy. The danger is unleashed only if you substantially disturb this place physically.
 
 This place is best left shunned and uninhabited.
+
+
+Could also have the source of Irae's setting was them digging too deep and finding relics from an ancient civilization? E.g. divinity 2 Aeterna
+https://divinityoriginalsin2.wiki.fextralife.com/Ancient+Temple
 
 ## Douchebag Genie
 Mini-genie providing limited wishes.

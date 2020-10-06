@@ -127,6 +127,13 @@ At which point, he'll turn normal and say.
 "I've decided to resign as captain. The ship is unclean, the crew dislike me. Not to mention the hole below deck. Please, just leave me alone."
 They're the captain now...
 
+### EBA: Wind Dragon at Sea
+143 TOB.
+If it escapes it's part of a tribe. They can cannoneer it!
+Alternative for ditching MI3 adventure
+Blood wing corrupted is the wind dragon (red stripes on wing)
+Corrupted by rottingham?
+
 ### EBA: Drugs
 Devil encounter selling drugs if nothing interesting. During watch.
 

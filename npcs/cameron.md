@@ -20,6 +20,24 @@ GW (yay)
 Mordai (yay)
 Hjarka (meh)
 
+### Initial meeting (waterdeep below)
+Find him inside camping. Happy to see another human in such a lonely place.
+- "Adventurer from a far off land."
+- "Mysterious lone wolf type? I get it. I'll just imagine some dark backstory for you."
+- "Well, Hjarka, I'd say you've come to the right place."
+- "Well, my inquisitive compatriot, I doth hail from the mystical, exotic kingdom of... Waterdeep."
+- "That place is wild."
+WHY ARE YOU HERE? "To explore..."
+- "I have a thing for abandoned places. And I'd like to think of myself as a budding painter."
+WHERE YOU SELL YOUR STUFF? X?
+- X? Everyone sells their stuff to the Academy these days. Those guys are funded hard. I'm CamCam420 look me up.
+- "The temple up a head looks pretty scary. Are you turning back soon?"
+- "I can see the determination in your eyes! It's inspiring."
+- "I don't really care about shrines, TBH." <- THIS IS A SHRINE NOT A TEMPLE
+- You know what they say before you're about to do something dangerous?
+- "YOOOOLOOO" <_singing  yOOO---o—Loooo
+- "You ouagtha leave at once"
+
 ### Gondola (scrapped)
 End of island entrance to temple. Mirror temple entrance. Ultimately just did the old lady one.
 
