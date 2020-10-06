@@ -87,6 +87,10 @@ Beholder has to crash down on it. It's spikey, and has moments when it pulses wi
 (If they break the crystals, then the thing can just be smashed)
 If you know why you trapped yourself in this thing. Maybe you could bust out.
 
+## Side areas
+Fate Eater – ToB 180 – CR6
+Interesting parasites with scary drains.
+
 ### Tyrant fight
 Actually no tyrant? It's just Hergatha causing fear? Major image...
 Crystals remove the following rays if destroyed: Death/Disintegration/Petrify/Paralyzing

@@ -67,6 +67,11 @@ Its head seems enormous, and then it turns towards you and smiles. The face is h
 "What are you doing here Mordai?" - dual toned voice.
 Stepping further (suddenly) / investigating (pull and pull):
 
+## Vision 3
+unused
+If mordai studies the book. Recursive knowledge First.
+He can get an invocation to cast a 4th level chronomancy spell.
+
 ## Level 15 ultimatum
 Fiend he's ultimately related to Mephisto(pheles)
 ![](https://i.imgur.com/NEboCVd.png)
