@@ -5,7 +5,7 @@ Cat brought Pendle up after he promises Hjarka will set up a business venture wi
 Grax is waiting for Hjarka.
 
 Faey meets Pendle. They go to the thieves guild, but not after GW taks to Celerom about "what giants like".
-Celerom does not like Cameroons painting.
+Celerom does not like Camerons painting.
 
 GW tries to buy “a physical representation of disobedience”.  DM suggests slapping with the flat edge of a sword. GW: “Tell me more.” Mages be baffled.
 He also wants licorice (and later ends up buying a whole bar of it later, but turns out he just needed the basic spell component). Half an hour later, he gets his components and a mink coat.

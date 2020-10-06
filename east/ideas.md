@@ -10,6 +10,9 @@ Make a situation/ecosystem that is so vibrant/multifaceted, so that even you as 
 Not like a puzzle (with a correct solution), but like a playground. Lava, rickety bridges, summonable monster. Make things intuitive, at birds eye level.
 Airship battle over a volcano is dangerous, but let them do it.
 
+## Intro
+Mordecai + artemis back. Cameron there?
+
 ## Motivation
 The world will end if they don't tackle Irae. Why?
 

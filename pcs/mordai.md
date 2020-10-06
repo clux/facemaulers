@@ -72,6 +72,11 @@ unused
 If mordai studies the book. Recursive knowledge First.
 He can get an invocation to cast a 4th level chronomancy spell.
 
+## Vision 4
+unused
+Sou see yourself walking backwards throughout a maze. Candles burning down.
+oos chtum rewuop
+
 ## Level 15 ultimatum
 Fiend he's ultimately related to Mephisto(pheles)
 ![](https://i.imgur.com/NEboCVd.png)
