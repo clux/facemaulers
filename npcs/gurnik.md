@@ -1,0 +1,15 @@
+# Gurnik
+> Gurnik Tapfinger
+
+![](gurnik.png)
+
+[Character Sheet](https://www.dndbeyond.com/profile/sszynrae/characters/5500637)
+Level 9 Deep Gnome Cleric (of Callarduran Smoothhands) + a level in monk as well (in theory) in [[blingdenstone]]
+
+### Extra
+Stoneheart: in charge of summoning,warding,defensive measures. Forges agreements with galeb duhr and xorn.
+He might know about Entemoch. Dedicated to his service. Has family here.
+
+### Quests: Menhir
+Wants them to place ruby in socket in menhir in 22.
+A temple stands desecrated (of his god) in 22. Warn them about what will happen when they place the gem. Ogremoch’s bane! Blessing in reward! Whooo.
