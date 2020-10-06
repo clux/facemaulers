@@ -7,6 +7,51 @@ Deep gnome city
 
 Run pretty much verbatim from Out of the Abyss.
 
+## Developments
+- [[11-queen-and-spiders]]: Barely made it to to the city.
+- [[12-blingdenstone-taps]];
+- [[13-rockblight]]: Neheedra dead. Area 21 and 22 merged. They killed 3 rows of animated drow and activated Ogremoch.
+- [[14-pit-of-justice]] : Fought in pit. GW got a +1 Maul. Menhir temple cleansed by 3p party. Only a single EE. Modified its attack styles.
+- [[15-battle-for-blindgenstone]] : Goldwhisker fun + 3 player pudding king battle
+- [[16-puzzling-devils]]: Left for [[solas-domain]] based on [[kazook]]'s quests
+- [[19-mizzrym]]: Returned and had [[gurnik]] res [[pendle]]
+- [[20-surface]]: clues from Ilvara deciphered, [[kazook]] created passage up
+
+Much later. [[hanir]] + [[zed]] visited Blingdenstone and talked to Kazook.
+
+## Entrance
+How do they get in? Difficult terrain stairs for (>=medium size)
+8 gnomes guard beefy steel gate (invis spell on one)
+Reasonable if they are non-threatening. Suggest Dorbo if fleeing from Drow.
+Through Gates in 4 with escort (else symbol spell can incapacitate them from sockets)
+Who let them in? Incompetent ones that are bored with the protocol.
+(Hjarka deceptioned her way in).
+
+## Overview
+### Nearby
+- Small enclaves of deep gnomes: on demand later
+- **Entemoch**: ancient prince of earth elementals - remnant summoning circle and energy that suffuses his cavern. Dark blue glow. Can summon elementals, might be source of Hjarka. Basilisks remain in there (can get a pet). Maybe her hidden elememtal markings light her.
+- **Ogremoch**: evil counterpart - 15m tall, eyes chipped obsidian. Just a magical sentient, transparent dust now (in Rockblight).
+- **Whiteshell**:  Salt mine outside. Perigrog Scrapedust runs it (hard working, distrusting).
+- **Pickshine Mines**: owned by miners guild. Garded by Galeb Duhr + 12 svirf. Much ore metal/mithral/adamantine/crystal caverns. Path out of Blindgenstone is through here!
+- **Stoneheart Quarry**: Contains earth elementals aiding the city. This place creates elemental gems (earth), rings of elemental command, stones of controlling earth elementals. Led by Nomi Pathshutter. Deceptively friendly but smart and exploitative (knows of Ogremoch). Would be interested in Hjarka.
+
+### Inside city
+- **Ogremoch**: Rockblight dust. Teamed up with Medusa (Neheedra). Maybe it can lead them to Entemoch?
+- **Diggermattock Hall**: Chief Dorbo and Senni ([[diggermattocks]])who came from the surface originally. Wants to fully rebuild and sends patrols to uninhabited parts of the city.
+- **Miners Guild**: Led by Senni ([[diggermattocks]]). Oversees magic/enchantment/mining. Makin’ spell gems.
+- **Stoneheart Enclave**: Group of spellcasters originally trained by emerald enclave (hippie commune).  Elemental magic clerics (Callardujan and Segojan). They summon earth elementals to aid blindgenstone (xorn + galeb duhr). Control entrances, widening, sealing, gems. These are high level some of them. Leader is Yantha Coaxrock.
+- **Burrow Wardens**:  Svirf training under  veteran BW Jadger (ghost). Trisk Adamantelpiece Leader in training.
+- **Ghosts**: still occupying many houses, varying hostility. Starting to become a problem.
+- **Goldwhisker clan**: wererats led by Chipgrin. Wants truce with Diggermattocks.
+- **Pudding King**: part of first settlement mission. Ooze obsessed. Serves Juiblex.
+
+## Rockblight
+[[blingdenstone-rockblight]]
+
+## Pit of Justice
+[[blingdenstone-justice-pit]]
+
 ## People
 ## Accents
 Leading into scottish for some of them, but weakly. Cross between goblin and dwarves.
@@ -24,6 +69,19 @@ Leading into scottish for some of them, but weakly. Cross between goblin and dwa
 ### Looks
 - Houses: made out of stones dug out in walls in their cavern.
 - City extras: mushroom fields outside (visible from northern wall), but mines accessible from dug passages from within (cliff split at southern end?)
+- Generic coridor: Concrete walls pushing up against the clay cavern walls and propped up by these wodden pillars.
+- **Secret room**: Stoneshape sealed passage StalaGmites seem hollod still.
+- **Abandoned mine passage:** Train tracks line the floor around this tunnel, makeshift buffer stops made out of rock placed at the end.
+- **BEDROOM**: Cobblestone room full of tiny beds, beds next to the wall each have their own chest of drawer and a tiny lockable chest. The beds in the middle of the room has a long clothetheline giving a modicum of privacy. A few carpets have been draped across it. A couple of small bath mats are lined out.
+- **Passageway overlooking Darklake**? Wodden path built into the edge of the wall.
+- **Dual cliff passage**: Sharp cliffs littered with passages, makeshift wodden bridges erected at various points in the cliff side. Some ascending sharply along one face, then some ascending on the other side.
+- **Svirf hom**e: Deceptively empty on the front entrance. Made to look spartan. Hatch downstairs to true home. Various meats hanging from the ceiling. Stone plates, pantry, gems that light up the place.
+
+## Encounter
+2 Gelatinous Cubes (Hard if: make em bigger 1d6 extra dmg dice - 30 extra hp +7 hit)
+Ally: Veteran (CR3) **Mev Flintkeeper** - 10 acid dmg and is engulfed (21acid per round)
+Gnome Cunning (adv on INT/WIS/CHA saves vs magic)
+
 
 ## NPCs
 - [[kazook]] Pickshine
@@ -40,9 +98,10 @@ Bored. Asks about lives adventures and pushes food drinks on them.
 - She has a crush on Dorbo, but is getting it on with Kazook (hidden).
 - Voice: old spinster crossed with monster voice. Enthusiastic.
 
-### Interactions
+#### Interactions
 - She served them Basilisk, and tried to get it on with Hjarka and then Bron (both failed).
 - They really disliked her enthusiasm, and they think she's quite old.
+- She flirted quite heavily with them (particularly hjarka in the hotsprings)
 
 
 ### Gara Songstone
@@ -89,6 +148,7 @@ Apparently it looks like the Gatwick pubs :-(
 ### Goldwhiskers
 Spike is Chipgrin. A level 6 something.
 Maybe he can just fuck off by pissing off people, then surprise, he's another dude.
+
 #### Whisker Warrren
 5 Wererats (CR2) => 2250XP (4500 Adjusted) But excluding ~CR8 Barb Chipgrin.
 
@@ -96,29 +156,7 @@ Maybe he can just fuck off by pissing off people, then surprise, he's another du
 
 > <--TODO: insert rough character description of how spike rolls chipgrin-->. As you approach, he looks towards you. <--Expecting Spike to suddenly introduce himself here-->.
 
-#### Dorbo Negotiation
-- Dorbo: Chipgrin. You’ve got some nerve coming here after infected too many of our good people.
-- Chip: We’ve got no choice the way you keep us all quarantined off like we’re animals.
-- Dorbo: you are animals, look at you. You’ve got hair on your nose.
-- Dorbo: ASK ADVENTURER, did he put you up to this?
-- Dorbo: You think you can fit into our society like this? You are abominations.
-- Chip: What do you want us to do, keep hiding away in these cursed caverns while we could help out?
-- Dorbo: You couldn’t help if you tried. You’d just convert all our children. You’re better off gone.
-- Chip: We can get in an out as we want. We’re not disturbing you any more than we have to.
-- Dorbo: So why are you even here?
-- Chip: I thought maybe we could broker a truce, but I can see I was mistaken.
-- Dorbo: Maybe you should leave while you have the chance. Before we send our newfound forces at you.
-- Dorbo: ASK ADVENTURERS, you’ve all promoted to Blingdenston Pest Control. What do you say.
-- Chip: So this is how it is huh. I guess you can all rot with the oozes.
-- Chip: TELL ADVENTURES: should’ve known you’re not to be trusted (AND AFTER DOING X WITH YOU)
-- Chip: I know how to get to the pudding king.
-- Dorbo: Adventurers, what do you proposes we do?
-
-If they are clever they can get it back on track by talking about oozes.
-Maybe they’ll backstab one party and get the intel, or maybe they can broker an uneasy truce.
-
-Give them potions to attack if all goes well.
-In neg room: 6gnomes + 1 galeb duhr
+See [[diggermattocks]] for resulting negotiation.
 
 #### Pool of Zhooblex
 Read first paragraph. bit on p112 first
@@ -204,40 +242,8 @@ https://www.reddit.com/r/DnDBehindTheScreen/comments/9j3kmt/quit_horsing_around_
 #### Celebration
 - Shots made out of Ochre Jelly
 - Some really fucking salty and gelatinous meat
-
-#### Kazook Protege
-Plenty of fire components for selling out a little to [[kazook]]. He will sell vital ingredients at a discount if he'll swear to only use his mending kit. Gunpowder in his lab.
-His lab is well lit, but you can see the the black marks from an explosion emanating from the door in hovel. Door is unhinged and not swinging correctly.
-Alchemical ingredients all over the place. Parts open above into another cavern opening. Blown open presumably.
-Large creation, unfinished. Drill like top. Barrels of gunpowder at the ready.
-
-#### Dorbo Rumors
-Routes: Two routes, one unfortunately blown out by Kazook's experiments... He's working on a way to sort it.
-
-Second known route is through a passage in Gracklstugh. The Duergar control this.
-Occasionally surfacers in Mantol-Derith.
-Gracklstugh may not be the most welcoming to outsiders. They maintain a truce with us out of necessity.
-What can dorbo give them?
-
-#### Dorbo Whisker Gratitude
-With your help we can summon enough elementals to wipe out the oozes.
-
-Knows they don't want to kill the rats:
-
-You know, I've had a change of heart towards these wererats. They fought bravely for us today, when they had little reason to. I had Tappy prepare a few kegs of ale and food as thanks for their contribution. Would you mind taking a couple of healers kits, and these two kegs of celebratory ale to them, as thanks for their hard work.
-
-Ale is poisonous. Ask if a couple of you want to bring that.
-
-If they do, then the next morning, you see numerous gnomes exiting from that area, smoke coming from the waren.
-
-Dorbo will admit it if pressed afterwards.
-
-#### Kazook Rumors
-- **Desperate lines**: Actually learned a lot from a friend. A friend who had access to some great secrets. Secrets he was not meant to have.
-- **Drunk lines**: Ooh, you have seen Solas. He had this book right. All sorts of constructions in it. The things you could do with that. Oh well, I guess I'll have to do with being a middle grade tinkerer. You too I guess.. Someday.
-- **Drunk Reconciliation**: look, I realise I've come off a little condescending. I recognise that you have some skills. Great potential in you perhaps. As a token of friendship, I've decided to give you this one time offer.. To be my protégé. I'll give you this magical mending glue, I've made. For you know, if your construction ever breaks down. …. also, you can use my lab for free in this trial period.
-- **Drunk demand**: Oh, yes, but I do have one ask. My friend Solas. I have not heard from in in a while. If I am to keep teaching you, it's imperative that you seek him out.
-- Also, by the way, if you find a couple of large gears and a blue cylinder please, bring them back. It'll allow me find a way out.
+- See [[diggermattocks]] for grattitude/rumors
+- See [[kazook]] for grattitude/rumors
 
 #### EBA
 If they don't go to anywhere or just lounge towards gracklstugh...
@@ -265,7 +271,22 @@ If they don't go to anywhere or just lounge towards gracklstugh...
 [neverlight]: neverlight "Neverlight Grove"
 [gracklstugh]: gracklstugh "Gracklstugh"
 [menzo]: menzo "Menzoberranzan"
+[11-queen-and-spiders]: ../recaps/11-queen-and-spiders "11-queen-and-spiders"
+[12-blingdenstone-taps]: ../recaps/12-blingdenstone-taps "12-blingdenstone-taps"
+[13-rockblight]: ../recaps/13-rockblight "13-rockblight"
+[14-pit-of-justice]: ../recaps/14-pit-of-justice "14-pit-of-justice"
+[15-battle-for-blindgenstone]: ../recaps/15-battle-for-blindgenstone "15-battle-for-blindgenstone"
+[16-puzzling-devils]: ../recaps/16-puzzling-devils "16-puzzling-devils"
+[solas-domain]: solas-domain "Solas' Domain"
 [kazook]: ../npcs/kazook "Kazook"
-[thoggi]: ../npcs/thoggi "Thoggi"
+[19-mizzrym]: ../recaps/19-mizzrym "19-mizzrym"
+[gurnik]: ../npcs/gurnik "Gurnik"
+[pendle]: ../pcs/pendle "Pendleblip"
+[20-surface]: ../recaps/20-surface "20-surface"
+[hanir]: ../pcs/hanir "Hans Irel"
+[zed]: ../pcs/zed "Zed"
 [diggermattocks]: ../npcs/diggermattocks "Dorbo"
+[blingdenstone-rockblight]: blingdenstone-rockblight "Rockblight"
+[blingdenstone-justice-pit]: blingdenstone-justice-pit "Pit of Justice"
+[thoggi]: ../npcs/thoggi "Thoggi"
 [//end]: # "Autogenerated link references"
