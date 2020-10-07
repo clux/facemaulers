@@ -72,6 +72,8 @@ devoted to existing failed gods of christianity / judaism?
 islam largely wiped out during the 40s cataclysm that created the exclusion zone.
 priest -> pope tree? Pope has godly powers of resurrection.
 
+suppose we need people working in healthcare as well. druids or clerics?
+
 ## Races
 Thieflings - sons of traders/investors
 Dwarves/Gnomes - generally live underground or maintain construction or power infra
@@ -83,6 +85,13 @@ Should really do this ASAP.
 ## Quests
 Government has instituted rewards against XR.
 Police sent to deal with a small case, have 1st player save someone.
+Need to start small scale
+
+## Monsters in real scenarios
+- Gelatinous cubes are dungeon roombas
+- Load bearing mimics used by gnomes below
+- Surrogate god: https://twitter.com/Monstroys/status/1313384544540725248 (ToA style)
+
 
 ## NPCS
 Tons of desperately sad characters.
