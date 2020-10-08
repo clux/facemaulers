@@ -96,7 +96,8 @@ Need to start small scale
 ## NPCS
 Tons of desperately sad characters.
 - Guy failing to jerk off and with cheeto dust all over him.
--
+- Anti-police radicalists from a "model" minority that fight prosecution of their racial flaws (halflings,kobolds)
+- See https://www.youtube.com/watch?v=0oXiFuPCU6k - Cubbys from Dimension High
 
 ## Accents
 https://www.youtube.com/watch?v=0iv6-csRBBI
@@ -110,3 +111,17 @@ https://www.youtube.com/watch?v=0iv6-csRBBI
 - Goblin
 - Mad Scientist
 - Wizard (desperate gandalf, heed my warning)
+
+
+### Heists
+Can raide banks, governments
+### Heist Skill challenges
+to avoid raising alarm and get item
+failures:
+- Get to room but major confrontation
+- Get object but confrontation outside
+- Fail to get object
+- Get less of what they were aiming for
+
+(can do heist challenges as flashbacks / forward-looking)
+gather intel, blueprints, guard patterns, private info to improve odds

@@ -33,6 +33,11 @@ Depressive Music; https://www.youtube.com/watch?v=QifCYaJgDVM
 Find contract for Mordai Well
 With Koth?
 
+## Cultists
+How to deal with the Crones of Thanatos
+Old lady wine club
+needs belieavable discourse, something on the state of politics
+
 ## Lich fight
 https://www.critrolestats.com/blog/2017/6/15/monster-analysis-delilah-briarwood-and-the-remnants
 https://www.reddit.com/r/dndnext/comments/3fj8oi/i_want_to_hear_your_time_stop_shenanigans/
@@ -45,6 +50,11 @@ blaming god
 make him jealous of being kavaki's original favourite? Akkhan?
 or maybe he's a better mauler? he can maul higher?
 high hitter maul.
+
+## Impromptu boss
+https://old.reddit.com/r/DnDBehindTheScreen/comments/j6akdx/nameless_legendary_sword_to_use_as_a_campaign/
+Can have a sword that makes him "nameless"
+Could be a death knight or something.
 
 ## nuclear waste warning
 Sending this message was important to us. We considered ourselves to be a powerful culture. This place is not a place of honor.. no highly esteemed deed is commemorated here.. nothing valued is here. What is here was dangerous and repulsive to us.
