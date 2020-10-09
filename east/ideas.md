@@ -42,6 +42,8 @@ needs belieavable discourse, something on the state of politics
 https://www.critrolestats.com/blog/2017/6/15/monster-analysis-delilah-briarwood-and-the-remnants
 https://www.reddit.com/r/dndnext/comments/3fj8oi/i_want_to_hear_your_time_stop_shenanigans/
 forcecage + fireshield + mirror image + incendiary cloud
+irae frustrated and calls the players nerds
+
 ## Mad people from destruction
 blaming god
 "this is our fault for sinning against X"
