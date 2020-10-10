@@ -1,5 +1,15 @@
 ## East
 
+## Motivation
+Irae wants to turn the world into a continent of undeath. Imperialist in the name of minimising suffering (death). Has demon lords unleashed to wreck havoc (can be uncovered by luskan grey cloaks investigating a certain ex-noble she was in contact with), although with the portal gone, they don't see a way for her to immediately control them. "With the energies summoned at the spine, sure, there would be ways to direct even these divine avatars of the abyss, but with the spine down, it would take something of commensurate energy.."
+
+They know of Kiaransalee were raising anything as undead with the help of her clergy.
+
+
+## Intro
+Mordecai + artemis back. Cameron there?
+an audience with arklem?
+
 ### Goals
 Dial down battle focus.
 Allow more RP in battle..
@@ -12,20 +22,6 @@ Airship battle over a volcano is dangerous, but let them do it.
 
 ## Felgolos slow conversion to a ghost dragon
 GHOST DRAGON: CC170
-
-## Intro
-Mordecai + artemis back. Cameron there?
-
-## Motivation
-The world will end if they don't tackle Irae. Why?
-
-- PRO: Giants are on their side, and summoning portal is closed
-- CON: Demon lords still in the world (can tackle them though..)
-
-She wants to be the true autocrat of the world. Undeath / lichdom gets rid of suffering of people. "What is one generation? in the face of endless happiness?"
-"end justifies the means, surely not a concept you are unfamiliar with?"
-
-an audience with arklem?
 
 ## Sunwuko's lost temple
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/
@@ -112,13 +108,6 @@ brain market - druid crafted banana leaf
 protected cleric
 
 ## undead mafia
-
-## vegan vampires
-heme-phir
-
-## A vampire city
-https://old.reddit.com/r/dndmaps/comments/igdcfo/saint_vol_city_of_the_vampire_lord/
-could maybe do colville style S&F?
 
 ## police state with people resisting
 
