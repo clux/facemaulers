@@ -125,3 +125,28 @@ failures:
 
 (can do heist challenges as flashbacks / forward-looking)
 gather intel, blueprints, guard patterns, private info to improve odds
+
+## Hospitals
+- Dr Johny Bananas
+- Dr Person Fakename
+- Dr Chad Sexington
+- Dr Weedlord Bonerhitler
+- Dr Elderknob Stoabgobbler
+- Dr Medicine
+
+
+## Homebrew
+### Rumors
+All PCs write N rumors about themselves.
+Pre-session 1. All pcs get 1 shuffled rumor from each character.
+
+### Percentile roll for languages
+Up to 2 languages are 2x at 100% (char background)
+More lang proficiency step down
+- 80 -> 70 -> 60 -> 50 -> 40 -> 30 -> 30 -> 30
+Roll under fluency under to read.
+
+### Combat lull between RPG and Combat
+Bullet time first move?
+Give them a few minutes to prep combat.
+(Wont work for suprises within the combat)

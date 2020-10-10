@@ -1,4 +1,5 @@
 9th of Oct 2018
+![](16-chain-devil.png)
 You left `Blingdenstone` after a bit of resting and armouring up. `Kazook` had a tinkering friend that'd gone missing, and in search of greater powers, you ventured on.
 
 After dispatching / humiliating some Drow scouts sent by `Ilvara`, you deactivated a complicated set of defences, and started looking for this creature and his lab. However, only a confused fey creature was found in a side passage, but offered no useful information.

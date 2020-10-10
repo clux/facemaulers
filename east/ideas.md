@@ -22,6 +22,11 @@ The world will end if they don't tackle Irae. Why?
 - PRO: Giants are on their side, and summoning portal is closed
 - CON: Demon lords still in the world (can tackle them though..)
 
+She wants to be the true autocrat of the world. Undeath / lichdom gets rid of suffering of people. "What is one generation? in the face of endless happiness?"
+"end justifies the means, surely not a concept you are unfamiliar with?"
+
+an audience with arklem?
+
 ## Sunwuko's lost temple
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/
 https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
@@ -32,6 +37,7 @@ Depressive Music; https://www.youtube.com/watch?v=QifCYaJgDVM
 ## Whelm ideas
 Find contract for Mordai Well
 With Koth?
+Need Chuuls in his lair.
 
 ## Cultists
 How to deal with the Crones of Thanatos
@@ -43,6 +49,15 @@ https://www.critrolestats.com/blog/2017/6/15/monster-analysis-delilah-briarwood-
 https://www.reddit.com/r/dndnext/comments/3fj8oi/i_want_to_hear_your_time_stop_shenanigans/
 forcecage + fireshield + mirror image + incendiary cloud
 irae frustrated and calls the players nerds
+
+CAN HAVE AN INTRO FIGHT WITH HER WIELDING THE AMULET
+
+## Conflicts with Lolth
+Vengeful ties to Lolth. Irae rebelled and took one of their cities (maerimydra)
+
+## Conflicts with Eilistraee
+E wants more independence. Racially superios, but doesn't make domination points out of it.
+Dark seldarine conflicts with peacefulness due to their imperialism.
 
 ## Mad people from destruction
 blaming god

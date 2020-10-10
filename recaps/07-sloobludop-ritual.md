@@ -1,3 +1,5 @@
+![](07-demogorgon.png)
+
 You reached `Sloobludop`, a kua-toa village on the shore of Darklake. Led by `Shooshar`, it quickly became evident that he was not universally considered their saviour, and they had their own conflicting ideas of worship. Taken in by archpriest `Ploop` worshipping their Deep Sea Mother, he presented a plan to overthrow a newly minted rival archpriest `Blopp` worshipping a rival Deep Sea Father.
 
  You went along with the plan and were presented as sacrificial offerings at the altar to the Deep Sea Father. There the sacrificial ritual started, and with the kua-toa united, they all start chanting for `Leemooggoogoon` - the Deep Sea Father. In the middle of the archpriest's speech, `Ploop` initiates the betrayal whereupon you all gang up on `Bloop` and her surprised minions with your concealed weapons. Massive damage is dealt in the first round, `Bloop` is heavily injured, but your unfortunate position in the center of the shrine means that none of you are safe.

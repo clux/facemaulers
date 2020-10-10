@@ -1,3 +1,5 @@
+![](09-zuggtmoy.png)
+
 You ventured into the `Neverlight Grove`. Greeted by a field of mushrooms and zhurkwoods that you managed to awake, you eventually appeased the creature with the help of Stool's surprising persuasion skills. Though not without a critical reaction hit from the tree to oneshot `Pendleblip`.
 
 In the grove you met with sovereigns `Phylo` and `Basida`. The enthusiastic former who wanted to take you on a tour of the `Garden of Welcome` and show you 'The great seeder', and the latter who instead wanted you to investigate the garden alone at his request. After helping out the leader of the hunters, taking down a charging, twisted shambling mound of flesh (with excellent long range damage dealing), you got some healing potions from `Basida` and rested up before exploring further.

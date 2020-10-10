@@ -1,10 +1,8 @@
+![](06-glabbagol.png)
+
 Those of you who survived the initial prison break from the drow encampment ran for their lives through various cave complexes in an attempt to ditch the tailing drow.
 
-
-
 Led by `Shooshar`, a zen kua-toa with a vague sense of how to get to the village of his people, you travelled along with `Stool` a child-like myconoid who wants to return to his grove, and `Derendil` a subterranean bear like creature (quaggoth) with an unhealthy appetite for violence.
-
-
 
 Eventually, `Mordai`, `Bron`, and `Pendleblip` managed to quench their hunger on various shrooms, and find a potential void filler for that emotional hole left by your murdered cleric `Dhoznak`; you met `WindSorrow`, a gloomy monk searching the underdark for reasons best explained in riddles. He also joined with a distinct lack of sacrificial family members.
 

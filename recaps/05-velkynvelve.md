@@ -1,3 +1,5 @@
+![](05-velkynvelve.png)
+
 No recap. They escaped with Shooshar, Derendil, Eldeth, Stool.
 But Ilvara caught them (they ventured deep). Insect plague downed Eldeth (Dhonak's sister), and Dhoz kept trying to res her. Everyone else lept into the waterfall leaving Dhoznak's body cold up in the drow camp.
 Escaped as Jorlan opened the door, you snuck your way into the armory..
