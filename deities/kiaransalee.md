@@ -4,6 +4,12 @@ Vengeful scythe wielding drow. Cruel, twisted, went insane ages ago.
 
 Never trusted anyone else to do justice to her vision, so she settled problems for herself.
 
+Once a mortal priestess, Kiaransalee is reputed to have returned from death driven by the power of her own spite to slay her rivals with an army of undead.
+
+Lolth was so impressed by her spite that she exalted Kiaransalee to divinity, letting her return time and again to slay those newborn drow whose newly-woven souls smelled of her enemies - which, ultimately, must be all drow. To stave off her depredations, drow burn incense or meat in hopes of masking the scent of their newborns, their sickly, or their warriors. In this way she is also an embodiment of the Matron Mother's driven daughter, always looking for weakness and desperate to defeat her rivals.
+
+While drow fear Kiaransalee, she is a reminder that failure comes at a cost, and that strength can be found by punishing betrayal or failure.
+
 ## History
 Took over the east, and rendered it corrupted. 700 years ago. We don't know too much of her upbringing and rise to power. She was originally a priestess of lolth, but had a falling out and branched out to the eastern empire, where she
 
