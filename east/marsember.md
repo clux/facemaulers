@@ -15,6 +15,8 @@ Mostly dealing in bone fractures.
 ## Heme-pires
 City of self-sustaining vampires. Put in place by Irae?
 
+## Unionised skeletons?
+
 ## A vampire city
 https://old.reddit.com/r/dndmaps/comments/igdcfo/saint_vol_city_of_the_vampire_lord/
 could maybe do colville style S&F?
