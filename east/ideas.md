@@ -4,7 +4,9 @@
 Irae wants to turn the world into a continent of undeath. Imperialist in the name of minimising suffering (death). Has demon lords unleashed to wreck havoc (can be uncovered by luskan grey cloaks investigating a certain ex-noble she was in contact with), although with the portal gone, they don't see a way for her to immediately control them. "With the energies summoned at the spine, sure, there would be ways to direct even these divine avatars of the abyss, but with the spine down, it would take something of commensurate energy.."
 
 They know of Kiaransalee were raising anything as undead with the help of her clergy.
-
+No one knows that there's a proper undead society now with the bodies raised.
+All of Luskan is there as undead.
+Celerom rules the city as compassion for the dead. Swayed by the arguments.
 
 ## Intro
 Mordecai + artemis back. Cameron there?
