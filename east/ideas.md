@@ -22,6 +22,8 @@ Make a situation/ecosystem that is so vibrant/multifaceted, so that even you as 
 Not like a puzzle (with a correct solution), but like a playground. Lava, rickety bridges, summonable monster. Make things intuitive, at birds eye level.
 Airship battle over a volcano is dangerous, but let them do it.
 
+NB: No way to teleport east, no fast fliers. Can rent hippogriffs or something. But it'll be a bit of a slog. Environmental hazards?
+
 ## Felgolos slow conversion to a ghost dragon
 GHOST DRAGON: CC170
 
