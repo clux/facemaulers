@@ -35,7 +35,6 @@ Together defend the eastern front vs russia.
 ## Oligarchs
 Only wealthy leaders left of the largely desolate state. Natural resources mostly sold to China and its subsidiary aseanic states.
 
-
 ## warlock
 money domain
 patron: angel investor
