@@ -51,9 +51,11 @@ given powerful weapons, but with little control over
 eastern soldiers fusing techniques of shaolin practices with nano-Technology
 faster movement, electrical augmentations, lack of humanity
 deus ex build
+monk matrix
 
 ## druid
 Circle of Xtinction (XR)
+Circle of Greenpeace
 
 ## wizard
 thermodynamics school; extract heat from atmosphere
@@ -72,6 +74,10 @@ islam largely wiped out during the 40s cataclysm that created the exclusion zone
 priest -> pope tree? Pope has godly powers of resurrection.
 
 suppose we need people working in healthcare as well. druids or clerics?
+
+## MAGIC IS ENERGY FIELD
+people have access to it (rich)
+poor can hack it
 
 ## Races
 Thieflings - sons of traders/investors

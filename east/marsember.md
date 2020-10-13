@@ -3,6 +3,17 @@ Large city off the Cormyr coast.
 ![](marsember.jpg)
 Previously ruled by Natalya. Now a powerhouse of the Vegan
 
+## Intro
+Day of the Dead style intro
+Festival really. Stereotypical depictions of undeath. Make-up. Grey artificial hair color on vampires (who don't have to have it.)
+
+## Dracolich
+Main powerhouse of the region - can be used against centuria later
+
+## Religion
+Priestess; https://www.pinterest.co.uk/pin/594756694514707123/ ?
+Vampire of Kiaransalee.
+
 ## Leader
 Erevain Greenleaf. Elven heme-vampire. Doesn't need oxygen to breathe. Can walk to the bottom of Dragon Lake with a backpack of rocks on.
 

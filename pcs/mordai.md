@@ -3,6 +3,25 @@ Warlock, only took a few levels in it and hid Chronomancy from patron.
 Divine Soul sorcerer after. Blessed by devils in Mephistar.
 Wizard. Time to study.
 
+## Backstory
+- Born to human family (in tiny place - awkward - also innate magic /fire/rebuke)
+- Many brothers/sistes (lots, don't know, only mother liked Mordai)
+- Went on a journey, framed for something (theft of item, new person turned up)
+- Sent to jail (while growing up, framed, rebuke at 15, got taken for 10 years)
+- Tempted by patron
+=> Family disappaer
+- Tries to become a spellcaster
+- Adventures with Bron
+- Someone dies?
+- Hermet some point after
+- Some place in the forest (abandoned wizard house)
+- Enough arcana to keep yourself hidden
+
+accidentally roleplayed as stoic, introspective
+not really distrusting still
+more characterised by inability by insufficiently powerful/knowledgable to prevent disaster
+wanting to be in control over those who take control. anger / desperation?
+
 ## Developments
 - Got book of Chronomancy on from [[andariel]]
 - [[celerom]] helped him learn it
