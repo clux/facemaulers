@@ -27,19 +27,12 @@ NB: No way to teleport east, no fast fliers. Can rent hippogriffs or something. 
 ## Felgolos slow conversion to a ghost dragon
 GHOST DRAGON: CC170
 
-## Centaur empire
-Holding the line of undead towards baldurs gate.
-Beefy fuckers with bows, regimented setups. Griffins. Warlocks.
-Erinyes give their powers. Devils are not keen on undead takeover. Less souls on the economy, but devils have been a little beauraucratic and only focusing on short-term focused thinking.
-NB: Erinyes just look like angels unless they want to reveal their origin. Glowing white eyes. GW Can detect a red shade along her body, but wings glimmer with green.
-NB: Erinyes have nno interest in promotion in devil hierarchy (but work under an arch devil), as they can just leave the 9 hells at will. Others must be summoned by a mortal.
-Erinyes help create faustian pacts. But now do so at a bargain.
-[What They Don't Tell You About Erinyes (Fallen Angels) - D&D](https://www.youtube.com/watch?v=6fNxT_rWvSo)
+## SIDES
+Can side with the vampires of marsember, as they have a pretty solid understannding of ethics and run a good society, they don't do anyone harm, although they clearly re-use the souls of the dead and prohib them entering hell/heaven.
+Can side with the devils, prolonging the cycle of suffering/shackling to divinity, but giving everyone the choice.
+Can side with liches
 
-![](erinye-faust.png)
-They are also lawyers in hell. Fiendish codex 2. Grenpoli is erinye city. No violence. Wit + Guile only. No weapons (magic barrier). Most spell fail in city (summoning, damage). Pure politics. Haven to mortal malcontents from 1000 worlds.
-
-## Sunwuko's lost temple
+## Sunwuko's lost temple?
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/
 https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
 

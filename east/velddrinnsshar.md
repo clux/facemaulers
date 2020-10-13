@@ -3,6 +3,12 @@
 
 City in the centre of the Moondeep Sea (AKA beneath Lake of Dragons in Cormyr in my setting).
 
+TODO: island on the Lake of Dragons, sheer drop tunnel down.
+(flying carpet perhaps)
+st michael's mount style island in the middle of the lake. Glorious perched atop?
+Perhaps the black marble temple is atop?
+Perhaps some light/dark symbolism?
+
 ## Acropolis of Thanatos
 A black marble temple. A temple devoted to the worship of the goddess [[kiaransalee]].
 
