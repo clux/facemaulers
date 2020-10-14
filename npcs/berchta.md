@@ -2,6 +2,7 @@
 ![](berchta.png)
 
 Seer in the [[feywild]]. Watches strands of fate from her spinning wheel.
+CC 153. CR16.
 
 ## Encounters
 - Lotus Golem; CC202

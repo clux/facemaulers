@@ -16,6 +16,18 @@ Stood in a lake-filled cavern with its ceiling covered with thousands of skulls,
 
 A brooding block of black marble veined with red, filled with misshapen corridors, windows, and gaping doorways. Many of the stairs trickled with what seemed to be rancid fat and many of the rooms had their walls covered in murals depicting gruesome scenes painted with dried blood.
 
+### Sleeping
+Dream Wraiths. CC135 CR5
+
+### Enemies
+- Flying Polyp CR11 CC162
+- Ghost Dragon CR11 CC170
+- Ghost Dwarf CR6 CC171
+- Many Ghoul variants in CC172...
+- Bloog Giants CR8 CC180 (great snipers + obscurers - tactical + they know them)
+- Gloomflowers CC188 CR3 (good for triggering visions)
+- Doom Golem CC197 CR10
+
 ## History
 The Crones obtained a voidstone, and placed it within the Acropolis in order to sustain a gate to the Shadowfell, to summon an army of undead.
 
