@@ -6,6 +6,9 @@ Skull Lanterns everywhere. CC343
 - Show players that the undead are being repurposed
 - Reintroduce Celerom and allow players to debate good and evil with him
 
+### TODO: orcus inspiration
+take inspiration of orcus's ship
+
 ## Chief Herald
 Herald of Undeath CC218 CR11.
 Taking orders from Irae. Giving orders to puppet cities. Marsember one of the cities.
@@ -20,7 +23,9 @@ In the end, he can use Chronomancy to Timestake back and avoid the fight.
 But he will TRY to persuade them that this is good.
 Likely, the party will find philosophical holes in his stance, particularly now if he's about to become a lich. TODO: maybe he already has become one? Nah. He's just convinced now by Arklem and Irae.
 
-## Official Ru les
+TODO: arklem might be talking negatively about orcus being lost, but at least slow and steady is good for our stealth. NB: this is meant for wherever the lich's union is set.
+
+## Official Rules
 Skeleton Monarch CC341 CR9 is great - can be one of the kings of neverwinter.
 
 With aids;

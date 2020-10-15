@@ -13,11 +13,6 @@ Currently; These powers bought by coin from Hell (whitewashed through baldur's g
 A powerful dwarven empire had its roots here, most connected cities disappeared with the netherese.
 Now the resting place of Akkhan. Overrun with underdark creatures and driders. At the time, the city was called `Dhirn Darim`, but centaurs named it `Nekrina` much later.
 
-## Purpose
-Officially; A place to hold the line of undead towards baldurs gate.
-Unofficially; A place for devils to launch their assault on the undead empire.
-
-
 ## Description
 Enormous sand pyramid rises up along the mountain side with beautifully carved small but plentiful steps mostly covered in sand. Centaurs talking amongst themselves under one leader (real beefy fuckers with huge bows, clearly battle trained, talking in a regimented fashion). Multiple griffins perched half way up the stairs.
 Several parties of armored humans helping out carrying equipment up the sand covered stairs.
@@ -43,36 +38,8 @@ Talindra; https://www.pinterest.co.uk/pin/508414245430345109/
 
 The thiefling could be Mordai's brother. It could be a implanted memory via Modify Memory.
 
-### Zaehesh Erinye
-Emissary from Mephistar (they do a little more long term projects).
-
-![](erinye-zaehesh.png)
-
-#### Meeting
-
-
-#### Backstory
-Lends her powers to the recent occupiers of the hithertho abandoned city of Nekrina.
-
-Erinyes give their powers. Devils are not keen on undead takeover. Less souls on the economy, but devils have been a little beauraucratic and only focusing on short-term focused thinking.
-
-
-NB: Erinyes just look like angels unless they want to reveal their origin. Glowing white eyes. GW Can detect a red shade along her body, but wings glimmer with green.
-NB: Erinyes have nno interest in promotion in devil hierarchy (but work under an arch devil), as they can just leave the 9 hells at will. Others must be summoned by a mortal.
-Erinyes help create faustian pacts. But now do so at a bargain.
-[What They Don't Tell You About Erinyes (Fallen Angels) - D&D](https://www.youtube.com/watch?v=6fNxT_rWvSo)
-
-They are also lawyers in hell. Fiendish codex 2. Grenpoli is erinye city. No violence. Wit + Guile only. No weapons (magic barrier). Most spell fail in city (summoning, damage). Pure politics. Haven to mortal malcontents from 1000 worlds.
-
-TODO: offer the power to understand what the undead are speaking / or something that makes them "seem undead" to avoid all the raising? Maybe sell a potion for it.
-TODO: offer Gate on conditions to aid the cause. She will have the true name of a fiend dedicated to the cause `Malexik the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil.
-
-NB: She will not willingly give information at the first stage of WHY they are offering these gifts so easily.
-Only if they return can they figure out that she is in fact in league with devils.
-
 ### Centaur Warlord Leandas
 In charge of a 50 centaur regiment responsible for keeping the growing city safe.
-Dispatched from Baldur's Gate after undead started poking on the
 
 ### Dwarven Fortress
 TODO: link with gilgrin vault (same clan heritage?)

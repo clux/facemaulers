@@ -19,6 +19,21 @@ A brooding block of black marble veined with red, filled with misshapen corridor
 ### Sleeping
 Dream Wraiths. CC135 CR5
 
+## Sorcer Relics
+Spider familiar tracking them.
+
+## Technology
+Can feature netherese like tech here if it's foreshadowed.
+TODO: Irae needs to maintain a spell to maintain an aura of civiliration to prevent the undead from being chaotic.
+
+## Goal
+TODO: Defeat Irae and the liches to end union?
+TODO: Summon Kiaransalee to usurp Irae
+
+## EBA: Trials
+Maybe follow Auril's Temple trials? P208
+Blessing of Kiaransalee; Immunity to Necrotic on DC22 CON SAVE.
+
 ### Enemies
 - Flying Polyp CR11 CC162
 - Ghost Dragon CR11 CC170

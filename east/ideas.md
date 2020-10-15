@@ -11,6 +11,8 @@ Celerom rules the city as compassion for the dead. Swayed by the arguments.
 ## Intro
 Mordecai + artemis back. Cameron there?
 an audience with arklem?
+TODO: epic level renown talk-up. 1 Month passed.
+Give them one retainer from Waterdeep?
 
 ### Goals
 Dial down battle focus.
@@ -28,9 +30,11 @@ NB: No way to teleport east, no fast fliers. Can rent hippogriffs or something. 
 GHOST DRAGON: CC170
 
 ## SIDES
-Can side with the vampires of marsember, as they have a pretty solid understannding of ethics and run a good society, they don't do anyone harm, although they clearly re-use the souls of the dead and prohib them entering hell/heaven.
+Can side with the undead societies (as orchestrated by irae) as they have a pretty solid understannding of ethics and run a good society, not all societies are actively trying to harm (Marsember), and just sustainably re-use the souls of the dead and prohibit them entering hell/heaven.
 Can side with the devils, prolonging the cycle of suffering/shackling to divinity, but giving everyone the choice.
-Can side with liches
+Can side simply against the liches, summoning Kiransalee, or killing Irae and destroying her staff with influence.
+Can side against the demon lords,
+TODO: design Irae.
 
 ## Sunwuko's lost temple?
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/
