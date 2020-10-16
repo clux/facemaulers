@@ -1,33 +1,99 @@
 # Irae T'sarran
-Drow high priestess of Kiaransalee (turned champion). Lived in [[maerimydra]] but took over the city, exterminated everyone, and moved it into a pocket dimension where she built her fortress.
+Drow high priestess of [[kiaransalee]] (turned champion). Lived in [[maerimydra]] but took over the city, once she became a Lich, exterminated everyone, and moved it into a pocket dimension where she built her fortress.
 
-Became a lich whilst studing forbidden necromancy in the Acropolis of Vanathos.
+Convinced by Kiaransalee's plight to follow up with her work. She learned the secrets to becoming a lich in the Acropolis of Vanathos. She also learned new techniques from [[koth]] true the Shadowfell in [[evernight]].
 
+Unleashed the demon lords upon the world to start the great `Osteogenesis`; converting the armies of entire cities.
+Set the Storm Giants up to protect the summoning circle. Summoning ritual ended in [[81-fracto-nimbuli]] (causing weakness in demon lords - resistances are down).
+
+## Motivation
 She wants to be the true autocrat of the world. Undeath / lichdom gets rid of suffering of people. "What is one generation? in the face of endless happiness?"
 "end justifies the means, surely not a concept you are unfamiliar with?"
 She saw [[kiaransalee]]'s potential, but have not gone insane about it. She wants her propechy to become true, but on her own terms.
 She's in it for socio-economic means, through revolutionary means.
 She'll want to use undead mechanisms of the shadowfell to make it more efficient than Kiaransalee. Complete re-use of the _supply chain_. Fetch bones from distant cities via potent necromancy and have the skeletons _Gate_ across, or simply _walk_ across if they don't require sustenance.
 
+She sees the drow + Lolth's rule as a hindrance to their success. Why she became a lich in the first place. Too much infighting, that in the end only serves the queen of spiders. The undead became a clean slate for her. Menzo could not stand up for themselves in Menzo anyway (failed to attack through Gilgrin again and again).
+
 ![](irae.png)
 
 ## Encounters
+- [[36-grundsgryn]] found [[andariel]] in a `Chrono: Indefinite Presevation`
 - [[58-hill-giant-hotel]] (initial mind control of Hans)
 - [[62-hazy-bracers]] (murder of Petros) in [[rimehaze]]
 - [[63-rime-turtles]] (battle aid; chrono mancy, delayed blast fireball, mass suggestion)
 - [[72-prince-of-demons]] (time stop, stole bag of holding) in [[wd-demogorgon]]
 
-## SOURCES
-https://forgottenrealms.fandom.com/wiki/Irae_T%27sarran
-https://forgottenrealms.fandom.com/wiki/Crones_of_Thanatos
-https://forgottenrealms.fandom.com/wiki/Kiaransalee
-https://forgottenrealms.fandom.com/wiki/V%27elddrinnsshar
-https://forgottenrealms.fandom.com/wiki/Promenade_of_the_Dark_Maiden
-https://forgottenrealms.fandom.com/wiki/Claw_of_the_revenancer
-https://forgottenrealms.fandom.com/wiki/Rod_of_the_twisted_Weave
-https://forgottenrealms.fandom.com/wiki/Eyes_of_the_spider
-https://forgottenrealms.fandom.com/wiki/Silveraith
-https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
+## Lines
+"Do you like the scythe? I feel it goes well with the undead look."
+"With this, the undead are re-united, once again."
+
+NB: SHE WON'T ACTIVELY TAKE CREDIT FOR DEMON LORDS OR MASS SLAUGHTER TO FURTHER THE MEANS.
+
+## Mannerisms
+Draws out her vowels in every other word.
+
+## Mind Control
+- True Polymorphed visit to isolated adventurers. Use 8th level Modify Memory to downplay bad necromancy scenes.
+- When someone is figuring it out; Time Stop + Modify Memory (stops time stop AFTER it's hit)
+
+Continued use makes it really hard for even seasoned magic users to realize they have been fucked with. Can narrate it as a break. Clearly at some point, they will notice something (can do it in the style of Fantasy High when the trail runs cold over summer).
+
+## Protections
+- Mindblank every morning (immune to mind control type + divination spells)
+- Contingency (10 day) to do X (5th level spell that uses one action) if BAD CONDITION
+- Mage Armor
+
+When in lair; other crones concentrate on her protections:
+- Invulnerability (if liches present)
+- Globe of Invulnerability
+- Stoneskin
+
+## Stats
+https://roll20.net/compendium/dnd5e/Lich
+Roll her as a Fey conjuration wizard turned Lich.
+
+NB: she revealed twinning (so she must have this)
+NB: she must have flight + truesight passively + stun/charm immunity
+NB: she must know how to cast Chronomancy (just don't need to have it active, she knows better)
+
+- ADV: save vs turn undead, cold, lightning, necrotic
+- Immunity; Poison, {Bludgeoning, Piercing, Slashing} (from non-magical)
+- Rejuvenation in 1d10 days
+- Spellcasting based on INT
+
+Either War Magic or Necromancy
+Necromancy makes sense for summoning, but that makes her items OP.
+So make her a War Mage and justify summoning with items.
+This gives her Initiative bonus based on INT, and +2 AC and SAVES while concentrating + deflecting shroud
+
+Extra immunities;
+- from lich (some undead general?); Exhaustion, Frightened, Poisoned, Paralyzed
+- from fey ancestry: Charmed
+
+## Magic Items
+TODO: she MIGHT drop some of these on death => scale them for players
+### Something else
+Something that gives her defensive caps..
+Passive ability; Cast greater invisibily on self as bonus action
+Passive ability; Cast flight on self as bonus action
+Both concentrations can be maintained by item
+
+### Eye of the Spider
+Passive Truesight 60ft
+Contains spells to be cast:
+- Counterspell
+- Crown of Stars
+- Mindblank
+
+### Scythe of the Banshee
++2 CHA/INT (ABOVE 20)
++4d8 necrotic damage on hit
+Grants immunity to Stunned/Restrained conditions
+
+Passive effect; undead raised by her, (or by her transitively gain the sentient undead feat).
+Passive effect; Cast Create Undead at 9th level (provided enemies need to be present)
+
 
 ## OMEGA PLANS
 https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
@@ -90,11 +156,7 @@ trudging through east: https://www.youtube.com/watch?v=d69AvVj4FkE (abysswalker 
 
 ## Super Past
 500 years old. (She has to be just a little over 200, due to Felgolos notes)
-
 Has a painting that takes you to her lair (which does contain her phylactery now).
-
-## Mannerisms
-Draws out her vowels in every other word.
 
 ## Past
 Freed Silth from Magnificent Matriarch and infiltrated it within the storm giants lair.
@@ -107,22 +169,12 @@ Uses the magic divices there to steer one demon lord at a time, so she can infil
 She gives some to her servants as they help steer the demon lords.
 She stole the diamond from Luskan after the raid.
 
-## Motivation
-Restoring the legacy of the revenancer so the world can be restortored in the darkness of Kiaransalee.
-
-She wants revenge on the mages guild across the world for the punishment of the dark elves. Racial banishment because of one bad drow?
-
-Also bad blood for the entrapment of Kiaransalee to Lolth (hence destruction there - most of her followers not in Menzo anyway).
-
-She wants to complete the cycle. Tying up revenge debt once and for all (insanity).
-
-NB: "Revenge is about something that has already happened, and when you are trying to achieve vengeance, you are investing your everything into a venture that will lead you to no benefit at the end."
-
 ### Connection to party
 She had to bring Chronomancy into the world on Moonshae, and she had to sacrifice a large part of herself(?) to do so. Her tampering is part of the cause for the rift that is doomed to send Hanir to the past.
 
 She had to sacrifice her clerics in V'elddrinnsshar so her empire is weak?
 She had to sacrifice levels? Phylactery power?
+
 
 Weaknesses (beyond the phylactery). She is not high level right now?
 They can kill her if she attacks? Maybe Arklem attacks? Well, have to rewrite then...
@@ -140,21 +192,12 @@ Belly of Blood (Orcus clashed with Kiaransalee - she killed him!).
 
 Cleric of Ghaunadaur might be a drow thing now after Ghaunadaur took Juiblex's powers. Rogues of Vhaeraun (Braegan), or surface dwellers under Eilistraee.
 
-## Goals
+## Past Goals
 Wants to grab the diamond in the tower arcane after getting Yeenoghu to destroy the defenses and cause a weakening in its defenses. Then can become powerful enough to cast high level spells.
 
 Will then want to raid Waterdeep of its most powerful artifacts. By sending Demogorgon down. If that fails. Baphomet is next (with whatever mages survived).
 
 But needs to keep Halos under her control to steer the Demon Lords, they are fickle.
-
-## Protections
-Casts mindblank every morning (immune to mind control type + divination spells)
-
-Has a 10 day contingency to do X (5th level spell that uses one action) if BAD CONDITION
-
-Passive flight + truesight.
-Maybe cloak of Invisibility
-Chronomancy. She imprisoned Andariel (Neko Hime).
 
 ## Servants
 ### Koth M'gog Mindgorger - Nihileth
@@ -180,9 +223,30 @@ The greatsword is a +3 iridium greatsword that can be used to?
 
 Can also cast Storm of Vengeance.
 
+
+### Sentient Undead feat
+Undead, have their sentience, through their original souls
+
+## SOURCES
+https://forgottenrealms.fandom.com/wiki/Irae_T%27sarran
+https://forgottenrealms.fandom.com/wiki/Crones_of_Thanatos
+https://forgottenrealms.fandom.com/wiki/Kiaransalee
+https://forgottenrealms.fandom.com/wiki/V%27elddrinnsshar
+https://forgottenrealms.fandom.com/wiki/Promenade_of_the_Dark_Maiden
+https://forgottenrealms.fandom.com/wiki/Claw_of_the_revenancer
+https://forgottenrealms.fandom.com/wiki/Rod_of_the_twisted_Weave
+https://forgottenrealms.fandom.com/wiki/Eyes_of_the_spider
+https://forgottenrealms.fandom.com/wiki/Silveraith
+https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
+
 [//begin]: # "Autogenerated link references for markdown compatibility"
-[maerimydra]: ../planar/maerimydra "Maerimydra"
 [kiaransalee]: ../deities/kiaransalee "Kiaransalee"
+[maerimydra]: ../planar/maerimydra "Maerimydra"
+[koth]: koth "Koth M'gog"
+[evernight]: ../north/evernight "Evernight"
+[81-fracto-nimbuli]: ../recaps/81-fracto-nimbuli "81-fracto-nimbuli"
+[36-grundsgryn]: ../recaps/36-grundsgryn "36-grundsgryn"
+[andariel]: andariel "Andariel"
 [58-hill-giant-hotel]: ../recaps/58-hill-giant-hotel "58-hill-giant-hotel"
 [62-hazy-bracers]: ../recaps/62-hazy-bracers "62-hazy-bracers"
 [rimehaze]: ../spine/rimehaze "Rimehaze"

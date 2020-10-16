@@ -27,7 +27,7 @@ WHERE: Marsember. Vampire City. New city, don't have a name for it, except my no
 TEMPTATION: Scan mordai with red eyes. Tempt with 20% more evocation potency. Or maybe 30%? (Never any shame in seeking help.)
 
 ### Offers
-Offer `Gate` on conditions to aid the cause. She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil.
+Offer `Gate` on conditions to aid the cause. She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil. NB: They need to use `Planar Binding` to actually get it to do what they want.
 
 
 ### Notes

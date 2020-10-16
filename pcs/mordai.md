@@ -22,6 +22,9 @@ not really distrusting still
 more characterised by inability by insufficiently powerful/knowledgable to prevent disaster
 wanting to be in control over those who take control. anger / desperation?
 
+## Planned
+- Have him experience something to question his silent suffering?
+
 ## Developments
 - Got book of Chronomancy on from [[andariel]]
 - [[celerom]] helped him learn it
