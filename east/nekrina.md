@@ -40,6 +40,10 @@ The thiefling could be Mordai's brother. It could be a implanted memory via Modi
 
 ### Centaur Warlord Leandas
 In charge of a 50 centaur regiment responsible for keeping the growing city safe.
+Centaurs want fancy shit. Golden stables. Threaded hay, no dirt, with melted cheese.
+Leandas has signed a pact for this, and will leading the assault on Marsember.
+He's a bit dim, but pretty stronk.
+Will reveal that lady helped get him this deal.
 
 ### Dwarven Fortress
 TODO: link with gilgrin vault (same clan heritage?)

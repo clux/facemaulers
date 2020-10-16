@@ -71,22 +71,25 @@ Extra immunities;
 - from lich (some undead general?); Exhaustion, Frightened, Poisoned, Paralyzed
 - from fey ancestry: Charmed
 
+TODO: she probably still needs a damage reduction here...
+
 ## Magic Items
-TODO: she MIGHT drop some of these on death => scale them for players
-### Something else
-Something that gives her defensive caps..
+NB: These COULD drop. Don't overdo it. Although campaign end, so...
+
+### The Banshee's Spectral Veil
 Passive ability; Cast greater invisibily on self as bonus action
 Passive ability; Cast flight on self as bonus action
 Both concentrations can be maintained by item
 
-### Eye of the Spider
+### Eye of Vengeance
 Passive Truesight 60ft
-Contains spells to be cast:
-- Counterspell
+Lets the wielder automatically see what type of spell being cast (for counterspell purposes).
+Lets the wielder Twin spells (like sorceres's Twinned Spells metamagic) twice per day.
+Contains spells to be cast once per day:
 - Crown of Stars
 - Mindblank
 
-### Scythe of the Banshee
+### Scythe of the Revenancer
 +2 CHA/INT (ABOVE 20)
 +4d8 necrotic damage on hit
 Grants immunity to Stunned/Restrained conditions
@@ -236,6 +239,7 @@ https://forgottenrealms.fandom.com/wiki/Promenade_of_the_Dark_Maiden
 https://forgottenrealms.fandom.com/wiki/Claw_of_the_revenancer
 https://forgottenrealms.fandom.com/wiki/Rod_of_the_twisted_Weave
 https://forgottenrealms.fandom.com/wiki/Eyes_of_the_spider
+https://5e.tools/items/hand-of-vecna-dmg.html
 https://forgottenrealms.fandom.com/wiki/Silveraith
 https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagical_weapon/
 

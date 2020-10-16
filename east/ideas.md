@@ -9,10 +9,13 @@ All of Luskan is there as undead.
 Celerom rules the city as compassion for the dead. Swayed by the arguments.
 
 ## Intro
-Mordecai + artemis back. Cameron there?
-an audience with arklem?
+Mordecai + artemis back?
 TODO: epic level renown talk-up. 1 Month passed.
-Give them one retainer from Waterdeep?
+The trail towards Irae has been pretty dark. Scrying has continually failed, despite having some familiarity with her. The names and locations of the last battle of Kiaransalee does not seem to match anything actual in nature. All you found was a desert.
+However, after several weeks of teleporting with the mages, you have been back in Waterdeep, honing your skills. Preparing for the inevitable.
+And it does not take long. Sending from Baldur's Gate reveal they have forces sent out to protect from undead coming from the east, and that they have set up a camp by the abandoned city of Nekrina.
+Give them some time to prep.
+TODO: Give them a fortress or a retainer?
 
 ### Goals
 Dial down battle focus.

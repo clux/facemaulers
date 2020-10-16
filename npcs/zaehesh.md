@@ -16,6 +16,13 @@ Unofficially; A place for devils to launch their assault on the undead empire.
 IDEA1: slightly witty and sarcastic. Understands mortal relations well. Camouflages details very well.
 IDEA2: A bit out of it with regards to normal interaction. Legal terms? Although that would expose "my client" and "THE ENTITY".
 
+#### Welcoming lines
+So here are the famous adventurers from the north. Pleasure to make your acquintance. I am Zaehesh. I represent powerful interests via Baldur's gate, interests who wishes to defend their perimiters from the undead out east. The adventurers you see here are some of baldur's gate's finest. Additionally, we have also hired this centaur army to fight for us.
+
+Rather than waiting for them to make to many powerful first moves, we will hit them where it hurts the mosts. Marsember. An outpost swarming with undead, originally known to contain the famous Vampire TODO:.
+
+We weren't sure if you were going to make it. But since you are here. We would like to request your aid. Run a stealth mission around the city. Figure out what's going on. Find weaknesses in their defense and fortifications. Then get back to us.
+
 #### Lines for 1
 - "There's been a large amount of undead passing through this area"
 - "We have been sent her by higher powers through Baldur's Gate to protect its interests"
@@ -24,7 +31,18 @@ WHO: "I am not at liberty to divulge the nature of my clients at the moment."
 WHY: "The undead are a threat to the continent itself, and the necromancer's horror version of cleric magic (Raise Dead) cannot be allowed to torture dead creatures with this endless suffering. (rob creatures of their afterlives)."
 WHERE: Marsember. Vampire City. New city, don't have a name for it, except my notes as "Bone City". Tons of skeletons. Structures also built out of bone.
 
-TEMPTATION: Scan mordai with red eyes. Tempt with 20% more evocation potency. Or maybe 30%? (Never any shame in seeking help.)
+#### Lines for Mordai
+TEMPTATION: Scan mordai with red eyes. Tempt with 2 extra dmg dice on spells < 3th level, for more evocation potency. Or maybe < 4th?
+Lines: Never any shame in seeking help.
+
+#### Lines for GW
+(He will see her with purple, flickering RED. Canonically evil.)
+Oh, great. Who let mister child morality out.
+You realize I am from actual HELL right? Are all of us going to be bad?
+MAYBE: heaven and hell two side of the same coin schpiel?
+We are defeating undead here. Would possible negative could I have for doing that, huh?
+
+SO WHY: As I said, I cannot divulge the nature of my clients at the moment. But that should not distract you from our goal here. Do you want the coast swarming with undead? No? Neither does my clients.
 
 ### Offers
 Offer `Gate` on conditions to aid the cause. She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil. NB: They need to use `Planar Binding` to actually get it to do what they want.
