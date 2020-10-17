@@ -1,7 +1,7 @@
 # Zaehesh
 Erinye emissary from Mephistar from department of long term interests.
 
-![](zaehesh.png) TODO: crop
+![](zaehesh.png)
 
 ## Meeting
 She's stationed at [[nekrina]] handing out cheap contracts to promising fighters/sorcerers from Baldur's Gate to wage Warlock war against the Undead.
