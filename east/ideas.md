@@ -12,12 +12,13 @@ Celerom rules the city as compassion for the dead. Swayed by the arguments.
 Mordecai + artemis back?
 TODO: epic level renown talk-up. 1 Month passed.
 The trail towards Irae has been pretty dark. Scrying has continually failed, despite having some familiarity with her. The names and locations of the last battle of Kiaransalee does not seem to match anything actual in nature. All you found was a desert.
+TODO: A cryptic message from Felgolos arrived; ???
 However, after several weeks of teleporting with the mages, you have been back in Waterdeep, honing your skills. Preparing for the inevitable.
 And it does not take long. Sending from Baldur's Gate reveal they have forces sent out to protect from undead coming from the east, and that they have set up a camp by the abandoned city of Nekrina.
-Give them some time to prep.
+Give them some time to prep, talk to the people involved.
 TODO: Give them a fortress or a retainer?
+TODO: demon lord canonicalisation
 
-A cryptic message from Felgolos arrived; ?
 
 ### Goals
 Dial down battle focus.
@@ -31,15 +32,12 @@ Airship battle over a volcano is dangerous, but let them do it.
 
 NB: No way to teleport east, no fast fliers. Can rent hippogriffs or something. But it'll be a bit of a slog. Environmental hazards?
 
-## Felgolos slow conversion to a ghost dragon
-GHOST DRAGON: CC170
-
 ## SIDES
 Can side with the undead societies (as orchestrated by irae) as they have a pretty solid understannding of ethics and run a good society, not all societies are actively trying to harm (Marsember), and just sustainably re-use the souls of the dead and prohibit them entering hell/heaven.
-Can side with the devils, prolonging the cycle of suffering/shackling to divinity, but giving everyone the choice.
-Can side simply against the liches, summoning Kiransalee, or killing Irae and destroying her staff with influence.
-Can side against the demon lords,
-TODO: design Irae.
+Could also improve sustainability of existing undead societies (Bone City) to make this more palatable.
+Can side with the devils, prolonging the cycle of suffering/shackling to divinity, but giving everyone the choice. But it would require actually killing the undead (cant revive them all).
+Can unify vampires, devils against the liches, and seal the Egg to keep those societies sustainable (condition of no-expansion by devils).
+Can side against the liches, summoning Kiransalee(?), or killing Irae and destroying her staff with influence. Can use Felgolos's secret plan.
 
 ## Sunwuko's lost temple?
 https://www.reddit.com/r/dndmaps/comments/b28btz/free_lost_temple_of_the_monkey_king_temple_maps/

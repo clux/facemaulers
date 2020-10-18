@@ -13,6 +13,8 @@ perditional contradoxy style
 
 or he true polymorphed into a skeleton with a bronze crown and is undercover in velddrinshar..
 
+or just plain slow conversion to a GHOST DRAGON: CC170.. why?
+
 ## Gilgrin Start Place
 Rests in the middle of the lava pit, covers large sprawling surface, tail, in the lava / across closed lava acqueduct.
 
