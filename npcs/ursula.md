@@ -1,6 +1,8 @@
 # Ursula
 Grey/blue haired robed clumsy woman with glasses. (abjuration / illusion + lore)
 
+https://skrtttt-6.tumblr.com/post/182928710003
+
 Needs lore of unknown schools of magic found in the world.
 Gain ranks by quests.
 

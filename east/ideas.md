@@ -17,6 +17,8 @@ And it does not take long. Sending from Baldur's Gate reveal they have forces se
 Give them some time to prep.
 TODO: Give them a fortress or a retainer?
 
+A cryptic message from Felgolos arrived; ?
+
 ### Goals
 Dial down battle focus.
 Allow more RP in battle..

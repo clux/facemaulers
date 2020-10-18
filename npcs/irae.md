@@ -6,6 +6,8 @@ Convinced by Kiaransalee's plight to follow up with her work. She learned the se
 Unleashed the demon lords upon the world to start the great `Osteogenesis`; converting the armies of entire cities.
 Set the Storm Giants up to protect the summoning circle. Summoning ritual ended in [[81-fracto-nimbuli]] (causing weakness in demon lords - resistances are down).
 
+ilharess alur (matron superior) is her new introductory title.
+
 ## Motivation
 She wants to be the true autocrat of the world. Undeath / lichdom gets rid of suffering of people. "What is one generation? in the face of endless happiness?"
 "end justifies the means, surely not a concept you are unfamiliar with?"
@@ -16,6 +18,10 @@ She'll want to use undead mechanisms of the shadowfell to make it more efficient
 She sees the drow + Lolth's rule as a hindrance to their success. Why she became a lich in the first place. Too much infighting, that in the end only serves the queen of spiders. The undead became a clean slate for her. Menzo could not stand up for themselves in Menzo anyway (failed to attack through Gilgrin again and again).
 
 ![](irae.png)
+
+The undead sentience ability of her completed scythe lets her create a self-fueling religion around her (though she keeps this secret for now, but Arklem will know). This can be seen in the dungeons of [[bonecity]].
+
+In the mean time she and Arklem is trying to complete an ascension ritual in [[velddrinnsshar]]. Guards planted. They will need to defeat her there, and then probably in her phylactery.
 
 ## Encounters
 - [[36-grundsgryn]] found [[andariel]] in a `Chrono: Indefinite Presevation`
@@ -249,6 +255,8 @@ https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagica
 [koth]: koth "Koth M'gog"
 [evernight]: ../north/evernight "Evernight"
 [81-fracto-nimbuli]: ../recaps/81-fracto-nimbuli "81-fracto-nimbuli"
+[bonecity]: ../east/bonecity "Bone City"
+[velddrinnsshar]: ../east/velddrinnsshar "V'elddrinnsshar"
 [36-grundsgryn]: ../recaps/36-grundsgryn "36-grundsgryn"
 [andariel]: andariel "Andariel"
 [58-hill-giant-hotel]: ../recaps/58-hill-giant-hotel "58-hill-giant-hotel"

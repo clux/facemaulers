@@ -45,9 +45,18 @@ Leandas has signed a pact for this, and will leading the assault on Marsember.
 He's a bit dim, but pretty stronk.
 Will reveal that lady helped get him this deal.
 
+### Gnome Entrepeneur
+With Bellow/Flumph rules. 1gp per entry. 10gp price. DC20 STR check (-2 each subsequent attempt). Maul bonus if proficient.
+https://i.redd.it/lak61ggkqgt51.jpg
+He could be a tatoo Djinn, they have to beat his thing and they can get a tattoo at an unspecified time.
+
 ### Dwarven Fortress
 TODO: link with gilgrin vault (same clan heritage?)
 If they want. They can figure out how the place fell and the powers of Kiaransalee. The weaknesses of the Acropolis from their initial failed raid. Resting place of Akkhan?
 Should now have undead deep within. Underdark creatures as well. Driders? Chuuls? Umber Hulks.
 
 "Eternal resting place of ancient heroes"
+
+#### Enemies
+- Haugbui (mount feeder undead zombie like) CR13 TOB247
+- Mummies?
