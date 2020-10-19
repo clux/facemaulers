@@ -51,6 +51,8 @@ TODO: arklem might be talking negatively about orcus being lost, but at least sl
 
 Some of the vampires are skeptical of Celerom's approach, but about half of them are on board. Arklem not concerned with this, he's a tactician. He wants the plan to progress quickly now that demon lords have been weakened.
 
+NB: these undead are not sentient yet (staff prop, vampires are though)
+
 ## Dungeon
 Worshippers of Irae granting her divine powers.
 Normally, the deacons would worship Kiaransalee, but Irae wants the powers directly.

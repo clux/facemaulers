@@ -6,12 +6,20 @@
 - [[73-demo-gone-gone]] (arrived late for demogorgon battle)
 
 ## Post-Umnos
+left to retrieve the egg (they had enough on their hands), sent a message.
+now it's harder for him to send further (found the place, door to shadowfell),
+can't return, scoping out the place, trying to send messages every now and then.
+he has a divination blocker (a ring casting mindblank?)
+
+
+### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`
 he sacrificed himself to add a vulnerability to the egg; someone of a particular persuasion have to be raised by Irae and it will corrupt the egg
 someone has to turn Felgolos into a god
 perditional contradoxy style
 
-or he true polymorphed into a skeleton with a bronze crown and is undercover in velddrinshar..
+or he true polymorphed into a skeleton with a bronze crown and is undercover in velddrinshar.. (although message works across planar boundaries)
+captured in polymorphed form (true sight see it), convert him to undead?
 
 or just plain slow conversion to a GHOST DRAGON: CC170.. why?
 

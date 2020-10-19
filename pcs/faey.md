@@ -4,6 +4,7 @@ Part of the Watchers of the Night in the [[feywild]] with [[hanir]].
 Now an arch-fey; the lord of shadows.
 Can be granted a region of the feywild;
 - snow based castle? https://www.pinterest.co.uk/pin/834291899700769154/
+- majestic above the clouds: https://i.redd.it/nzwqj42jfqr51.jpg
 - emo one: https://www.pinterest.co.uk/pin/556827941418592030/
 - stradh style https://www.pinterest.co.uk/pin/721068590317478743/
 - olympus style; https://www.pinterest.co.uk/pin/577023770985775767/

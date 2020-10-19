@@ -24,10 +24,29 @@ The elves are both very cute looking. One with great flowing blue hair in a whit
 
 ## NPCs
 ### First Adventuring Group
-#### Grigor + Isaak
+#### Zhan + Isaak
 Fighters from Baldurs gate.
-https://www.pinterest.co.uk/pin/466263367664478591/ - Human Fighter
+![](zhan.png)
+![](isaak.png)
+Zhan is the human cleric, and Isaak is the Genasi sorcerer.
+https://www.pinterest.co.uk/pin/466263367:-664478591/ - Human Fighter
 https://www.pinterest.co.uk/pin/192317846573382356/ - Genasi Sorcerer
+
+Been fighting together for a long time. Level 11. Helped clear Baldur's Gate of cultists from Baal.
+
+##### Isaak
+Isaak is pretty "cool" a bit "try hard". Tosses his hair around.
+- "So, you're the big shots from up north huh?"
+- "
+##### Zhan
+Zhan is a cleric of `Bane`. The aristocracy in Baldur's Gate is a bit oppressive.
+Uses a maul, very skillfully. Like an asian monk. Will greet GW respectfully. Uncle Roger accent.
+- "You use ancient hammer?"
+- "Ancient hammer, only for skilled warria."
+- "Be one with the maul."
+
+Will challenge GW to Bellow/Flumph.
+
 ### Talindra + Lyeneru Morren
 Sisters, but Talindra is a thiefling. Great grandfather on mother's side apparently had infernal roots.
 Following the standard approach, her sister has tried to do her hair up in such a way to cover her horns, but it's large and extrudes far to the side. They took this job here because only limeted combat experience was required (magic knowledge nice to have).
@@ -41,7 +60,7 @@ The thiefling could be Mordai's brother. It could be a implanted memory via Modi
 ### Centaur Warlord Leandas
 In charge of a 50 centaur regiment responsible for keeping the growing city safe.
 Centaurs want fancy shit. Golden stables. Threaded hay, no dirt, with melted cheese.
-Leandas has signed a pact for this, and will leading the assault on Marsember.
+Leandas has signed a pact for this, and will leading the assault on BoneCity.
 He's a bit dim, but pretty stronk.
 Will reveal that lady helped get him this deal.
 
@@ -49,6 +68,8 @@ Will reveal that lady helped get him this deal.
 With Bellow/Flumph rules. 1gp per entry. 10gp price. DC20 STR check (-2 each subsequent attempt). Maul bonus if proficient.
 https://i.redd.it/lak61ggkqgt51.jpg
 He could be a tatoo Djinn, they have to beat his thing and they can get a tattoo at an unspecified time.
+
+He can sell the plumbus: https://www.youtube.com/watch?v=JGaBU5cKluU
 
 ### Dwarven Fortress
 TODO: link with gilgrin vault (same clan heritage?)

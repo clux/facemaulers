@@ -12,3 +12,6 @@ Elite warriors tirelessly fighting the demonic agents of Lolth.
 
 ## Promenade of the Dark Maiden
 Sacred temple to Eilistraee in Waterdeep in Skullport
+
+## Potential
+If they find GOOD DROW, they can be used against Kiaransalee.

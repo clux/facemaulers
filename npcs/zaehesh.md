@@ -19,7 +19,7 @@ IDEA2: A bit out of it with regards to normal interaction. Legal terms? Although
 #### Welcoming lines
 So here are the famous adventurers from the north. Pleasure to make your acquintance. I am Zaehesh. I represent powerful interests via Baldur's gate, interests who wishes to defend their perimiters from the undead out east. The adventurers you see here are some of baldur's gate's finest. Additionally, we have also hired this centaur army to fight for us.
 
-Rather than waiting for them to make to many powerful first moves, we will hit them where it hurts the mosts. Marsember. An outpost swarming with undead, originally known to contain the famous Vampire TODO:.
+Rather than waiting for them to make to many powerful first moves, we will hit them where it hurts the mosts. BoneCity. An outpost swarming with undead, originally known to contain the famous Vampire TODO:.
 
 We weren't sure if you were going to make it. But since you are here. We would like to request your aid. Run a stealth mission around the city. Figure out what's going on. Find weaknesses in their defense and fortifications. Then get back to us.
 

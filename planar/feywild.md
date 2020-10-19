@@ -141,6 +141,7 @@ Below plateau
 
 ## Other cities
 [Cendriane](https://just-the-tip.obsidianportal.com/wikis/cendriane)
+[Myth Drannor](https://forgottenrealms.fandom.com/wiki/Myth_Drannor) - City of Song (in the east)
 
 ### Loot
 Vineheart: https://i.redd.it/wxsuahknpul41.jpg
