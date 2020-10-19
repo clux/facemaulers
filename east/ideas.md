@@ -19,6 +19,9 @@ Give them some time to prep, talk to the people involved.
 TODO: Give them a fortress or a retainer?
 TODO: demon lord canonicalisation
 
+GW: You noticed a thing about your kavaki sense. Alignment.
+Faey: Titania sends an emissary to you asking for some sketches for your domain (paste images, paste name suggestions)
+
 
 ### Goals
 Dial down battle focus.

@@ -29,7 +29,7 @@ We weren't sure if you were going to make it. But since you are here. We would l
 (Hidden; came from the west, higher powers are infernal)
 WHO: "I am not at liberty to divulge the nature of my clients at the moment."
 WHY: "The undead are a threat to the continent itself, and the necromancer's horror version of cleric magic (Raise Dead) cannot be allowed to torture dead creatures with this endless suffering. (rob creatures of their afterlives)."
-WHERE: Marsember. Vampire City. New city, don't have a name for it, except my notes as "Bone City". Tons of skeletons. Structures also built out of bone.
+WHERE: Irithil. Vampire City. Also a new city, don't have a name for it, except my notes as "Bone City". Tons of skeletons. Structures also built out of bone.
 
 #### Lines for Mordai
 TEMPTATION: Scan mordai with red eyes. Tempt with 2 extra dmg dice on spells < 3th level, for more evocation potency. Or maybe < 4th?

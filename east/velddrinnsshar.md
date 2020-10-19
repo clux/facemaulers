@@ -8,6 +8,22 @@ TODO: island on the Lake of Dragons, sheer drop tunnel down.
 st michael's mount style island in the middle of the lake. Glorious perched atop?
 Perhaps the black marble temple is atop?
 Perhaps some light/dark symbolism?
+Actually only available in the shadowfell.
+
+Look ideas in area-art:
+- https://www.pinterest.co.uk/pin/858991328908429121/
+- https://www.pinterest.co.uk/pin/531565562261595488/
+
+## Ashes of Ariandel
+Base on Ashes of Ariandel DS3.
+Acropolis in shadowfell.
+-  Tower with bowman; Siege weapon like bowman causing havoc.
+-  Millwood knights (proper fighters from the past)
+
+In the past? Initially, where they can meet young Irae? Not really the past, but a painted world / demiplane.
+They can get clues about backstory, and then guardians of time stopping them from fucking up the past?
+
+Really don't ahve to base it so hard on that look though, just the geeral idea.
 
 ## Acropolis of Thanatos
 A black marble temple. A temple devoted to the worship of the goddess [[kiaransalee]].

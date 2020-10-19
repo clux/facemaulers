@@ -1,4 +1,4 @@
-# Bone City
+# Irithyl
 Build on the ancient city of Irithyl. Gothic arcitecture. Dim blue light from the full moon. Eternal night here (crazy spell from vampires).
 (Irithyl from DS3.)
 Inhabitants the undead from Luskan.
