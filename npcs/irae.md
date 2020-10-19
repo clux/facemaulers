@@ -21,6 +21,8 @@ She sees the drow + Lolth's rule as a hindrance to their success. Why she became
 
 The undead sentience ability of her completed scythe lets her create a self-fueling religion around her (though she keeps this secret for now, but Arklem will know). This can be seen in the dungeons of [[irithyl]].
 
+[[celerom]]'s sustainability plan is perfectly in line with her goal, but it's not her main target.
+
 In the mean time she and Arklem is trying to complete an ascension ritual in [[velddrinnsshar]]. Guards planted. They will need to defeat her there, and then probably in her phylactery.
 
 ## Encounters
@@ -256,6 +258,7 @@ https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagica
 [evernight]: ../north/evernight "Evernight"
 [81-fracto-nimbuli]: ../recaps/81-fracto-nimbuli "81-fracto-nimbuli"
 [irithyl]: ../east/irithyl "Irithyl"
+[celerom]: celerom "Celerum"
 [velddrinnsshar]: ../east/velddrinnsshar "V'elddrinnsshar"
 [36-grundsgryn]: ../recaps/36-grundsgryn "36-grundsgryn"
 [andariel]: andariel "Andariel"

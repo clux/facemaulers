@@ -1,11 +1,11 @@
 # Bone City
 Fresh city off the Cormyr coast.
 Abandoned and now quickly filled with undead from Luskan with help of the Herald
-
-Vampire of Kiaransalee.
+City of self-sustaining undead run by [[celerom]] and Erevain.
+![](bonecity.png)
 
 ## Intro
-Day of the Dead style intro
+Day of the Dead style intro.
 Festival really. Stereotypical depictions of undeath. Make-up. Grey artificial hair color on vampires (who don't have to have it.)
 They interrupt, combat, then [[celerom]] threads in and pardons them with an item. NB: if such an item exists, it can only be manufactured by Liches.
 
@@ -13,16 +13,27 @@ They interrupt, combat, then [[celerom]] threads in and pardons them with an ite
 - Show players that the undead are being repurposed
 - Reintroduce Celerom and allow players to debate good and evil with him
 
+## Look
+City is MADE out of bones. They can grow bones themselves. Part of Celerom's research.
+take inspiration of orcus's ship.
+Nice blue river runs through. Fewer people at day. Rusalka there though.
+
+1. is hte Piazza with the jester.
+2. Is celerom's experiment chamber. BONE FORTRESS. (it's a little much, isn't it, but a consistent aesthetic is so rare these days...)
+4. is the BONE DOME.
+
+
 ## Chief Herald
 Herald of Undeath CC218 CR11.
 Taking orders from Irae. Giving orders to puppet cities. This is one of those.
 He's the main cemetary raiser who brought most of Luskan to a nearby skeleton puppet city.
+He's not necessarily around.
 
 ## Religion
 Priestess of Kiaransalee https://www.pinterest.co.uk/pin/594756694514707123/ ?
 Leading into it is a Spirit Lamp CC349 (soulless lamb holder, illuminating the path)
 
-## Leader
+## Helper Heme-pire
 Erevain Redleaf. Elven heme-vampire. Doesn't need oxygen to breathe. Can walk to the bottom of Dragon Lake with a backpack of rocks on. Fully on board with Celerom's plan. He's seen empires come and go for too long.
 https://www.pinterest.co.uk/pin/351843789641889247/
 
@@ -30,7 +41,7 @@ Sells vampire adrenaline. Injection as a bonus action (if primed). Grants one ex
 
 ## Town Cries - Headless Horsemelon
 - "The arch mage is still here to support you. Do not be alarmed. Things will feel normal again."
-- "Feeling post-death stress?" (PDSD) "Please join us at the mausoleum and we will fix you."
+- "Feeling post-death stress?" (PDSD) "Please report at the BONE DOME and we will grant you a lesser restoration."
 
 ## Undead hospital
 Mostly dealing in bone fractures. Bones/blood from conjure woodland animals.
@@ -55,23 +66,9 @@ This lich is a nice guy, but spending eternity together kind of guy?
 - Rusalka in river (will kiss and reveal love, but only a weird desire to pull you under the water and drown you) TOB331
 - Skeleton Vine Troll (CR9 TOB351) - could be a funny troll toll take
 
-## Soul Farm
-Two buildings outside the city.
-Monstrosities exist within.
-Elophar CR4; CC149
-Kulmking CR9 CC244
-Nachzehrer CR8 CC272
-Corpse Mound TOB69 CR11
-
 ## Attacks on Cities
 Celestials attacking? Need Gate summoning with true name?
 Fallen angel might know the name of a celestial (faey knows hans)
-
-## Heme-pires
-City of self-sustaining vampires. Put in place by Irae?
-
-### TODO: orcus inspiration
-take inspiration of orcus's ship
 
 ## Sources
 https://old.reddit.com/r/dndmaps/comments/igdcfo/saint_vol_city_of_the_vampire_lord/

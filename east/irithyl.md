@@ -18,7 +18,9 @@ Need an item to pass the magnetosphere around the city;
 - a doll
 - an audience granted with vampire council (via Celerom)
 
-TODO: why go to the dungeon?
+They can go to the dungeon if they know about the self-serving Irae cult below.
+
+Undead here are generally not sentient yet (apart from the deacons), so they will attack on sight. Celerom has put in place a "lab".
 
 ## Magnetosphere
 Some spells do not work within the city. Teleport, flight, plane shift, misty step. There's eternal moonlight. => Ensures they have to fight their way out if the vampires do not like what they hear.
@@ -51,7 +53,7 @@ TODO: arklem might be talking negatively about orcus being lost, but at least sl
 
 Some of the vampires are skeptical of Celerom's approach, but about half of them are on board. Arklem not concerned with this, he's a tactician. He wants the plan to progress quickly now that demon lords have been weakened.
 
-NB: these undead are not sentient yet (staff prop, vampires are though)
+https://www.fantasynamegenerators.com/necromancer-names.php
 
 ## Dungeon
 Worshippers of Irae granting her divine powers.
@@ -74,6 +76,15 @@ With aids;
 - Bone Swarm TOB41 CR10
 - Spectral Guardian TOB358 CR6
 - Wormhearted Suffragan TOB410 CR5 (parasite caster)
+
+## Undead Lab
+Main church in the city.
+Monstrosities exist within as the system doesn't work yet.
+Elophar CR4; CC149
+Kulmking CR9 CC244
+Nachzehrer CR8 CC272
+Corpse Mound TOB69 CR11
+
 
 ## Pet Shop
 Baby skeleton dragons. CC363 CR4
