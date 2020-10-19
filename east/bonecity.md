@@ -18,10 +18,9 @@ City is MADE out of bones. They can grow bones themselves. Part of Celerom's res
 take inspiration of orcus's ship.
 Nice blue river runs through. Fewer people at day. Rusalka there though.
 
-1. is hte Piazza with the jester.
+1. is an inner castle wall containing an inner court (main court outside)
 2. Is celerom's experiment chamber. BONE FORTRESS. (it's a little much, isn't it, but a consistent aesthetic is so rare these days...)
-4. is the BONE DOME.
-
+LEFT OF THE CASTLE IS THE BONE DOME
 
 ## Chief Herald
 Herald of Undeath CC218 CR11.
