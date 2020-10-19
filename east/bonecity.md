@@ -1,7 +1,6 @@
-# Marsember
-Large city off the Cormyr coast.
-![](marsember.jpg)
-Previously ruled by Natalya. Abandoned and now quickly filled with undead from Luskan with help of the Herald
+# Bone City
+Fresh city off the Cormyr coast.
+Abandoned and now quickly filled with undead from Luskan with help of the Herald
 
 Vampire of Kiaransalee.
 
@@ -16,7 +15,7 @@ They interrupt, combat, then [[celerom]] threads in and pardons them with an ite
 
 ## Chief Herald
 Herald of Undeath CC218 CR11.
-Taking orders from Irae. Giving orders to puppet cities. Marsember one of the cities.
+Taking orders from Irae. Giving orders to puppet cities. This is one of those.
 He's the main cemetary raiser who brought most of Luskan to a nearby skeleton puppet city.
 
 ## Religion
