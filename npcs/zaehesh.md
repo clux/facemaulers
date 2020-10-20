@@ -19,9 +19,9 @@ IDEA2: A bit out of it with regards to normal interaction. Legal terms? Although
 #### Welcoming lines
 So here are the famous adventurers from the north. Pleasure to make your acquintance. I am Zaehesh. I represent powerful interests via Baldur's gate, interests who wishes to defend their perimiters from the undead out east. The adventurers you see here are some of baldur's gate's finest. Additionally, we have also hired this centaur army to fight for us.
 
-Rather than waiting for them to make to many powerful first moves, we will hit them where it hurts the mosts. BoneCity. An outpost swarming with undead, originally known to contain the famous Vampire TODO:.
+WHY ATTACK: Rather than waiting for them to make to many first moves, we w ill do the tactical thing and hit them first, and hit them where it hurts the mosts; (checks notes, sigh) BoneCity (facepalm). An outpost swarming with undead, and known to be empty last year. Thus, likely a hot spot for summoning.
 
-We weren't sure if you were going to make it. But since you are here. We would like to request your aid. Run a stealth mission around the city. Figure out what's going on. Find weaknesses in their defense and fortifications. Then get back to us.
+WHY U NEED PARTY: We weren't sure if you were going to make it. But since you are here. We would like your aid. Run a stealth mission around the city. Figure out what's going on. Find weaknesses in their defense and fortifications. Find their numbers, strengths, summoning rate. Then get back to us. This way we know whether or not we are getting into suicide missions or not.
 
 #### Lines for 1
 - "There's been a large amount of undead passing through this area"
