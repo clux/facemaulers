@@ -1,20 +1,22 @@
 # Mordai
+> Mordai Godkin
+
 Warlock, only took a few levels in it and hid Chronomancy from patron.
 Divine Soul sorcerer after. Blessed by devils in Mephistar.
 Wizard. Time to study.
 
 ## Backstory
 - Born to human family (in tiny place - awkward - also innate magic /fire/rebuke)
+- Mother; Sigfrid Godkin,  had many children in village, well-looked upon by villagers as virtuous person. Was fair to Mordai as with other children and gave him a Tiefling name because she did not think anything was wrong with it, though was probably judged a lot by others for that, and maybe lost of a lot of respect/admiration
+- this becomes harder over time as Mordai grows up, and when she makes no attempt to contact him and disappears, he considers that she has just given in to the inevitable decision that everyone else has made, and decides to separate himself from his preivous life. Does not use surname as a result (not god-kin anyway..)
 - Many brothers/sistes (lots, don't know, only mother liked Mordai)
 - Went on a journey, framed for something (theft of item, new person turned up)
 - Sent to jail (while growing up, framed, rebuke at 15, got taken for 10 years)
 - Tempted by patron
 => Family disappaer
 - Tries to become a spellcaster
-- Adventures with Bron
-- Someone dies?
-- Hermet some point after
-- Some place in the forest (abandoned wizard house)
+- Meets young elf called Cael Aloro, who is a more equal and accepting companion. Sees him several times as a youth visiting village, and again after leaving jail, becomes adventurer and meets Bron etc. Cael encourages magic use, and Mordai becomes more confident in himself. When adventuring with Cael and Bron and others, Mordai is unable to save him despite learnings in magic, and find himself alone again, where he chooses to be a hermit and learn that way and greive loss of is friend
+- Has a place in the forest (abandoned wizard house)
 - Enough arcana to keep yourself hidden
 
 accidentally roleplayed as stoic, introspective
@@ -43,6 +45,12 @@ Black “eyes”, purple skin, horns. Robe.
 - [[10-kruthik-dungeon]] Warlock dream 1 (too Fjord-like, failed to do much, mordai pops all the eggs)
 - [[18-infernal-gary]] Warlock dream 2
 - [[80-plutocracy]] Portal to Mephistar and ultimatum
+
+## 83-downtime
+Mages Guild
+Tome of Clear Thought
+Upset at devils. Upset there's a power level progression.
+Understands the weave now.
 
 ## Patron Paxos
 Arcanoloth in the Gehanna

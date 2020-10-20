@@ -15,13 +15,6 @@ You also take the infinite staircase across to the temple of Selune, who has a g
 
 To end the episode, the egg is dispelled, still intact. Left with Gludom along with the Hammer of Grymin. Now hopefully obsolete.
 
-
-## DRAGON ARMOR
-eyes of dragon (blue)
-talons, 2, fangs 3, back rows of teeth
-back spikes
-front ice breast plate
-two large wings
 all items left with Gludom
 fire giants
 

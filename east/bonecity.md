@@ -22,6 +22,50 @@ Nice blue river runs through. Fewer people at day. Rusalka there though.
 2. Is celerom's experiment chamber. BONE FORTRESS. (it's a little much, isn't it, but a consistent aesthetic is so rare these days...)
 LEFT OF THE CASTLE IS THE BONE DOME
 
+## Encounter
+While entering the city.
+- Constructs; Bone Golem CC195 CR7
+- 50 Zombies
+- 50 Skeletons
+
+In the middle of it, Celerom interrups with the Herald.
+Casts Nystul's Magic Aura on each of them (if they accept).
+
+## Town Cries - Headless Horsemelon
+- "The arch mage is still here to support you. Do not be alarmed. Things will feel normal again."
+- "Feeling post-death stress?" (PDSD) "Please report at the BONE DOME and we will grant you a lesser restoration."
+
+- Grim Jester TOB240 CR11 (stats for horseman?) (like the DMC3 joker, but skeletal, needs jokes!)
+
+## Bone Fort
+Celerom's lab. Tons of flasks and alchemical experiments happening here.
+- Bone bed (some cartilage to keep it connected).
+- Skin stretches across tables (peeking underneath it's made of ribcages)
+- Bone chair (went a little nuts on the look)
+
+
+## Undead hospital; Bone Dome
+Mostly dealing in bone fractures. Bones/blood from conjure woodland animals.
+
+## NPCs
+Captain of the Guards. Fierstjerren; CR5 CC157
+
+## Undead intelligence
+- Skeletons quite dumb (cow like)
+- Zombie
+- Ghouls bouncers
+- EVERY ANIMAL, DRAGONS
+- Vampires (smart)
+- Liches (highest leadership, need a soul farm, angers devils)
+
+Vampires are a bit more of a fan of fresh blood. Philosophiclaly dull to live a perfect live.
+This lich is a nice guy, but spending eternity together kind of guy?
+
+- Deathwisp (silvan heritage skeleton) CR7 TOB72
+- Rusalka in river (will kiss and reveal love, but only a weird desire to pull you under the water and drown you) TOB331
+- Skeleton Vine Troll (CR9 TOB351) - could be a funny troll toll take
+
+
 ## Chief Herald
 Herald of Undeath CC218 CR11.
 Taking orders from Irae. Giving orders to puppet cities. This is one of those.
@@ -37,33 +81,6 @@ Erevain Redleaf. Elven heme-vampire. Doesn't need oxygen to breathe. Can walk to
 https://www.pinterest.co.uk/pin/351843789641889247/
 
 Sells vampire adrenaline. Injection as a bonus action (if primed). Grants one extra action immediately but must make a DC20 CON save or take 1d2 levels of exhaustion. Repeat use increases DC by 5. DC resets to 20 after long night.
-
-## Town Cries - Headless Horsemelon
-- "The arch mage is still here to support you. Do not be alarmed. Things will feel normal again."
-- "Feeling post-death stress?" (PDSD) "Please report at the BONE DOME and we will grant you a lesser restoration."
-
-## Undead hospital
-Mostly dealing in bone fractures. Bones/blood from conjure woodland animals.
-
-## NPCs
-Captain of the Guards. Fierstjerren; CR5 CC157
-
-## Undead intelligence
-- Skeletons quite dumb (cow like)
-- Zombie
-- Ghouls bouncers
-- EVERY ANIMAL, DRAGONS
-- Constructs; Bone Golem CC195 CR7
-- Vampires (smart)
-- Liches (highest leadership, need a soul farm, angers devils)
-
-Vampires are a bit more of a fan of fresh blood. Philosophiclaly dull to live a perfect live.
-This lich is a nice guy, but spending eternity together kind of guy?
-
-- Deathwisp (silvan heritage skeleton) CR7 TOB72
-- Grim Jester TOB240 CR11 (stats for horseman?) (like the DMC3 joker, but skeletal, needs jokes!)
-- Rusalka in river (will kiss and reveal love, but only a weird desire to pull you under the water and drown you) TOB331
-- Skeleton Vine Troll (CR9 TOB351) - could be a funny troll toll take
 
 ## Attacks on Cities
 Celestials attacking? Need Gate summoning with true name?
