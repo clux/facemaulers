@@ -109,3 +109,27 @@ only for
 - using rights and wrongs
 - exceptional RP
 - staying IC for the session
+
+
+## alcohol
+
+### intoxication levels
+1. DC11	*Tipsy*	Disadvantage on ability checks
+2. DC13	*Drunk*	Speed halved due to dizziness. Disadvantage on saving throws.
+3. DC15	*Hammered* Disadvantage on attack rolls. Assume a Drunk Persona for as long as you're intoxicated. Failing the save by 10 or more results in vomiting.
+4. DC17	*Blacked Out* You will not remember anything from now on. In initiative, you act as if under the effects of Confusion except acting "normally" is in line with your Drunk Persona. If your DP is non-violent, then you will not make any attacks. The effect ends if you drop below this intoxication level. Failing the save by 5 or more results in vomiting.
+5. DC20	*Comatose* You fall unconscious and will not wake for 3d4 hours.
+6. DC25	**Dying** You fall unconscious and unless the poison is quickly removed from your bloodstream by way of Lesser Restoration, or a similar spell, straight roll death saves
+
+### drunk personas
+
+1. **Sloppy** Highly likely to spill your drink, or someone else's, or anything else you touch. Constant belching, with intermittent farting, which you find hilarious. Completely unaware of wardrobe malfunctions or how loud your voice is. You're stumbling all over the place and need someone else's help to really get anywhere.
+2. **Waterworks*** Everything is so sad. Remember the good times? Those were great times. Now everything is bad and it's just so upsetting! So stressful! Just make sure you tell your friends that you love them and that you're sorry. Gods, you're so sorry. Do they hate you? They might hate you.
+3. **Rage Incarnate** Godsdammit everything is pissing you off and you're sure as hell letting people know. You feel like you just wanna hit something, or someone, or both. Better yet, hit someone with something. See that guy? Fuck that guy!
+4. **Je T'adore*** You feel really good. Other people? They feel even better. You bet if you got together with someone it'd feel great. Thank the gods so many people here look hot as the nine hells. Forget subtlety, you're trying to get lucky!
+5. **The Birthday Suit** It is too hot in here. Or is it your clothes? It's probably your clothes. Get rid of them; they're too constricting anyway! Nude is way more comfortable! Besides, you got nothing to be ashamed of!
+6. **Motherly*** Goodness gracious, who let all these children out without parental supervision? It's up to you to take care of these babies! Corral them and make sure they have everything they need; warm clothes, good food, and of course, your infinite wisdom!
+7. **Storyteller** You've had so many interesting experiences in your life that you just have to share them with everyone here. Some things might be embellished, others might be complete fabrications, but no one knows that! All you want is to tell them stories!
+8. **Kleptomaniac** There's a lot of really neat stuff here, stuff you'd really like to have, but they're probably not for sale. That's okay, if you're discreet enough maybe you can just slip it into your pocket and walk away all nonchalant. No one will notice, right?
+9. **Dare Devil** You really want to impress people here. Maybe you can pull off some tricks! Like jumping from there to way over there, or doing a flip off the table, or drinking something that's on fire! That will definitely make them think you're cool!
+10. **Life of the Party*** You feel like you're having the greatest night of your life! Everyone here is awesome! Crack jokes! Laugh at everything! Dance like no one is watching!

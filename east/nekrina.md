@@ -51,7 +51,25 @@ Uses a maul, very skillfully. Like an asian monk. Will greet GW respectfully. Un
 - "Oh, I won't kill you. I'll stop just before."
 - "FIGHT TO THE DEATH."
 
-Will challenge GW to Bellow/Flumph.
+Will challenge GW to Bellow/Flumph. Failed.
+
+Retainer stats:
+Exorcist
+ARMOR: Medium (AC 15)
+PRIMARY ABILITY: Wisdom
+SAVES: Wisdom
+SKILLS: Medicine, Religion
+SIGNATURE ATTACK: sacred flame
+SPECIAL ACTIONS
+3RD-LEVEL (3/DAY): scorching ray
+5TH-LEVEL (1/DAY): fireball
+7TH-LEVEL (1/DAY): wall of fire
+Spell DC15
+Saves: all +3 (saves he needs to do are based on avg dmg from attack)
+11 health levels (always loose 1 level per die of damage)
+Actions: signature attack (at most 2 per round), spells (at most once every 10min)
+Hits when your PC hits (signature) - success inspires your follower (miss == no attack)
+Gets one health level per short rest.
 
 ### Talindra + Lyeneru Morren
 Sisters, but Talindra is a thiefling. Great grandfather on mother's side apparently had infernal roots.
@@ -65,6 +83,7 @@ The thiefling could be Mordai's brother. It could be a implanted memory via Modi
 
 One is a Retainer Healer; SF73
 Other is Retainer Acolyte of Darkness SF76, or Exarch SF80
+RETAINER BACKSTORY ACTUALLY UP TO PLAYERS!
 
 ### Next Set of Adventurers
 Post Recon
@@ -77,12 +96,11 @@ Leandas has signed a pact for this, and will leading the assault on BoneCity.
 He's a bit dim, but pretty stronk.
 Will reveal that lady helped get him this deal.
 
-### Gnome Entrepeneur
+### Gnome Entrepeneur Jorzo
 With Bellow/Flumph rules. 10gp per entry. 10gp price. DC20 STR check (-2 each subsequent attempt). Maul bonus if proficient.
 https://i.redd.it/lak61ggkqgt51.jpg
-He could be a tatoo Djinn, they have to beat his thing and they can get a tattoo at an unspecified time.
-
-He can sell the plumbus: https://www.youtube.com/watch?v=JGaBU5cKluU
+GW bested the game, Mordai failed. Zhan failed. GW banned from playinga gain.
+He has a tatoo master. The tattoo Djinn, who can give a tattoo at an unspecified time.
 
 ### Dwarven Fortress
 NB: NOT READY. TODO: DESIGN PROPERLY, THEN SEED FROM FELGY.
