@@ -1,5 +1,7 @@
 # Hans Irel
 Watchers of the Night with [[faey]] in the [[feywild]].
+Had divine blood. Rejected it many years ago when he fell. Almost corrupted.
+Mordai figured out who he was in the feywild
 
 ## Future version
 Aasimar serving under by a God.
@@ -55,8 +57,14 @@ few strands of sheeps wool as he plane shifts out
 
 TODO: find reasons for fate - if they scrying
 
-## Rejected Ideas
+## Wild Magic
+Chaos Magic effects: https://centralia.aquest.com/downloads/NLRMEv2.pdf
+(The Net Libram of Random Magical Effects version 2.00 By Orrex)
+(level + 1)^2 percent chance of chaos surge.
 
+
+
+## Rejected Ideas
 ### Practice Seer
 practice seer (divination apprentice), can see signs, somewhat.
 misguided, sees signs in different universe. destiny has a certain agenda here.

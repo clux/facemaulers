@@ -51,6 +51,7 @@ Continued use makes it really hard for even seasoned magic users to realize they
 - Mindblank every morning (immune to mind control type + divination spells)
 - Contingency (10 day) to do X (5th level spell that uses one action) if BAD CONDITION
 - Mage Armor
+- Scrying Ball
 
 When in lair; other crones concentrate on her protections:
 - Invulnerability (if liches present)
@@ -105,6 +106,9 @@ Grants immunity to Stunned/Restrained conditions
 Passive effect; undead raised by her, (or by her transitively gain the sentient undead feat).
 Passive effect; Cast Create Undead at 9th level (provided enemies need to be present)
 
+## Spell Combos
+- Forcecage 20ft + Cloudkill/Incendiary Cloud/Wall of Fire (blocks line of sight, and slowly kills them)
+- Timestop + Forcecage + Cloudkill (to ensure it all gets off)
 
 ## OMEGA PLANS
 https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/

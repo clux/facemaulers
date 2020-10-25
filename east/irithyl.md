@@ -29,7 +29,7 @@ Some spells do not work within the city. Teleport, flight, plane shift, misty st
 Cannons on fortress walls? Avoids flight entrances.
 
 ## Maps
-repurpose from https://www.polygon.com/2017/1/17/14193428/dark-souls-3-maps-guide-enemies-items
+repurpose from https://www.polygon.com/2017/1/17/14193428/dark-souls-3-maps-guide-enemies-items darksouls folder in dnd
 
 ## Old Church
 Lairs a BOSS. Summoned by the liches to provide stability of Council.
