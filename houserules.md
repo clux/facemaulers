@@ -133,3 +133,67 @@ only for
 8. **Kleptomaniac** There's a lot of really neat stuff here, stuff you'd really like to have, but they're probably not for sale. That's okay, if you're discreet enough maybe you can just slip it into your pocket and walk away all nonchalant. No one will notice, right?
 9. **Dare Devil** You really want to impress people here. Maybe you can pull off some tricks! Like jumping from there to way over there, or doing a flip off the table, or drinking something that's on fire! That will definitely make them think you're cool!
 10. **Life of the Party*** You feel like you're having the greatest night of your life! Everyone here is awesome! Crack jokes! Laugh at everything! Dance like no one is watching!
+
+## substance abuse
+
+### Void (Super grim Divinity 2 style substance)
+Ideas from https://old.reddit.com/r/DnDBehindTheScreen/comments/jhepq7/void_and_the_grinners_a_nightmarish_cartel_for/
+All of it have great ideas so leaving it here. They also build a 1-3rd level adventure idea based on a cult of masochists who slowly turn into beholder like features (maybe umberhulk origin story idea).
+
+> Void is a dark and viscous substance, appearing as either deep blue, purple, or black depending on the lighting and the batch. If one looks closely at a vial of void, they might notice that it seems to move and swirl about of its own accord. Void is extremely addictive and is injected subcutaneously using a large metal syringe. Its viscosity often causes it to bubble out from the injection site, damaging surrounding tissues and creating large lesions on a user’s arms. Due to the lack of disposable syringes, injection instruments are typically shared among several addicts. This leads to the spread of various diseases, most notably cackle fever, sewer plague, and sight rot.
+
+> Beyond the uncanny resilience void grants, it is known for several other properties. Its primary feature is the euphoric highs users get. Users enter a dreamlike state, drawing upon heightened senses to help them experience the world as much more pleasing than it really is. A more disturbing property of void is the pleasure one derives from experiencing pain while high. Void addicts are effectively turned into masochists and have no fear of pain or damage to their bodies (they are often seen self-mutilating for pleasure). Void is also known to augment the brain’s receptiveness to psychic energies, and this is thought to be the source of the hive-like tactics and mentality of the Grinners.
+
+> Void begins to permanently alter the body after the first few months of addiction. These changes first manifest in the paling of the skin, which becomes clammy. Addicts also experience total hair loss and extreme loss of weight within the first few months. After some time, void begins to warp and disfigure the body. An addict’s teeth will naturally sharpen, their skull shape might warp, their eyes may change sizes or colors separate of each other, and they might begin to become lopsided in their musculature. Reptilian-like eyes and bony protrusions are also common. Less common is the development of translucent skin, which reveals the addict’s muscles, tissues, organs, and blood vessels underneath. Void also damages the brain in a process known as brain rot.
+
+> Void hardens and expands into sharp protrusions when left at a cool temperature. Thus, it is always kept slightly warm. Void addicts who die in the cold are known to become immensely heavy and grow large crystalline spikes from their corpses.
+
+> Void is incredibly dangerous to manufacture as it is distilled from beholder pus. Once a beholder is captured, it is injected with a cocktail of stimulants and sedatives that prevents it from sleeping or moving. The beholder’s tongue is bolted to its bottom jaw, and its main eye is either removed or blinded. The eyes on each of its stalks are then impaled with a needle attatched to a large tube. These wounds are allowed to fester, generating large amounts of pus, blood, and fluid which are then pumped through the tubes into large distillery vats for processing. The pus is separated from other liquids and purified to become void.
+
+
+**Delivery**: Subcutaneous injection of 1ml of void is an effective dose.
+**Addiction DC**: Extremely addictive. The creature must succeed a DC 18 constitution saving throw each use or become addicted.
+**Initial Effects**: A high creature experiences void-induced masochism, dreamlike euphoria, immunity to fear, and advantage on perception checks.
+**Secondary Effects**: A high creature experiences disadvantage on intelligence checks, advantage on rolls to resist dying from disease (but not when stopping its progression), vulnerability to psychic damage and disadvantage against charm effects.
+**Side-Effects**: After 1d4 months of use, the following occurs in slow progression: hair loss, pale and clammy skin, sharp teeth, warping body and eyes, translucent skin. Brain Rot: for every 1d4 months a creature spends addicted to void, it must make a DC 15 constitution saving throw or permanently lose 1 point of intelligence as its brain is slowly liquified .
+**Overdose**: If a creature takes more than one dose of void less than 4 hours apart, it must make a DC 15 constitution saving throw or fall unconscious. If the creature fails the save by 5 or less, it is blinded permanently. If it fails the save by over 8, it dies.
+**Withdrawals and Satiation**: If an addict does not take void at least once every 14 hours, they begin cravings and hallucinations. The addict gains one level of exhaustion for every 24 hours it away from void. Instead of dying on level 6, a creature must roll 1d12 + 5. This determines the number of days the creature spends on exhaustion level 5. After the last day, the creature rolls a DC 12 constitution check. On a success, it recovers from its addiction (although it retains any modifications). On a failure, it becomes comatose or dies (DM’s choice). There are possible ways to negate these effects, including magical therapy and alchemical solutions.
+**Street Price**: Void costs anywhere from 5sp to 5gp, depending on the buyer. Poorer people have their void ‘subsidized’ by the Grinners.
+
+
+## Active vs. Passive Dungeon
+https://old.reddit.com/r/DnDBehindTheScreen/comments/fusz92/the_active_dungeon_vs_the_passive_dungeon/
+Both styles require contrivances. Active => more tactics. Passive => more exploration, puzzles, slow smarts.
+TL;DR: neither style incorrect, just be aware of the tradoffs.
+### Passive Dungeon
+Majority of dungeons. Locations to be explored, and have enemies. Avoid obstacles, disarm traps. Passive means the dungeon is peaceful and devoid of combat; exists in state largely agnostic to the party's presence. E.g. raiding necro's long dead crypt.
+Traps may exist, or might have been sprung already. Dungeon has no ways to respond aside from existing enemies.
+
+#### Pros:
+- Can help create a sense of ‘deep history’ through forgotten ruins and ancient structures
+- Extremely flexible in terms of accommodating a variety of challenges
+- Can exist agnostic of faction politics
+- Familiar (and by extension comfortable) to many players
+#### Cons:
+- Often require contrivances to justify puzzles
+- Seldom change the political landscape of a campaign once cleared (compared to something like clearing a town of an occupying army)
+- Goals can become repetitive (i.e. an endless string of ‘go here, retrieve this treasure’)
+
+### Active
+Actively responding to players. E.g. raiding necro castle in n-day military raid ops. Necromancer actively trying to oppose the party by throwing enemies at them and creating obstacles to impede or prevent progress.
+Doors rigged on the fly, water sources poisoned, staircases destroyed after before them, monsters actively wait for party to rest.
+Arms race to secure rest locations. Tactical game, moves, countermoves.
+
+#### Pros:
+- Provide out-of-combat strategic opportunities a layer above in-combat tactics
+- The gameplay loop of moves and countermoves is generally satisfying
+- Can have a strong sense of progression as earlier parts of the dungeon are made safer
+- Generate satisfying conclusions as the party wins a war of attrition
+
+#### Cons:
+- Can become a slog
+- Leave little room for things like puzzles and riddles, which many players enjoy
+- Combat-heavy and may have little variety as a result
+- Require contrivances of intelligent enemies being holed-up in a location in order to function
+
+## Holistic Dungeon

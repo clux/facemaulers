@@ -55,6 +55,8 @@ Some of the vampires are skeptical of Celerom's approach, but about half of them
 
 https://www.fantasynamegenerators.com/necromancer-names.php
 
+NB: one vampire can have the dio style lines (Oh you're approaching me? Instead of running away, you are coming right at me? -> Then come as close as you like X.)
+
 ## Dungeon
 Worshippers of Irae granting her divine powers.
 Normally, the deacons would worship Kiaransalee, but Irae wants the powers directly.

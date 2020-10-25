@@ -31,6 +31,7 @@ wanting to be in control over those who take control. anger / desperation?
 - Got book of Chronomancy on from [[andariel]]
 - [[celerom]] helped him learn it
 - his use of chronomancy made [[hanir]] go mad
+- now learning wizardry to spite devils (poly-wiz)
 
 ## Looks
 Black “eyes”, purple skin, horns. Robe.
