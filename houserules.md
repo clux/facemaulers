@@ -327,3 +327,22 @@ Secrecy meant they had no friends, didn’t know who to contact, didn’t know w
 By the time real revolutionary leaders who had been trying to start this revolution for decades showed up, the revolution was full of bandwagoners.
 Once it was time to move beyond the small, secret group phase, their organization and beliefs worked against them. They believed, pretty earnestly, that all these people jumping on the bandwagon must be revolutionaries coming from their own secret groups, or at least have been converted to the idea of overthrowing the Emperor. As they found, some of their allies were generally behind overthrowing the throne, but only so they could take it themselves.
 ### The Communist International
+Funded by Lenin; international alliance of Communist parties.
+Feared that the communist experiment in the USSR would not last and Russia would be torn apart; they needed friends.
+Tried to train, arm, guide other Communist partiet hoping they could turn into Soviet allies.
+A lot of revolutionaries saw Marxism as sort of the next step in the evolution of governmen.
+Marx was persuasive to people.
+Even pragmatic people were concerned about the fate of their backwards nations, were persuaded by the idea of skipping ahead in the evolution of government, to eventually surpass even their better of rival countries.
+Membership kind 1: parties looking to ComIntern to be a participating member in a global communist movement without borders.
+Membership kind 2: actual ComIntern agents sent into the field to help the parties self-organise.
+The agents were under pressure from Soviet leaders to instill a paternalistic view of ComIntern (the others wouldn't work alone).
+The parties wanted to be equal members, but the soviets wanted affiliants. Agents stood in the middle.
+Tension played out in these conflicting goals. Some agents pressured to be heavy handed, leading to fractures.
+Tension played out in structure; agents assumed they'd be in charge even in countries they did not know. They knew theory (via Lenin/Marx directly even), but not practice (Quote from Mao).
+Mao could reach the average Chinese person through exeperience in revolution; how to fight mountain battles, plant and contact undercover agents. Stuff not covered by the Communist Manifesto.
+Secrecy; they were a giant boogeyman. Outside agenst coming in and starting a revolution? Set the stage for a later cold war.
+Stalin disbanded ComIntern before that.
+Secrecy was about what they were up to. Even the agents themselves did not understand where things were going.
+Backfired. Parties also felt a lack of cohesive movement from ComIntern.
+Parties couldn't trust advice and leadership when decisions were shrouded in mystery.
+Parties were not part of the decision making process, and they were not sure who were benefitting.
