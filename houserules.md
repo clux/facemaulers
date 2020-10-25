@@ -346,3 +346,39 @@ Secrecy was about what they were up to. Even the agents themselves did not under
 Backfired. Parties also felt a lack of cohesive movement from ComIntern.
 Parties couldn't trust advice and leadership when decisions were shrouded in mystery.
 Parties were not part of the decision making process, and they were not sure who were benefitting.
+
+## Battlefield Design
+Thoughts on what to include in battles. Spice and dynamism.
+https://old.reddit.com/r/DnDBehindTheScreen/comments/j7p42l/the_missing_ingredient_some_thoughts_on/
+
+### Killing fields
+Large open space without obstructions and cover. Pure test of skill / stat mastery. Long awaited enemy.
+Both face off knowing only their skills and wits save them from death. Powerful.
+Alternatively; arena flex. Throw low-level monsters at party.
+### No Man's Land
+Both sides pointing at each other at all times. Graveyard of bodies in the middle.
+Ditches / moats / thick brush in center can heighten risk of crossing.
+Taxes melee classes. They need ways around / protection from enemy snipers.
+Alternate paths can be a den for harvester enemies. Make this exciting.
+Once they reach other side, it's mostly over.
+Sorcerers / wizards / rangers / monks / ranged will shine. Maybe they are the spotlight clearers.
+### Choke Point
+Thermopylae. Style.
+Players needing to pass it can be limiting. AOE traps? Marching orders. Gas? Rain of arrows?
+Enemies forced through chokes are different. Endurance challenge, tanks hold the line. Mages dump into horde behind.
+Maybe combine with a skill challenge while they hold the line; pick a lock, activate a shields / mcguffin.
+### Broken Battlefield
+Cave of stalagmites, decayed skeletons, ob jects from past battles. Chaos battle of ducking, darting and leaping between weird terrain.
+Collapsed ruins, large trees, broken sight lines (60ft sight max in any direction).
+Make retreating to a better position viable.
+Should be horizontal and vertical. Criss-crossing. Atriums to jump up and down to. Parallel height paths. Chandeliers.
+Hazards. Enemiers immune to the hazards? Triggerable hazard that PCs can weaponize?
+### Attack and Defend
+Similar to No Man's Land. But one part is defending with ample cover and lay of the land, time to prepare.
+Attackers have to traverse and survive oncoming fire so they can reach the defended point. Asymmetric.
+Players as A: constantly under fire. Defenders hold actions. Hazardous terrain. Maybe send combatants, traps to flush them out.
+Players as D: send bigger forces at them. give them lay of the land, and let them make preparations.
+Best; send your players in as A first to take the point, then have them defend it later. Lets them learn the land first.
+### Fog of War
+No sight beyond a small radius.
+High tension, much fear. Can enemies see them? Good for stealth characters. Ranged characters not so much.
