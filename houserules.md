@@ -84,6 +84,28 @@ Intimidation: torture, savagery
 Performance: entertainment, comedy, dancing, pantomime, oratory, poetry, singing
 Persuasion: bargaining, debate, etiquette, leadership, provocation, seduction
 
+## Supporting; Knowledge Checks
+https://old.reddit.com/r/DnDBehindTheScreen/comments/g9t6dk/using_knowledge_checks_to_create_player_immersion/
+Don't just have knowledge checks be, binary success/failure investigation/arcana/religion rolls:
+
+Ask players to __give a compelling suggestion for why you might know this__. Make them link it to their backstory / story.
+Just don't go over the top.
+
+Eg: My mentor used to have a passion for herbs. When he took breaks from teaching me magic, he often spent hours lecturing me about their properties and uses, and even tried to take me some early morning walks to collect some - would he have told me about this?
+
+If the players try, but it doesn't seem like a good source of information, __try to provide an alternative__. Reward the behaviour.
+Lower DCs if you have a compelling reason in a PCs backstory!
+If players narrowly miss the DC, reveal some information except one crucial detail (which they remember wrong).
+Nat 20 might result in an anectote of why it it is so well-imprinted into their memory (they could create an NPC from their past - creates more canon in their backstory).
+
+### Knowledge checks during a fight
+- Asking information in the middle of a fight does not require an action, but it is harder - the DC goes up by 5 as the character's focus is split.
+-  It must be done before you take any action.
+-  If, during combat, you fail on your memory roll by by 5 or less, your character has the information on the tip of their tongue, but the memory hasn't surfaced quite yet . This has the following consequences:
+   * Your character will remember the information when there is a moment of calm.
+   * Alternatively, you can push your luck to focus and try again at the beginning of your next round. If you fail that time your character is distracted! You use your action to Dodge.
+- Rolling a natural 1 on a knowledge check during a fight means the player takes the Dodge action as they lose focus.
+
 ## Rule potentials
 ### Grit/glory
 - Running a business
@@ -197,3 +219,111 @@ Arms race to secure rest locations. Tactical game, moves, countermoves.
 - Require contrivances of intelligent enemies being holed-up in a location in order to function
 
 ## Holistic Dungeon
+https://old.reddit.com/r/DnDBehindTheScreen/comments/fbbj2f/building_better_dungeons_using_puzzle_game_design/
+
+### Tier 1 Dungeon
+My-first-dungeon. A bunch of thematically-disconnected rooms where puzzles exist in a vacuum and enemies are all but randomised. In one room you fight skeletons, in the next you fight drow, in the next you fight a yeti. There is no overarching theme tying the dungeon together, and possibly no deeper a goal than ‘get to the last room to grab the loot there’. This is where many DMs start out. There’s nothing wrong with it, but it’s important to recognise it as the entry-level stepping stone that it is.
+
+### Tier 2 Dungeon
+Tier 2 – The nine-to-five dungeon. This baby is a real workhorse in Dungeons & Dragons. There is a thematic tie that informs the puzzles and enemy encounters. Perhaps you are clearing kobolds out of an old forgeworks so that it can resume operation. The fights are against kobolds, the traps and puzzles are mechanisms built by the kobolds to keep intruders out, and maybe the final fight is a group of fanatical kobolds protecting a dragon egg and trying to warm it in the heart of the forge. This is the tier that 90% of all dungeons fall into, including those in published adventures. I want to be clear, this is not bad design. In fact it’s really good design. It’s immersive, satisfying and ultimately creates a positive gameplay experience.
+
+### Tier 3 Dungeon
+Tier 3 – The Holistic Dungeon. The dungeon is fundamentally defined by a theme or mechanic, and every facet of the dungeon ties back to this theme or mechanic. Everything from the way encounters must be approached to the integration of puzzles and how they must be solved. The Tucker’s Kobolds dungeon is a classic example of the Holistic Dungeon, wherein an entire philosophical approach to building and running encounters defines everything that takes place in the dungeon. It is also not the only form of implementation of the Holistic Dungeon, and my aim here is to discuss one of the other major ways to approach building the Holistic Dungeon.
+
+### Holistic Goals
+https://old.reddit.com/r/DnDBehindTheScreen/comments/fbbj2f/building_better_dungeons_using_puzzle_game_design/
+#### Have One Underlying Mechanic
+E.g. the portal gun. The time travel mechanic of DOTT. Doom's flashlight.
+Tie everything to the mechanic.
+Puzzles do not exist in a vacuum.
+Puzzles can change the world around them (rotational puzzles, lantern illumination, lever far below everything).
+Try to Increase Complexity By Expanding On Your Mechanic, Not By Adding New Mechanics:
+- Find new ways to use the same mechanic
+- Combine different challenges so they occur simultaneously.
+- If all else fails, add more rules to your core mechanic (can frustrate players!)
+Introduce elements that complement your mechanic!
+Build a mechanic suitable to the scope of your dungeon.
+
+## Megadungeon
+How to run a 100-room dungeon. Settlements, entrance points, expectations.
+https://old.reddit.com/r/DnDBehindTheScreen/comments/i4s06k/building_better_campaigns_using_puzzle_game/
+
+### Gates
+Gate entrance between reginos:
+- political actions needed with factions to allow progression (political obstacles)
+- party needs to reform
+- fractured landscapes from natural disasters, liquefied earth (physical obstacles)
+- guards disallow entry (combat / political obstacles)
+- a __Fly__ scroll can be used for _semi gated_ progression
+- item unlocks that allows certain destruction (obstacles / guards) or manipulation (ancient keys)
+- financial obstacles
+
+### Linearity
+Allow non-linearity (if you want). Can be done by having many gates. One _might_ might help with another.
+Consider what are HUB worlds and what are SUB worlds.
+
+### Megadungeon Puzzle
+Something that spans a megadungeon. A passive underlying puzzle.
+Spread semi-related (seemingly unrelated) breadcrumbs throughout. Holy texts, abandoned. Old glyphs.
+
+## Technological Revolution
+https://old.reddit.com/r/DnDBehindTheScreen/comments/iklr5y/maintaining_technological_realism_the_industrial/
+How is big tech funded? How does industrialism develop?
+
+> In the Industrial Revolution that actually happened, a number of reasonably centralised states were able to invest in technological advancements in such a way that saw the rapid spread of things like train networks, electrical grids, telephone lines, and more. These are the sorts of things Governments usually invest in, as the cost of building such networks is prohibitively high for private entities who need to turn profits within reasonable lengths of time. It’s exactly why Governments today tend to be the entities that do things like build roading infrastructure, or maintain waterworks and sewerage.
+> economically strong states with the ability to build these things are usually the ones that end up building them.
+
+> But what if a non-centralised state in the midst of an economic crisis suddenly discovered electricity? Would it become widespread as rapidly as it did in the real world?
+
+### Industrial Pocket
+>  a single eccentric Elf has put many long years of work in to building an electrical grid in the city he happens to live in. As the city emerges as a political power in the turmoil of the larger state’s collapse they begin protecting the secrets of this technology. As a result, electricity does not become widespread. It remains localised to this one powerful and influential city.
+
+Magitech:
+> There is that other common way of introducing pseudo-industrial technologies in our fantasy settings, and that is to have them be born of magic rather than industry. In settings that lean heavily on these, golems and other constructs are used as a kind of mechanised workforce that allows for things like factories to exist. We’re able to have things akin to wireless telephone networks by having fantasy phonebooths where regular people can use the Sending spell at-will. If you’re not fussed about the basis for your Industrial pastiche being technological then the ‘Magitech’ approach is a good way to go.
+
+vs. the masses:
+> If we’re too reliant on magic then those who can do magic become too powerful compared to those who can’t, and scientific technology is a way of evening out the playing field. It acts as a kind of ‘check and balance’ on societies that use lots of Magitech.
+
+Maybe the people rally behind them as a source of security, and the ruling nobles know better than to oppose the will of an armed populace.
+
+### Past Civilisation's Tech
+Were they more advanced than you are? They have artifacts, Damascus Steel, Greef Fire.
+Were they less advanced than you are? Just now able to unearth it, due to your own tech, or digging efforts through servants, modern explosives that ancient wards never accounted for.
+
+Cool examples:
+- Terrible machines that absorb magic and fire it back in bolts of electrical plasma have allowed them to eradicate the blasphemous spellcasters of the city once and for all.
+
+## Thieves guilds
+Things to consider with compelling thieves guilds.
+1. **Membership** - Identify a need that is not being met. Your group needs something, but it is withheld. Substances / Gold / Political Sway. Once goals are attained, the new goals grow and morph. Member base might change.
+2. **Organisation** - How does a person become a leader among these aggrieved members? What qualifications did they have, how did it shape the group? Is he radical?
+3. **Goals** - What problems does a group have, what do leaders to do address these grievances? Solution might be stepping stone, or all that the leadership understands. Can anyone contribute, no matter how shady?
+4. **Secrecy** - What purpose does secrecy serve the organisation. Afraid of found? Why? What powers are likely to find them, and what will happen then? Don't be nebulous here. Smugglers afraid of one guard captain? Cultists afraid of one religious leader cracking down? Maybe secrecy isn't simple; shadow cabinet. Parallel organisations. They could operate in the open, but choose not to.
+5. **Tensions** - Conflict, resolution, storytelling arise from how each step of the way the group gets further away from the reasons that first created the group. A secret society benefits from the idiosyncratic choices tha tlead to where it is because each offers new avenues for tensions that your party can explore. Maybe the party can unravel the web, and dethrone leaders, or change the organisation.
+
+Examples from Chinese/Russian history:
+https://old.reddit.com/r/DnDBehindTheScreen/comments/itjn7p/stranger_than_fiction_ii_thieves_guilds_and_the/
+
+### Triads
+Based in local identities within China. Groups of people originating in the same area, but living in a new one. Diaspora.
+Poorest people usually. A helping system for people to stay afloat in a new location.
+Might work for leaders of both sides of official rule, and offer dirty contracts on behalf of Chinese rulers.
+State sponsored organised crime.
+Secrecy forced on the organisation.
+Unregulated, because all underhand deals.
+The people are loyal to the people in the group, not where they live, so are open to a lot.
+Tension; serve your people in strange lands, but you are taken over by the rich and powerful who have no reason to support you.
+### The Literary Society (1911 Revolution)
+Few human rights, emperialism feeding on China.
+New group pushing for a revolution and a democratic government.
+In the past revolutionary propagandists and organisation tried to recruit military into their plots by pitching directly to recruits. Soldiers generaly could not join revolutionary organisations in a safe way, so they made their own.
+Small groups like Literary Society got together tot alk about the revolution and how to recruit new members from within their units.
+Goal was to overthrow the Qing dynasty through military conversion, but military has always sided with the throne.
+By having multiple tiny barely connected groups it made it untraceable (even to other revolutionary).
+Every organisation had the same plan, and it just kind of worked at the end when one group started making bombs, and one detonated.
+Secrecy made this possible, but also made they had no idea of what they were doing and who to trust.
+Their leader; guy that was going to be executed for being in a revolutionary group, and they just begged him to become their leader.
+Secrecy meant they had no friends, didn’t know who to contact, didn’t know who to trust, so they ended up trusting a guy who did not want to be there.
+By the time real revolutionary leaders who had been trying to start this revolution for decades showed up, the revolution was full of bandwagoners.
+Once it was time to move beyond the small, secret group phase, their organization and beliefs worked against them. They believed, pretty earnestly, that all these people jumping on the bandwagon must be revolutionaries coming from their own secret groups, or at least have been converted to the idea of overthrowing the Emperor. As they found, some of their allies were generally behind overthrowing the throne, but only so they could take it themselves.
+### The Communist International

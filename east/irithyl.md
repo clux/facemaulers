@@ -25,6 +25,9 @@ Undead here are generally not sentient yet (apart from the deacons), so they wil
 ## Magnetosphere
 Some spells do not work within the city. Teleport, flight, plane shift, misty step. There's eternal moonlight. => Ensures they have to fight their way out if the vampires do not like what they hear.
 
+## City Style: Active Aggressive?
+Cannons on fortress walls? Avoids flight entrances.
+
 ## Maps
 repurpose from https://www.polygon.com/2017/1/17/14193428/dark-souls-3-maps-guide-enemies-items
 
