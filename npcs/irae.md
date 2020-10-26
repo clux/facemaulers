@@ -25,6 +25,8 @@ The undead sentience ability of her completed scythe lets her create a self-fuel
 
 In the mean time she and Arklem is trying to complete an ascension ritual in [[velddrinnsshar]]. Guards planted. They will need to defeat her there, and then probably in her phylactery.
 
+Cultists in [[irithyl]] are used to to recreate control over Demon Lords.
+
 ## Encounters
 - [[36-grundsgryn]] found [[andariel]] in a `Chrono: Indefinite Presevation`
 - [[58-hill-giant-hotel]] (initial mind control of Hans)
