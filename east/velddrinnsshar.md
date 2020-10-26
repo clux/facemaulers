@@ -32,6 +32,9 @@ Stood in a lake-filled cavern with its ceiling covered with thousands of skulls,
 
 A brooding block of black marble veined with red, filled with misshapen corridors, windows, and gaping doorways. Many of the stairs trickled with what seemed to be rancid fat and many of the rooms had their walls covered in murals depicting gruesome scenes painted with dried blood.
 
+Take some inspiration from Arach-Tinilith.
+https://forgottenrealms.fandom.com/wiki/Arach-Tinilith
+
 ### Sleeping
 Dream Wraiths. CC135 CR5
 

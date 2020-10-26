@@ -11,6 +11,7 @@ now it's harder for him to send further (found the place, door to shadowfell),
 can't return, scoping out the place, trying to send messages every now and then.
 he has a divination blocker (a ring casting mindblank?)
 
+Hatched a plan with Diana (who has mindblank) in waterdeep. Critical that party do not know where he is.
 
 ### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`
