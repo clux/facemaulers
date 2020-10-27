@@ -49,6 +49,11 @@ Helps fix wounds (Gentle Repose / Life Transference) and resurrect skeletons (Da
 Can resurrect pretty much anything as long as it died recently, of lacking that, the soul is in a secure location. The soul is really the key that separates
 Devil bones used as decoration.
 
+Beniago, there with his skeletal parrot.
+
+## Undead Rave
+Golem shaking leg. Skeleton playing tambourine.
+
 ## NPCs
 Captain of the Guards. Fierstjerren; CR5 CC157
 

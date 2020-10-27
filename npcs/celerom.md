@@ -19,7 +19,7 @@ Didn't know Arklem was a lich (glibness...), but saw him steal the star, so is, 
 Ally of Arklem and Irae (unnamed for him) in the east now. Perhaps he can be convinced otherwise when they meet him in [[bonecity]]. He wants some privacy first and foremost while researching the undead reversal/reunification.
 
 Built the city with Mighty Fortress spell and magic in Bone Dome.
-Has a clone of himself in Irithyll ready to take over if he dies.
+Has a clone of himself in Irithyll ready to take over if he dies (only been there a little).
 Had an attack on [[bonecity]] from a Devil. Large horns and everything. Saw a humanoid outside scurry away on a griffin leaving behind a fragments of a high level spell scroll (Arcana: devils cannot enter realm alone).
 
 ## Encounters
