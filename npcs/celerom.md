@@ -31,7 +31,7 @@ Likely, the party will find philosophical holes in his stance, particularly now 
 
 ## Lines BoneCity
 WELCOME: (walking up in a black elaborate cloak, with Mirror Image, and flips hood to reveal); "I thought I told you not to try to contact me again. How did you find me?"
-EXPLAIN CITY: "After the attack on Luskan, I was left unconcious on the ground, when I awoke some time later, I saw a ritual being performed outside by a dark elven cleric."
+EXPLAIN CITY: "After the attack on Luskan, I was left unconcious on the ground, when I awoke some time later, I saw a ritual being performed outside by an elven cleric."
 RITUAL: "Thousands raised form the dead, I braced for the worst and held an evocation spell ready to cast, but to my surprise, these undead were not like what I had seen before. They had intelligence. They had memories."
 LEADERSHIP: "Before I knew it, I was their savior, they all saw towards me for answers. What could I do? Raise a city of the dead at the sword coast? That would be silly, we would get raided immediately. Kill them all? That would be horrible. These dead are not inhuman monsters, they respond to their names, they talk about their past lives. They might be a little slower than before, but that can be fixed."
 VOICE: "That's when I met her, I remember, the sky had a boreal sheen all around it, like this was a protected realm, and in it, an elven woman; Ilharess Alur she called herself; these undead need your aid, they are afraid, they are stressed, they are damaged. We can help you fix them, make them whole again. Bring them with you to BoneCity, and you will be able to complete your lives work; keep the citizens alive; forever."

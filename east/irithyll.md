@@ -1,7 +1,7 @@
-# Irithyl
-Build on the ancient city of Irithyl. Gothic arcitecture. Dim blue light from the full moon. Eternal night here (crazy spell from vampires).
-(Irithyl from DS3.)
-Inhabitants the undead from Luskan.
+# Irithyll
+Ancient city with gothic arcitecture. Dim blue light from the full moon. Eternal night here (crazy spell from vampires). DS3 inspired.
+Inhabitants are ancient undead. Vampire society leeching on
+
 City situated on a hil, and there's a central path winding around the side of the hill up into a residential area.
 At the top, amongst many mausoleum looking structures are a large arc leading into the cathedral area.
 Many small streets between houses winding up and down (very up and down arcitecture, built organically over time).

@@ -24,3 +24,8 @@ Saw skeletons. Found skeletons or zombies in all houses.
 Skeletal interrogation
 Undead with personality
 Nihilistic skeleton Ullgolf
+
+Players:
+- Florent
+- Guy
+- Jay
