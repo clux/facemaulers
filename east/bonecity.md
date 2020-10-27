@@ -24,7 +24,7 @@ LEFT OF THE CASTLE IS THE BONE DOME
 
 ## Encounter
 While entering the city.
-- Constructs; Bone Golem CC195 CR7
+- Constructs; Bone Golem CC195 CR7 - x2
 - 50 Zombies
 - 50 Skeletons
 
@@ -43,9 +43,11 @@ Celerom's lab. Tons of flasks and alchemical experiments happening here.
 - Skin stretches across tables (peeking underneath it's made of ribcages)
 - Bone chair (went a little nuts on the look)
 
-
 ## Undead hospital; Bone Dome
-Mostly dealing in bone fractures. Bones/blood from conjure woodland animals.
+Dealing in bone fractures. Bones/blood from conjure woodland animals.
+Helps fix wounds (Gentle Repose / Life Transference) and resurrect skeletons (Danse Macabre), make constructs (Animate Dead modified at higher level) make them more loyal (Sympathy).
+Can resurrect pretty much anything as long as it died recently, of lacking that, the soul is in a secure location. The soul is really the key that separates
+Devil bones used as decoration.
 
 ## NPCs
 Captain of the Guards. Fierstjerren; CR5 CC157

@@ -1,7 +1,7 @@
 # Irae T'sarran
 Drow high priestess of [[kiaransalee]] (turned champion). Lived in [[maerimydra]] but took over the city, once she became a Lich, exterminated everyone, and moved it into a pocket dimension where she built her fortress.
 
-Convinced by Kiaransalee's plight to follow up with her work. She learned the secrets to becoming a lich in the Acropolis of Vanathos. She also learned new techniques from [[koth]] true the Shadowfell in [[evernight]].
+Convinced by Kiaransalee's plight to follow up with her work. She learned the secrets to becoming a lich in the Acropolis of Vanathos. She also learned new techniques from [[koth]] through the Shadowfell in [[evernight]]. Also tested the mechanism (small scale) on a few high level restless souls in their crypt.
 
 Unleashed the demon lords upon the world to start the great `Osteogenesis`; converting the armies of entire cities.
 Set the Storm Giants up to protect the summoning circle. Summoning ritual ended in [[81-fracto-nimbuli]] (causing weakness in demon lords - resistances are down).

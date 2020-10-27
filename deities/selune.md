@@ -2,6 +2,7 @@
 Lives on an island of Argentil.
 https://forgottenrealms.fandom.com/wiki/Gates_of_the_Moon
 music: https://www.youtube.com/watch?v=hOVdjxtnsH8
+![](selune.jpg)
 
 Infinite staircase (transparent path) only visible during moonlight (every night in Gladsheim in [[ysgard]], follow the fjord to the end of the world - some will arc down, another island floats in the distance). Space boat, or walk across gate at night.
 
