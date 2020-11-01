@@ -12,6 +12,11 @@ Umberlee is a red herring. She's not really evil, but people see the dark sides 
 
 Rejected her own concience.
 
+## Luskan Questions
+Wave needs to ask Hjarka how she is doing.
+Hanz needs to talk reintroduce himself.
+Well, that's not relevant anymore. She's MIA. Establishing a business venture with the last troll is current canon.
+
 ## Wave hooks
 Wave was speaking about umberlee.
 ~~Wave: You've used a lot of my powers already you know? Slarkrethel can restore it on Moray. He's is a priest. His powers are strongest there. Morkoth?~~

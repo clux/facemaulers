@@ -4,6 +4,24 @@
 - Road east to [[mirabar]].
 - Road South to [[neverwinter]].
 
+## Intro
+https://forgottenrealms.fandom.com/wiki/Luskan
+https://thetimelostchronicles.com/luskan
+
+Gnolls being fought off at the gate. 100s of them. Gate almost breaking. Gate falling without help.
+"Finally, reinforcements! We had word from Waterdeep that you were on your way. Arklem got a message from Diana."
+Huge group of them blasted by fireball from the castle walls.
+Vlooris is the robed guy.
+
+(Drow members definitely all know about them know because of all the rucous in Waterdeep).
+Also notorious with the Greycloaks + Bragan. Bonsir leads the militia there (also with ship rethnor)
+
+## History
+City was attacked repeatedly by orcs. They took over recently, but 50y ago a mercenary army from WDeep cleared the ruins. Rebuilt it with help of Neverwinter. Then renamed to Luskan.
+
+So we can still have Brotherhood members who refer to it as Illusk.
+Now full of Thieves/Pirates and other disreputable folk...
+
 ## Post Yeenoghu
 Corruption spreads. People transform. Old watchers (ghostly guard) roam the city to clear out the corruption, but they treat everything as hostile.
 
@@ -29,45 +47,27 @@ https://the-legacy-of-the-crystal-shard.fandom.com/wiki/Arcane_Brotherhood
 
 Discount: -15*(level-1) == 30 at evoker
 
-### Lore
+### Tower Lore
 Has books on Demon Lords from Mordenkainen himself.
 Learn about the rivalries and chaotic nature (yeenaghu and baphomet), i.e. that they are unlikely to orchestrate grand plans themselves.
 (Can teach you about the Ruathym Brothehood isle if they rank up well).
 
-### Arklem
-[[arklem]]
-
-### Celerum
-[[celerom]]
-
-### Sydney's Initiation
-Show them how to do basic spells and teach them how to do damage in a controlled test chamber. Meet a HR person. Sheirah / Sydney. Annoying mean girls voice. Purple shirt, well cut, uniformed skirt. Purple curly hair. Infernal heritage.
-
-"Ucghs.. More wannabees." (Perc10) Quick face change to a fake smile. "Hiii. Welcome to the mages guild brave adventurers. I'm Sydney, here to assess you before sending you up to the elders."
-
-"We can't take you to Arklem, he's very busy. We gotta assess you first. If you do well you can maybe see Celerum."
-
-"Look they can give proper info, I don't know why all the soldiers up there revere Arklem so much; Celerum is way more handsome. But seriously though, we just got to assess you first."
-
-Assess strengths. Let's try a cantrip shall we? (Expects basic sorc)
-Now let's show you what real strength is. She'll cast fireball into a haybale room.
-
-"Ray of Enfeeblement" on the constructs. They look like their posture shrinks (lack of strength).
-Keep using http://dnd5e.wikidot.com/spells and expect them to up the ante or keep up with the mean girl charade.
-
-Magically fortified to reset on request (old brotherhood magic, mordenkainen's fortress?)
-If they do well, they'll get a pretty high rank immediately.
-(Terms and conditions, do not betray the brotherhood or you will lose your rank, all benefits, weave recharge booths, and wizard benefits cards). [valid in Gael's emporium + brothehood]
-
-Ok, so you are powerful. (Gain faction rank). That (flips through rulebook frantically) still does not prove loyalty.
-Send them on a quest down to exterminate the gnoll caverns. Bring us proof of their demise. Take out their leader and they should scatter.
+### NPCs
+- [[arklem]]
+- [[celerom]]
+- [[sydney]]
 
 ## One Eyed Jax
+https://forgottenrealms.fandom.com/wiki/One-Eyed_Jax
+
 Beniago's purple bird immediately kaws as you enter.
-See [[beniago]] for the intro.
+
+See [[beniago]] for the intro. He is operating a ship for Kurth. Badass.
+See https://forgottenrealms.fandom.com/wiki/Beniago under Ship Kurth for favourable hiring of ships.
 
 ### Bregan D'aerthe
 https://forgottenrealms.fandom.com/wiki/Bregan_D%27aerthe
+
 Ranks:
 - (Intern) Assassin -> (Jr) Executioner -> (Sr) Silencer -> (Staff) Speaker -> (Principal) Listener
 - (Intern) Cannonneer -> (Jr) Swashbuckler -> (Sr) Shipmaster -> (Staff) First M8 -> (Principal) Captain
@@ -107,10 +107,79 @@ Sell hit squads for N-thousand gold, depending on difficulty.
 Find and recover main kidnapped leader + item in Menzo.
 Or perhaps ruathym?
 
+#### EBA Quest
+Steal item from Mages Guild to frame someone. (Stealing totally bad idea against scrying mage).
+If they get caught, he will add a parasite into the skull of the caught thief. -4 INT until removed + clairvoyance info. Want Cat Ear Headband stolen.
+Alternatively, steal a ring and frame another ship?
+
+## Trading
+Red dragon trading!
+
+5 "ships" (encapsulating collection of people + boats) that has everything.
+- Ship Kurth
+- Ship Baram
+- Ship Suljack
+- Ship Taerl
+- Ship Rethnor
+
+Ice on the river Morar.
+
+## Temples
+- Temple to Godess Auril? Godess of Winter. Ice Queen. Winter Palace.
+- (Part of Deities of Fury: Maelar, Umberlee, Auril, Talos)
+- She also has a secret temple along the spine of the world! (Hjarka?)
+- Codicil of White (info about Auril)
+- Dragon mag 312! Cleric spells - ice spells.
+- Quest pointer for Hjraka to see out the Winter Palace.
+
+### Auril's Temple
+Temple to Godess Auril? Godess of Winter. Ice Queen. Winter Palace.
+(Part of Deities of Fury: Maelar, Umberlee, Auril, Talos)
+She also has a secret temple along the spine of the world! (Hjarka?)
+Codicil of White (info about Auril)
+Dragon mag 312! Cleric spells - ice spells.
+Quest pointer for Hjraka to see out the Winter Palace.
+
+Koheya – rules the Winter Palace
+Want to make a sacrifice to the frost maiden?
+
+## EBAs
+- Frost Veil (TOB) enemy in mountains
+- Gnoll cavern leading to Yeenoghu.
+
+### Yeenoghu's Lair
+Dissuage them from trying.
+
+- "We're hoping they'll run out of reinforcements and move on."
+- "If we aggravate their leader, we are probably in bigger rouble..."
+- "Don't bring the leader back here. If you have to flee, flee elsewhere..."
+
+Nothing for 2/3 nights, then more gnolls.
+4th night, giant crack, city falls down into the deep. Yeenoghu eats everyone except the mages.
+
+However, **if they do descend**:
+Huge corridor, that starts with large crushing sounds, followed by 50 gnolls.
+Corridor partially made by purple worm (but yeenaghu can burst through tiny openings pretty  easily)
+Then silence. Chanting gnoll voice: Yeenoghu (3 times). 5 seconds of silence, then this deathly roar.
+Then gradually more frequent steps, and Yeenoghu comes..
+
+- Legendary resist, advantage on saves. 22 AC (describe it!). Bonus bite if he kills something (his turn only)
+- Spirtual weapon flail conc!
+- Legendary actions: Swat (huge push D24 STR), bite (huge dmg melee)
+- Charge: full speed extra action!
+- Main attacks are fucking lethal: can do: 1/3 extra dmg, 1/3 paralyze, 1/3 confuse!
+
+- Damage immunities: all non-magical base dmg it seems...
+- Resist: Cold/fire/lightning
+- Immune to charm/frightened/poisoned..
+
+**Fight area**: Purple worm tunnel, they can retreat into soft areas a purple worm nursery. They can also hide in there if they find it early and roll decent stealth.
+
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [mirabar]: mirabar "Mirabar"
 [neverwinter]: neverwinter "Neverwinter"
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [celerom]: ../npcs/celerom "Celerum"
+[sydney]: ../npcs/sydney "Sydney"
 [beniago]: ../npcs/beniago "Beniago"
 [//end]: # "Autogenerated link references"
