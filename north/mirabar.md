@@ -1,6 +1,7 @@
 # Mirabar
 
-Drug  making village drugs:
+Drug  making village. Near hill giant base. Captured inhabitants of Mirabar for food (they have been draining everything around as they've been neglecting their normal duties maintaining portal).
+> "No one wins when giants fight"
 
 ### Drugs
 - Epiphany: (weirdo vision (true sight // ethereal sight with chance), slow –dex/int + wis/cha)

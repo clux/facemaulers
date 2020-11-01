@@ -1,0 +1,65 @@
+# Ruathym
+
+![](ruathym.png)
+
+ttps://forgottenrealms.fandom.com/wiki/Ruathym
+
+https://forgottenrealms.fandom.com/wiki/Arcane_Brotherhood
+
+Used to operate out of Luskan + NW. Some of the big cheeses remaining on the Island of Ruathym.
+They could've spotted it when they passed RUathym, but now they have to gain renown in the Tower of the Arcane in Luskan.
+
+## Motivation
+Wizard piracy. Secrecy. They in fact have the remains of Isz' ship. Lives off the sea in general.
+Remnants of the Brotherhood. They use old and forgotten forms of magic to protect themselves.
+They know CHRONOMANCY! WHY?
+Paradoxical summons showcase with a diamond. (Party trick)
+Quicken thoughts (eyes jitter back and forth) - Charisma ADV.
+
+## Lines
+No one can see the future. I can see options and trajectories. Time is like a river. That splits into creeks or pools into lakes, or careens down waterfalls. I have the map, and I steer the ship.
+
+## Location
+Enclosed by mountains of all sides, many smaller ships. Illusion magic keeping the place from being visible. But if they break through they'll find the small village of Diyun
+Subarctic climate. Trees and unpopulated on lower parts.
+
+Inn
+https://just-the-tip.obsidianportal.com/wikis/kagamungos-palace
+Wizards are in **The Temple of Aspiration**
+
+## Population
+200 mostly humans, some gnomes. Some goblin slaves fishing by the shoreline.
+
+### Main party:
+- Akvius - triton bard
+- Therlahne – half-elf ranger
+- Baroness Daeroris – Shadar-kai sorcerer
+- Baron Yenumo – Human wizard (chrono)
+
+https://www.dndbeyond.com/profile/sszynrae/characters/15465312
+https://www.dndbeyond.com/profile/sszynrae/characters/15469546
+https://www.dndbeyond.com/profile/sszynrae/characters/15465576
+https://www.dndbeyond.com/profile/sszynrae/characters/15464914
+
+**Complication 1**
+If they encounter the place and board, they'll be led to the leaders of the island (but friendly façade, there's an in where they can rest and sleep, beer, fish + seaweed).
+=> Wizard show down.
+
+**Complication 2**
+If they are spotted getting close to the island, a ship with them will pursue.
+Sail of the arcane brotherhood.
+
+### Combat
+Wiz: 80 HP. 15AC. (ADDITIONAL UNSTABLE SINGULARITY ONCE PER DAY)
+#### Spells:
+- Delay pain (conc reaction, no damage while concentrating)
+- Pause on downed
+- Rending distortion (1, 6d10 slashing on failed CON save)
+- Skew time 5ft cube against clusters of humans (to give them disadv + force them to move)
+- Time Warp (20ft sphere – after singularity to slow them)
+- Space Anchor to drag people away?
+- Unstable Singularity: Opener for people close to it. (STR SAVE AT START OF THEIR TURNS)
+- Waypoint to return to the beginning. (NO)
+
+### Resolutions
+If they defeat 2 of them, the last will relent. You've made your point.
