@@ -31,6 +31,7 @@ Had an attack on [[bonecity]] from a Devil. Large horns and everything. Saw a hu
 
 ## Stats
 Evocation wizard casting mind blank + mage armor + Crown of Stars (ovechannelled) before any interaction.
+https://www.dndbeyond.com/profile/sszynrae/characters/38081223
 
 He will port to [[irithyll]] if they attack him.
 Protective wards:

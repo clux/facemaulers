@@ -45,8 +45,20 @@ We are defeating undead here. Would possible negative could I have for doing tha
 SO WHY: As I said, I cannot divulge the nature of my clients at the moment. But that should not distract you from our goal here. Do you want the coast swarming with undead? No? Neither does my clients.
 
 ### Offers
-Offer `Gate` on conditions to aid the cause. She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil. NB: They need to use `Planar Binding` to actually get it to do what they want.
+Offer `Gate` on conditions to aid the cause (bound to devils). She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil. NB: They need to use `Planar Binding` to actually get it to do what they want.
 
+"If you want power, all you have to do is solicit some help from other planes. I can help you accomplish that."
+
+### Shadowfell
+Devils don't really have control there. Undead curse keeps things coming back to life there. Things will never have sentience there, but the vampires do have to feed.
+
+### Party avoiding deal
+"You think what is happening here is natural? You think just because they are not harming anyone at the moment, that you are making a morally just decision?"
+"What do you think will happen when you attempt to strangle the outer realms, by slowly granting immortality to all the inhabitants of the material plane through some magical loophole.."
+"You are tampering with systems far greater than you imagine. Sure, perhaps you dismiss the infernals as evil - although with your looks and former choices i find that somewhat difficult to believe - there are still going to be any other plane of afterlife who's disrupted by this."
+"Do you think Celestia or Elysium will flurish in an era of a hell destroyed? Having to deal with all the sinners themselves? I think not. They need us as much as we need them. The only difference is that we are honest about it."
+
+Magic: How will society work without warlocks? clerics? paladins? Remaining options are for them not all that appealing. Sure, such a change would be gradual, but over the course of a few generation equivalents, those divine agents will all but disappear.
 
 ### Notes
 Erinyes give their powers. Devils are not keen on undead takeover. Less souls on the economy, but devils have been a little beauraucratic and only focusing on short-term focused thinking.
