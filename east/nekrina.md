@@ -40,6 +40,11 @@ Isaak is pretty "cool" a bit "try hard". Tosses his hair around.
 - "I heard you tore the prince of demons a fresh one."
 - "You looking for a hand on your mission? I doubt I could find a better crew than you."
 
+Knows about them.
+Studied up this place. Hard to find much about it.
+But did you know that about 500 years ago a great undead assault happened here?
+Apparently some drow based godess named Kiaransalee led them.
+
 ##### Zhan Ling
 Zhan is a cleric of `Bane`. The aristocracy in Baldur's Gate is a bit oppressive.
 Uses a maul, very skillfully. Like an asian monk. Will greet GW respectfully. Uncle Roger accent.
@@ -52,38 +57,38 @@ Uses a maul, very skillfully. Like an asian monk. Will greet GW respectfully. Un
 - "FIGHT TO THE DEATH."
 
 Will challenge GW to Bellow/Flumph. Failed.
-
-Retainer stats:
-Exorcist
-ARMOR: Medium (AC 15)
-PRIMARY ABILITY: Wisdom
-SAVES: Wisdom
-SKILLS: Medicine, Religion
-SIGNATURE ATTACK: sacred flame
-SPECIAL ACTIONS
-3RD-LEVEL (3/DAY): scorching ray
-5TH-LEVEL (1/DAY): fireball
-7TH-LEVEL (1/DAY): wall of fire
-Spell DC15
-Saves: all +3 (saves he needs to do are based on avg dmg from attack)
-11 health levels (always loose 1 level per die of damage)
-Actions: signature attack (at most 2 per round), spells (at most once every 10min)
-Hits when your PC hits (signature) - success inspires your follower (miss == no attack)
-Gets one health level per short rest.
+Knows about Akkhan, great dwarven hero. He live in this place.
 
 ### Talindra + Lyeneru Morren
 Sisters, but Talindra is a thiefling. Great grandfather on mother's side apparently had infernal roots.
 Following the standard approach, her sister has tried to do her hair up in such a way to cover her horns, but it's large and extrudes far to the side. They took this job here because only limeted combat experience was required (magic knowledge nice to have).
-Lyeneru is a high elf that knows some magic. But Talindra just took a warlock pact via Zaehesh with Mephisto.
-Level 3, just learning the ropes.
-
 Talindra; https://www.pinterest.co.uk/pin/508414245430345109/
+But Talindra just took a warlock pact via Zaehesh with Mephisto.
+
+Lyeneru is a high elf that knows some magic. Level 3, just learning the ropes.
 
 The thiefling could be Mordai's brother. It could be a implanted memory via Modify Memory.
 
 One is a Retainer Healer; SF73
 Other is Retainer Acolyte of Darkness SF76, or Exarch SF80
 RETAINER BACKSTORY ACTUALLY UP TO PLAYERS!
+
+both upstaris back east
+
+#### Togren Fistroar
+Fighter from the flaming fist. (downstairs under stairs east)
+bearded. standard soldier. less reputable, happy with the pay.
+now learning kavaki religion (they deceived him)
+he is a bit dim.
+
+#### Sasha Dreamsoar
+Cleric of Auril (upstairs middle room back)
+talked about the recruitment from baldurs gate
+how zahesh had recruited from flaming fist and also newer areas
+
+#### Salrius
+Thiefling from flaming fist. (downstairs east alone)
+He was the ambitious one. got powers from Mephisto.
 
 ### Next Set of Adventurers
 Post Recon
@@ -128,19 +133,23 @@ Some isolated people speak of dwaves below (when alone). Other speak of mist and
 ### Lower level
 ![](nekrina-fortress-lower.png)
 
-3 Chuuls + 4 Umber Hulks. Hiding out there, feeding on corpse remains + any adventurers who goes travelling. They tunnel in from 30.
-
 Instead run an Elder Oblex plot. Wet floor.
-Hallucinatory terrain in there, red mist up to knees. Multiple dwarves conected to central mass in corner (eerier red light from each corner). Sulfurous smell. True sight sees the tether.
-Try to separate members.
+Hallucinatory terrain in there, red mist up to knees, feels knolly. Multiple dwarves conected to central mass in corner (eerier red light from each corner). Sulfurous smell. True sight sees the tether.
+Try to separate members. "My i am so thirsty, you look like a strong one, my man, do you mind fetching me some water?"
+
+Why are they here? Just dug themselves up from the underdark. Trapped. Can't remember the city name they came from.
+
+Knows how to get to [[velddrinnsshar]], without getting trapped (through Shadowfell, two-way portal from [[irithyll]]).
+
+If they get one to leave, close the door. Bring jojo the Umber Hulk.
 Can have the upper levels be extremely clean, like acid cleaned.
 
 - 29 sleeping chambers of important people (lore info here about Akkhan)
 - 31 tombs (very old, Kiaransalee lore here)
 
 #### Lore
-- How to get to [[velddrinnsshar]], without getting trapped (through Shadowfell, with compass from [[irithyll]]).
-- Kiaransalee's Scythe caused sentience in undead
+- The disappearance of Maerimydra. Temple to Kiaransalee at the top of the underdark city. Now it's a hole in the ground (map location to where it was).
+- Akkhan was buried not far from that city up north. Boreal Diamond Mines.
 
 - TODO: ritual that can hamper Irae's powers.
 - TODO: Lore about help from [[eilistraee]]?

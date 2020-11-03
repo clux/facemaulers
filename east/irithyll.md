@@ -91,6 +91,7 @@ S: "everyone. calm down. have you not eaten in a while? we have company."
 
 ### Council surface level conflict
 Vampires want to freedom and their empire to continue, and leech of nearby slaves. Irae's plans are both with and against them. Council divided. S for it, other against.
+The expansion would threaten their secrecy, but also grants power.
 
 Celerom wants to reform them into vegetarians. But they are old fashioned. One will not change at all, but the younger ones MIGHT. The king COULD betray them and destroy the charm from Celerom to force them out.
 
@@ -149,14 +150,14 @@ Path have to lead a winding path around a mountain, around ancient burial ground
 
 Pass a few Shadar-Kai on the way out. Emissaries from Dorian, asking the Celerom to proceed with his experiment and bring forth samples.
 - Surprise: "Are you here to end my path, or do you willingly wish enter the path of suffering?"
-- Advice: "Stay on path, friend. The city might be gloomy, but spirits lingering outside, can be much worse. Oh, and be quiet on the bridge."
+- Advice: "Stay on path, friend. The city might be gloomy, but spirits lingering outside, can be much worse. Oh, and be quiet on the bridge." (Warns of sorrowsworn in the wild MTOF231++ and a big beast under the bridge)
 - Overview: "A forsaken place. Undeath and lingering spirits stand on every corner. A few of us are continually spared."
 - He?: "I am one of the few entrusted by the raven queen with a mission, in doing so I can bring back food for the village."
 
 ### Irae Encounter
 Path sends you through a valley, foot prints visible, mist starting to form at your feet. You are clearly high up in this mountain.
 
-helpers: 2 vampire spawn (dim servant high schoolers), 3 flame skulls
+helpers: 2 vampire spawn (dim servant high schoolers), 8 will o wisps.
 halucinatory terrain plus helpers undead above the valley and there's mist above uneven ground. She doesn't care for a fight here, at most a few rounds.
 Protections: Mind Blank, Crown of Stars, invis at will, shield up, counterspell.
 If attacked; arcane deflection reac, 19-23AC depending on conc/deflect + deals dmg.
