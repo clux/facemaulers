@@ -91,19 +91,20 @@ NB: These COULD drop. Don't overdo it. Although campaign end, so...
 Passive ability; Cast greater invisibily on self as bonus action
 Passive ability; Cast flight on self as bonus action
 Both concentrations can be maintained by item
+Grants immunity to Stunned/Restrained conditions
 
 ### Eye of Vengeance
 Passive Truesight 60ft
 Lets the wielder automatically see what type of spell being cast (for counterspell purposes).
 Lets the wielder Twin spells (like sorceres's Twinned Spells metamagic) twice per day.
-Contains spells to be cast once per day:
-- Crown of Stars
-- Mindblank
+Contains spells to be cast (using a pool of 8 charges, 1d4+4 recharged):
+- Crown of Stars (2 charges)
+- Mindblank (2 charges)
+- Clairvoyance (1 charge)
 
 ### Scythe of the Revenancer
 +2 CHA/INT (ABOVE 20)
 +4d8 necrotic damage on hit
-Grants immunity to Stunned/Restrained conditions
 
 Passive effect; undead raised by her, (or by her transitively gain the sentient undead feat).
 Passive effect; Cast Create Undead at 9th level (provided enemies need to be present)
