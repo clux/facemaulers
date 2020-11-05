@@ -1,6 +1,6 @@
 Potentially last game 2018 or first (2nd Jan 2019)
 
-They fought some trolls.
+They fought some trolls in the evermoors. Made a bunch of fire in the night.
 
 Learned things in monastery. (Proficiency)
 Monk fought his master. Learned a monk subclass.

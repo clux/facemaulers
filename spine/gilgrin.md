@@ -27,6 +27,11 @@ Babgant:
 Fezlor (leader with bronze hair, braided – huge glowing greatsword):
 - You came from Iron Slag, with Iron?
 
+## Stair Entrance
+Enormous staircase downward at end of hallway, but in the distance, the blue energy now visible, extends around a jagged beam that passes through a hole in the ceiling and floor and it's crackling with constant electricity. Hole is 20ft by 20ft. Beam is cylindrical, rotating (jojo italy trial), covered in electricity.
+
+Staircase is arcing downward significantly into a huge iron door. DC25 STR to break. Can get key from Suri.
+
 ## Inside
 Huge amount of hobgoblins  / goliaths pushing a flywheel. Overseen by 6 fire giants + 4 on bridge + 2 bosses upstairs.
 If they stop the wheel, giants hostile. Or reinforcements come.
