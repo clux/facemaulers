@@ -16,6 +16,8 @@ Look ideas in area-art:
 - https://www.pinterest.co.uk/pin/858991328908429121/
 - https://www.pinterest.co.uk/pin/531565562261595488/
 
+Can do a big undead city.. City of Seyna map..
+
 ## Ashes of Ariandel
 Base on Ashes of Ariandel DS3.
 Acropolis in shadowfell.

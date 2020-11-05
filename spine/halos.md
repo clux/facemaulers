@@ -1,5 +1,6 @@
 # Halos
 Top spire in [[stormguard-Citadel]].
+![](halos-1.png)
 
 ## Lore
 Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent) with trident.

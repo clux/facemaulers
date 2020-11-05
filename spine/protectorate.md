@@ -29,8 +29,7 @@ Know about the dragon Frygt that the storm giants use for defense. It eats whate
 
 Know about the mind control magic used. Lore says it's a form of mind control domination similar in strength to that of an Aboleth.
 
-Know that the demon lords now are starting to set course for major cities. Yenaghu for Luskan. (UPDATE: Luskan under attack).
-
+Know that the demon lords now are starting to set course for major cities. Yenaghu for Luskan.
 Baphomet for NWN. Orcus for WD (but he failed in the ocean).
 
 Knowns about Umnos who most history books refer to as Fracto-Nimbuili because of his ability to split the sky open.
@@ -43,7 +42,6 @@ Dome – 600ft diameter
 4 big quadrants for each ministry. Center annulus for access between them. Elevator in centre goes to rimehaze only. Does not work further up (needs powers, control room was locked up in rimehaze).
 
 Each quadrant has stacks of bookshelves of information.
-
 
 one about the cult of the shade maidens, their split from lolth, and the following of an undead necromancer going by 3 names; Lady of the Dead, the Revenancer, The Vengeful Banshee -
 
