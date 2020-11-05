@@ -29,3 +29,8 @@ Seek out Vizeran. Vizeran DeVir. He will have experience. He resides in Araj in 
 
 Will send people to sleep in drow poison crossbow at sign of insolence
 NB: gave them a purple ring here to give to Vizeran.
+
+## Mansion
+Masked lord (Jarlaxle – hat of disguise with feather, black/blue learthery dress – eyepatch vs psionic/magic intrusins) - xray powers. Many rings, near silent boots (elvenkind?), drow cloak (powerful). https://www.reddit.com/r/dndnext/comments/2iv08w/magic_items_belonging_to_jarlaxle_part_1/ + https://www.reddit.com/r/dndnext/comments/2iv1c0/magic_items_belonging_to_jarlaxle_part_2/
+
+Fucking tons of stuff, but heavily guarded.
