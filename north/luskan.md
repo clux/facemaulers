@@ -1,8 +1,10 @@
 # Luskan
 
+![](luskan-map.jpg)
+
 ## Connections
 - Road east to [[mirabar]].
-- Road South to [[neverwinter]].
+- Road South to [[neverwinter]] (via troll-toll).
 
 ## Intro
 https://forgottenrealms.fandom.com/wiki/Luskan
