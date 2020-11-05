@@ -1,6 +1,6 @@
 # Halos
 Top spire in [[stormguard-Citadel]].
-![](halos-1.png)
+![](halos.png)
 
 ## Lore
 Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent) with trident.
@@ -204,7 +204,7 @@ Thorns Robe: "Robe of Roses" Enemy takes 2d8 poison damage when they hit you.
 
 Opal (that fits in ring of wishes). Looks like it was cut for a ring. Investigation 15, remember you've seen a gem like this before explode inside the ring you retrieved form the shadowfell.
 
-they took 30k
+they took 30k (later took 20k, left rest to cloud giants).
 
 ## SOUTH
 ### DEAD BRIGADE
