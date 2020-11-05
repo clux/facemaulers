@@ -79,7 +79,7 @@ Top 4 chests looks heavily looted. But does have 2 scraps:
 
 Bracers of Archery (coz whatever)
 Cloak of Displacement (probably better in reliquary)
-Iridium Galvanizer
+Iridium Galvanizer (powedered large bottle with silver flakes, increments armor/weaps)
 
 ### Top Right: Tombs
 +3 Radiant Glaive 1d10 (boosts yourself STR modifier worth of temp hp - without misses against undead) - https://favpng.com/png_view/weapon-glaive-pole-weapon-guandao-blade-png/4qtN5R0i

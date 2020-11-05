@@ -1,5 +1,5 @@
 # Gilgrin
-Fire giants main fortress. They are awesome blacksmiths and make the best weaponry in all of toril. Fire buffs, flaming swords, armor. They have hellhound/salamander/chimera pets.
+Fire giants main fortress. They are awesome blacksmiths and make the best weaponry, plus are rune magic masters of supreme enchantments. Fire buffs, flaming swords, armor. They have hellhound/salamander/chimera pets.
 
 ![](gilgrin-map.png)
 
@@ -63,8 +63,11 @@ Upstairs is a similar one that harnesses the energy, plus one that is dedicated 
 Arcs: isolate them so they can be taken on similarly. Solo battle is going to be tough.
 If they destroy it, they better fucking high-tail it. They might persuade him to check on the vault.
 
+Zoltan normally in charge against weaponry selection and mobilising defenses against drow incursions.
+
 ## Vault
 Meditation chamber is vault. Steel door in front.
+Big steel door and 4 fire giants patrolling it. Won't let anyone in. Magic barrier on door as well (prevent dragon leaving).
 [[gilgrin-vault]].
 
 
