@@ -1,4 +1,4 @@
-# Whiteplume Bubble
+# Whiteplume Mountain
 ## Entrance
 - Contains the [[dessirris]] androsphinx and leads up to the crab bubble (Wave)
 - Ziggurat path [[plume-left]] to Oni (Blackrazor)

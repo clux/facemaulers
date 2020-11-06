@@ -9,7 +9,7 @@ TODO: flesh out specific entrance to make it scary.
 Small obvious hatch hidden behind some shrubbery. But easy to spot tracks (10Surv)
 
 ## Inside
-http://imagizer-cv.imageshack.us/a/img923/2030/NBpkIi.jpg
+![](kobold-lair.jpg)
 Definitely have a quick side entrance with trip wire DC30 perception.
 They'll be taken through the danger area, switches on the wall pulled to keep them from falling in.
 A "more obvious path" that's laden with caltrops. Difficult terrain for >small. Trip wires further in.
@@ -122,6 +122,7 @@ Staff of smiles!
 Large black emerald (2k gp)
 
 ## Tattoos
+https://imgur.com/a/QqpNu#1joV5Vy
 https://www.gmbinder.com/share/-LCger_-0N85d-tKgKRK
 All <2000gp.
 Promised tattoo ink.

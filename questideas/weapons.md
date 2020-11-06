@@ -114,6 +114,71 @@ TODO: can tweak this.
 - The bonus to Ability Score increases to +4, to a maximum of 22; the wearer’s strength, constitution and dexterity scores may not exceed 10.
 - Essence of Undeath. The wearer of this ring becomes stable after two successful death saving throws. When becoming stabilized after falling unconscious, the wearer of this ring regains 1 hit point.
 
+###  The Infernal Creator
+For Pendle.
+Written by modrons on deal with Dispater. Basically bait for smart people.
+Contract paywall. Book can show the vestiges. You agree to 3 terms.
+On breach, or loss of property; soul forfeit. You will be collected by next owners.
+
+1. The use of your voice for a day. You must say what is required of you, when the time comes, with an intonation and conviction at your most genuine, and without any form of external signalling to let people know about this deal or any qualms/disagreements you may have with what's being said.
+
+2. The energy of your glory. Should you be part of great conquests, like vanquishing a great evil or saving a kingdom, stories of your participation – no matter how great – will be greatly diminished. You will relinquish the rights to fame for me to leech upon.
+
+3. The souls of your victims. NB: THIS WAS PROBLEMATIC.
+
+Motivation:
+> Use of your voice for a day. Your voice (which is from someone true and pure of heart) is used to chant a ritual with thousands of other borrowed voices to do something very evil. The evil ritual tainted your voice and now lawful beings have taken notice of the rituals completion and don’t really care for the defence that you weren’t there, your voice was the one chanting.
+
+> Anyone who signs the contract will always be slightly outshone by their companions in any legends told. Saved a kingdom? The bard will mention everyone, including you, but your stanza will be just that much less remarkable than the others. This only applies to secondhand accounts: anyone who witnesses your deeds will see them as they truly are. Complication: The fiend itself is a Glory Leech, and its sustenance is the renown of those it gives contracts to. After you’ve done enough deeds, and the Glory Leech has nourished itself on your relinquished fame, it has the strength to take your place…either actually possessing you, or manifesting as the ideal version of you who everyone unrelated sees as having really done all your great deeds.
+
+http://dndspeak.com/2018/08/100-things-demons-devils-ask-for-in-their-contracts/
+Exalted: maybe Fade Away feat. Maybe +2 Int
+
+## Stygia's Codex
+for Mordai (rseskin of Spire of Conflux)
+
+Will have more spells and less randomness later on. Boosts CHA.
+Add custom invocations to it later.
+
+Sinister part
+Slowly corrupting text. Charms into sacrificing parts of you.
+Think about this. Books needs a reason to charm the players.
+Why is book sentient to begin with.
+Demon locked original creature into book. Convinces them to go to 9 hells and deal with original daemon. Can activate when going to 9 hells.
+
+## Plate of Dawnmartyr
+reskin for GW/Hjarka
+Boosts AC and resistances/immunities later on.
+
+## Deathwalker's Ward
+cloak reskin for WindSorrow
+Boosts AC/RES and flight later on.
+
+## Hurricane Lance
+Weapon (lance), very rare (requires attunement)
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+
+The lance has 4 charges. You can expend a charge to surround yourself with a flurry of wind and cast zephyr strike on yourself without expending a spell slot. You can expend a second charge of the weapon (no action required) to extend the spell to target any mount you are currently riding. If you dismount or are forced off your mount, the spell fades from the creature. The weapon regains 1d4 expended charges daily at dawn.
+
+In addition, you can cast thunderwave once per day at 3rd level (save DC 18) without expending a spell slot and without requiring any somatic components. You must be holding the lance to cast the spell in this way.
+
+> "Nothing can stop me. I'm an unbreaking storm, an unrelenting torrent of power. With this I will pierce the heavens themselves!"
+
+## Love's Embrace
+Weapon (greatsword), legendary (requires attunement)
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon can be attuned to by two allied creatures at the same time so long as they attune to it together over the course of a long rest. If the weapon is attuned to by two creatures in this way, the weapon's attack and damage bonus becomes +2 instead.
+
+This greatsword is made of two long scimitars that are held together by a powerful, unidentifiable magic. You can speak the weapon's command word using a bonus action to separate it into two scimitars or recombine them into the greatsword. If you are not already holding it when you speak the weapon's command word and are on the same plane of existence, you can choose to summon either one or both scimitars to your hand as individual blades or as the combined greatsword.
+
+The scimitars have the thrown property with a normal range of 20 feet and a long range of 60 feet when separated.
+
+Each scimitar also has its own elemental effect — either fire or cold — that inflicts an extra 1d6 fire or 1d6 cold damage with each strike, depending on which sword you hit with. When you hit with an attack using the greatsword, the target takes both fire and cold bonus damage from the attack.
+
+Once per day, each attuned creature can cast fire shield at 4th level. You do not need material or somatic components when casting it in this way.
+
+> "Love? Love isn't a game: it's a war. And you'd better figure out which end of the blade you're on."
+
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [houserules]: ../houserules "houserules"
 [//end]: # "Autogenerated link references"
