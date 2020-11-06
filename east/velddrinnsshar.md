@@ -29,6 +29,14 @@ They can get clues about backstory, and then guardians of time stopping them fro
 
 Really don't ahve to base it so hard on that look though, just the geeral idea.
 
+## Environmental idea
+Guards and Wards spell (vs non-undead / all with password: vertebrazen).
+Fog filled corridors, strong illusion towards wrong directions (hard to interpret).
+Stairs with Web everywhere.
+Arcane Lock on all doors.
+Then:
+2x Stinking Clouds or 2x Magic Mouth (invitations to doom rooms)
+
 ## Acropolis of Thanatos
 A black marble temple. A temple devoted to the worship of the [[kiaransalee]].
 

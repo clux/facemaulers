@@ -3,6 +3,11 @@ A folded pyramid (looks like a 5-cell / hypertetrahedron projection) mechanism t
 
 Goblim realm of money loot goblins.
 
+## Developments
+Pentachoron identified as a planar teleporter.
+Goblin came out of it earlier trying to move it. But he escaped into it.
+We think it contains a rather large plane, demi-plane, pocket-plane hard to tell.
+
 ## Underlying Mechanic
 Tetrahedral interconnection. Each face is a tetrahedron that has a path to every other. 10 triangular walls – everyone maps to another. Solve every room and unlock the center room.
 
@@ -19,3 +24,6 @@ extra member found herein?
 ## Rejected
 An instrument where a creature trapped by Irae resides?
 Someone who inadvertedly helped her re-animate the banshee.
+
+## Sunwuko relics?
+Put Monkey King relics in here? Monks and goblins both like golden shit, right?

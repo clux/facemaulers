@@ -1,21 +1,29 @@
 # Halos
 Top spire in [[stormguard-Citadel]].
-![](halos.png)
 
 ## Lore
-Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent) with trident.
+Storm giants are good spellcasters and self-sufficient, close to godhood. Umnos leads, with Serissa (quintescent with trident) and Neri (smiling one ranger with stormbow).
+
+Only realistic way up to the spire. The queens and the 20-something storm giants present a real heavy guard to prevent anyone from interfering with / reaching Umnos. Fryggt guards the outside, and lightning clouds around that.
+
+## Curling Bridges
+Risk lightning patrols. Hostile cloud giants on patrol 3 each bridge. Athletic, they don't fuck around. THey will hurl lightning javelins at you on sight + try to throw you off the bridge (500ft to ground)
 
 # Entrance
 Circular hangar either through open hole cylinder in floor (peek down through clouds to Protectorate). Two doors on either side lead down to bridges. Patrols Circle through here. 2 on bridge for 3 minutes as they walk halfway down as a unit while2 stands guard (will join battle by shooting lightning).
 
 If they get passed it, then they can proceed up the hallway leading to the battlemap (modified snurre 2)
 
-Also a circular indent in the floor above with hexagonal outlines, but can't see through. (Where dragon resides).
+Also a circular indent in the floor above with hexagonal outlines, but can't see through.
 40ft Square grate above them leading to 13E. 1 sleeping storm giant there.
+
+![](halos.png)
 
 ## DUNGEON
 SCALE: 2x larger than 5ft square. 10ft squares!
 Storm Giants very perceptive, they'll just instintively nom Petros.
+Motion sensor light gems (similar to Blingdenstone wherever the map shows lights).
+Neri/Serissa can see through these.
 
 ## CENTER + TOP
 ### 13A Door
@@ -44,8 +52,9 @@ South are the 10/11 rooms. North is the 13A north door. West is 13A west door.
 ### 14A Resting chamber
 3 storm giants meditating in a circle. Not super observant while that's going on. Chest contains clothes fit for giants and 2 supreme healing potions.
 One of them is an elite elite with huge hammer: https://www.pinterest.co.uk/pin/563935184592880430/
-REMEMBER STORM SPELLS
-https://www.reddit.com/r/UnearthedArcana/comments/f7a6xj/storm_spear_two_variants_strike_your_enemies_down/ -> https://i.redd.it/5uatytj4w6i41.jpg
+Storm spell idea:
+https://www.reddit.com/r/UnearthedArcana/comments/f7a6xj/storm_spear_two_variants_strike_your_enemies_down/ - too strong to be of general use, so:
+Specials attack; CON save 16 vs. 4d8+15 LG dmg. Paralyze for one round on fail.
 
 
 After gates in 13F. Blue lightning scars the walls. Large footsteps has depressed the floors in this hallway. Giant sized, but clearly heavier.
@@ -83,7 +92,9 @@ see he has taken lots of cuts, but still looks very healthy - more than you woul
 Octarine Core - grants half of overkill damage worth of temp hp - up to a maximum of 50 (for un-numbered crits)). Must replace your heart via surgomancy. Can only be done during a resurrection ritual
 
 ### 12A Serissas Chamber
-Storm Giant Quintessent. Throne in center. Paranoid. Slightly mad. Will have a chat, but unwilling to let anyone pass unless they really smooch up to her vanity (like set up a church to her). Spells? Champion of `Talos` the storm Lord.
+Storm Giant Quintessent. Throne in center. Paranoid. Slightly mad. Not as helpful as Sansuri expected.
+Will have a chat, but unwilling to let anyone pass unless they really smooch up to her vanity (like set up a church to her). Spells? Champion of `Talos` the storm Lord.
+
 
 Queen Serissa: https://www.pinterest.co.uk/pin/374572894004775015/ ish
 Opulent. Oozes elecric energy. Hard to tell if she's even a corporeal being, but her dress sparkles with gold. Her staff bears a large ruby and the statue of phoenix. She's oversees the treasury, but haven't given a dime downwards anymore (she's a little insane.) Won't hear it if they talk about Irae.
@@ -235,21 +246,16 @@ On death:
 
 Exit there leads to [[halos-2]].
 
-## Neri foreshadowing
+### Neri foreshadowing
 portrait with maze (ubtao)
 4 names
 W zilos, N silozar, E slutnir, neri
 silver masks
 arrows
 
-button, no one can use it again..
-but what does it do - whatever
+meant to be indicative of the 3 helper rangers and where they go to
 
-## peryton
-stagweaver
-slightly crazier kobold voice
-
-## buttons
+## Control Buttons
 control magic field dragons take 2d8 force damage per turn if it's active.
 fryggt ancient white dragon.
 loyal to neri/serissa

@@ -24,7 +24,7 @@ KA-VA-KI - desired
 Mastiff
 
 ## Stagweaver
-Peryton. Showed up as red. Frozen.
+Peryton. Showed up as red. Frozen. Slightly crazier kobold voice.
 
 ## DRAGON ARMOR
 eyes of dragon (blue) - solar plexus - has radiant light spell command word (with his word?)

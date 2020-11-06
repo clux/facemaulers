@@ -24,6 +24,8 @@ good for later for monks
 
 ## Frostburn
 Titanstone-ish clone with ice powers.
+(set str to max(22, curr+2) and add d6 ice dmg once per day?).
+Works with Hammer of Thunderbolts instead of gauntlets of ogre power.
 
 ## Lightning Rod Ultragreatsword
 Terahex Armory

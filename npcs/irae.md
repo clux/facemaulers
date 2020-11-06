@@ -112,6 +112,11 @@ Passive effect; Cast Create Undead at 9th level (provided enemies need to be pre
 ## Spell Combos
 - Forcecage 20ft + Cloudkill/Incendiary Cloud/Wall of Fire (blocks line of sight, and slowly kills them)
 - Timestop + Forcecage + Cloudkill (to ensure it all gets off)
+- Primsmatic Wall dome around her + Dominate Monster outside.
+
+## Dying
+When in Lich form, she Self-Destructs.
+6th level Bonus Action; 12d10 FIRE damage on DEX SAVE. 30ft radius.
 
 ## OMEGA PLANS
 https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
@@ -227,7 +232,7 @@ Silth. Has a lair in the underdark
 Has the power of a green and blue dragon. Can poison the minds of people and lower their intelligence. Truesight. PP30. Symptoms; paranoia + coughing.
 
 ### Celerum - Mage
-Persuaded to join Kiaransalee told he could become a lich as well. Stops responding. Went to the Acropolis to change. Arklem there.
+Persuaded to join their "cause" by keeping the people of Luskan alive and have them "retain their humanity". Deceptive plot. Required Modify Memory. Stopped responding to messages as a result of his new work.
 
 ### Umnos / Fracto Nimbuli - Storm Giant Elite
 Can cast storm spear: https://www.reddit.com/r/UnearthedArcana/comments/f7a6xj/storm_spear_two_variants_strike_your_enemies_down/ . Same as Lightning strike, but a withering bone spear attack instead that has CON save vs Necrotic DMG.
