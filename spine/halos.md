@@ -182,9 +182,7 @@ If they stop him; he'll monster voice and explain that he found a way in through
 Goblin realm has funny goblins: "why can't i meet your parents? are you embarrased of me?"
 
 #### Loot (outside gold)
-Sunwuko's Spirit: Grant Breath of Heaven Spell: Heal all allies within 30ft 6d8 as action.
-DID THEY GET THIS?^
-TODO: give something that boosts his damage.
+Sunwuko's Spirit: Grant Breath of Heaven Spell: Heal all allies within 30ft 6d8 as action. ALso grants +1 CON and WIS (max 20).
 
 Tome of Clear Thought. +2 int.
 

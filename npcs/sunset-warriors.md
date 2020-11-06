@@ -63,6 +63,8 @@ Worshipped the Monkey King. Incredible agility gave him great prowess in battle 
 NB: Monkey King is actually CR21 on CC337 and has ape like (simians) minions.
 Can put them guarding it?
 
+TODO: have him basically have god status, and have Quin his current champion?
+
 ### Items
 - weapon that burns spell on crit roll D8+1 for level slot, but can only slow instead of stun. Gives truesight.
 - spirit stone: grant Breath of Heaven spell (heal all allies within 30 ft - ~25% of monk's health)
