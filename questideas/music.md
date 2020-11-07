@@ -32,6 +32,26 @@ https://www.youtube.com/c/Musicforyoursoul/videos
 
 ## Battle
 
+### Divinity 2 Battle Themes
+https://www.youtube.com/watch?v=h422r0y_bEg
+90min
+
+### Baldurs Gate Saga; Full Battle OST
+https://www.youtube.com/watch?v=maAEoJQnWr4
+30min
+
+### Baldurs Gate 3 Battle Music Extended
+https://www.youtube.com/watch?v=_9ppF08u2GM
+47min
+
+
+### RPG Playlist - Combat Music 1
+https://www.youtube.com/watch?v=M_hrNDhLwvE
+witcher/iwd/bg/wc/skyrim
+
+### Darkest Dungeon - Combat Music
+https://www.youtube.com/watch?v=JYFU_RiefKk
+short
 
 ## Epic
 ### CRONOS - Epic Powerful Orchestral Music Mix | Jo Blankenburg
