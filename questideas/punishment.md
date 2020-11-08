@@ -98,5 +98,5 @@ Instead of "normal" incarceration, you could be sentenced to petrification or Se
 
 Petrification/sequestering...
 Planeshift to Carceri. The literal plane of prisons.
-Polymorphing someone for example into a donky or ox and let him work.
+Polymorphing someone for example into a donkey or ox and let him work.
 (Drow drider polymorph is a good example)

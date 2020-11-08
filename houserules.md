@@ -347,6 +347,11 @@ Backfired. Parties also felt a lack of cohesive movement from ComIntern.
 Parties couldn't trust advice and leadership when decisions were shrouded in mystery.
 Parties were not part of the decision making process, and they were not sure who were benefitting.
 
+### Pirates
+### Cartel / Mafia
+Cause people to be indebted to you and force them to work for you. Geas?
+Not state sponsored. But organised crime. TODO: why not cracked down on?
+
 ## Battlefield Design
 Thoughts on what to include in battles. Spice and dynamism.
 https://old.reddit.com/r/DnDBehindTheScreen/comments/j7p42l/the_missing_ingredient_some_thoughts_on/
