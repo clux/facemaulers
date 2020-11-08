@@ -81,6 +81,13 @@ Consider what are HUB worlds and what are SUB worlds.
 Something that spans a megadungeon. A passive underlying puzzle.
 Spread semi-related (seemingly unrelated) breadcrumbs throughout. Holy texts, abandoned. Old glyphs.
 
+## Investigations & Mysteries
+> The Gumshoe System is designed around the idea that investigative scenarios are difficult to run with most role-playing systems. The problem is identified as important clues being missed due to failed dice-rolls, resulting in play grinding to a halt.
+
+> The Gumshoe System is designed to solve this by making the game not about finding clues, but about interpreting them. Attention is given to designing investigative scenarios, while at the same time the focus is put on encouraging the players to take control of the investigation (and, thereby, the story being told).
+
+There was a video on how to talk run an adventure like this, but it was a lot of common sense. Don't rely on rolls (at least not for critical things, they NEED to find clues). Use rule of 3 clues - plethora of clues, players won't necessarily make sense of it anyway. Don't throw in red-herrings unless there's counter-evidence. If players can think it's not clear, you probably made it too convoluted. A lot of preparation to be made here up front.
+
 ## Battlefield Design
 Thoughts on what to include in battles. Spice and dynamism.
 https://old.reddit.com/r/DnDBehindTheScreen/comments/j7p42l/the_missing_ingredient_some_thoughts_on/
