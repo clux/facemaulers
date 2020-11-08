@@ -1,0 +1,26 @@
+## Technological Revolution
+https://old.reddit.com/r/DnDBehindTheScreen/comments/iklr5y/maintaining_technological_realism_the_industrial/
+How is big tech funded? How does industrialism develop?
+
+> In the Industrial Revolution that actually happened, a number of reasonably centralised states were able to invest in technological advancements in such a way that saw the rapid spread of things like train networks, electrical grids, telephone lines, and more. These are the sorts of things Governments usually invest in, as the cost of building such networks is prohibitively high for private entities who need to turn profits within reasonable lengths of time. It’s exactly why Governments today tend to be the entities that do things like build roading infrastructure, or maintain waterworks and sewerage.
+> economically strong states with the ability to build these things are usually the ones that end up building them.
+
+> But what if a non-centralised state in the midst of an economic crisis suddenly discovered electricity? Would it become widespread as rapidly as it did in the real world?
+
+### Industrial Pocket
+>  a single eccentric Elf has put many long years of work in to building an electrical grid in the city he happens to live in. As the city emerges as a political power in the turmoil of the larger state’s collapse they begin protecting the secrets of this technology. As a result, electricity does not become widespread. It remains localised to this one powerful and influential city.
+
+Magitech:
+> There is that other common way of introducing pseudo-industrial technologies in our fantasy settings, and that is to have them be born of magic rather than industry. In settings that lean heavily on these, golems and other constructs are used as a kind of mechanised workforce that allows for things like factories to exist. We’re able to have things akin to wireless telephone networks by having fantasy phonebooths where regular people can use the Sending spell at-will. If you’re not fussed about the basis for your Industrial pastiche being technological then the ‘Magitech’ approach is a good way to go.
+
+vs. the masses:
+> If we’re too reliant on magic then those who can do magic become too powerful compared to those who can’t, and scientific technology is a way of evening out the playing field. It acts as a kind of ‘check and balance’ on societies that use lots of Magitech.
+
+Maybe the people rally behind them as a source of security, and the ruling nobles know better than to oppose the will of an armed populace.
+
+### Past Civilisation's Tech
+Were they more advanced than you are? They have artifacts, Damascus Steel, Greef Fire.
+Were they less advanced than you are? Just now able to unearth it, due to your own tech, or digging efforts through servants, modern explosives that ancient wards never accounted for.
+
+Cool examples:
+- Terrible machines that absorb magic and fire it back in bolts of electrical plasma have allowed them to eradicate the blasphemous spellcasters of the city once and for all.
