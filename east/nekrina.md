@@ -139,7 +139,7 @@ Try to separate members. "My i am so thirsty, you look like a strong one, my man
 
 Why are they here? Just dug themselves up from the underdark. Trapped. Can't remember the city name they came from.
 
-Knows how to get to [[velddrinnsshar]], without getting trapped (through Shadowfell, two-way portal from [[irithyll]]).
+Knows how to get to [[velddrinnsshar]], without getting trapped (through Shadowfell, two-way portal from [[irithyll]]) (knowledge of one of the owned dwarves some are duergar).
 
 If they get one to leave, close the door. Bring jojo the Umber Hulk.
 Can have the upper levels be extremely clean, like acid cleaned.

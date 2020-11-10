@@ -57,7 +57,7 @@ Continued use makes it really hard for even seasoned magic users to realize they
 
 When in lair; other crones concentrate on her protections:
 - Invulnerability (if liches present)
-- Globe of Invulnerability
+- Globe of Invulnerability (makes counterspell hard) - will try to counterspell it
 - Stoneskin
 
 ## Stats

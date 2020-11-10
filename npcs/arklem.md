@@ -22,6 +22,26 @@ Knows that the sentience enjoyed by the undead is a cursed one. Inevitably they 
 He is stonewalling [[celerom]] from making his case in [[irithyll]] for as long as possible.
 Continued confusion (geas) on the vampire council there.
 
+## Stats
+Normal lich.
+Lair actions tether to low hp party member to split damage.
+Deters paladin. If you can't tether, use the spirits.
+
+## Combos
+- Paralyzing touch into disintegrate (meh, not really fun)
+- Globe of invuln vs counterspell
+- Save counterspell against mages (dont bother for forcecage)
+- Debate shield vs counterspell
+
+Boosts: bump hp to 200 (max range). Potion of invulnerability.
+Bind hitpoints to golem (shield guardian).
+Staff of power +2 ac, spell attacks, spell dc.
+Black robes of the archmagi, base ac 15 +2 spell dc, adv spell saves
+Ioun stone of absorption
+Switch spells around. Meteor Swarm over PWK. Prismatic spray.
+Prismatic Wall over PWK. Circle of Death 6th level.
+Maximize cantrip damage.
+
 ## Alliances
 Lich in bed with Valindra Shadowmantle.
 Husband of the former Valindra Shadowmantle. Went to Thay with several items, to reunite with Valindra. He has a deal with Irae. He'll get Neverwinter? They share phylactery?
