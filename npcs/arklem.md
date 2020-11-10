@@ -4,6 +4,8 @@ Actually 750 year old wizard turned lich, that just keeps Modify Memory / Glibne
 
 Been harnessing the power of the Eternal Star (Irae), and growing increasingly careless over the years as his power has been unchecked.
 
+![](arklem.jpg)
+
 Arklem Greeth would have wanted to appeal to their evil sides:
 - What do you want out of this situation?
 - What can you do for us? We can teach you any magic you like.
