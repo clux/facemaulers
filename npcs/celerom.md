@@ -45,6 +45,8 @@ Protective wards:
 Will want to convince party (right now) that his path is righteous.
 Likely, the party will find philosophical holes in his stance, particularly if they think he's become evil.
 
+If they believe him, they can go to [[irithyll]] (he can give them the entry token, doll), he'll give an "indication that something is wrong". Felt unwelcome, even though the council seemed mostly supportive (if not a little strange). He can actually explain the council.
+
 ## Relations Irithyll
 He has a place to stay there. Vampires are treating him as an ally, but have delayed meetings.
 Arklem ultimately does not care for this. He is manipulating the vampires.
