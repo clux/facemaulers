@@ -1,6 +1,12 @@
 # Dessirris
 Sphinx from [[plume]] after being freed. Can identify and offer cryptic clues to the state of the world. Celestial voice, monotone.
 
+Works for Kavaki ('Ol Vaki), Selune and others as an emissary.
+
+## Undead proposal
+
+
+
 ## Intro
 - "You've cleansed White Plume Mountain, and you've released me from the slavery within. We owe you a great favour small ones."
 - "The exaltation of Arborea watches over the world with great concern."
