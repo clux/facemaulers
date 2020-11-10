@@ -141,15 +141,16 @@ Why are they here? Just dug themselves up from the underdark. Trapped. Can't rem
 
 Knows how to get to [[velddrinnsshar]], without getting trapped (through Shadowfell, two-way portal from [[irithyll]]) (knowledge of one of the owned dwarves some are duergar).
 
-If they get one to leave, close the door. Bring jojo the Umber Hulk.
+If they get one to leave, close the door. Bring jojo the Umber Hulk + a chuul (googol).
 Can have the upper levels be extremely clean, like acid cleaned.
 
 - 29 sleeping chambers of important people (lore info here about Akkhan)
 - 31 tombs (very old, Kiaransalee lore here)
 
 #### Lore
-- The disappearance of Maerimydra. Temple to Kiaransalee at the top of the underdark city. Now it's a hole in the ground (map location to where it was).
-- Akkhan was buried not far from that city up north. Boreal Diamond Mines.
+- The disappearance of Maerimydra. Temple to Kiaransalee at the top of the underdark city. Now it's a hole in the ground (map location to where it was). Irae was a cleric there.
+- Map of it
+- Akkhan was buried not far from that city up north. Boreal Diamond Mines. Pamphlet; "come make your sacrifices and pay your respects".
 
 - TODO: ritual that can hamper Irae's powers.
 - TODO: Lore about help from [[eilistraee]]?

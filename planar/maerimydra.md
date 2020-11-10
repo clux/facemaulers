@@ -2,28 +2,16 @@
 
 [[irae]]'s phylactery.
 
-
-
 Outer entrances to Drow city Maerimydra
-
 Tons and tons of died creatures in slave pens.
-
-
 
 Ancient Drow encampment. Grand buildings. Some destroyed towers, some spires still intact.
 
-
-
-Encounters:
-
+### Encounters
 Ghost Walk Spider 0 TOB 361
 
-
-
 One actual ghost: Ssapriina
-
 I will tell you what happened here, provided you do me one favour.
-
 (Release my corpse – bound to a gem in the eyes of the spider).
 
 
@@ -65,24 +53,14 @@ ToA protection.
 Also some good phylactery maps in dndmaps (my folder).
 
 ## Boss
-Level 6 TOA?
-
-Irae T'sarran?
-Drow high priestess of Kiaransalee. With Rod of the Twisted Weave
-
-She's a lich sent here by K. She's basically impossible to kill, they need to find her phylactery.
+Level 6 TOA? No. Map it out.
 
 Treaure
 https://old.reddit.com/r/DnD/comments/clvya8/oc_madame_jettes_cryptozoological_curiosities/
 
 Young aboleth in a jar? Monoculous? Full spell reset for warlocks. (ONE TIME).
 
-
-
 EMHA *. COY
-
-
-
 
 Further inside: the necromancers's cave part powered by tombs.
 

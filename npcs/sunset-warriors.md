@@ -25,7 +25,7 @@ Some of Sharia's loot is in Halos, some in Waterdeep.
 Sunwuko has one item in Halos, rest in shrine in eastern monastery.
 
 ## Akkhan
-The original champion of [[kavaki]].
+The original champion of [[kavaki]]. Dwarf.
 Tomb in a diamond mine - near boreal temple / icewind dale.
 
 ### icewind dale mine
