@@ -36,7 +36,20 @@ Prone to predictions of doom
 Protective of a valuable possession (ring common)
 Squints
 
+## Titles
+The servitude aspect of faith: clerics and paladins lose their names in baptism. Try "sister Ferox" for a Vengence Paladin, "brother Misericors" for a healer, and "revered Verity" for Knowledge domain Cleric.
+Defiance or detachment: members of a thieves guild go by Knives, Patch, and Houndsnout.
+If the hierarchy is important, the names for its entities are important: sir - lord - baron - count; practitioner - maester - maester-of-school - archmaester.
+
+## Culture
+Switch it up when tapping for a cultural context.
+https://old.reddit.com/r/DnDBehindTheScreen/comments/jrtub2/naming_and_what_it_can_do_for_your_worldbuilding/
+
+> Viking orcs and Mongol centaurs are meh – but Arabic elves and Maori dwarves are fresh. Really depends on your taste and how much of those pairings you have seen. I personally like the Arabic elves because Islamic Golden Age almost coincided with Middle Ages – so if my stock humans are European, they might as well look up to the elves for mathematical, medical, or magical insights.
+
 ### Names
+> What you need is phonology that sounds different but is consistent within. If you use European names for the "kingdoms of men", make the dragons Aleut (Tulax, Ichaqun, and Iganaadaasis) or the giants Sumerian (Shagshag, Naram-Sin, and Ekur). Remember about conlangs: Klingon was made to sound alien, so would be a better Abyssal name than K'vort or Ba'ktor?
+
 Good unused names..
 
 Gorth Skullwind?
