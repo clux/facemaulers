@@ -10,6 +10,10 @@
 - Most died from agricultural collapse
 - Magic fueled by batteries - actually scientific
 
+## Hot Start
+Play the dramatic backstory of one NPC.
+Have one player create a fake PC.
+
 ## Religions
 ### XR
 Xtinction Religion - uprising protesters turned violent
