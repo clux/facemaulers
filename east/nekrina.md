@@ -85,6 +85,7 @@ he is a bit dim.
 Cleric of Auril (upstairs middle room back)
 talked about the recruitment from baldurs gate
 how zahesh had recruited from flaming fist and also newer areas
+https://www.reddit.com/r/UnearthedArcana/comments/juolfx/frost_domain_a_divine_domain_for_clerics_that/
 
 #### Salrius
 Thiefling from flaming fist. (downstairs east alone)

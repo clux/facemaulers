@@ -70,6 +70,7 @@ TODO: have him basically have god status, and have Quin his current champion?
 - spirit stone: grant Breath of Heaven spell (heal all allies within 30 ft - ~25% of monk's health)
 - auto-reloading crossbow (generate ki on hits, cannot stun while equipped?)
 - Divine Rapier +2 (Cannot miss unless disadvantaged + amplifies dodge action, becomes completely immune to damage) __Halos__
+- Shi-Mizo's Haori; crits every other hit while below 25% HP, provides no armor, cannot be worn with armor.
 
 TODO: something that nerfs stun, but perhaps boosts health regen/survivability?
 

@@ -15,10 +15,6 @@ resistance change once per long rest
 ## Visage of Giyua
 Witch doctor mask from champion of yuan-ti god Ssepth
 
-## Shi-Mizo's Haori
-crits every other hit while below 25% HP
-provides no armor, cannot be worn with armor.
-
 ## Bracers of Defense
 good for later for monks
 
