@@ -23,7 +23,7 @@ TODO: Give them a fortress or a retainer?
 
 GW: You noticed a thing about your kavaki sense. Alignment.
 Faey: Titania sends an emissary to you asking for some sketches for your domain (paste images, paste name suggestions)
-Mordai; You've been studying under the mages guild in Waterdeep, and have picked up wizard skills from first principles. You have also been tracking the demon lords (who are still in the wild), but they have not attacked any more cities since you closed the spine. Scrying does indeed confirm they are still out in the wild. But the only one kind of close to the coast is Baphomet, and it appears to be wrecking havoc in the underdark along with Yeenaghu. You have at the very least bought yourself time.
+Mordai; You've been studying under the mages guild in Waterdeep, and have picked up wizard skills from first principles. You have also been tracking the demon lords (who are still in the wild), but they have not attacked any more cities since you closed the spine. Scrying does indeed confirm they are still out in the wild. But the only one kind of close to the coast is Baphomet, and it appears to be wrecking havoc in the underdark along with Yeenoghu. You have at the very least bought yourself time.
 
 ### Goals
 Dial down battle focus.

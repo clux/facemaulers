@@ -14,7 +14,7 @@ But now he has all the power he needs with the Egg and Liches in allegiance(?)
 Arklem doesn't want to be found - anti-scry ritual.
 
 ## Development
-- Stole the Egg of Galadaeros during Yeenaghu's assault on Luskan
+- Stole the Egg of Galadaeros during Yeenoghu's assault on Luskan
 - Was spotted by Celerom
 
 ## Irithyll Setup

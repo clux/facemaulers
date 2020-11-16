@@ -21,7 +21,7 @@ https://forgottenrealms.fandom.com/wiki/Mount_Hotenow
 - Raffolk's wife Claudia went crazy and targetted [[mordai-vell]]
 - Saw [[mordai-vell]] turn her into an undead guard through Pugweaver mastiff
 - Saw dragon Chorom die at the peak of castle never through scrying (through legions of undead summoned by Mordai Vell - secret)
-- Saw Baphomet, Demogorgon, Yeenaghu, Lolth through scries
+- Saw Baphomet, Demogorgon, Yeenoghu, Lolth through scries
 - Skinned the dragon and persuaded the blacksmith to make armor of it
 - Confronted [[mordai-vell]], he was in league with [[koth]] and possibly [[irae]].
 - Slaid Goatweaver, forcecaged the rest. Wish used to escape and kill Vell.
