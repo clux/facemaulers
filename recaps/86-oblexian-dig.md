@@ -11,7 +11,7 @@ You also played around with Goatweavers's plant travelling ability, and you plan
 
 You also had a brief excursion down in the dungeons of Nekrina that was barricaded off. Below you found some underdarkian creatures trying to trick you into a bad situation, but you were having none of it.
 
-After some investigation, you did come across a book about the disappearance of Maerimydra, a city tied to Irae's past, said to be located east of Mirabar (in underdark terms). You also saw a pamphlet about Akkhan and the diamond mines he was buried in (Boreal Valley).
+After some investigation, you did come across a book about the disappearance of Maerimydra, a city tied to Irae's past, said to be located east of Mirabar (in underdark terms). You also found an aged pamphlet about Akkhan and the diamond mines he was buried in (Boreal Valley).
 
 Finally, after a good long rest, and one final cast of Fly, you notice the next morning that GW's wings extend fully as he's walking. It has been a strange time of periodic control of the wings, gradually fading, less and less. At this point, you are fully used to the muscle control, and you can extend and flex the wings almost as naturally as if it was an extra pair of limbs.
 

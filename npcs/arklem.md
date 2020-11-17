@@ -42,6 +42,13 @@ Switch spells around. Meteor Swarm over PWK. Prismatic spray.
 Prismatic Wall over PWK. Circle of Death 6th level.
 Maximize cantrip damage.
 
+## Phylactery
+Situated within an Astral Dreadnaught. Halas?
+Mummies roam the tomb. Mummy lord and Iron Golems in final room.
+If inner doors is breached, one of many permanent alarms are triggered.
+Then they get to fight both Arklem and a mummy lord.
+Revamped tomb of horrors? That one young youtuber had a revamp idea of it.
+
 ## Alliances
 Lich in bed with Valindra Shadowmantle.
 Husband of the former Valindra Shadowmantle. Went to Thay with several items, to reunite with Valindra. He has a deal with Irae. He'll get Neverwinter? They share phylactery?

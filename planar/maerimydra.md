@@ -7,6 +7,12 @@ Tons and tons of died creatures in slave pens.
 
 Ancient Drow encampment. Grand buildings. Some destroyed towers, some spires still intact.
 
+## Old location
+Can take an old drow walkway down east of Mirabar to find the hole.
+A kid there occasionally goes down there to hide, she found a trinket therein.
+Drow Insignia of Kiaransalee; Cast Feign Death once per long rest as an action.
+Brick from houses. Torn red velvet from a pillow.
+
 ### Encounters
 Ghost Walk Spider 0 TOB 361
 
@@ -47,6 +53,21 @@ Formula Ability Checks: Intelligence (Arcana) or Wisdom (Yog-Sothothery) DC 17, 
 
 ToA protection.
 Also some good phylactery maps in dndmaps (my folder).
+
+## Within the Vault
+![](maerimydra-vault.jpg)
+Centre contains specral, teleport-proof walls. Can see through faintly. Phylactery encased within the heart of the shadow-dragon / evil empyrian.
+
+Soul inside shadow brass dragon of galadaeros or an Evil Empyrean.
+Need 4 keys to open the main doors.
+Have a little of everything here for each key
+- Death puzzles (north on the shores of the astral sea)
+- Rotating puzzle in lower chamber?
+- Battle in lower right
+- Lore investigation in upper left
+
+### Encounters
+Nightwalker etc. Whatever didn't happen in Irithyll dungeons.
 
 ## Boss
 Level 6 TOA? No. Map it out.
