@@ -8,6 +8,8 @@ Set the Storm Giants up to protect the summoning circle. Summoning ritual ended 
 
 ilharess alur (matron superior) is her new introductory title.
 
+Summoned everyone in Luskan, but did it before she had the blade. Thus, the undead in Bone City will deteriorate faster than all the others. They have one month.
+
 ## Motivation
 She wants to be the true autocrat of the world. Undeath / lichdom gets rid of suffering of people. "What is one generation? in the face of endless happiness?"
 "end justifies the means, surely not a concept you are unfamiliar with?"

@@ -2,6 +2,11 @@
 Sphinx from [[plume]] after being freed. Can identify and offer cryptic clues to the state of the world. Celestial voice, monotone.
 
 Works for Kavaki ('Ol Vaki), Selune and others as an emissary.
+- The moonmaiden wishes to grant you her blessing in the fight against the undead.
+- Newcomers to Ysgard is down 10% last quarter, and they are trying to avoid any news of stagnation.
+- She also said she needs you for test driving Argentil Peak. She said you would be rewarded. Try to make the time.
+
+Puzzle: SCOURGE is a scourge, a devil, a misery, a blight, a hex, a curse. And yet, the CURE is...?: (hex, misery, blight curse)
 
 ## Intro
 - "You've cleansed White Plume Mountain, and you've released me from the slavery within. We owe you a great favour small ones."

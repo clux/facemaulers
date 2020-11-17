@@ -39,7 +39,7 @@ Meanwhile gnolls rampaging through the city, it does not take long before this i
 Before you notice (depowering sounds). The faint humm that was ever present in this city comes to a halt. Magical defenses around the tower cease.
 Fightining within the tower continues. and you fix your eyes up towards the balcony where you hear a counterspell interrupted, and after a crack, you suddenly see the familiar dark blue robes of Celerom, torn, his body flying through the air, lifeless and limp, crashing with full force down on the ground, sliding across the gravel with several large gashes and wounds across his legs neck and face.
 
-You peer up once again to the tower; and you see a figure in a dark cloak with yellow edges. You don't see a face, you just see smoke exude from a seemingly empty hood. The creature conjures up a lighting bolt in his fingers, aiming his hands towards the crash site. But before unleashing it, just lowers its hands, then teleports.
+You peer up once again to the tower; and you see a figure in a dark cloak with yellow edges. You don't see a face, you just see smoke exude from a seemingly empty hood. The creature conjures up a lighting bolt from its arms (actually no arms), aiming down towards the crash site. But before unleashing it, just lowers its hands, then teleports.
 
 A minute later. Whoosh. The familiar sound of teleportation magic once more, but louder and more powerful. All the gnolls look to the sky, and in unison turn to face the battlements, and howl. They start stampeding out of Luskan and disappear beyond the castle walls. As their stampeding sound grow fainter, it's replaced with the remaining wails of humans slowly dying. It's a gruesome and agonizing sound.
 
@@ -57,6 +57,9 @@ She returns to Celerom; casting a stronger transmutation spell on herself (Glibn
 "I am Ilharess Alur; these undead need your aid, they are afraid, they are stressed, they are damaged. We can help you fix them, make them whole again. Bring them with you, and you will be able to complete your lives work, but this time for good; keep the citizens alive."
 
 She returns later after letting him mull it over for some time. Then she casts Gate after convincing him. Dragging the undead to Bone City.
+
+## Celestials
+[[dessirris]] encounter.
 
 ### Watchers
 Watchers of the Abyss rise to clear out corruption.
@@ -212,6 +215,7 @@ Then gradually more frequent steps, and Yeenoghu comes..
 [mirabar]: mirabar "Mirabar"
 [neverwinter]: neverwinter "Neverwinter"
 [toll-trolls]: toll-trolls "Toll Trolls"
+[dessirris]: ../npcs/dessirris "Dessirris"
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [celerom]: ../npcs/celerom "Celerum"
 [sydney]: ../npcs/sydney "Sydney"
