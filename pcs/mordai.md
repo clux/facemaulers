@@ -54,6 +54,9 @@ Tome of Clear Thought
 Upset at devils. Upset there's a power level progression.
 Understands the weave now.
 
+## 87 chronomancy
+- DC18 on timepiece spells
+
 ## Patron Paxos
 Arcanoloth in the Gehanna
 

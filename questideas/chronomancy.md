@@ -18,10 +18,14 @@ Modified from above inspirations;
 - **Fasttrack** 2* (action, 60ft, VSM, conc, 60ft double speed line (movement only))
 - **Delay Pain** 3* (reaction (after b4dmg num), self, VSM, conc, delay dmg while conc.
 - **Rending Distortion** 4 (action, 120ft VS, 6d10 slashing on CON fail/half on save)
+TODO: buff
 - **Alacrity** 1 (action, 60ft, VS, 10ft movement boost on creature)
 - **Iterate** 1 (action, 60ft, VSM, give adv on attack for a creature)
+TODO: buff (worse than spare the dying)
 - **Pause** 0 (action, 60ft, VS, 1min, allows a creature to not make death saves and freeze it (if not hit))
 - **Suppress Reaction** 2 (action, 30ft, VSM, INT save or fall to bottom of initialtive order, repeat save eoT)
+
+TODO: BUFF worse than EB and they might not take the damage
 - **Temporary Wound** 0 (action, 30ft, VS, conc, CON save vs 1d12 temp necrotic dmg – regained end if >0)
 - **Recursive Knowledge** 2 (1 action, self VS 1min, next INT save adv)
 - **Quicken thought** 5 (action, self, VSM, conc, adv INT+DEX checks, diadv CHA checks, end 15CONvs.exha)

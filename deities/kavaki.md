@@ -16,6 +16,11 @@ Kavaki is the chief of all chieftains; thus the chief offers a prayer to Kavaki 
 
 It also tells of the story of Gruumsh (god of the orcs) who in ancient time battled with the elven god of Corellon Larethian, and lost an eye to a magical spear cast by Corellon. This book instead claims he was blinded Condemn, a spell of radiant energy only known to Kavaki and his champion. After being blinded, Gruumsh willingly gouged his eye out.
 
+## Temple requested by Kavaki
+Flat Square Surface with ropes around it.
+Half-time show chanting your show. Commercial opportunities.
+Kavaki will provide real-estate. GW will lead.
+
 ## Moonstones
 ### Tears of Father
 Entry level. Start seeing signs of Kavaki's powers. Learns how to fully utilize it in the temple.
