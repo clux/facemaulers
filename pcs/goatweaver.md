@@ -5,6 +5,10 @@ Honorary Arch-Mage of [[magesguild]]
 ## Questions
 - GW: You, you are a man of god, are you not? Where does one go when you die?
 
+## Philosophy
+His arc is effectively the party trying to teach a paladin that Theological Voluntarism is a limited form of Moral Universalism.
+Tweet: A low-int paladin struggling with moral universalism through divine command theory (action moral iff god commanded it) is continually confused by the ambiguities of a heaven and hell that agree on many issues.
+
 ## Abandoned quest
 ### Weregoat
 “You love goats you say? Exactly how much?”

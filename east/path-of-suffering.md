@@ -19,12 +19,12 @@ Why? Corrupts the worship. Areas populated by worshippers now owned by undead.
 ### Irae Encounter
 Path sends you through a valley, foot prints visible, mist starting to form at your feet. You are clearly high up in this mountain.
 
-helpers: 2 vampire spawn (dim servant high schoolers), 8 will o wisps + shield guardian.
+helpers: 2 vampire spawn (dim servant high schoolers), 8 will o wisps + shield guardian(?).
 halucinatory terrain plus helpers undead above the valley and there's mist above uneven ground. She doesn't care for a fight here, at most a few rounds.
 Protections: Mind Blank, Crown of Stars, invis at will, shield up, counterspell.
 If attacked; arcane deflection reac, 19-23AC depending on conc/deflect + deals dmg.
 If they attack, just add maddening darkness, fly up away while undead attacks.
-NB: She does not have her items here. She is casting Storm of Vengeance, has cloak of invisibility.
+NB: She does not have her items here. She is casting `Storm of Vengeance`, has cloak of invisibility.
 
 ![](path-of-suffering-ruins.jpg)
 
