@@ -60,7 +60,6 @@ Initial encounter is disadvantageous. If they can punch through then it's easier
 Drops:
 - Potion of Flying
 - Potion of Frost Giant Strength
-- Potion of Supreme Healing
 
 ## Theatre of Martyrdom
 3x Oaken Bolters around edges.
@@ -84,7 +83,7 @@ Uphill;
 > Ah the hydra. So last season. What would we get if we cross-bread them with dragons? A veritable mini-Tiamat; thicker scales and a variety of breaths. I suppose, this demands a certain amount of era-appropriate cultists as well. Here.
 
 Drops:
-- Potion of Heroism
+- Potion of Supreme Healing
 - Potion of Resistance (Fire)
 
 ## Butcher's Base
@@ -114,8 +113,14 @@ Otherwise, it stays dormant and slides away at the end of combat to reveal a dro
 > Fun fact: Unicorns are the most common celestial steed. How much this fact is worth is debatable, because most celestial creatures are technically are their own steed.
 > Fun fact: Unicorns healing magic originates from their horn.
 
+### Remaining Initiatives
+Goatweaver +1 (18, 4, 15, 20, 8)
+Faey +5 (17, 6, 5, 12, 6)
+Mordai +4 (20, 19, 6, 15, 2)
+
 Drop:
 - Potion of Speed
+- Potion of Heroism
 - Scroll; Tasha's Otherworldly Guise
 
 ## Decimation Station
