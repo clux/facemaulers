@@ -7,6 +7,7 @@ Music:
 - https://www.youtube.com/watch?v=J-xqQX0rXpA (30min digistruct)
 - https://www.youtube.com/watch?v=ptBdbcvJPV4 (30min boss bunker)
 - https://www.youtube.com/watch?v=ET4a1I5lIEs (30min bandit slaughter)
+- https://www.youtube.com/watch?v=L-yk7bsfrOc (70min BL3 Ambient DOF)
 
 ## Combat Design
 - Infantry
