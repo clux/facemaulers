@@ -157,6 +157,7 @@ Mirage Arcane (illusion) in this area. Difficult terrain.
 
 - 5x **Spring Eladrin** Longbow artillery. Otto's Dance. Tasha's Laugthers. Fey Step.
 - 1x **Archdruid** Boss/Brute (sunbeam + animal shape **Brontosaurus**, then Feeblemind / Hold Person)
+- 1x **Korred** Half HP/Double DMG glass cannon. Sunbeam.
 
 ## Tower of Torment
 Child of Annam (Reskinned **Empyrean**)
