@@ -159,5 +159,7 @@ Mirage Arcane (illusion) in this area. Difficult terrain.
 - 1x **Archdruid** Boss/Brute (sunbeam + animal shape **Brontosaurus**, then Feeblemind / Hold Person)
 - 1x **Korred** Half HP/Double DMG glass cannon. Sunbeam.
 
+> We are nearing the end. Perhaps you can deal with the Sun and the Moon at the same time?
+
 ## Tower of Torment
 Child of Annam (Reskinned **Empyrean**)
