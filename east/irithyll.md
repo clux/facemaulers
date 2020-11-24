@@ -142,6 +142,8 @@ Past Crones of Thanatos.
 - Nightwalker MTF216 CR20 boss.
 - 2x Eidolon MTF194 CR12 temple protectors
 
+Quest: One reclusive hag/crone immune to the magic via tattoos. Offers if they do something shady.
+
 ### Underdark passage
 Can spot takeover parallel by Zuggtmoy. Plus [[koth]]'s domain.
 

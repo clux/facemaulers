@@ -27,6 +27,13 @@ Normal lich.
 Lair actions tether to low hp party member to split damage.
 Deters paladin. If you can't tether, use the spirits.
 
+## Items
+Something that give a sorcerer wizard capabilities.
+Cross reference with tasha.
+Arcane Grimoire +3 Spell DC
+Quill of Scribing? Can scribe any spell you can cast?
+Or just Heart Weaver's Primer (Some cool wiz spells, mind control related)
+
 ## Combos
 - Paralyzing touch into disintegrate (meh, not really fun)
 - Globe of invuln vs counterspell

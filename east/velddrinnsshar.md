@@ -18,6 +18,9 @@ Look ideas in area-art:
 
 Can do a big undead city.. City of Seyna map..
 
+## Protection
+Necrotic Tempest raging around it. DC15 CON save every minute vs 3d6 necro dmg.
+
 ## Ashes of Ariandel
 Base on Ashes of Ariandel DS3.
 Acropolis in shadowfell.

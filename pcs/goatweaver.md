@@ -26,6 +26,9 @@ KA-VA-KI - desired
 
 ## Pugweaver
 Mastiff
+IDEA: CANIGHT: https://i.redd.it/vtn0qgdald061.jpg
+Band of Boops. Usable by Steed. Gives him 6 hour of knight service.
+CR2 Knight. 44HP, 16AC. Heroism, Sanctuary, Thunderous Smite. So Stronk.
 
 ## Stagweaver
 Peryton. Showed up as red. Frozen. Slightly crazier kobold voice.
