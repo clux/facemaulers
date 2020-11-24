@@ -125,6 +125,9 @@ Spell DC17. 9: Meteor Swarm, Blade of Disaster. 8: Abi-Dalzim. 7: FingerDeath, R
 - 4 **Winged Lions**. Infantry. Double DMG / Half HP.
 - 2x **Minotaur Living Crystal Statue** Brute (half movement, 100HP, double dmg), guards mages. Sentinel.
 
+> These mages have a degree in ass-kicking. This is not a joke. Ysgard U is not well respected in the world of academia.
+> When we are all inevitably hunted down in a maze like filthy animals, it will be these creatures who pick the corpses clean.
+
 Drops:
 - Mental Prison
 - Potion of Supreme Healing
@@ -134,21 +137,25 @@ Drops:
 1 Barbarian **Iron Golem** (Brute/Glass: 150 HP, double DMG - Use Rage Mechanic + Brutal Crit + 1HP revive)
 1 Ceric  **Deathpact Angel** (Brute/Artillery: Holy Aura - blind attacked when CON save failures, EarthQuake (if not attacked))
 
-End: save point. Maybe bail here if it's boring, or it's getting late. Leave the second half for another time.
-
 ## End Part 1
+Save point || Continue to Arena.
+Maybe bail here if it's boring, or it's getting late. Leave the second half for another time.
+
 LOOT. 1 Wish stone for the Ring of Wishes.
 
 ## Arena of Anguish
-Kite-fest.
+Kite-fest if they continue.
 
 - 2x **Planetars** drop down (insect plague if overly kited)
 - 8x **Couatl** constrict attacking infantry
 
+> Now here's something new! These Planetars were twins of one of Annam's mistresses. They celestials behemoths embody my two biggest fears that don't involve kissing.
+> Trying to run away from a good spanking has never been good form.
+
 ## Cannibal Canyon
 Mirage Arcane (illusion) in this area. Difficult terrain.
 
-- 5x **Spring Eladrin** Longbow artillery. Oto's Dance. Tasha's Laugthers. Fey Step.
+- 5x **Spring Eladrin** Longbow artillery. Otto's Dance. Tasha's Laugthers. Fey Step.
 - 1x **Archdruid** Boss/Brute (sunbeam + animal shape **Brontosaurus**, then Feeblemind / Hold Person)
 
 ## Tower of Torment
