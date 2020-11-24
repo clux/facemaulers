@@ -163,3 +163,5 @@ Mirage Arcane (illusion) in this area. Difficult terrain.
 
 ## Tower of Torment
 Child of Annam (Reskinned **Empyrean**)
+
+> This child of Annam is just as deadly and irresponsible as the real thing! You can almost taste the parental absenteeism!
