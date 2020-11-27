@@ -2,6 +2,9 @@
 
 Good loot to give out.
 
+## Ring of Spell Splitting
+ALlows twinning on a spell that only targets one creature. Once per day.
+
 ## Iridium Galvanizer
 Adds +1 to plate armor + fire res
 Braegan can apply it if. Felgolos can apply it.
