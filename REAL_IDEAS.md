@@ -126,6 +126,7 @@ https://www.youtube.com/watch?v=0iv6-csRBBI
 - CE Trump
 - LE Kardashian
 - LG Gates
+- LG Chomsky
 - CG Lady Gaga
 - LN Obama (war mongerer)
 - NG Merkel
