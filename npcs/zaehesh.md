@@ -2,6 +2,7 @@
 Erinye emissary from Mephistar from department of long term interests.
 
 ![](zaehesh.png)
+alternative cool pic: https://i.redd.it/xlxi3fki0w161.png
 
 ## Meeting
 She's stationed at [[nekrina]] handing out cheap contracts to promising fighters/sorcerers from Baldur's Gate to wage Warlock war against the Undead.

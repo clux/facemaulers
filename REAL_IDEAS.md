@@ -121,6 +121,19 @@ https://www.youtube.com/watch?v=0iv6-csRBBI
 - Mad Scientist
 - Wizard (desperate gandalf, heed my warning)
 
+## Deities
+2020s instragram celebrities.
+- CE Trump
+- LE Kardashian
+- LG Gates
+- CG Lady Gaga
+- LN Obama (war mongerer)
+- NG Merkel
+- NE Murdoch
+
+Institutions? CNN/YT.
+UK politicians?
+
 
 ### Heists
 Can raide banks, governments
