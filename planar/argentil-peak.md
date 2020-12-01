@@ -119,29 +119,65 @@ Goatweaver +1 (18, 4, 15, 20, 8)
 Faey +5 (17, 6, 5, 12, 6)
 Mordai +4 (20, 19, 6, 15, 2)
 
-Drop:
+Last drops:
 - Potion of Speed
-- Potion of Heroism
 - Scroll; Tasha's Otherworldly Guise
 
-## Decimation Station
-- 2x **Archmage**; (Boss: Artillery/Glass Cannons)
-Spell DC17. 9: Meteor Swarm, Blade of Disaster. 8: Abi-Dalzim. 7: FingerDeath, Rev Gravity(c).
+
+## Obliteration Station (SKIP)
+> SKIPTEXT: Please excuse the mess. This aquarium is currently undergoing refurbishing.
+
+- Buffed Marid (Infantry/Brute)
+- Elemental Storm Lord CC139 (to harass them in both areas)
+- 4 oaken bolters on roof (if they seek refuge in air)
+
+> Storm elementals ironically require a lot of aquarian landscaping to keep happy. While it's happy both above and below water, it's most conductive under.
+
+Would be fun to have a water battle with lightning bolts though.
+Can follow Quake rules for lightning (everyone takes, no save).
+Most underwater weapons have disadv on hit (except dagger/jav/shortsword/spear/trident).
+Ranged misses beyond short range, and every ranged have disadvantage (except xbow, net, throw spears*)
+Fire resist.
+
+> When our lands are all inevitably flooded and our bodies crushed against the oceanic rocks like cheap ragdolls, it will be the Marids who pick our corpses clean.
+
+
+## Decimation Destination
+- 2x **Archmage**; (Boss: Artillery/Glass Cannons/Blur + Blade of Disaster, Prismatic Wall, 8c Incendiary Cloud)
+(Wall in one Mage (puzzle), he casts blade of Disaster - 1 min).
+- Qilue Veladorn (Drow, "dark sister" mighty priestess)
+- Alustriel Silverhand (regal, unashamed lady of Silvermoon)
+https://forgottenrealms.fandom.com/wiki/Seven_Sisters
+
+> The sisters Qilue and Alustriel were mystras chosen a long time ago. They still have quite a few tricks up their metaphorical sleeves.
 
 - 4 **Winged Lions**. Infantry. Double DMG / Half HP.
-- 2x **Minotaur Living Crystal Statue** Brute (half movement, 100HP, double dmg), guards mages. Sentinel.
+- 2x **Minotaur Living Crystal Statue** Brute (half movement, 100HP, double dmg), guards mages. Sentinel. Thorns.
 
-> These mages have a degree in ass-kicking. This is not a joke. Ysgard U is not well respected in the world of academia.
-> When we are all inevitably hunted down in a maze like filthy animals, it will be these creatures who pick the corpses clean.
 
 Drops:
 - Mental Prison
 - Potion of Supreme Healing
 
 ## Collosseum of Laceration
-1 **Archmage** (Glass/Infantry: 9 Prismatic Wall, 8c Incendiary Cloud)
-1 Barbarian **Iron Golem** (Brute/Glass: 150 HP, double DMG - Use Rage Mechanic + Brutal Crit + 1HP revive)
-1 Ceric  **Deathpact Angel** (Brute/Artillery: Holy Aura - blind attacked when CON save failures, EarthQuake (if not attacked))
+> While the average minotaur lives as much as it takes to meet an adventurer, how long does an adventurer who can slay a virtually unending amount of minotaurs? Ask Celeste. One of my greatest champions.
+
+1 Ceric  **Deathpact Angel** Celeste (Brute/Artillery: Holy Aura - blind attacked when CON save failures, EarthQuake (if not attacked)) Drop / Raise dead. DC19. Geas (instruct one to stand in a corner).
+
+https://forgottenrealms.fandom.com/wiki/Celeste
+
+> Say what you will about the Mad Mage of Mount Baratok, his insanity helped him survive. Much in the same way that my ceiling chairs taste vaguely of potatoes.
+
+1 **Archmage** Mordenkainen (Glass/Infantry:  Truesight + Staff of Power bonuses)
+Spell DC19. 9: Meteor Swarm. 8: Abi-Dalzim. 7: FingerDeath, Rev Gravity(c).
+Adv on saves (rather than staff of power). AC19 (power + mage armor). DEX 16.
+Leave spell dmg intact for 9th.
+https://forgottenrealms.fandom.com/wiki/Mordenkainen
+
+1 Barbarian Wulfgar **Iron Golem** (Brute/Glass: 150 HP, double DMG - Use Rage Mechanic + Brutal Crit + 1HP revive)
+https://forgottenrealms.fandom.com/wiki/Wulfgar
+
+> This champions (barb) have degrees in ass-kicking. This is not a joke. Ysgard U is not well respected in the world of academia.
 
 ## End Part 1
 Save point || Continue to Arena.
@@ -154,6 +190,7 @@ Kite-fest if they continue.
 
 - 2x **Planetars** drop down (insect plague if overly kited)
 - 8x **Couatl** constrict attacking infantry
+- 2 clusters of 10 exploding toads
 
 > Now here's something new! These Planetars were twins of one of Annam's mistresses. They celestials behemoths embody my two biggest fears that don't involve kissing.
 > Trying to run away from a good spanking has never been good form.
@@ -161,11 +198,13 @@ Kite-fest if they continue.
 ## Cannibal Canyon
 Mirage Arcane (illusion) in this area. Difficult terrain.
 
+> We are nearing the end. Perhaps you can deal with the Sun and the Moon at the same time?
+
 - 5x **Spring Eladrin** Longbow artillery. Otto's Dance. Tasha's Laugthers. Fey Step.
 - 1x **Archdruid** Boss/Brute (sunbeam + animal shape **Brontosaurus**, then Feeblemind / Hold Person)
 - 1x **Korred** Half HP/Double DMG glass cannon. Sunbeam.
 
-> We are nearing the end. Perhaps you can deal with the Sun and the Moon at the same time?
+> This is a blanket announcement. I spent last night becoming inebriated and left 73% of my clothing in an undisclosed location within Ysgard. Should you come across the twelve socks and two over-sized pairs of argentium robes, please leave them on my doorstep with a considerable effigy and a thoughtful letter of apology. I, Selune, pre-emptively accept your thank you.
 
 ## Tower of Torment
 Child of Annam (Reskinned **Empyrean**)

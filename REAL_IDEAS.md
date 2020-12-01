@@ -134,7 +134,7 @@ https://www.youtube.com/watch?v=0iv6-csRBBI
 
 Institutions? CNN/YT.
 UK politicians?
-
+https://www.reddit.com/r/DnD/comments/5lfkw9/what_are_some_famous_examples_of_each_class/
 
 ### Heists
 Can raide banks, governments
