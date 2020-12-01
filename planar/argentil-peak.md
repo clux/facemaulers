@@ -114,15 +114,7 @@ Otherwise, it stays dormant and slides away at the end of combat to reveal a dro
 > Fun fact: Unicorns are the most common celestial steed. How much this fact is worth is debatable, because most celestial creatures are technically are their own steed.
 > Fun fact: Unicorns healing magic originates from their horn.
 
-### Remaining Initiatives
-Goatweaver +1 (18, 4, 15, 20, 8)
-Faey +5 (17, 6, 5, 12, 6)
-Mordai +4 (20, 19, 6, 15, 2)
-
-Last drops:
-- Potion of Speed
-- Scroll; Tasha's Otherworldly Guise
-
+Drop: Scroll; Tasha's Otherworldly Guise
 
 ## Obliteration Station (SKIP)
 > SKIPTEXT: Please excuse the mess. This aquarium is currently undergoing refurbishing.
@@ -153,6 +145,15 @@ https://forgottenrealms.fandom.com/wiki/Seven_Sisters
 
 - 4 **Winged Lions**. Infantry. Double DMG / Half HP.
 - 2x **Minotaur Living Crystal Statue** Brute (half movement, 100HP, double dmg), guards mages. Sentinel. Thorns.
+BUFF AC
+
+### Remaining Initiatives
+Goatweaver +1 (18, 4, 15, 20, 8)
+Faey +5 (17, 6, 5, 12, 6)
+Mordai +4 (20, 19, 6, 15, 2)
+
+Last drops:
+- Potion of Speed
 
 
 Drops:
@@ -162,7 +163,7 @@ Drops:
 ## Collosseum of Laceration
 > While the average minotaur lives as much as it takes to meet an adventurer, how long does an adventurer who can slay a virtually unending amount of minotaurs? Ask Celeste. One of my greatest champions.
 
-1 Ceric  **Deathpact Angel** Celeste (Brute/Artillery: Holy Aura - blind attacked when CON save failures, EarthQuake (if not attacked)) Drop / Raise dead. DC19. Geas (instruct one to stand in a corner).
+1 Ceric  **Deathpact Angel** Celeste (Brute/Artillery: Holy Aura - blind attacked when CON save failures, Fire Storm (if not attacked)) Drop / Raise dead. DC19. Heal. 70HP.
 
 https://forgottenrealms.fandom.com/wiki/Celeste
 
