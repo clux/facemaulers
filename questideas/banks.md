@@ -29,3 +29,14 @@ Banks also need adventurers to make their risky enterprises less risky. Guard sh
 
 Can have exteremely wealthy families like the **Rothschilds** (owning multiple branches) across regions.
 Can have divisions administering conquered land, assets, slaves; **Knights Templar**. Can have their own army, laws, and influencers responsible for inventing banking practices in new areas.
+
+## Insurance Fraud
+https://old.reddit.com/r/DnDBehindTheScreen/comments/k42k6w/insurance_fraud_my_goto_beginner_hook_for_a/
+> Rorschach test to see what kind of party the players want to be: honest, vengeful, opportunistic/ambitious, etc.
+
+Escort mission, that insuring bank requires a party to escort.
+Then as they are waylain, they are told of deception to incite insurance fraud.
+- Go along with fraud for promise of easier money
+- Refuse to cooperate and fight/extort them
+
+If going along, then bandits will later try to kill them to "make the robbery look legitimate"

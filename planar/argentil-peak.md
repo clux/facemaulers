@@ -180,6 +180,12 @@ https://forgottenrealms.fandom.com/wiki/Wulfgar
 
 > This champions (barb) have degrees in ass-kicking. This is not a joke. Ysgard U is not well respected in the world of academia.
 
+NB: Didn't double level 9 spells. They are powerful enough.
+Core takeaways:
+- Need at least +10 to hit to have a chance vs disadv 22-24AC GW, +15 is OK.
+- if lte +10 to hit, then 60dmg per hit, 2 hits per round is fine for GW...
+- Double damage / half HP in general fine (except for stupid 9th level spells)
+
 ## End Part 1
 Save point || Continue to Arena.
 Maybe bail here if it's boring, or it's getting late. Leave the second half for another time.
