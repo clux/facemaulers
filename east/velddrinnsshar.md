@@ -32,6 +32,9 @@ They can get clues about backstory, and then guardians of time stopping them fro
 
 Really don't ahve to base it so hard on that look though, just the geeral idea.
 
+## Four Kings fight
+Close combat darkness fight ala DS1.
+
 ## Environmental idea
 Guards and Wards spell (vs non-undead / all with password: vertebrazen).
 Fog filled corridors, strong illusion towards wrong directions (hard to interpret).

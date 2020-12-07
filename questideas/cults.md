@@ -84,3 +84,8 @@ Flexibility also due to community over belief.
 > The belief is a vehicle, and if that belief is wrong then the community is shaken. This is why you will see cults attack criticism, it's not because they're disrupting their master plan, it's because you're threatening their perceived safety and unity.
 Innocense potential:
 > Cult members are not evil, not even the leader (most times) They are more like adults who want to be children, they're sad and lost in the world and want to return to a safe place where mom and dad are at the wheel, driving the car with them in the back of the car. But as Jet Black said, there is nothing more pure and cruel as a child.
+
+### Comparisons
+Other organisations that fit this bill;
+
+- QAnon via Q

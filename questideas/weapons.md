@@ -6,6 +6,10 @@ See [[houserules]] for some ideas from pathfinder + grit/glory
 - https://www.reddit.com/r/DnDBehindTheScreen/comments/j4pxfn/artifacts_that_give_a_character_depth/ (oath + ward + blink)
 - https://old.reddit.com/r/DnDBehindTheScreen/comments/jeitfy/adornments_of_the_dark_conclave_an_item_for_every/ (rings)
 
+## Necrodancer Weapons
+- Titanium Sword +1
+- Obsidian Sword +N (N being amount of attacks you did with it last round)
+
 ### Blood-Oath
 Weapon (shortsword), artifact (requires attunement by a warlock, cleric, or paladin)
 Those who swear by this blade, live through.

@@ -39,6 +39,15 @@ Together defend the eastern front vs russia.
 ## Oligarchs
 Only wealthy leaders left of the largely desolate state. Natural resources mostly sold to China and its subsidiary aseanic states.
 
+## Politics
+The witch was targeted because a witch is a non-consuming class. Sorcery offers the idea of something for nothing; it offers a worldview where cosmic powers and fates are accessible to everyone. This worldview is incompatible with the capitalist order where life is transformed into the capacity to work.
+> fears arise when one mode of production is supplanting another because the metaphysical order (how we see life, meaning, and the natural) is being challenged and replaced
+sorcerers hunted (maybe the ones that use magic for own gain?). clerics allowed in churches / hospitals (but only for difficult cases, and you have to opt in to special treatment).
+- Speak with dead is common during burials, resurrection viewed as taboo (via raise dead)
+- Speak with dead for rulers; Ask Thatcher for guidance?
+- Sorcery licenses? Regulation for clerics? Detection of misuse of magic from government / police.
+- Police vans with nova like detect magic pulses. Asks for papers, and issues warnings.
+
 ## warlock
 money domain
 patron: angel investor
@@ -173,3 +182,9 @@ Roll under fluency under to read.
 Bullet time first move?
 Give them a few minutes to prep combat.
 (Wont work for suprises within the combat)
+
+
+## Theatre
+Too cheap to use human labour widely, but few shows that openly show them on stage.
+`Adalon` is one such subversive show that actually celebrates its use of cheaper races.
+Kobolds running a dragon show with fake dragon from https://www.reddit.com/r/DnDBehindTheScreen/comments/k65qth/kobolds_in_a_dragon_costume/
