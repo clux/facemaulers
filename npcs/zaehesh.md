@@ -15,6 +15,14 @@ Still paying the adventurers to assault Bone City, adventurers semi loyal to thi
 
 Given a deal to the thiefling to Gate out a Blue Abishai; `Nurval`. Helps with magic circle.
 
+## Lines pre battle
+Will ask about what they have found out. But will ultimately go ahead with their plan to raid [[bonecity]].
+
+- on **raid**: It will take place tomorrow at noon. The mercenaries here who are still with us are all prepared and are itching for a rightous fight worth its price in gold.
+- on **infernal help**: You seemed unlikely to help, so we have given a chance on our own for further infernal callings.
+- on **deals**: Well, I have direct line with many higher ups in Mephistar. If you are interested, there are things I can do for you. (Fight for us, Gate spell (Zoroxath), Geas enforced void clause, should you die from it, your soul will be stored in the `Canian Vault` on [[cania]] and contribute to the investment of the `Soul & Pleas Wealth Management Fund`).
+- **plea**: Fight for us. No matter what you have seen from their "humanity" you know this cannot last. Let us take them out now while we have the chance. With your aid, we expect a crushing victory. Afterwards I will be out of your way.
+
 ### Purpose
 Officially; Hold the line at Nekrinea against the Undead assaulters towards Baldur's Gate.
 Unofficially; A place for devils to launch their assault on the undead empire.
@@ -54,7 +62,7 @@ We are defeating undead here. Would possible negative could I have for doing tha
 SO WHY: As I said, I cannot divulge the nature of my clients at the moment. But that should not distract you from our goal here. Do you want the coast swarming with undead? No? Neither does my clients.
 
 ### Offers
-Offer `Gate` on conditions to aid the cause (bound to devils). She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil. NB: They need to use `Planar Binding` to actually get it to do what they want.
+Offer `Gate` on conditions to aid the cause (bound to devils). She will have the true name of a fiend dedicated to the cause `Zoroxath the Interruptable` (will only be whispered) what type of demon? Pit Fiend? High end devil. `Titivilus`. NB: They need to use `Planar Binding` to actually get it to do what they want.
 
 "If you want power, all you have to do is solicit some help from other planes. I can help you accomplish that."
 

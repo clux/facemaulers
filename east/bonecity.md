@@ -10,6 +10,23 @@ Day of the Dead style intro.
 Festival really. Stereotypical depictions of undeath. Make-up. Grey artificial hair color on vampires (who don't have to have it.)
 They interrupt, combat, then [[celerom]] threads in and pardons them with an item. NB: if such an item exists, it can only be manufactured by Liches.
 
+## Battle vs. Nekrina
+### Undead Side
+On one hand Celerom + Beniago. 100 Skeletons, 100 zombies.
+Bone Golem. Bone Ballistas.
+
+
+### Devil Side
+Zaehesh (erinye)
+
+Sasha (Auril cleric) - frost damage mace + summon celestial (Battleforce Angel CR5).
+Togren Fistroar (ffist + kavaki convert) - sword fighter. Strong.
+Salrius (thiefling ffist) - Magic Circle (blood of killed humanoid 24h) + Gate + Planar Binding on `Nurval` Blue Abishai.
+Talindra - Warlock Thiefling (EB; Burning Hands, Rebuke)
+Lyeneru: Sorcerer: Fireball, 3d6 Acid Splash, Mage Armor, Shield, Hold
+Zhan: 2d6 Hammer. +10. Cure Wounds. Spiritual Weapons.
+Izak: Sorcerer: 3d10 Fire Bolt, Mage Armor, Misty Step, Scorching Ray, Enlarge, Blur, Haste, Ice Storm
+
 ## Purpose
 - Show players that the undead are being repurposed
 - Reintroduce Celerom and allow players to debate good and evil with him
@@ -54,6 +71,10 @@ Beniago, there with his skeletal parrot.
 
 ## Undead Rave
 Golem shaking leg. Skeleton playing tambourine.
+
+## Pet Shop
+Baby skeleton dragons. CC363 CR4
+Other similar baby skeleton creatures.
 
 ## NPCs
 Captain of the Guards. Fierstjerren; CR5 CC157

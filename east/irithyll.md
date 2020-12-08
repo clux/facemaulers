@@ -104,12 +104,14 @@ River Lords CC327 swim in water drains. Sentient. Past colonial land owners in n
 ### Cathedral
 [[arklem]]'s domain.
 Entrance is the royal area front.
+Lower end.
 
-### Guards
+### Inner Guards
 - Tulpa spectral shapeshifter undead ; CC358 CR4
 - Tveirherjar CC359 CC7 (general battle skeleton)
 - Spectral Guardian TOB358 CR6
 - Wormhearted Suffragan TOB410 CR5 (parasite caster)
+- Master of the Demon Mountain CC265 CR17
 
 ## Pet Shop
 Baby skeleton dragons. CC363 CR4
