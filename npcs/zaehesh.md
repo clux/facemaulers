@@ -13,13 +13,7 @@ She's stationed at [[nekrina]] handing out cheap contracts to promising fighters
 
 Still paying the adventurers to assault Bone City, adventurers semi loyal to this cause. Paid well, none are keen on undead regardless, some even swayed by her arguments. Some disagree with the ill intent without provocation though. Only one cleric willing to go through with killing her.
 
-- She will ask Mordai, what is it that you want over anything?
-- I can see your carrying around a wizards spell book, even though you are a famous warlock turned sorcerer. Are you trying to become self-sufficient? I can make that happen.
-
-(Sorcerer deal. Technical; Convert him to wizard. Drain sorcerer levels into wizard. Drain warlock levels into wizard. Perhaps leave sorcerer, and hand-wave the source, blessing goes?)
-- > Explained; you already know how to cast many of these spells intuitively, all you need is a flash of insight, and understanding to convert that muscle memory into understanding. We can make that happen.
-- > What she wants: Help. Use your skills to destroy the undead in bone city. I can provide you with infernal aids at your side in battle, you'll be able to command more powerful helpers than the rest of the warlocks here.
-- Justifying battle: Are they going to go peacefully, no of course not. Are you going to see their true side, undoubtedly. There's no way to turn this into a moral dilemma. This anomaly must be corrected before it gets out of hand.
+Given a deal to the thiefling to Gate out a Blue Abishai; `Nurval`. Helps with magic circle.
 
 ### Purpose
 Officially; Hold the line at Nekrinea against the Undead assaulters towards Baldur's Gate.
@@ -74,6 +68,15 @@ Devils don't really have control there. Undead curse keeps things coming back to
 "Do you think Celestia or Elysium will flurish in an era of a hell destroyed? Having to deal with all the sinners themselves? I think not. They need us as much as we need them. The only difference is that we are honest about it."
 
 Magic: How will society work without warlocks? clerics? paladins? Remaining options are for them not all that appealing. Sure, such a change would be gradual, but over the course of a few generation equivalents, those divine agents will all but disappear.
+
+## Abandoned deal with party
+- She will ask Mordai, what is it that you want over anything?
+- I can see your carrying around a wizards spell book, even though you are a famous warlock turned sorcerer. Are you trying to become self-sufficient? I can make that happen.
+
+(Sorcerer deal. Technical; Convert him to wizard. Drain sorcerer levels into wizard. Drain warlock levels into wizard. Perhaps leave sorcerer, and hand-wave the source, blessing goes?)
+- > Explained; you already know how to cast many of these spells intuitively, all you need is a flash of insight, and understanding to convert that muscle memory into understanding. We can make that happen.
+- > What she wants: Help. Use your skills to destroy the undead in bone city. I can provide you with infernal aids at your side in battle, you'll be able to command more powerful helpers than the rest of the warlocks here.
+- Justifying battle: Are they going to go peacefully, no of course not. Are you going to see their true side, undoubtedly. There's no way to turn this into a moral dilemma. This anomaly must be corrected before it gets out of hand.
 
 ### Notes
 Erinyes give their powers. Devils are not keen on undead takeover. Less souls on the economy, but devils have been a little beauraucratic and only focusing on short-term focused thinking.

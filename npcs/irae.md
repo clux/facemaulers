@@ -42,6 +42,34 @@ Cultists in [[irithyll]] are used to to recreate control over Demon Lords.
 
 NB: SHE WON'T ACTIVELY TAKE CREDIT FOR DEMON LORDS OR MASS SLAUGHTER TO FURTHER THE MEANS.
 
+## Encounter East
+Either in [[path-of-suffering]] or in [[dragonlake-pier]].
+
+Irae (all cases): It's time we had a chat together. You have caused quite the disruption at Halos.
+Irae (plea): Please cease your interference with our undead settlements. We will take care of Lolth and her followers, but instead you have to leave Irithyll alone if you have your own best interests at heart.
+
+Irae (plans): Building a safe and sustainable empire for followers of the Revenancer.
+
+Irae (on Kiaransalee): Lolth's betrayal of Kiaransalee and her proficiency for necromancy made her vengeful. Their society of constant competition is a deeply unhealthy one, that she opposed, and she had many followers.
+Irae (on drow soc expanded): To properly construct an empire, it requires giving the followers adequate rest and food, training, and equipment. If you treat them like enemies, they will not help you. Their ideological hatred of their weaker made this type of cooperation impossible. Humiliating people who speak up by converting them into hideous monstrosities is a dead (weight) loss.
+
+"It won't matter much now that [[menzo]] lies in ruin."
+
+Irae (on Menzo): All clerics sympathetic to Kiaransalee were evacuated before the portal to the abyss cracked open underneath their pathetic metropolis.
+
+Irae (demon lord defense): We needed to unite the dark seldarine once again under the banner of Kiaransalee. Doing this required a small amount of destruction. We ultimately spared the lives of everyone in Luskan, while we got all the pieces together.
+
+ Irae (artifacts): You see, it's with all the artifacts of Kiaransalee combined that the raised dead retain their souls and sentience.
+
+
+
+Irae (undead sentience defense): You fail to understand the true significance of this event? It's all undead raised from this point by me, or anyone I have raised. This is an infectious proprety. Souls are no longer sent off to hell in eternal torment to serve as infernal currency, nor are a small percentage sent to elysium, where they can enjoy this.. distinct position of privilege. They are free. They are immortal. All it took was an economic crash in the currency of souls.
+Irae (giant mind control defense): I offered Umnos power, and he took it. I'm sure he's not the only one who's learning to read the fine print.
+Irae (giant justification): Chaos was a necessary agent to get at 3 very protected pieces. Society was either too un-budging, or too brutish to be able to deal with my proposal. Some plans are so great, that you can only effectively argue for it once it's already been placed into effect.
+Irae (in case of Bone City retreat / shadowfell escape): I think it's best you try to stop what you are doing.
+Irae (Kiaransalee): Ultimately, she went insane, but her powers had potential. She was focused on simple conquest and revenge, there's no need for that type of barbarism right now.
+Extraplanar: Sure, there is going to be resistance.
+
 ## Mannerisms
 Draws out her vowels in every other word.
 
@@ -83,8 +111,28 @@ This gives her Initiative bonus based on INT, and +2 AC and SAVES while concentr
 Extra immunities;
 - from lich (some undead general?); Exhaustion, Frightened, Poisoned, Paralyzed
 - from fey ancestry: Charmed
+- lightning res.
 
-TODO: she probably still needs a damage reduction here...
+she still needs a damage reduction here... Shield Guardian.
+Stone Skin. Half DMG to physical.
+=> optimal fight, take out guardian (150), then her (300)
+
+Ring of Kiaransalee (ish)
+- Lightning Resistance
+- Once per day, twin infuse a spell (a la sorcerer metamagic).
+
+## Actions
+- Cast spell DC21 (maybe Twin)
+- Fly up and usse 4 Motes from Crown
+- Teleport away (when near death)
+- Scythe attacks: 2 straight attacks, one wave
+  * Straight attack: +17 hit, 40-50 dmg each most necro
+  * Wave attack: fan out nova, 20 ft cylinder, 25 necro dmg
+- Legendary Actions:
+  * Deflect attack (scythe splits and parries)
+  * Invis/Flight bop away
+  *
+
 
 ## Magic Items
 NB: These COULD drop. Don't overdo it. Although campaign end, so...

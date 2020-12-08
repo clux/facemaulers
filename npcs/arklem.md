@@ -49,6 +49,8 @@ Switch spells around. Meteor Swarm over PWK. Prismatic spray.
 Prismatic Wall over PWK. Circle of Death 6th level.
 Maximize cantrip damage.
 
+dio style lines; "Oh you're approaching me? Instead of running away, you are coming right at me?" -> "Then come as close as you like X."
+
 ## Phylactery
 Situated within an Astral Dreadnaught. Halas?
 Mummies roam the tomb. Mummy lord and Iron Golems in final room.

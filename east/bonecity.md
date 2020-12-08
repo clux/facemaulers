@@ -95,6 +95,8 @@ Sells vampire adrenaline. Injection as a bonus action (if primed). Grants one ex
 Celestials attacking? Need Gate summoning with true name?
 Fallen angel might know the name of a celestial (faey knows hans)
 
+Thiefling from BG flaming fist summoned one devil via Zaehesh.
+
 ## Sources
 https://old.reddit.com/r/dndmaps/comments/igdcfo/saint_vol_city_of_the_vampire_lord/
 

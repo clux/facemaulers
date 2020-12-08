@@ -22,6 +22,8 @@ Built the city with Mighty Fortress spell and magic in Bone Dome.
 Has a clone of himself in Irithyll ready to take over if he dies (only been there a little).
 Had an attack on [[bonecity]] from a Devil. Large horns and everything. Saw a humanoid outside scurry away on a griffin leaving behind a fragments of a high level spell scroll (Arcana: devils cannot enter realm alone).
 
+Started to prepare the undead for combat. Constructing a few more abominations (despite not wanting to, he has some of the recipes from Irae).
+
 ## Encounters
 - [[55-brotherhood]] Initial meeting in Tower Arcane, Questioning Goatweaver's morality
 - [[56-drinking-culture]] Celerom has the book of Chronomancy
@@ -29,6 +31,8 @@ Had an attack on [[bonecity]] from a Devil. Large horns and everything. Saw a hu
 - [[70-waterdeep]] Asked via Sending about Luskan and Egg of Galadaeros. Said Arklem took it.
 - Disappeared - asked not to be messaged
 - [[84-chief-bonehead]] Revealed to be the saviour of New Luskan (aka bone city)
+- Scried on Nekrina and party repeatedly to get insights
+- Preparing for battle, but limited resources.
 
 ## Stats
 Evocation wizard casting mind blank + mage armor + Crown of Stars (ovechannelled) before any interaction.
@@ -41,7 +45,22 @@ Protective wards:
 - Crown of Stars (7 specks of light orbit head, 4d12 radiant on each)
 - Fire Shield/Blur + Mage Armor in morning (18AC disadv with blur)
 
-## Goals
+## Goal Bonecity Defense
+Want Boneciety to survive. Will do what is necessary to protect his people, even if that reaches slightly far. Wants party to help him, will offer an audience with Ilharess Alur (Irae) to let them further plead his case (unknowing that party has seen worse with her together). That will happen at [[dragonlake-pier]] after instructions (includes him being the neutral arbiter).
+
+Choice: Help Celerom, and he will help you talk to Irae and get to Irithyll.
+Choice: Abandon Celerom, and they will have to fight their way through Irithyll.
+
+### Lines
+- on **Arklem proof of evil**: I don't understand how he could have fooled everyone like that, I guess no one is immune to the magic of deception, huh.
+- on **Arklem star**: I don't know what he wanted with the star, but it's an incredibly powerful artifact, if he has bad intent, it would be the first thing to steal. The thought of doing this from inside the Brothehood though. I couldn't have even done it I tried, there were way too many enchantments it'd been anchored there in a self-sustaining web of enchantments for centuries. It could only have happened in the event of something seriously disruptive.
+- on **Irithyll**: An ancient city on the edge of shadowfell. Its only access is a misty mountain pass, and the city itself lies in a valley of eternal moonlight and is wrapped in a layer that prevents any non-residents from entering. I was granted an audience after repeatedly asking for more guidance from my elven savior (Ilharess Alur).
+- on **Irithyll rule**: strangely regal. A vampire couple runs the city with the help of an old monarch, supposedly brought back from the royal catacombs of Neverwinter. I tried to persuade them onto a more peaceful path, but not sure it was too successful.
+- on **product suggestion**: Conjured blood. There's an astonishing amount of useful byproduct from Conjure Woodland Beings (holds up vial). Any time they need to feed, they must take it from humanoids. Not sure about you, but that image problem will never let us win over western civilization. Not that it matters much anymore.
+- on **coming battle**: We know something is coming. We scried on Nekrina. Of course we have taken certain precautions. Most of our populace is armed and united, albeit, not the most mobile. Apart from a few ad-hoc special weapons, I am not sure we stand much chance against a faction of magic wielding adventurers.
+- **plea** Aid us. We can help you get to Irithyll. We can arrange a meeting with our elven saviour. Maybe she can sort things out, but we don't have that much time. We are doomed without your aid.
+
+## Goal Bonecity Intro
 Will want to convince party (right now) that his path is righteous.
 Likely, the party will find philosophical holes in his stance, particularly if they think he's become evil.
 

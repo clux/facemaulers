@@ -87,9 +87,12 @@ talked about the recruitment from baldurs gate
 how zahesh had recruited from flaming fist and also newer areas
 https://www.reddit.com/r/UnearthedArcana/comments/juolfx/frost_domain_a_divine_domain_for_clerics_that/
 
+She will summon celestial (Battleforce Angel CR5) during battle.
+
 #### Salrius
 Thiefling from flaming fist. (downstairs east alone)
 He was the ambitious one. got powers from Mephisto.
+He's been given the chance to summon a higher power. Chance roll to do Gate correctly. On critical failure, his body is instead sucked into the void.
 
 ### Next Set of Adventurers
 Post Recon

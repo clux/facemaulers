@@ -17,29 +17,24 @@ At the peak, if they are lost, they can meet [[dessirris]] or talk to kavaki, wh
 Why? Corrupts the worship. Areas populated by worshippers now owned by undead.
 
 ### Irae Encounter
-Path sends you through a valley, foot prints visible, mist starting to form at your feet. You are clearly high up in this mountain.
+Path sends you through a valley, foot prints visible, mist starting to form at your feet. It feels like you have climbed much higher up in this mountain than you feel like. Ghostly lights seem to dance across the mist.
 
-helpers: 2 vampire spawn (dim servant high schoolers), 8 will o wisps + shield guardian(?).
+DELIBERATELY DEADLY ENCOUNTER. They can always be prisoners in Irithyll dungeon. Fairy fire dusts everyone passively here.
+
+Protector of the path: **Faldorn**. (Now undead druid, crazy branches atop her head, evil aligned druid (buffs her spell DC by 2)
+- Archdruid AC16, HP80, Storm of Vengeance. Passive Fairy Fire, Fire Storm
+- Shape Change into T-Rex Zombie
+
+helpers: 2 vampire spawn (dim servant high schoolers), 8 will o wisps (druid work)
+
+Irae: crown of stars Clone (8th level duplicate), half HP, no equipment
 halucinatory terrain plus helpers undead above the valley and there's mist above uneven ground. She doesn't care for a fight here, at most a few rounds.
 Protections: Mind Blank, Crown of Stars, invis at will, shield up, counterspell.
 If attacked; arcane deflection reac, 19-23AC depending on conc/deflect + deals dmg.
 If they attack, just add maddening darkness, fly up away while undead attacks.
-NB: She does not have her items here. She is casting `Storm of Vengeance`, has cloak of invisibility.
+NB: She does not have her items here. She has cloak of invisibility.
 
 ![](path-of-suffering-ruins.jpg)
-
-Irae can use similulacrum (7th level illusiry duplicate) to test the waters. Half HP, no equipment.
-
-Irae (all cases): It's time we had a chat together. You have caused quite the disruption at Halos.
-Irae (plea): Please cease your interference with our undead settlements. We will take care of Lolth and her followers, but instead you have to leave Irithyll alone if you have your own best interests at heart.
-
-Irae (demon lord defense): Well, that was ultimately a distraction until I got all the pieces together. You see, it's with all the artifacts of Kiaransalee combined that the raised dead retain their souls and sentience.
-Irae (undead sentience defense): You fail to understand the true significance of this event? It's all undead raised from this point by me, or anyone I have raised. This is an infectious proprety. Souls are no longer sent off to hell in eternal torment to serve as infernal currency, nor are a small percentage sent to elysium, where they can enjoy this.. distinct position of privilege. They are free. They are immortal. All it took was an economic crash in the currency of souls.
-Irae (giant mind control defense): I offered Umnos power, and he took it. I'm sure he's not the only one who's learning to read the fine print.
-Irae (giant justification): Chaos was a necessary agent to get at 3 very protected pieces. Society was either too un-budging, or too brutish to be able to deal with my proposal. Some plans are so great, that you can only effectively argue for it once it's already been placed into effect.
-Irae (in case of Bone City retreat / shadowfell escape): I think it's best you try to stop what you are doing.
-Irae (Kiaransalee): Ultimately, she went insane, but her powers had potential. She was focused on simple conquest and revenge, there's no need for that type of barbarism right now.
-Extraplanar: Sure, there is going to be resistance.
 
 ## Shadowfell madness
 Play on their weaknesses. Sins they have committed. Play on it. Dante. 1408

@@ -72,7 +72,7 @@ along with Millwood Knights. Huge ogre like beasts in full armor and huge axes.
 bowmen fortified in the distance
 
 ## Tower Arcane
-Castle erected by Nelithanar. Was a spellward and huge stone walls that look like a tree now. Huge. Home to the academy for the Arcane Brothehood.
+Castle erected by netherese arcanist Melathar. Was a spellward and huge stone walls that look like a tree now. Huge. Home to the academy for the Arcane Brothehood.
 
 Mages have color suffixes. Kazhen the Red.
 

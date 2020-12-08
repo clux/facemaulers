@@ -89,10 +89,7 @@ Arklem not concerned with sustainability atm, he's a tactician (happy to let peo
 Arklem wants the plan to progress quickly now that demon lords have been weakened and orcus lost.
 He wants any adventurers sent to koth or zug so the shadowfell army can rise and activate [[velddrinnsshar]]'s acropolis.
 
-### On combat
-S: dio style lines; "Oh you're approaching me? Instead of running away, you are coming right at me?" -> "Then come as close as you like X."
-
-TODO: can have rings for vampires [[weapons]].
+NB: Koth' summoned high end adventurers are reasons for powerful undead arch druids et al.
 
 ## Upper City
 Past old church. Harms anyone on sight.
@@ -104,14 +101,9 @@ River Lords CC327 swim in water drains. Sentient. Past colonial land owners in n
 - Jiangshi CC230 CR6
 - Bone Swarm TOB41 CR10
 
-#### Monstrosities
-Maybe some side room?
-- Elophar CR4; CC149
-- Kulmking CR9 CC244
-- Nachzehrer CR8 CC272
-
 ### Cathedral
 [[arklem]]'s domain.
+Entrance is the royal area front.
 
 ### Guards
 - Tulpa spectral shapeshifter undead ; CC358 CR4
@@ -123,8 +115,25 @@ Maybe some side room?
 Baby skeleton dragons. CC363 CR4
 Other similar baby skeleton creatures.
 
+## Summoning Area
+Creating abyssal undead by summoning undead from the abyss and taking their powers.
+Process;
+- Summon Greater Demon at lvl 9 with blood circle (requires fresh killed humanoid blood)
+=> CR12 Demon (slight increase homebrew) - force it to create a amulet to obey them
+- Gate when it's done
+- Drain its essence with Egg and unholy Lich magic
+
+### Monstrosities
+
+- Elophar CR4; CC149 (ritual nalfeshnee)
+- Kulmking CR9 CC244 (ritual devourer)
+- Nachzehrer CR8 CC272 (ritual hezrou)
+
 ## Dungeon
-Worshippers of Irae granting her divine powers.
+Two tier. Upper end is the huge lair of Arklem. Front for it is the Royal area where the useless rulers are.
+
+Worshippers of Irae granting her divine powers on the lower end.
+These covens not only grant magic stability throughout the city, they feast on anything that comes near, can tempt children in certain shadowy forests with portals into the sewers.
 Normally, the deacons would worship Kiaransalee, but Irae wants the powers directly.
 
 in swamp; Drowned Maidens CR5 TOB163 (long haired roper girls in white dresses)
