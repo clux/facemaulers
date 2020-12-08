@@ -113,10 +113,6 @@ Lower end.
 - Wormhearted Suffragan TOB410 CR5 (parasite caster)
 - Master of the Demon Mountain CC265 CR17
 
-## Pet Shop
-Baby skeleton dragons. CC363 CR4
-Other similar baby skeleton creatures.
-
 ## Summoning Area
 Creating abyssal undead by summoning undead from the abyss and taking their powers.
 Process;

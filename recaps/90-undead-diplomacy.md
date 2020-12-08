@@ -1,0 +1,47 @@
+Undead Diplomacy
+8th Dec 2020
+
+Talked to Zaehesh. Unable to get her on your side, they were leaving for attacks in 2 days.
+Talked to Izak told him everything and had him relay everything. Ultimately none of them wanted to stray from the path of righteous slaying of undead for coin, but they would wait for your signal.
+
+You took a straight flight to Bone City and talked to Celerom. Confronted him about how Irae was behind this, then raising them, which he was not happy about, was still not a sufficient reason for him to abandon his people - that in his mind at least, very much retain their humanity.
+
+A lot of ethical arguments followed. He was convinced that protecting the souls from a premature certain-infernal afterlife was a bad idea, and being deeply suspicious about infernal interference.
+
+So, rather than to have to delay the inevitable battle, you made a strange compromise:
+
+You were to build a strange improv temple to kavaki, and try to impress everyone to follow Kavaki by getting them to sign up to his service, and Kavaki would then listen and accept them as his followers if they were to chant his name.
+
+Doing so on such short notice would require a good amount of unpracticed showmanship, bordering on deception. But Kavaki was behind the plan in principle, and promised to show up to do some "final pazzazz" at the end (exploding?) - although he did insinuate you that you might have to do the heavy lifting.
+
+Many plans were surfaced after this.
+- building an evil totem pole of all your ingredients, smashing it, infusing houses with bombs, and removing load bearing bones, to create a domino effect.
+- temples with sumo pedestals out of stone in front of the altar made out of bone structure
+- a fighting pit, or a huge elevated fighting platform
+- just rebranding the Bone Dome to the Kavaki Bone Dome (deital sponsorship)
+
+In the end, with Celerom's approval, you started repurposing the Bone Dome.
+You got the Bone Golem to somehow agree to a fight for a show, and Celerom would help out.
+You manually removed the front wall of the Bone Dome before show, the show, razed a slew of houses to make room for an audience the size of the city, placed bone benches around those.
+
+You also criss-crossed explosive powder across ceiling so that you can get 3x3ft triangles of bone to crash down upon the ceiling as the show ends.
+
+You built a statue to the Goatlords, and one symbolically evil statue (Peryton Beak, Direwolf pelt on the back, slimy horn, watersnake head) with Faey's explosives planted within it.
+
+(Plan was to symbolically smash the bad one, leaving the goat victorious)
+
+KAvaki VAriety KIll - at the Bone Dome
+GW the star of the show. With 1 exhaustion after a long rest.
+
+
+TODO: Who is the host of the show?
+TODO: How are you advertising this in the final day?
+TODO: Pyrotechnics prepared, fireball in the air, explosives in the statue
+
+TODO ME: Celerom pyrotechnics + host lines
+TODO ME: Kavaki show
+
+Players:
+- Florent
+- Guy
+- Jay

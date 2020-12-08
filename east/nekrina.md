@@ -45,6 +45,9 @@ Studied up this place. Hard to find much about it.
 But did you know that about 500 years ago a great undead assault happened here?
 Apparently some drow based godess named Kiaransalee led them.
 
+Mordai relayed all info to him. He didn't have further info at this time.
+GW will send telepathic signal about.
+
 ##### Zhan Ling
 Zhan is a cleric of `Bane`. The aristocracy in Baldur's Gate is a bit oppressive.
 Uses a maul, very skillfully. Like an asian monk. Will greet GW respectfully. Uncle Roger accent.

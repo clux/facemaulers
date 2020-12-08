@@ -11,6 +11,8 @@ Festival really. Stereotypical depictions of undeath. Make-up. Grey artificial h
 They interrupt, combat, then [[celerom]] threads in and pardons them with an item. NB: if such an item exists, it can only be manufactured by Liches.
 
 ## Battle vs. Nekrina
+![](bonecity-battleground.jpg)
+
 ### Undead Side
 On one hand Celerom + Beniago. 100 Skeletons, 100 zombies.
 Bone Golem. Bone Ballistas.
