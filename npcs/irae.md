@@ -48,10 +48,14 @@ Either in [[path-of-suffering]] or in [[dragonlake-pier]].
 Irae (all cases): It's time we had a chat together. You have caused quite the disruption at Halos.
 Irae (plea): Please cease your interference with our undead settlements. We will take care of Lolth and her followers, but instead you have to leave Irithyll alone if you have your own best interests at heart.
 
-Irae (plans): Building a safe and sustainable empire for followers of the Revenancer.
+Irae (on Irithylls significance): It's the most established undead settlement, sustained by energies from both the shadowfell, and past miseries from previous battles.
 
-Irae (on Kiaransalee): Lolth's betrayal of Kiaransalee and her proficiency for necromancy made her vengeful. Their society of constant competition is a deeply unhealthy one, that she opposed, and she had many followers.
-Irae (on drow soc expanded): To properly construct an empire, it requires giving the followers adequate rest and food, training, and equipment. If you treat them like enemies, they will not help you. Their ideological hatred of their weaker made this type of cooperation impossible. Humiliating people who speak up by converting them into hideous monstrosities is a dead (weight) loss.
+Irae (plans): Building a safe and sustainable empire for followers of the Banshee. At this point there is no need for further violence. Our betrayers have been overthrown, and our plan has been set into motion.
+
+ Irae (artifacts): You see, it's with all the artifacts of Kiaransalee combined that the raised dead retain their souls and sentience.
+
+Irae (on Kiaransalee): Lolth's betrayal of Kiaransalee and her proficiency for necromancy made her vengeful. Their society of constant competition is a deeply unhealthy one, that she opposed, and she had many followers. Ultimately, she went insane, and focused too heavily on simple conquest and revenge, her powers and ideology had potential. In the long term, however, there's no need for that type of barbarism.
+Irae (on drow soc expanded): To properly construct an empire, it requires giving the followers adequate rest and food, training, and equipment. If you treat them like enemies, they will not help you. The church of Lolth and its ideological hatred of their weaker made this type of cooperation impossible. Humiliating people who speak up by converting them into hideous monstrosities is a dead (weight) loss.
 
 "It won't matter much now that [[menzo]] lies in ruin."
 
@@ -59,15 +63,19 @@ Irae (on Menzo): All clerics sympathetic to Kiaransalee were evacuated before th
 
 Irae (demon lord defense): We needed to unite the dark seldarine once again under the banner of Kiaransalee. Doing this required a small amount of destruction. We ultimately spared the lives of everyone in Luskan, while we got all the pieces together.
 
- Irae (artifacts): You see, it's with all the artifacts of Kiaransalee combined that the raised dead retain their souls and sentience.
+Irae (on sarcasm): I would like to remind you, that this is not a peace negotiation. I am stating our intent; a united, and prosperous seldarine, not built out of hatred, not based upon a society of constant exploitation and humilation. Do with that as you wish, but be aware, that no exchange of power, ever went without an initial violent conflict.
 
+Irae (on her position in the new society): I know what systems do not work for drow and undead, monarchs or rulers notwithstanding; and am all in favour of putting power into the hands of the people, if the people can be held accountable by the processes we instrument. As of where we stand, I would guess we are both largely disinterested in discussing various styles of government right now.
 
+Irae (undead sentience defense): You fail to understand the true significance of this event. It's all undead raised from this point by me, or anyone I have raised. This is an infectious proprety. Souls are no longer sent off to hell in eternal torment to serve as infernal currency, nor are a small percentage sent to elysium, where they can enjoy this.. distinct position of privilege. They are free. They are immortal. All it took was an economic crash in the currency of souls.
+Irae (on Bone City): It is unfortunate that you had to interfere, but you were not the only ones with the city in its crosshairs. From what I understand you obtained a better afterlife for those poor souls, and for that I thank you, but you also robbed them of their chances of immortality.
 
-Irae (undead sentience defense): You fail to understand the true significance of this event? It's all undead raised from this point by me, or anyone I have raised. This is an infectious proprety. Souls are no longer sent off to hell in eternal torment to serve as infernal currency, nor are a small percentage sent to elysium, where they can enjoy this.. distinct position of privilege. They are free. They are immortal. All it took was an economic crash in the currency of souls.
+Irae (on being a lich): Voluntary immortality is the highest form of existence that any creature should strive towards. Why should our mortal bodies' gradual decay, rob us of our cognitive abilities? Sure, at one point, I too will be nothing but a floating skull; using empty or temporary vessels to give some physical manifestation to my ideas and work.
+
 Irae (giant mind control defense): I offered Umnos power, and he took it. I'm sure he's not the only one who's learning to read the fine print.
 Irae (giant justification): Chaos was a necessary agent to get at 3 very protected pieces. Society was either too un-budging, or too brutish to be able to deal with my proposal. Some plans are so great, that you can only effectively argue for it once it's already been placed into effect.
-Irae (in case of Bone City retreat / shadowfell escape): I think it's best you try to stop what you are doing.
-Irae (Kiaransalee): Ultimately, she went insane, but her powers had potential. She was focused on simple conquest and revenge, there's no need for that type of barbarism right now.
+
+Irae (Kiaransalee):
 Extraplanar: Sure, there is going to be resistance.
 
 ## Mannerisms
@@ -330,4 +338,7 @@ https://old.reddit.com/r/UnearthedArcana/comments/i6vimu/rope_dart_new_nonmagica
 [63-rime-turtles]: ../recaps/63-rime-turtles "63-rime-turtles"
 [72-prince-of-demons]: ../recaps/72-prince-of-demons "72-prince-of-demons"
 [wd-demogorgon]: ../waterdeep/wd-demogorgon "Waterdeep Siege"
+[path-of-suffering]: ../east/path-of-suffering "Path of Suffering"
+[dragonlake-pier]: ../east/dragonlake-pier "Dragonlake Pier"
+[menzo]: ../underdark/menzo "Menzoberranzan"
 [//end]: # "Autogenerated link references"

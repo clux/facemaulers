@@ -82,10 +82,14 @@ Celerom prepares Mirage Arcane; as he casts, the ground beneath him start formin
 ASK ABOUT HOSTING. CELEROM CAN OPEN. BUT YOU SHOULD TAKE OVER AFTER THAT. ASK ABOUT THE SIGN.
 Celerom hosts with lines (entering with metal modified witch bolt into sky, that lights up a neon sign - cast at 5th level for duration).
 
+GRIFFIN
 - Good afternoon Bone City. OKOKOK RELAX. You know I am not here for the fame and glory. It's not been long since all of you, well, died. We have tried our best to build a peaceful society here, and you have all been great. But our early suspicions is starting to be confirmed as true; the civilized world does not want to deal undead no matter how different we are, and even if they were, they are not willing to stand up to neither the divine nor the infernal.
 - Tomorrow; the forces of hell marches upon the city, and there's no way of saying this, we are likely not going to survive. We have not had enough time, and we are outmatched both skill-wise and resource wise.
 - Somber details aside, there are positive things to be found in this situation.
-- Say hello to the Face Maulers; our divine agents of Ysgard (confused clapping).
+- Say hello to the Messenger of Kavaki; our divine agents of Ysgard (confused clapping).
+
+PYRO:
+- griffins flying: over with pyrotechnics as fireballs go off?
 
 CLARIFICATIONS:
 - PUBLIC: my my. Goatweaver, why don't you tell them what it is that makes the Goliath's faith so special, and what saves them from eternal torment?
@@ -94,6 +98,7 @@ ACTION:
 KAVAKI:
 - if asked to show himself: A spirit of him can show himself during the heat of battle. He takes the form of the statue.
 - symbolism: Weapons slam down as cornerstones / mics.
+- statue has the ceremonial robe
 
 ## Nekrina battle
 Celerom can suggest watching it with Arcane Eye as it turns bad.
