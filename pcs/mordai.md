@@ -8,7 +8,7 @@ Wizard. Time to study.
 ## Backstory
 - Born to human family (in tiny place - awkward - also innate magic /fire/rebuke)
 - Mother; Sigfrid Godkin,  had many children in village, well-looked upon by villagers as virtuous person. Was fair to Mordai as with other children and gave him a Tiefling name because she did not think anything was wrong with it, though was probably judged a lot by others for that, and maybe lost of a lot of respect/admiration
-- this becomes harder over time as Mordai grows up, and when she makes no attempt to contact him and disappears, he considers that she has just given in to the inevitable decision that everyone else has made, and decides to separate himself from his preivous life. Does not use surname as a result (not god-kin anyway..)
+- this becomes harder over time as Mordai grows up, and when she makes no attempt to contact him and disappears, he considers that she has just given in to the inevitable decision that everyone else has made, and decides to separate himself from his previous life. Does not use surname as a result (not god-kin anyway..)
 - Many brothers/sistes (lots, don't know, only mother liked Mordai)
 - Went on a journey, framed for something (theft of item, new person turned up)
 - Sent to jail (while growing up, framed, rebuke at 15, got taken for 10 years)

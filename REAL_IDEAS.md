@@ -14,6 +14,11 @@
 Play the dramatic backstory of one NPC.
 Have one player create a fake PC.
 
+## Hot End
+Need to work towards an end where they get to talk to the architect of society.
+The ones behind the scenes of government.
+Who is pulling thes trings? Religious orgs? Financial society struggling with regulation?
+
 ## Religions
 ### XR
 Xtinction Religion - uprising protesters turned violent
