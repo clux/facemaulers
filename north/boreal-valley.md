@@ -60,6 +60,7 @@ Mordai's parents casting them out. Seeing her mother throw you out.
 Only one can enter at a time. If battle, her entire hut will retreat into the scary zone, leaving the player with a curse.
 https://www.d20pfsrd.com/gamemastering/afflictions/curses/
 Creeping senility or Dissolution, Parched (exhaustion).
+https://www.d20pfsrd.com/magic-items/artifacts/major-artifacts/dancing-hut-of-baba-yaga/
 
 She's a hag who can teleport with her enormous mortar and pestle.
 Huge wave of black thick hair, two  enormous thiefling horns, and purple skin. Braid of brown decaying fangs worn draped from her horns like a beard. She turns towards you with her enormous nouse and two small dull grey eyes with only tiny dots as pupils.
