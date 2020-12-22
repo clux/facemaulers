@@ -11,6 +11,7 @@ Sun just barely above the horizon for 1h a day.
 
 ## Sansuri
 Sansuri back and guarantees safe passage. Can use the maps from PartyOfTwo Dungeons 1 to illustrate. She serves as the main political advisor, as well as being the Countess of the Boreal Valley.
+"hey we are in the boreal valley, what do you know of the diamond mines, do you have any contacts; goliath temple.
 
 ## Frost Giant Castle
 Ruled by Jarl Storvald. INT10. Super strong.
