@@ -21,6 +21,12 @@ Can do a big undead city.. City of Seyna map..
 ## Protection
 Necrotic Tempest raging around it. DC15 CON save every minute vs 3d6 necro dmg.
 
+## Floating Netherese City; Thultanthar
+https://www.youtube.com/watch?v=WX3Mj5kkuuI
+Ulrant's Guide to the planes of the Shadowfell - 25$
+Flying fortress, raining rocks as foreshadowing (flies above you)
+
+
 ## Ashes of Ariandel
 Base on Ashes of Ariandel DS3.
 Acropolis in shadowfell.

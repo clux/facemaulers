@@ -67,6 +67,11 @@ Huge wave of black thick hair, two  enormous thiefling horns, and purple skin. B
 Trades secrets for Akkhan's crossbow, or a passage to the feywild. "Wish to see my bethrothed Eladrin (Ara Genris, a noble overseeing the operations of the Watchers, always been the first to shy away from altercations with the Fomorians.), or some way to sell out Felgolos, perhaps add 10 years to one player - who then loses one DEX (not fixed by greater restoration).
 Will reveal to the cleverer party members that she simply values the essence of life. "Looks, health, and power is important, but pain, suffering and injustice is the fuel of life that makes one fight. I give people a little bit of both."
 
+## Wilderness
+- Dire Wolves
+- Snowy Owlbears
+- Ychen Bannog TOB413 CC11 gargantuan oxen, 2x
+
 ## Goliath Mine
 A dried up local source of diamonds. Converted to be a tourist attraction for goliaths from Luskan in better times, Akkhan buried there around the same time, who was a great inspiration to everyone in the region. Made diamond rings and rods for magic practicioners.
 
@@ -80,17 +85,59 @@ Now it's sealed off. Created a rock fall over the castle doors, then it froze ov
 Passive dungeon. Traps. Puzzles. Netherese Tech.
 Mechanic; must unseal the evil befallen the tomb. Must release the elves from their creation, dwarves from their mining, goliaths from their guarding (either by killing all of them, or by destroying ???). The elves/dwarves/goliaths therein are weak, hungry, but will use the environment to defend themselves. Escaping and unleashing traps from the ceiling. Rolling boulders.
 
-Walking into the water activates a BORE WORM. Guides them into the back entrance. Trapped.
-
 Tombs all empty early on. They were graves to fallen miners. Tombs later on are for revenants.
 Elven factory has diamond cutters. They are pretty intricate pieces of technology from the netherese empire (lasers, that must remain plugged in). Top left room has 5 lasers.
 
 Maybe something like a phaerim: https://dmdave.com/phaerimm/
 heals on spell damage. Maybe make it more construct like. Green obleisk like pillars (what looks like tomb stones). Unleashes lightning to nearby enemies when the dungeon is activated (happens when the elves do it).
 
-Aeonic Drifters? CC177
+### Dwarven enclave
+Top left. All three doors barricaded. They live there. 2nd/3rd generation dwarves. They have a secret passage out to the wilderness, and a mushroom farm underneath.
+Motivation: Trying to fix the evil befallen the tomb.
+How: TODO: Slowly undoing the magic???
 
-## Akkhan
+Knows of Akkhan's burial, knows they dug forever without finding fire.
+=> So they made a twisted imitation of it instead.
+They avoid the top caverns, lost too many dwarves there. They know of ways to avoid the water worm?
+They know of both water ways to the unholy forge. They tell them about the drilldozer if they ask, but it's lacking its activation gem, it was lost in one of the northern tunnels.
+
+### Water Worm
+Walking into the water activates BORE WORM CR16 (5e.tools)
+It will just drill its way through, having them take a grinding attack, 4 times as they pass through.
+
+Damage can't be avoided unless they are break into the two sarcophagi.
+DEX 25 vs 40 bludgeoning dmg. Everyone in the tight corridor.
+
+Foreshadowing, once they step in, they start hearing the ground shake, rocks fall from further within the water cave, and they suddenly see the face of the bore worm rise from within the tunnel and start pushing forward.
+
+If they escape out to the open, it burrows and retreats back.
+
+### Being watched
+By an Urochar TOB393 CR17 strangler tentacle aberration: tentacle leap.
+Foreshadowing: dark, slithery sounds, rocks fall from the ceiling at different times.
+Perception 25, they see something slither away.
+Not super dangerous despite CR17, unless they split up.
+More likely to attack in the little digger caves.
+Foreshadowing tunnels, crushed bones, in a weird pile (like someone had a meal; high inv)
+
+### Forge Guardians
+Bottom right.
+TODO: This needs to have more of a twisted fire feel...
+
+- TANK: Tophet TOB383 golem with hearth in its belly
+- Guardian monolith: AC20 100HP. Filled with magical energy. Abjuration. Evocation. Inscription.
+> Monolith: Kindle and comply.
+
+Need to feed a weapon ot the tank or else it activates when they touch the door.
+It puts a forcecage around the room, and renders him invulnerable to all damage until the monlith is destroyed.
+
+### Drilldozer
+Deactivated Golem, War Machine (reskin to driller) CC205 CR18. 6ft wide.
+Parked top left door facing right.
+Needs an activation gem found in one of the graves/side-tunnels. Whichever they see first.
+Can only be used for drilling. But can create a path through to Akkhan without disturbing the worm.
+
+### Akkhan
 > Eyes burning blue within the helmet of the dwarf.
 
 Death Knight with modified Hellfire Orb (radiant/necrotic damage instead).
@@ -103,10 +150,57 @@ Weapon;
 - Heaven's Fury (+3 Radiant shotgun (2d8), 5 attacks per hour), hits in 3 arcs, 60 deg differentiated.
 [[sunset-warriors]]
 
-Minions: Revenants of disloyal warriors. Hanged nooses around head.
+While he is a Brute/Infantry
+
+Minions:
+- Artillery/Glass: Skein Witch TOB349 (ex-celestial corrupted servant): Bind Fates, then Threads/Wave
+- Artillery: 4x Dream Squires with crossbows (absorbs spells); CC134
+
 
 Find a piece of Kiaransalee's scythe blade within. Increased corruption.
 Fights in sole chamber. If attacked, elves from nearby rooms rush in to help Akkhan.
+
+### Lore
+Akkhan worked with Umnos on dwarven forgeries.
+
+#### Gilgrin remnants
+Architectural style looking like Gilgrin. But shoehorned on top of a mine.
+No forge (no lava, they were hoping to find it, being so close to Gilgrin).
+No traces of giants.
+
+#### Search for the Flame
+Journal of 15 year search for fire through various charted deep dive digs in search of volcanic activity. Looks like the area beneath this mountain has been thoroughly perforated, to depths of up to 1500m. It's a sad read, interspersed with hundreds of names of fallen dwarves who participated in the search.
+
+There are also a lot of references to a place called Jiksidur.
+
+#### Fire & Lies; inflammatory posturing of `Wrufius`
+Written by `Grymin Wordbraids` about the fire giant trump:
+
+> Details a campaign wherein a fire giant named Wrufius argued for fire giant supremacy and how the dwarves who guarded the gates to menzo were taking advantage of the hospitality of the storm and cloud giants. It talks about how he talked about how the fire giants had been supplanted by less skilled and cheaper workers, and preached to the frost giants how eventually this trend of alleged infiltration would continue; the dwarves (he claimed) would replace their defensive work by hiring cheaper goliaths (essentially subcontracting), and start charging them more and more for weapons even though they were made in a forge owned by giants.
+> Most of the quotes of Wrufius are literal giant, gw can at least see see there's a certain word play tied up in the giant language and a certain element is certainly lost in translation, but the included translation within the book shows pretty clearly that it's using pretty slanderous techniques; moving quickly from case to case of examples without proving them, in a manner that sounds pretty conspiratorial.
+> It becomes clear as you read this that the book was written in lieu of the fire giant takeover of Gilgrin 560y ago from dates. The dwarves were forcefully squeezed out with authoritarian policing by the frost giants on new terms from Halos.
+
+#### Apology letter to Akkhan from Umnos
+From Umnos. An apology letter that doesn't feel like a real apology
+
+> Letter with a broken and cracked seal made out of blue candle wax which embosses an intricate letter U:
+
+> Akkhan. It brings me great pain that it has come to this. Our work was that of radiance and lightning. I still don't understand how just a few bad dwarves would bring our great partnership to an end in such a way.
+> I understand most of you are in the process of restoring the old diamond mine. With your leadership, I expect it will be a place of great prosperity, and where we can find a more equal partnership once you are all established there.
+> Should you need help, the frost giants are available for hire.
+> I hope that one day we can put this behind us.
+> Umnos
+
+## Abandoned
+#### Jiksidur Excavation
+Netherese ruins.
+Death Moon Orb excavation?
+https://forgottenrealms.fandom.com/wiki/Death_Moon_Orb
+Chronomancy?: https://forgottenrealms.fandom.com/wiki/Category:Chronomancy_spells
+- https://forgottenrealms.fandom.com/wiki/Permanency
+- https://forgottenrealms.fandom.com/wiki/Foresight
+
+Maybe a friendly demilich like in Ythrym (Rime of the Frost Maiden) who was working for Arklem? dundun. Can steal Ythryn's origin story (fall of ythryn).
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [sunset-warriors]: ../npcs/sunset-warriors "Sunset Warriors"
