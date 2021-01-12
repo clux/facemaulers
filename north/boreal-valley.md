@@ -73,36 +73,62 @@ Will reveal to the cleverer party members that she simply values the essence of 
 - Ychen Bannog TOB413 CC11 gargantuan oxen, 2x
 
 ## Goliath Mine
-A dried up local source of diamonds. Converted to be a tourist attraction for goliaths from Luskan in better times, Akkhan buried there around the same time, who was a great inspiration to everyone in the region. Made diamond rings and rods for magic practicioners.
+A dried up local source of diamonds. Converted to be a tourist attraction for goliaths from Luskan in better times, Akkhan buried there around the same time, who was a great inspiration to everyone in the region, despite his political failings with the giants. Made diamond rings and rods for magic practicioners.
 
-Necromancers tried to raise Akkhan in a cultist ritual to bring back the good times, but it went disastrously wrong. Now the undead patron saint of Kavaki roams the halls, drained the life of everyone still inside, and demands utmost servitude. He demanded the goliaths guard the entrance until they died of hunger, the dwarves kept mining till their death, and the netherese elves keep making diamond trinkets (which fill his chamber) - however, due to spells have been kept alive. Fortified themselves up north west.
+Dwarves contacted the brothehood with a request to erase this part of history. "Undeserved glory. He ruined the reputation of the Frostbeards."
 
-Now it's sealed off. Created a rock fall over the castle doors, then it froze over. Auril has maintained an unending winter over the area anyway. On winter solstice, the low light of the sun across a
+They got Arklem. He forged a plan of his own. Force humanity into the shadowfell where liches and undead could drain them indefinitely. Corrupted the raising, sealed him in, causing all dwarves to become cursed. Arklem stole the history of Kiaransalee, and ultimately sought out Irae in Maerimydra (who then helped turn her).
+
+Sealed in the place, and let winter do the rest. Created a rock fall over the castle doors, then it froze over. Auril has maintained an unending winter over the area anyway. On winter solstice, the low light of the sun across Baba Yaga's mountain peak would show its location, but now no one knows of it.
 
 ### Dungeon
 ![](boreal-mine.jpg)
 
-Passive dungeon. Traps. Puzzles. Netherese Tech.
-Mechanic; must unseal the evil befallen the tomb. Must release the elves from their creation, dwarves from their mining, goliaths from their guarding (either by killing all of them, or by destroying ???). The elves/dwarves/goliaths therein are weak, hungry, but will use the environment to defend themselves. Escaping and unleashing traps from the ceiling. Rolling boulders.
+Passive dungeon. Ghosts. Sealed tombs. Mine turned tourist attraction, but dwarven betrayal.
+Icicles hanging from the ceiling. Icy water paths. Dim blue light (1ft) on ice.
 
-Tombs all empty early on. They were graves to fallen miners. Tombs later on are for revenants.
-Elven factory has diamond cutters. They are pretty intricate pieces of technology from the netherese empire (lasers, that must remain plugged in). Top left room has 5 lasers.
+Dim green light (1ft) around ancient dwarven inscriptions:
+- first 2: eternal rest, glory in sacrifice
+- second 2: for the greatest, for the bravest
+- statue: Dwaven statue. Weapon foreshadow.
+- third 2: vanquisher of undeath, the reaper of reapers
 
-Maybe something like a phaerim: https://dmdave.com/phaerimm/
-heals on spell damage. Maybe make it more construct like. Green obleisk like pillars (what looks like tomb stones). Unleashes lightning to nearby enemies when the dungeon is activated (happens when the elves do it).
+Hanging from the ceiling before collapsed corridor: flimsy but large, cobweb ridden skeleton (made by cobbled together bones), wielding a scythe (pretty well made, +2 scythe)
 
-### Dwarven enclave
-Top left. All three doors barricaded. They live there. 2nd/3rd generation dwarves. They have a secret passage out to the wilderness, and a mushroom farm underneath.
-Motivation: Trying to fix the evil befallen the tomb.
-How: TODO: Slowly undoing the magic???
+### Ghosts
+#### Ghost guards
+"This area is off limits"
+"follow the main path please"
 
-Knows of Akkhan's burial, knows they dug forever without finding fire.
-=> So they made a twisted imitation of it instead.
-They avoid the top caverns, lost too many dwarves there. They know of ways to avoid the water worm?
-They know of both water ways to the unholy forge. They tell them about the drilldozer if they ask, but it's lacking its activation gem, it was lost in one of the northern tunnels.
+#### Ghost 1
+"he ruined everything, he deserved everything he got coming for him"
+"humiliation it was"
+"no one will know, no one will know"
 
-### Water Worm
-Walking into the water activates BORE WORM CR16 (5e.tools)
+#### Ghost 2
+"do the ritual, seal him in"
+"place his body on the circle, mage reads the rite, punishment for deeds"
+
+#### Ghost 3
+in library
+"not like this, not like this"
+"he should only be forgotten"
+"he deceived us"
+
+#### Ghost 4
+in digged corridors
+"will fix this, will fix this"
+"free the vanquisher"
+
+#### Ghost 5
+"sealed him in with the driller"
+"no one can start it anymore"
+
+### Dwarven Library
+Books of lore.
+
+### Bore Worm
+Walking into the partially frozen part of the water activates BORE WORM CR16 (5e.tools)
 It will just drill its way through, having them take a grinding attack, 4 times as they pass through.
 
 Damage can't be avoided unless they are break into the two sarcophagi.
@@ -162,6 +188,7 @@ Fights in sole chamber. If attacked, elves from nearby rooms rush in to help Akk
 
 ### Lore
 Akkhan worked with Umnos on dwarven forgeries.
+Several dwarves upset with the loss of reputation after the giant debacle. Didn't want him to be remembered solely by his association with the Sunset Warriors. Wanted to seal him in here and have his deeds forgotten to preserve the successful independent image of the dwarves.
 
 #### Gilgrin remnants
 Architectural style looking like Gilgrin. But shoehorned on top of a mine.
@@ -171,7 +198,7 @@ No traces of giants.
 #### Search for the Flame
 Journal of 15 year search for fire through various charted deep dive digs in search of volcanic activity. Looks like the area beneath this mountain has been thoroughly perforated, to depths of up to 1500m. It's a sad read, interspersed with hundreds of names of fallen dwarves who participated in the search.
 
-There are also a lot of references to a place called Jiksidur.
+There are also references to a place called Jiksidur.
 
 #### Fire & Lies; inflammatory posturing of `Wrufius`
 Written by `Grymin Wordbraids` about the fire giant trump:
