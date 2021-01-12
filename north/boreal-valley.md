@@ -143,7 +143,7 @@ By an Urochar TOB393 CR17 strangler tentacle aberration: tentacle leap.
 Foreshadowing: dark, slithery sounds, rocks fall from the ceiling at different times.
 Perception 25, they see something slither away.
 Not super dangerous despite CR17, unless they split up.
-More likely to attack in the little digger caves.
+Wants to split them up: drops a boulder, separating 2 of them, goes for the one in the back: hits him, paralyzes GW if he hits him. Tentacle fight.
 Foreshadowing tunnels, crushed bones, in a weird pile (like someone had a meal; high inv)
 
 ### Forge Guardians
@@ -168,12 +168,13 @@ Can only be used for drilling. But can create a path through to Akkhan without d
 
 Death Knight with modified Hellfire Orb (radiant/necrotic damage instead).
 Immune to all damage. Due to crystals in the room. Can be stunned or held though.
-Maybe he can speak like Aetera in Divinity2.
+TODO: Maybe he can speak like Aetera in Divinity2.
 https://www.youtube.com/watch?v=uu-nS9_wC6M
 
 Weapon;
-- Maul +3. Condemn on Crit.
-- Heaven's Fury (+3 Radiant shotgun (2d8), 5 attacks per hour), hits in 3 arcs, 60 deg differentiated.
+- Maul +3. Attuned. Crits on 19 or 20. On Crit: Judgement: AOE Stun for one round 30 feet.
+- Akkhan's Helmet: Condemn on Crit. Once per day.
+- Heaven's Fury (+3 Radiant shotgun (2d8), 5 attacks per hour), hits in 3 arcs, 60 deg differentiated. No disadvantage when used in close range, can hit same target more than once. Attuned. Crits on 19 o 20. On Crit: Blinded stagger: enemies hit have disadvantage on attacks next round.
 [[sunset-warriors]]
 
 While he is a Brute/Infantry
