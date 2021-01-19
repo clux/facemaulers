@@ -75,9 +75,9 @@ Will reveal to the cleverer party members that she simply values the essence of 
 ## Goliath Mine
 A dried up local source of diamonds. Converted to be a tourist attraction for goliaths from Luskan in better times, Akkhan buried there around the same time, who was a great inspiration to everyone in the region, despite his political failings with the giants. Made diamond rings and rods for magic practicioners.
 
-Dwarves contacted the brotherhood with a request to erase this part of history. "Undeserved glory. He ruined the reputation of the Frostbeards."
+Humiliated dwarves contacted the brotherhood with a request to erase this part of history. "Undeserved glory. He ruined the reputation of the Frostbeards."
 
-They got Arklem. He forged a plan of his own. Force humanity into the shadowfell where liches and undead could drain them indefinitely. Corrupted the raising, sealed him in, causing all dwarves to become cursed. Arklem stole the history of Kiaransalee, and ultimately sought out Irae in Maerimydra (who then helped turn her).
+They got Arklem. He had a plan of his own. Resurrect Akkhan and drain him of his near-divine powers, and drag him to the shadowfell where he could be drained indefinitely. Corrupted the raising, sealed him in, causing all dwarves to become cursed. Arklem stole the history of Kiaransalee, and ultimately sought out Irae in Maerimydra (who then helped turn her).
 
 Sealed in the place, and let winter do the rest. Created a rock fall over the castle doors, then it froze over. Auril has maintained an unending winter over the area anyway. On winter solstice, the low light of the sun across Baba Yaga's mountain peak would show its location, but now no one knows of it.
 
@@ -160,23 +160,21 @@ Hanging from the ceiling before collapsed corridor: flimsy but large, cobweb rid
 "no one will know, no one will know"
 
 #### Ghost 2
-"do the ritual, seal him in"
-"place his body on the circle, mage reads the rite, punishment for deeds"
+"erase him we must"
+"place his body on the circle, mage can make us forget"
 
 #### Ghost 3
-in library
 "not like this, not like this"
 "he should only be forgotten"
 "he deceived us"
 
-#### Ghost 4
-in digged corridors
+#### Ghost 5
 "will fix this, will fix this"
 "free the vanquisher"
 
-#### Ghost 5
+#### Ghost 4
 "sealed him in with the driller"
-"no one can start it anymore"
+"cannot start it anymore"
 
 ### Dwarven Library
 Books of lore.
@@ -196,8 +194,12 @@ If they escape out to the open, it burrows and retreats back.
 By an Urochar TOB393 CR17 strangler tentacle aberration: tentacle leap.
 Foreshadowing: dark, slithery sounds, rocks fall from the ceiling at different times.
 Perception 25, they see something slither away.
+Perception 20, they notice a non-clustered setup of icicles.
 Not super dangerous despite CR17, unless they split up.
 Wants to split them up: drops a boulder, separating 2 of them, goes for the one in the back: hits him, paralyzes GW if he hits him. Tentacle fight.
+All tentacles can attack single target, but only one can grapple.
+First hit is 30 damage.
+Higher grapple damage. (40)
 Foreshadowing tunnels, crushed bones, in a weird pile (like someone had a meal; high inv)
 
 ### Guardian Monolith
@@ -234,10 +236,6 @@ While he is a Brute/Infantry
 Minions:
 - Artillery/Glass: Skein Witch TOB349 (ex-celestial corrupted servant): Bind Fates, then Threads/Wave
 - Artillery: 4x Dream Squires with crossbows (absorbs spells); CC134
-
-
-Find a piece of Kiaransalee's scythe blade within. Increased corruption.
-Fights in sole chamber. If attacked, elves from nearby rooms rush in to help Akkhan.
 
 ### Lore
 Akkhan worked with Umnos on dwarven forgeries.
