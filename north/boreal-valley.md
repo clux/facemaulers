@@ -200,7 +200,7 @@ Not super dangerous despite CR17, unless they split up.
 Wants to split them up: drops a boulder, separating 2 of them, goes for the one in the back: hits him, paralyzes GW if he hits him. Tentacle fight.
 Foreshadowing tunnels, crushed bones, in a weird pile (like someone had a meal; high inv)
 
-### Forge Guardians
+### Guardian Monolith
 Bottom right.
 
 Dead bodies lie strewn around a central monolith. Looks as hard as diamond. Adamantine.
