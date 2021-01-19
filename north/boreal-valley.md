@@ -75,11 +75,65 @@ Will reveal to the cleverer party members that she simply values the essence of 
 ## Goliath Mine
 A dried up local source of diamonds. Converted to be a tourist attraction for goliaths from Luskan in better times, Akkhan buried there around the same time, who was a great inspiration to everyone in the region, despite his political failings with the giants. Made diamond rings and rods for magic practicioners.
 
-Dwarves contacted the brothehood with a request to erase this part of history. "Undeserved glory. He ruined the reputation of the Frostbeards."
+Dwarves contacted the brotherhood with a request to erase this part of history. "Undeserved glory. He ruined the reputation of the Frostbeards."
 
 They got Arklem. He forged a plan of his own. Force humanity into the shadowfell where liches and undead could drain them indefinitely. Corrupted the raising, sealed him in, causing all dwarves to become cursed. Arklem stole the history of Kiaransalee, and ultimately sought out Irae in Maerimydra (who then helped turn her).
 
 Sealed in the place, and let winter do the rest. Created a rock fall over the castle doors, then it froze over. Auril has maintained an unending winter over the area anyway. On winter solstice, the low light of the sun across Baba Yaga's mountain peak would show its location, but now no one knows of it.
+
+### The Resurrection Event
+The one family arranged a visit from the Brotherhood while the loyal dwarves were digging. They had built a network of insurrectionists.
+
+Brotherhood logo on cloak as he arrives by teleport. (He not a demilich yet).
+A: "I trust you have ensured the necessary privacy for this operation."
+DW: "You from the brotherhood? welcome. yes, we have secured some time."
+A: "Thank you. Please lead me to his burial chambers."
+---silence---
+DW: "So you think it's possible?"
+A: "What your little plan to erase history? Sure."
+DW: "How will you do it?"
+A: "It's a little difficult to explain, it's easier to demonstrate."
+
+A: starts ritual. Places __dimensional shackles__ around his legs and arms to metal in the floor, brings out a cracked diamond.
+A: Oh ancient dwarven gods, yield to us the great and powerful Akkhan, blablah. Ho dum shi va, ho dum shi va, ho dum shi va.
+Akkhan's skeleton starts to have a body reform, flesh filling in. Just as it does, the mage raises his hand toward the door, and with a swift downward motion, brings the gate down. Then in an equally swift motion, brings in three of the dwarves; "you.. will serve as a sacrifice."
+You can see the flesh of this dwarf melting in front of your eyes, and the skeleton on the altar starts filling in. "one does not tamper with history without a price." he says as its flesh disintegrate in front of his eyes.
+The face the dwarven body on the altar complete.
+One dwarf lies cowering in the corner as this is happening.
+Akkhan; coughs, but (modified) __iron bands of binding__ thrown across his face.
+A: Ah, I see curiosity got the better of you. Pleasure to make your acquintance, Akkhan. Don't worry, I shan't take much of your time.
+A: Holds out a big blue gem. It hovers in the air above Akkhan.
+A: **plunges ceremonial dagger into his chest** -> Akkhan screams out, slams arms with incredible force, but unyielding to the shackles.
+Blood sprays upward, coating the gem, blood continues to drip upwards towards the gem, flowing like an unearthly fluid.
+You watch for a minute as time feels like it stands still. Akkhan clearly watching constantly for something, but unable to do much. The mage also keeps a close eye on him.
+A: "Not long now, soon you will be one of us."
+DW4: "by Mordain, by Kavaki, this corruption must stop, this is not what was promised"
+A: "Ah, that's right, four there were."
+A: "You wanted him to be forgotten, is that not correct? Being remembered requires someone alive to tell the tale to others. Guess which part I am correcting."
+A: **vader force lifts him with two hads, then starts to drag the other hand rightwards with force, suddenly, a crack, and he swiftly yanks his hand completely sideways**
+you see one flying skull part crash into the wall, and about one half of a brain fall to the floor.
+The mage lets go, and the body falls to the floor as well.
+A: "It's truly a shame no one will remember that."
+A: "Now. Time for you to see what you rejected." **walks close to Akkhan, looks him in the eyes, then turns and looks at the gem**
+At that moment Akkhan's eyes light up with a radiant glow, and a white emanate from his body, the mage thrown to the side, Akkhan standing up, having ripped two parts of the shackles, however, something is wrong, he's stumbling. The glow in his eyes are fading, they are in fact turning a dull grey.
+A: **dusts cloak** "I didn't think you had it in you, but just stop. You know it's too late, stop fighting it. The bloodstone is filled.
+Akkhan: KAVAKIII!!!
+A: "Stop it you fool." Throws iron band over him again, but this time also covering his eyes.
+
+Apparating behind; two female devas softly land. Elegant, but strong, wielding ornate golden maces.
+Devas: "You are defiling the champion of the ram-lord. Keep your hands up and fingers separated."
+Arklem: "I would, but I have better things to do." **twinned Power Word Stun / Hold Person**
+Arklem: "I'll take those." **drives daggers through their eyes**
+
+Akkhan; uses his one free hand to bash on the gem repeatedly with continually deteriorating force.
+**see him opening palm, and from through the wall a huge, burning maul, dripping white hot flames as it flies through the air, lands perfectly into his hands**
+see him make a final desperate swing upwards toward the gem with the maul, and despite the weaker swing, it hits with an immense intensity, at least based on the shockwave you see ripple through and shake up all the dust in the wall.
+The gem, does not move, there's a few seconds where they are aligned, and you hear the faintest crack.
+Arklem: "Are you serious?" **exasperated sigh** "fiiiine. you want to resist this badly? enjoy resisting till the end of time itself."
+Arklem: Swiftly drags the gem to the wall were it explodes in a flood of blood.
+Akkhan's eyes turn a pale blue.
+Arklem: "Not the desired outcome, but a fun one nonetheless."
+He walks out. Seals the place. Summons protections.
 
 ### Dungeon
 ![](boreal-mine.jpg)
@@ -148,14 +202,12 @@ Foreshadowing tunnels, crushed bones, in a weird pile (like someone had a meal; 
 
 ### Forge Guardians
 Bottom right.
-TODO: This needs to have more of a twisted fire feel...
 
-- TANK: Tophet TOB383 golem with hearth in its belly
-- Guardian monolith: AC20 100HP. Filled with magical energy. Abjuration. Evocation. Inscription.
-> Monolith: Kindle and comply.
+Dead bodies lie strewn around a central monolith. Looks as hard as diamond. Adamantine.
 
-Need to feed a weapon ot the tank or else it activates when they touch the door.
-It puts a forcecage around the room, and renders him invulnerable to all damage until the monlith is destroyed.
+Guardian monolith: AC30 100HP. Resistant to everything except radiant. Filled with magical energy. Abjuration. Evocation.
+If they enter the room, forcecage around it, add 4 ghosts with withering touch. Each ghost takes 12.5% energy of the monolith.
+If they get the monolith to half health, activate tesla coil (lightning storm / cloud kill reskin = 5d8 lightning damage)
 
 ### Drilldozer
 Deactivated Golem, War Machine (reskin to driller) CC205 CR18. 6ft wide.
@@ -172,7 +224,7 @@ TODO: Maybe he can speak like Aetera in Divinity2.
 https://www.youtube.com/watch?v=uu-nS9_wC6M
 
 Weapon;
-- Maul +3. Attuned. Crits on 19 or 20. On Crit: Judgement: AOE Stun for one round 30 feet.
+- Maul +3 Radiant Mjolnir. Attuned. Crits on 19 or 20. On Crit: Judgement: AOE Thunderwave Stun for one round 30 feet. Returns to him (max 100ft range) when opening palm and thinking of it.
 - Akkhan's Helmet: Condemn on Crit. Once per day.
 - Heaven's Fury (+3 Radiant shotgun (2d8), 5 attacks per hour), hits in 3 arcs, 60 deg differentiated. No disadvantage when used in close range, can hit same target more than once. Attuned. Crits on 19 o 20. On Crit: Blinded stagger: enemies hit have disadvantage on attacks next round.
 [[sunset-warriors]]
