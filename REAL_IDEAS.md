@@ -19,6 +19,11 @@ Need to work towards an end where they get to talk to the architect of society.
 The ones behind the scenes of government.
 Who is pulling thes trings? Religious orgs? Financial society struggling with regulation?
 
+## Architects
+In underwater bases (least likely to be touched by inevitable destruction)
+biodomes.
+subnautica/soma/atlantis <- inspiration
+
 ## Religions
 ### XR
 Xtinction Religion - uprising protesters turned violent
