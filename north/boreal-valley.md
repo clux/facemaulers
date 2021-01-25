@@ -121,7 +121,7 @@ Akkhan: KAVAKIII!!!
 A: "Stop it you fool." Throws iron band over him again, but this time also covering his eyes.
 
 Apparating behind; two female devas softly land. Elegant, but strong, wielding ornate golden maces.
-Devas: "You are defiling the champion of the ram-lord. Keep your hands up and fingers separated."
+Devas: "You are defiling the champion of the ram-lord. Raise your hands up and keep your fingers separated."
 Arklem: "I would, but I have better things to do." **twinned Power Word Stun / Hold Person**
 Arklem: "I'll take those." **drives daggers through their eyes**
 
@@ -131,9 +131,12 @@ see him make a final desperate swing upwards toward the gem with the maul, and d
 The gem, does not move, there's a few seconds where they are aligned, and you hear the faintest crack.
 Arklem: "Are you serious?" **exasperated sigh** "fiiiine. you want to resist this badly? enjoy resisting till the end of time itself."
 Arklem: Swiftly drags the gem to the wall were it explodes in a flood of blood.
-Akkhan's eyes turn a pale blue.
-Arklem: "Not the desired outcome, but a fun one nonetheless."
-He walks out. Seals the place. Summons protections.
+Akkhan's eyes turn a pale blue and he falls to the ground.
+Arklem: "Look what you've made me do. Oh, right, you're out. Well, you'll have some time to think soon enough."
+Planar binding blood circle on the Devas. Turns one of them to a Skein Witch.
+Arklem: I'll call you "Seliro".
+Wards the place. Does several spells, floats Akkhan to the tomb stone, reattaches shackles.
+Then, walks out.
 
 ### Dungeon
 ![](boreal-mine.jpg)
@@ -217,25 +220,50 @@ Parked top left door facing right.
 Needs an activation gem found in one of the graves/side-tunnels. Whichever they see first.
 Can only be used for drilling. But can create a path through to Akkhan without disturbing the worm.
 
+### Northern room
+One journal from a dwarf `Voddraek Frostbeard`, skimming through the beginning, it appears he was in charge of the display of Akkhan's burial tomb, a task he clearly grew increasingly impatient with, although it's unclear why from the notes:
+Dated Autumn day; about ~486 years ago.
+"Visitors continue to pay homage to this ignorant defiance of the frostbeards. Something must be done."
+Another note, dated 5 days later
+"The emissary from the Arcane Brotherhood seemed positive about our plan to restore our honor. He's set to visit tomorrow."
+
 ### Akkhan
-> Eyes burning blue within the helmet of the dwarf.
+#### Setup
+He's lying down on the altar he was resurrected on.
+Celestial notices them entering, screams, immediately lighting a huge number of magical candles around the wallsm all glowing a magical pale blue.
 
-Death Knight with modified Hellfire Orb (radiant/necrotic damage instead).
-Immune to all damage. Due to crystals in the room. Can be stunned or held though.
-TODO: Maybe he can speak like Aetera in Divinity2.
-https://www.youtube.com/watch?v=uu-nS9_wC6M
+"after all this time, he is still sought after; quite a misfortune this spells"
+"seliro; you know what to do"
 
-Weapon;
-- Maul +3 Radiant Mjolnir. Attuned. Crits on 19 or 20. On Crit: Judgement: AOE Thunderwave Stun for one round 30 feet. Returns to him (max 100ft range) when opening palm and thinking of it.
-- Akkhan's Helmet: Condemn on Crit. Once per day.
-- Heaven's Fury (+3 Radiant shotgun (2d8), 5 attacks per hour), hits in 3 arcs, 60 deg differentiated. No disadvantage when used in close range, can hit same target more than once. Attuned. Crits on 19 o 20. On Crit: Blinded stagger: enemies hit have disadvantage on attacks next round.
+Simultaneously, a pale blue essense starts homing in on the armored dwarf, from all directions, and you see his eyes start glowing with the same pale blue.
+He lifts the hammer with one hand, slams it down on the ground next to him, then using the momentum of the obvious weight of this maul, pulls himself up on the ground with phenomenal strength.
+
+### Fight
+#### Akkhan
+Oathbreaker paladin. **BOSS: BRUTE/GLASS**
+AC20, 200HP, Speed 30. Use 18 baseline saves.
+
+- Dreadful Aspect: 30ft range Wis save vs fear for 1 min, repeat save when 30ft away.
+- Control undead: 4x dream squires
+Resistance to bludgeoning/piercing/slashing. Immune to necrotic. Resistant radiant.
+Condition immune: Frighten/poison/exhuastion (but no stun/para).
+
+3 attacks:
+- justifier: +15 hit, 10 bludgeoning 15 radiant, throw in a 60-70 on a crit
+- fury: +13 hit, 15x3 radiant, save vs blind. 25x3 on a crit to spice it up.
+
+Actual Weapon Drops;
+- Maul +3 Radiant Justifier (looks like fury of the vanished peak, huge golden mighty weapon, glows bright radiant, green handle). Attuned. Crits on 19 or 20. Returns to him (max 100ft range) when opening palm and thinking of it. Each enemy hit increases the damage of Divine Smite next round by one damage dice.
+- Fate's Vow: (Closed visor black helmet) On crit; add a dice to all damage rolls involved in the hit.
+- Heaven's Fury (+3 Radiant shotgun (2d8), hits in 3 arcs, 60 deg differentiated. No disadvantage when used in close range, can hit same target more than once. Attuned. Crits on 19 o 20. On Crit: Blinded stagger: enemies hit have disadvantage on attacks next round.
 [[sunset-warriors]]
 
-While he is a Brute/Infantry
+#### Skein Witch (Seliro)
+TOB349 (ex-celestial corrupted servant): Bind Fates, then Threads/Wave
+AC20, 160HP, fly. Immune: fire,lg,psy, Res: radiant. Truesight, telepathy.
 
-Minions:
-- Artillery/Glass: Skein Witch TOB349 (ex-celestial corrupted servant): Bind Fates, then Threads/Wave
-- Artillery: 4x Dream Squires with crossbows (absorbs spells); CC134
+#### Dream Squires
+4x Dream Squires with crossbows (absorbs spells); CC134
 
 ### Lore
 Akkhan worked with Umnos on dwarven forgeries.
