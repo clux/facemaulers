@@ -232,7 +232,7 @@ Another note, dated 5 days later
 He's lying down on the altar he was resurrected on.
 A strange androgynous creature covered in bandages from head to toe, bobbingly hovering a few feet above the ground, and emits a strange almost black glow; light absorbed on edges of its bandages.
 
-You also see a small lighted orb about the size of a fist suddendly become visible int he room; and you hear a voice.
+You also see a small lighted orb about the size of a fist suddendly become visible in the room; and you hear a voice.
 
 "*sigh* after five hundred years, he is still sought after; quite a misfortune this spells"
 "seliro; you know what to do"
@@ -264,7 +264,8 @@ Condition immune: Frighten/poison/exhuastion (but no stun/para).
 - fury: +13 hit, 15x3 radiant, save vs blind. 25x3 on a crit to spice it up.
 
 Actual Weapon Drops;
-- Maul +3 Radiant Justifier (looks like fury of the vanished peak, huge golden mighty weapon, glows bright radiant, green handle). Attuned. Crits on 19 or 20. Returns to him (max 100ft range) when opening palm and thinking of it. Each enemy hit increases the damage of Divine Smite next round by one damage dice.
+- Maul +3 Radiant Justifier (looks like fury of the vanished peak, huge golden mighty weapon, glows bright radiant, green handle). Attuned. Crits on 19 or 20. Each enemy hit increases the damage of Divine Smite next round by one damage dice.
+(MAYBE: Returns to him (max 100ft range) when opening palm and thinking of it.)
 - Fate's Vow: (Closed visor black helmet) On crit; add a dice to all damage rolls involved in the hit.
 - Heaven's Fury (+3 Radiant shotgun (2d8), hits in 3 arcs, 60 deg differentiated. No disadvantage when used in close range, can hit same target more than once. Attuned. Crits on 19 o 20. On Crit: Blinded stagger: enemies hit have disadvantage on attacks next round.
 [[sunset-warriors]]

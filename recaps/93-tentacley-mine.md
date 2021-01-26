@@ -16,9 +16,9 @@ It was a chaotic fight with very little line of sight, ending in Feay being knoc
 
 After which, you found one of these mining tunnels lead into the backside of a sarcophagus, and you quickly replace the dead dwarf therein, with your old bodies; one by one, pulling your way through the dead dwarfs abode.
 
-On the other side; a personalised room with a paining of the 4 sunset warriors; Natalya, Sunwuko, Sharia, and Akkhan, along with belonings personal to Akkhan.
+On the other side; a personalised room with a painting of the 4 sunset warriors; Natalya, Sunwuko, Sharia, and Akkhan, along with belonings personal to Akkhan.
 
-Finally, where we left off; a large ceremonial chamber; an armored dwarf lying ceremonially atop an altar in a room; and a strange androgynous humanoid floating in the air with bandages wrapped around its body.
+Finally, where we left off; a large ceremonial chamber; an armored dwarf lying atop an altar in a room; and a strange androgynous humanoid floating in the air with bandages wrapped around its body.
 
 Players:
 - Florent
