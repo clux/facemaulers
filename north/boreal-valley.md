@@ -230,13 +230,24 @@ Another note, dated 5 days later
 ### Akkhan
 #### Setup
 He's lying down on the altar he was resurrected on.
-Celestial notices them entering, screams, immediately lighting a huge number of magical candles around the wallsm all glowing a magical pale blue.
+A strange androgynous creature covered in bandages from head to toe, bobbingly hovering a few feet above the ground, and emits a strange almost black glow; light absorbed on edges of its bandages.
 
-"after all this time, he is still sought after; quite a misfortune this spells"
+You also see a small lighted orb about the size of a fist suddendly become visible int he room; and you hear a voice.
+
+"*sigh* after five hundred years, he is still sought after; quite a misfortune this spells"
 "seliro; you know what to do"
 
+The creature starts to spin with hands stretched out, immediately lighting a huge number of magical candles around the wallsm all glowing a magical pale blue.
+
+"This place is to remain lost; you are about to learn what the reward for finding this place is."
+> what: The one you've been searching for of course. Along with the more dubious honor of being on my watchlist.
+> who: you'll know soon enough.
+
 Simultaneously, a pale blue essense starts homing in on the armored dwarf, from all directions, and you see his eyes start glowing with the same pale blue.
-He lifts the hammer with one hand, slams it down on the ground next to him, then using the momentum of the obvious weight of this maul, pulls himself up on the ground with phenomenal strength.
+
+One hand slowly rises, drops his hand to his chest to his hammer, which ignites with radient fury, he lifts the huge hammer with one hand, slams it down on the ground next to him, then using the momentum of the obvious weight of this maul, pulls himself up on the ground with phenomenal strength.
+
+At the same time; 4 dwarves in hollow black armor, eyes glowing blue rises out of the ground in each corner
 
 ### Fight
 #### Akkhan
