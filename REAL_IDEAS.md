@@ -127,16 +127,19 @@ Tons of desperately sad characters.
 - Anti-police radicalists from a "model" minority that fight prosecution of their racial flaws (halflings,kobolds)
 - See https://www.youtube.com/watch?v=0oXiFuPCU6k - Cubbys from Dimension High
 
-## HP Mechanic
-You don't get more HP, you can just find better shields.
-Shields normally regen after a 10 minutes.
+## Levelling
+Levels is tied to wealth and faction progress.
+Higher wealth, faction rank => better tech access.
 
+## Shield Mechanic
 Instead of health potions, there are lightning charges for your battery.
-There are 4 slots in your armor, you can plug in one as a bonus action (effectively a health potion).
+There are slots in your armor, you can plug in one as a bonus action (effectively a health potion).
 It will quick charge your battery over the course of one round (max one active at a time).
-Once you've used one, the inject spot must be repaired (long rest).
-
 Spotting low shield enemies? 50% flickering, 25% flashing red.
+
+## HP Mechanic
+HP always == constitution number (but con still helps on con saves)
+Hit dice number; size of portable battery for shield.
 
 ## Accents
 https://www.youtube.com/watch?v=0iv6-csRBBI
