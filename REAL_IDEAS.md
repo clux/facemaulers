@@ -127,6 +127,17 @@ Tons of desperately sad characters.
 - Anti-police radicalists from a "model" minority that fight prosecution of their racial flaws (halflings,kobolds)
 - See https://www.youtube.com/watch?v=0oXiFuPCU6k - Cubbys from Dimension High
 
+## HP Mechanic
+You don't get more HP, you can just find better shields.
+Shields normally regen after a 10 minutes.
+
+Instead of health potions, there are lightning charges for your battery.
+There are 4 slots in your armor, you can plug in one as a bonus action (effectively a health potion).
+It will quick charge your battery over the course of one round (max one active at a time).
+Once you've used one, the inject spot must be repaired (long rest).
+
+Spotting low shield enemies? 50% flickering, 25% flashing red.
+
 ## Accents
 https://www.youtube.com/watch?v=0iv6-csRBBI
 
