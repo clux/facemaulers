@@ -16,7 +16,7 @@ Yawning portal NW
 - [[magesguild]] (luna nova, blackstaff tower == archmage residence)
 - [[yawning-portal]]
 - [[jarlaxle]]'s mansion
-- [[bregan]] thieves guild
+- [[bregan-daerthe]] thieves guild
 - Barracks (Iron Fist, Deepwater harbour w/ cannons)
 - Sewers: Elven ruins of Aelinthaldar
 - Temple to Mystra in Sea Ward; [House of Wonder](https://forgottenrealms.fandom.com/wiki/House_of_Wonder )
@@ -180,7 +180,7 @@ Need encounter if they start a fight in docks.
 [magesguild]: magesguild "Mages Guild"
 [yawning-portal]: yawning-portal "Yawning Portal"
 [jarlaxle]: ../npcs/jarlaxle "Jarlaxle"
-[bregan]: bregan "Bregan D'aerthe"
+[bregan-daerthe]: ../factions/bregan-daerthe "Bregan D'aerthe"
 [diana]: ../npcs/diana "Diana"
 [cameron]: ../npcs/cameron "Cameron"
 [almah]: ../npcs/almah "Almah"
