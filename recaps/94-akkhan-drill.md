@@ -11,7 +11,6 @@ Considering using Backwards Gaze, but outside of its normal range would require 
 
 You had some awkward interactions with a forcecaging Monolith, and polymorphed (somewhat unwisely) a gargantuan metal boreworm. The former causing Faey to almost get trapped in a room with ghosts for an hour, and the latter causing a huge tunnel bored through stone, revealing numberous gemstones down a 30 degree inclined passage downwards.
 
-
 Players:
 - Florent
 - Guy

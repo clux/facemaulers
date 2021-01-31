@@ -5,7 +5,7 @@ Had a long history of loose cooperation with Neverwinter and to a lesser extent,
 Corrupted and guided by Arklem using the Egg of Galadaeros + Glibness.
 
 ## Members
-- Archchancellor [[arklem]]
+- Grand Archmage [[arklem]]
 - Archmage [[celerom]]
 - Conjurer [[sydney]]
 
