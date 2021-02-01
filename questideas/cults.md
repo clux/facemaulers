@@ -1,4 +1,4 @@
-# Cults
+## Cults
 
 ## Stranger than Fiction IV: What Even Are Cults
 https://www.reddit.com/r/DnDBehindTheScreen/comments/jyczho/stranger_than_fiction_iv_what_even_are_cults/

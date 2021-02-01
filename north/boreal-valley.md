@@ -266,7 +266,7 @@ Condition immune: Frighten/poison/exhuastion (but no stun/para).
 Actual Weapon Drops;
 - Maul +3 Radiant Justifier (looks like fury of the vanished peak, huge golden mighty weapon, glows bright radiant, green handle). Attuned. Crits on 19 or 20. Each enemy hit increases the damage of Divine Smite next round by one damage dice.
 (MAYBE: Returns to him (max 100ft range) when opening palm and thinking of it.)
-- Fate's Vow: (Closed visor black helmet) On crit; add a dice to all damage rolls involved in the hit.
+- Fate's Vow: (Closed visor black helmet) On crit; add a dice to all damage rolls involved in the hit. Nerfed to at most one dice per attack (brutal crit), gave crit immunity, and required attunement.
 - Heaven's Fury (+3 Radiant shotgun (2d8), hits in 3 arcs, 60 deg differentiated. No disadvantage when used in close range, can hit same target more than once. Attuned. Crits on 19 o 20. On Crit: Blinded stagger: enemies hit have disadvantage on attacks next round.
 [[sunset-warriors]]
 
