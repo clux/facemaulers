@@ -1,8 +1,10 @@
 # Silver Helix
-An ancient organisation with ties to the `Emerald Enclave`.
+An ancient organisation with ties to the `Emerald Enclave`. Communicates infrequently, and avoids long range communication and city-to-city teleportation to avoid drawing the attention of mages guilds and nefarious powers. Sends emissaries to various cities to align.
 
 ## Rumors
-"their word faded from the word of mouth as the effects of the sundering, and the fall of the netherese empire came and went, without any accellerating global deterioration, but their leaders still maintain the organisation, operated out of Gulthmere, below the sea of fallen stars".
+- "their word faded from the word of mouth as the effects of the sundering, and the fall of the netherese empire came and went, without any accellerating global deterioration, but rumors say the organisation still persists, somewhere in Gulthmere, below the sea of fallen stars".
+- Icewind: "Adalon is fair, knowledgable and fond of silver. You infernal better stay on your toes, eh? / Perhaps why we've never had infernals attack this region, eh?
+- Baldurs Gate: "Do not underestimate Vaeros. Despite merely running debate circles in the open, he is frequently invited to present popular viewpoints to the council."
 
 ## Overview
 > goal: destroy/distort the information about ancient undead powers, so that history does not repeat itself, and that power structures in the outer planes maintain their balance.
@@ -14,8 +16,8 @@ An ancient organisation with ties to the `Emerald Enclave`.
 > ongoing goal: track the movement of the demon lords, learn of their origin.
 > current goal: investigate the corruption of the waters in dragon lake. undead spotted on the outskirts of Cormyr, dispatched by Zaehesh
 
-**Membership**: High level power. Understanding of planar politics, local political influence.
-**Goals**: Unity among the planes; natural order to everything, they are a guiding hand towards peaceful coexistence and cooperation. Not above using subterfuge and deception to get a goal accomplished.
+**Membership**: Planar emissaries (magnus), draconic influencers in human cities. Forged through an old unity of two metallic dragons, along with the sultan.
+**Goals**: Unity among the planes; natural order to everything, they are a guiding hand towards peaceful coexistence and cooperation. Not above using subterfuge and deception to get a goal accomplished. Dhaikhezzish provides incentives to even the dragons, by granting wishes once every hundred years.
 **Secrecy**: Trust likely to be eroded if people knew it was "arguably undermining" public free thought. They are afraid of the mages scrying eyes and as such have magic free zones. Some of them are actively met with. Diana latest from sword coast. Previously Pre-Celerom arch-mage from Arcane Brotherhood.
 **Tensions**: Dhaikhezzish focus on the material planes is not universally welcomed. He has maintained many city-of-brass style ideals of what is reasonable for trade that feels outdated today. He talks a bigger game on unity when not dealing with the city. Due to its size and sphere of influence, it is often ignored.
 
@@ -23,10 +25,11 @@ An ancient organisation with ties to the `Emerald Enclave`.
 Magnus Incalesco: `Dhaikhezzish The Incandescent` (sultan of the efreet from plane of fire)
 Magnus Ambulos: [[Andraste]]
 Magnus Arbor: `Emmantiensien` (from [[seelie-court]])
-Nobilis Argentum: `Adalon`
-Nobilis Aurochalcinus: [[felgolos]]
-Nobilis Sapphyrus: `Chorom`
-Nobilis Aurum: `Aerosclughpalar`
+Magnus Ambulos: SOMEONE FROM SHADOWFELL FOR ANDRASTE
+Nobilis Argentum: `Adalon` (Icewind Dale)
+Nobilis Aurochalcinus: [[felgolos]] (Stormguard)
+Nobilis Sapphyrus: `Chorom` (Neverwinter)
+Nobilis Aurum: `Aerosclughpalar` aka Vaeros Fireshield (Baldur's Gate)
 
 ## Allies
 ### Waterdeep
