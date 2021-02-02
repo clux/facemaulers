@@ -8,6 +8,8 @@ related to Natalya (ex champion of the realm), acquired one or two of her magic 
 She is a high ranking member of [[silver-helix]]
 
 https://paper.dropbox.com/doc/andraste--BEYtxVCb0LNnPDp4Y2~uHqjPAg-lwI59UrVo1EwGobHkLMl5
+Shared this with her about the helix:
+https://docs.google.com/document/d/1Tg2QJWJf-hquh2r4jF4tGkl0fKah3-E2iMe1MWVBtaY/edit
 
 ## Bows
 Whisper +3. 2d8 base piercing damage. Deals psychic damage while invisible.
