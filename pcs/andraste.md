@@ -11,32 +11,6 @@ https://paper.dropbox.com/doc/andraste--BEYtxVCb0LNnPDp4Y2~uHqjPAg-lwI59UrVo1EwG
 Shared this with her about the helix:
 https://docs.google.com/document/d/1Tg2QJWJf-hquh2r4jF4tGkl0fKah3-E2iMe1MWVBtaY/edit
 
-## Bows
-**Whisper** +3. 2d8 base piercing damage. Deals psychic damage while invisible.
-> As a bonus action, you can roll a DC 15 Concentration check. If you succeed, attacks you make this round do not end your invisibility or reveal your position, if they otherwise would. If you fail, you can choose not to make attacks. If you are under the benefit of Nature's Veil, the check automatically succeeds.
-> As a bonus action, you can infuse an arrow with silver dust which scatters across the battlefield in a 60ft sphere upon impact, revealing all invisible creatures. Recharges once per long rest.
-> As an action, you can launch a magical cluster-arrow towards the skies which comes raining down around a point in a 30ft radius, forcing all affected creatures to make a DC20 CON save or take 8d6 necrotic damage for two rounds (if they stay within the zone for two rounds). This ability recharges once per long rest.
-
-**Scorchvine** +3. 3d6 base damage (fire). Attunement  required for following:
-> As a bonus action, you can infuse a Delayed Blast Fireball into an arrow (bow maintains concentration from infusion time, to your command) once per long rest.
-> You become vulnerable to cold damage.
-> You can sense all creatures' relations (weakness/resistance) to fire and cold.
-> You cannot be petrified or stunned.
-
-**Frostvine** +3. 2d8 base damage (cold).
-> As a bonus action, you can infuse Wall of Ice into an arrow (bow maintains concentration from infusion time, to your command) once per long rest.
-> Before you can attune to it, you must kill a creature of your alignment.
-> Crits on 19 or 20.
-
-**Dragonwood** +3. 2d8 base damage (piercing)
-> Crits on 19 or 20.
-> When fighting undead, the bow resonates in your hand; add d6 points of damage to at most one hit against undead per round, and change damage type to radiant.
-> As an action, you can call upon draconic powers and infuse it into a single dragonstrike attack. This launches a 10ft wide, 60 foot long line spectral dragon powering its way through anything in its wake. Creatures caught in the attack must make a DC20 CON save, or take 10d8 force damage. This ability recharges once per long rest.
-
-inspiration
-https://5e.tools/items/ephixis-bow-of-nylea-mot.html
-https://www.brandesstoddard.com/2017/11/dd-5e-five-magic-bows-and-a-magic-arrow/
-
 ## Expected damage
 3 attacks (distant strike horizon walker), hunters mark x3 (+2 attack roll from archery feat), can empower one damage dice (elven accuracy feat) + 1d8 favoured enemy
 3 * (1d6 + DMGBASE + 3) => 40dmg on 2d8, 51 on 3d8, 42 on 3d6

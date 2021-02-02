@@ -94,14 +94,14 @@ A: "What your little plan to erase history? Sure."
 DW: "How will you do it?"
 A: "It's a little difficult to explain, it's easier to demonstrate."
 
-A: starts ritual. Places __dimensional shackles__ around his legs and arms to metal in the floor, brings out a cracked diamond.
+A: starts ritual. Places __dimensional shackles__ around his legs and arms to metal in the floor, etches a blood circle on the ground around the altar, brings out a cracked diamond.
 A: Oh ancient dwarven gods, yield to us the great and powerful Akkhan, blablah. Ho dum shi va, ho dum shi va, ho dum shi va.
-Akkhan's skeleton starts to have a body reform, flesh filling in. Just as it does, the mage raises his hand toward the door, and with a swift downward motion, brings the gate down. Then in an equally swift motion, brings in three of the dwarves; "you.. will serve as a sacrifice."
+Akkhan's skeleton starts to have a body reform, flesh filling in. Just as it does, the mage raises his hand toward the door, and with a swift downward motion, brings a gate down. Then in an equally swift motion, brings in three of the dwarves; "you.. will serve as a sacrifice."
 You can see the flesh of this dwarf melting in front of your eyes, and the skeleton on the altar starts filling in. "one does not tamper with history without a price." he says as its flesh disintegrate in front of his eyes.
 The face the dwarven body on the altar complete.
 One dwarf lies cowering in the corner as this is happening.
 Akkhan; coughs, but (modified) __iron bands of binding__ thrown across his face.
-A: Ah, I see curiosity got the better of you. Pleasure to make your acquintance, Akkhan. Don't worry, I shan't take much of your time.
+A: Ah, I see curiosity got the better of you. Pleasure to make your acquintance, Akkhan. Don't worry, you'll be in equal company soon enough.
 A: Holds out a big blue gem. It hovers in the air above Akkhan.
 A: **plunges ceremonial dagger into his chest** -> Akkhan screams out, slams arms with incredible force, but unyielding to the shackles.
 Blood sprays upward, coating the gem, blood continues to drip upwards towards the gem, flowing like an unearthly fluid.
@@ -114,8 +114,8 @@ A: **vader force lifts him with two hads, then starts to drag the other hand rig
 you see one flying skull part crash into the wall, and about one half of a brain fall to the floor.
 The mage lets go, and the body falls to the floor as well.
 A: "It's truly a shame no one will remember that."
-A: "Now. Time for you to see what you rejected." **walks close to Akkhan, looks him in the eyes, then turns and looks at the gem**
-At that moment Akkhan's eyes light up with a radiant glow, and a white emanate from his body, the mage thrown to the side, Akkhan standing up, having ripped two parts of the shackles, however, something is wrong, he's stumbling. The glow in his eyes are fading, they are in fact turning a dull grey.
+A: "Now. Time for you to start avenging the fallen." **walks close to Akkhan, looks him in the eyes, then turns and looks at the gem**
+At that moment Akkhan's eyes light up with a radiant glow, and a white emanate from his body (WHOOSH), the mage thrown to the side, Akkhan standing up, having ripped two parts of the shackles, however, something is wrong, he's stumbling. The glow in his eyes are fading, they are in fact turning a dull grey.
 A: **dusts cloak** "I didn't think you had it in you, but just stop. You know it's too late, stop fighting it. The bloodstone is filled.
 Akkhan: KAVAKIII!!!
 A: "Stop it you fool." Throws iron band over him again, but this time also covering his eyes.
@@ -123,7 +123,7 @@ A: "Stop it you fool." Throws iron band over him again, but this time also cover
 Apparating behind; two female devas softly land. Elegant, but strong, wielding ornate golden maces.
 Devas: "You are defiling the champion of the ram-lord. Raise your hands up and keep your fingers separated."
 Arklem: "I would, but I have better things to do." **twinned Power Word Stun / Hold Person**
-Arklem: "I'll take those." **drives daggers through their eyes**
+Arklem: "Unexpectedly simple." **drives daggers through their eyes**
 
 Akkhan; uses his one free hand to bash on the gem repeatedly with continually deteriorating force.
 **see him opening palm, and from through the wall a huge, burning maul, dripping white hot flames as it flies through the air, lands perfectly into his hands**
@@ -134,8 +134,8 @@ Arklem: Swiftly drags the gem to the wall were it explodes in a flood of blood.
 Akkhan's eyes turn a pale blue and he falls to the ground.
 Arklem: "Look what you've made me do. Oh, right, you're out. Well, you'll have some time to think soon enough."
 Planar binding blood circle on the Devas. Turns one of them to a Skein Witch.
-Arklem: I'll call you "Seliro".
-Wards the place. Does several spells, floats Akkhan to the tomb stone, reattaches shackles.
+Arklem: "Much prettier this way; Seliro. Don't worry, you won't need to do much. The helix won't find you here."
+Wards the place, dragon ward. Does several spells, floats Akkhan to the tomb stone, reattaches shackles.
 Then, walks out.
 
 ### Dungeon
@@ -294,7 +294,7 @@ There are also references to a place called Jiksidur.
 #### Fire & Lies; inflammatory posturing of `Wrufius`
 Written by `Grymin Wordbraids` about the fire giant trump:
 
-> Details a campaign wherein a fire giant named Wrufius argued for fire giant supremacy and how the dwarves who guarded the gates to menzo were taking advantage of the hospitality of the storm and cloud giants. It talks about how he talked about how the fire giants had been supplanted by less skilled and cheaper workers, and preached to the frost giants how eventually this trend of alleged infiltration would continue; the dwarves (he claimed) would replace their defensive work by hiring cheaper goliaths (essentially subcontracting), and start charging them more and more for weapons even though they were made in a forge owned by giants.
+> Details a campaign wherein a fire giant named Wrufius argued for fire giant supremacy and how the dwarves who guarded the gates to menzo were taking advantage of the hospitality of the storm and cloud giants. Wrufius talked about how the fire giants had been supplanted by less skilled and cheaper workers, and preached to the frost giants how eventually this trend of alleged infiltration would continue; the dwarves (he claimed) would replace their defensive work by hiring cheaper goliaths (essentially subcontracting), and start charging them more and more for weapons even though they were made in a forge owned by giants.
 > Most of the quotes of Wrufius are literal giant, gw can at least see see there's a certain word play tied up in the giant language and a certain element is certainly lost in translation, but the included translation within the book shows pretty clearly that it's using pretty slanderous techniques; moving quickly from case to case of examples without proving them, in a manner that sounds pretty conspiratorial.
 > It becomes clear as you read this that the book was written in lieu of the fire giant takeover of Gilgrin 560y ago from dates. The dwarves were forcefully squeezed out with authoritarian policing by the frost giants on new terms from Halos.
 
