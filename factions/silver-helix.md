@@ -24,7 +24,7 @@ An ancient organisation with ties to the `Emerald Enclave`. Communicates infrequ
 Magnus Incalesco: `Dhaikhezzish The Incandescent` (sultan of the efreet from plane of fire)
 Magnus Ambulos: [[Andraste]]
 Magnus Arbor: `Emmantiensien` (from [[seelie-court]])
-Magnus Umbra: TODO: SOMEONE FROM SHADOWFELL FOR ANDRASTE
+Magnus Umbra: `Melanura` (shadow fell shadar kai, been to Irithyll)
 Nobilis Argentum: `Adalon` (Icewind Dale)
 Nobilis Aurochalcinus: [[felgolos]] (Stormguard)
 Nobilis Sapphyrus: `Chorom` (Neverwinter)
@@ -48,6 +48,11 @@ It's Adalon the 5th now. He's 1200 yo. He has vast knowledge.
 He fought Arklem once when he tried to raise heroes of the city.
 
 rumors: "Adalon is fair, knowledgable and fond of silver. You infernal better stay on your toes, eh? / Perhaps why we've never had infernals attack this region, eh?
+
+Have kept spies around Gilgrin, Menzo, Maerimydra to check for dark ones.
+Will want similar updates.
+Andraste have seen an undead city made out of bone. Observed it.
+Not seen any sign of liches, but the unusual undead lifespan reeks of lich magic.
 
 ### Baldurs Gate
 `Aerosclughpalar` - in the form of a druid. He is seen as the socrates of baldur's gate.
