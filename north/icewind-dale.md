@@ -4,6 +4,21 @@ Harsh, harsh, near-uninhabitable land that regularly plunged below freezing temp
 Home to only the most hardened of frontiersmen, pioneers, and barbarians.
 -12C -> 21C in kind summers, but -40C lows on harsh winters.
 
+~500 people, barbarians, goliaths, humans.
+
+## Blacksmith
+Room for 10 horses. 4 currently.
+
+## The Beer Hall (Tavern + Inn)
+Single long wodden table. Room for 20 people. Drinking out of these huge wooden tankards.
+Boreal Beverage/Booze. Dark ale.
+They are having winter festivities. Good catches from ice fishing.
+"It's day 5 of the Week of Darkness."
+"To Auril. To winter."
+
+## Temple to Auril
+Empty at the moment. Open, small shrine with the symbol of an ice crystal.
+
 ## Ruler
 High Chancellor [[adalon]]
 

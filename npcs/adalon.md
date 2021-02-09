@@ -20,8 +20,9 @@ Marble statues. Crystal and silver chandelier hanging from the room. Impeccably 
 Thick stone walls, tiled pieces of grey metal: https://www.pinterest.co.uk/pin/390757705158569350/
 Stone balcony with a small metal arch; https://www.pinterest.co.uk/pin/158751955604737926/
 
-## Voice
-Warm and kind. Slightly posh.
+## Style
+Voice: Warm and kind. Slightly posh.
+Look: Bald, grey goatee, pale impeccable skin. Faded black robe. He looks 40.
 
 ## Threats
 Responds with cone of paralyzing gas. DC24 CON vs 1min paralyze.
