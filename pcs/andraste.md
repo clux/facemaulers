@@ -11,6 +11,23 @@ https://paper.dropbox.com/doc/andraste--BEYtxVCb0LNnPDp4Y2~uHqjPAg-lwI59UrVo1EwG
 Shared this with her about the helix:
 https://docs.google.com/document/d/1Tg2QJWJf-hquh2r4jF4tGkl0fKah3-E2iMe1MWVBtaY/edit
 
+## Silver Helix Missions
+Have seen an undead city made out of bone. Observed it.
+Not seen any sign of liches, but the unusual undead lifespan reeks of lich magic.
+
+### Initial Message Adalon
+
+
+## Party prior knowledge
+
+- you would know about a powerful group of champions based in waterdeep that's been running errands for the various mages guilds with an unclear motivation
+- consisting of a thiefling, an intimidating goliath, and occasionally a rogueish figure
+- noticed by various thieves guilds in waterdeep, luskan and neverwinter
+- selling extremely powerful artifacts on the black market
+- you heard they were present in the demonlord assault on waterdeep
+- then they disappeared off the radar for a while at the same time as luskan's demise from a gnoll incursion (and the party was spotted there around the same time), but a lot of thieves guild contacts vanished a that time naturally
+- resurfaced in waterdeep later
+
 ## Expected damage
 3 attacks (distant strike horizon walker), hunters mark x3 (+2 attack roll from archery feat), can empower one damage dice (elven accuracy feat) + 1d8 favoured enemy
 3 * (1d6 + DMGBASE + 3) => 40dmg on 2d8, 51 on 3d8, 42 on 3d6
