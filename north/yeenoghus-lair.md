@@ -5,7 +5,6 @@ Corridor partially made by purple worm (but yeenoghu can burst through tiny open
 Then silence. Chanting gnoll voice: Yeenoghu (3 times). 5 seconds of silence, then this deathly roar.
 Then gradually more frequent steps, and Yeenoghu comes..
 
-
 **Fight area entrance**: Cave complex 500ft underneath the Boreal Valley. Get there through a purple worm tunnel, they can retreat into soft areas a purple worm nursery. They can also hide in there if they find it early and roll decent stealth.
 
 ## Intro

@@ -3,7 +3,7 @@ Helical Beginnings
 
 You met `Andraste`, a wood elf from Cormanthor on her way up north to talk to her aide `Adalon`.
 
-After exchanging cautious pleasantries, and a failed attempt from Goatweaver to try to sell the newcomer on the religion of Kavaki, you realised that you had some common goals, particularly in getting rid of the gnoll infestation moving erratically around the Boreal Valley, but also in the form of information from both her aide.
+After exchanging cautious pleasantries, and a failed attempt from Goatweaver to try to sell the newcomer on the religion of Kavaki, you realised that you had some common goals, particularly in getting rid of the gnoll infestation moving erratically around the Boreal Valley, but also in the form of information from her aide.
 
 You griffined your way to Icewind Dale where you met `Adalon`, clearly some kind of leader figure for the tight-nit town, but also clearly knowing a lot more than a leader from a hunter/fishing village should know.
 
