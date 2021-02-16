@@ -190,6 +190,8 @@ gather intel, blueprints, guard patterns, private info to improve odds
 - Dr Elderknob Stoabgobbler
 - Dr Medicine
 
+## Government
+Hypermodern castle. Star forts in Attack on Titan Sytle.
 
 ## Homebrew
 ### Rumors
