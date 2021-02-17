@@ -53,3 +53,14 @@ Buff damage slightly, and save a few crits if followers die.
 
 Helpers: 2x Flinds! 127HP
 16x witherlings
+
+### Flail
+#### Detrimental Props
+Rolled:
+
+While attuned to the artifact, you emit a sour stench noticeable from up to 10 feet away.
+While attuned to the artifact, you can't smell.
+The artifact houses a bodiless life force that is hostile toward you. Each time you use an action to use one of the artifact's properties, there is a 50 percent chance that the life force tries to leave the artifact and enter your body. If you fail a DC 20 Charisma saving throw, it succeeds, and you become an NPC under the DM's control until the intruding life force is banished using magic such as the dispel evil and good spell.
+
+https://www.dndbeyond.com/my-creations?filter-name=butcher
+https://www.dndbeyond.com/magic-items/2865500-the-butcher
