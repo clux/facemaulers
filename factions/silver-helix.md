@@ -31,6 +31,23 @@ Nobilis Aurochalcinus: [[felgolos]] (Stormguard)
 Nobilis Sapphyrus: `Chorom` (Neverwinter)
 Nobilis Aurum: `Aerosclughpalar` aka Vaeros Fireshield (Baldur's Gate)
 
+## Base
+City of Brass in Plane of Fire.
+Curtain of beaten brass surround the entire city, stretching for 100s of miles. Hemisphere.
+Charcoal Palace in the center of the city.
+
+He is transactional.
+Get him something valueable and shiny
+Do not make arguments against good or evil.
+
+## Items
+Bracers of Defense. +2 AC if no armor and no shield.
+
+### Teleportation
+Only way to get there is to plane shift with a special token the helix.
+Brass ring, hollow, delicate, looks like it's made out of one continuous spring.
+Only way out of there alive is a plane shift to Cormanthor.
+
 ## Allies
 ### Waterdeep
 No dragons allowed in waterdeep because of the ward.
