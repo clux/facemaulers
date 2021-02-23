@@ -40,6 +40,9 @@ He is transactional.
 Get him something valueable and shiny
 Do not make arguments against good or evil.
 
+https://dungeonsdragons.fandom.com/wiki/City_of_Brass
+https://forgottenrealms.fandom.com/wiki/City_of_Brass
+
 ## Items
 Bracers of Defense. +2 AC if no armor and no shield.
 

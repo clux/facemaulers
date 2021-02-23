@@ -16,6 +16,9 @@ So with, an opportunity to visit the biggest interplanar trading market in the m
 You went to Waterdeep, spoke with Ursula and heard about military mobilisation in Neverwinter, confirmed with Zaehesh, gathered necessary supplies to get in and out of the City of Brass quickly (with a few backup plane shift scrolls), then headed up to the teleportation circle, whose powering invocations are now shifting you forward into the great unknown.
 
 TODO: intro to city of brass.
+TODO: appraisals of items (WD prices + Brass Prices)
+TODO: anti scry materials https://roll20.net/compendium/dnd5e/Nondetection ?
+TODO: more items for city of brass https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view
 
 Players:
 - Florent
