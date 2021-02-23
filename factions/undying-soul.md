@@ -44,6 +44,7 @@ Slashes indicate translastion issues from undercommon. Peace and stability is th
 - Tether [[mordai-vell]] to [[koth]] and slowly corrupt dragon's influence in [[neverwinter]]
 - [[irae]] sequesters [[umnos]], opens the spine, and unleashes demon lords
 - [[irae]] steals staff in [[gilgrin-vault]], puts matriarch boss in place
+- [[arklem]] + [[irae]] heads to pit of hatred - channels spine to trap Orcus and steal his wand
 - Party defeats [[mordai-vell]] after losing two members in shadowfell
 - [[irae]] unleashes [[wd-demogorgon]] - steals scythe blade with Time Stop
 - [[irae]] sends Yeenoghu to [[luskan]]
@@ -53,6 +54,10 @@ Slashes indicate translastion issues from undercommon. Peace and stability is th
 - Party defeats [[umnos]] and closes the spine; demon lords not controllable.
 - [[irae]] + [[arklem]] baits [[felgolos]] into shadowfell for his kids, doing a slow drain there
 - Party defeats bone city, discovers [[irae]]'s behind the scenes work, fixes [[celerom]]
+
+## Goals
+- Re-animate, and kill the Raven Queen, to raise Kiaransalee
+- Slowly convert the living into an army of the dead
 
 ## Headquarters
 [[velddrinnsshar]]

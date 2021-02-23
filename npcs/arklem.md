@@ -15,6 +15,8 @@ But now he has all the power he needs with the Egg and Liches in allegiance(?)
 Arklem doesn't want to be found - anti-scry ritual.
 
 ## Development
+- Took out Orcus' ship and stole his Wand
+- Teleported to Irae's phylactery from the ship (and with heavy buffs, attuned to the wand)
 - Stole the Egg of Galadaeros during Yeenoghu's assault on Luskan
 - Was spotted by Celerom
 
@@ -34,6 +36,9 @@ Cross reference with tasha.
 Arcane Grimoire +3 Spell DC
 Quill of Scribing? Can scribe any spell you can cast?
 Or just Heart Weaver's Primer (Some cool wiz spells, mind control related)
+
+He has Wand of Orcus.
+https://5e.tools/items/wand-of-orcus-dmg.html
 
 ## Combos
 - Paralyzing touch into disintegrate (meh, not really fun)
