@@ -187,6 +187,13 @@ janslow: Additional Selling: Aegis Fang (-10k), Cleaver (-8k), Flail (-2k), Scyt
 janslow: Totals: Faey (14.5k), Mordai (36.5k), GW (-2k), spares (-22k), cash (-48.5k) = -21k
 clux: Need: Make Oathkeeper, tweak Stormbow (LG, +3), Tweak Book to remove attunement (he uses it)
 
+## Future items
+Boots of the Lightning Path
+Wondrous item, very rare (requires attunement) 8000gp
+
+While you wear these soft, calf-high boots, your walking speed increases by 10 feet. The boots have 9 charges, and regain all expended charges at dawn. When you use the Dash action and expend a charge, your steps crackle with lightning, and you deal an additional 1d6 lightning damage with your next successful weapon attack within the next minute. You can have up to 3d6 extra damage from these boots at a time.
+
+
 ## EBA: Heist
 Powerful items in shady areas. only for sale if they can get something better. rob the charcoal palace.
 choices: rob artifact / replace artifact / take both / kill guards / kill vendor gang
