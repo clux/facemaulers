@@ -23,7 +23,7 @@ Shimmering Gate + Diamond Gate + Gate of Ashes
 Golden Gate + Prism Gate + Gate of the Simoom
 Gate of Eternal Sun + Magma Gate
 
-## Octagon Arena
+## Onyx Octagon: Arena
 
 ## Finance district Marlgate
 ![](brass-finance.jpg)
@@ -77,7 +77,7 @@ Melt metal, blowtorch from fingers, heat rays from eyes.
 Teleportation.
 
 ## Honor Kimzar
-Honor is alien to you;
+Honor is alien to you. (NO it's just a flex.)
 When one of our kind decides to grant one of you a wish, it is our way of amassing honor for our race.
 
 When we grant a human a wish it shows that you desire most, is what we can most freely discard. => Our race have gained honor.
@@ -107,3 +107,36 @@ Close to quasi-planes of smoke/magma/radiance.
 
 
 Turban + gaseous beard.
+
+## Items
+- Mantle of Spell Resistance (adv saves on spells, attuned)
+- Staff of Healing (charge based healing)
+- Winged Boots
+- +3 Short Sword of Life Stealing
+
+### Mauls
+- Oathkeeper +4 Radiant Maul. Crits against Evil aligned creatures must make a DC18 CON save or take 50 points of fire damage.
+- Remorseless +4 Flaming Maul. 50% chance to haste self on crit.
+
+### Swords
+Dawnbringer +3. Sheds 30ft bright light. +1d8 dmg. Fiends or Undead must save on crits vs DC20 WIS or take 100 psychic damage. Sunburst as an action (one round).
+
+### Books
+Book of Exalted Deeds (buffs spell levels, good alignment only, wis boost, halo, adv vs intimidation vs evil, persuasion vs good, advt to hit vs fiends/undead within halo. 40,000 GP?
+
+## Armor
+- Elven Chain (14BaseAC) - no attunement
+- Bracers of Defense +2 AC (attunement)
+
+### Bows
+
+
+### Rods/Crystals
++3 spell attack / save dc to any of your spells (any class).
+
+Ramiel: +2 spell attack / save dc to any of your spells (any class),
+AC buff of 1. Twice per day, lift a spells level by two.
+
+Staff of Power
+
+Rod of Absorption.

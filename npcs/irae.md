@@ -151,6 +151,7 @@ Passive ability; Cast greater invisibily on self as bonus action
 Passive ability; Cast flight on self as bonus action
 Both concentrations can be maintained by item
 Grants immunity to Stunned/Restrained conditions
+Passive ability: true resurrection auto cast on self on death once every 10 days.
 
 ### Eye of Vengeance
 Passive Truesight 60ft

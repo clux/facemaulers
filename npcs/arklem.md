@@ -34,6 +34,7 @@ Deters paladin. If you can't tether, use the spirits.
 Something that give a sorcerer wizard capabilities.
 Cross reference with tasha.
 Arcane Grimoire +3 Spell DC
+Robe of the Archmagi +2 Spell DC/SAVE
 Quill of Scribing? Can scribe any spell you can cast?
 Or just Heart Weaver's Primer (Some cool wiz spells, mind control related)
 
