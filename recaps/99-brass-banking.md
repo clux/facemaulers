@@ -19,10 +19,38 @@ You also sold the majority of your magic items to cash out somewhere in the rang
 With the shopping episode out of the way, you make your way to the arena to see what is going on, now that you are clearly here for a few days.
 
 Need: Make Oathkeeper, tweak Stormbow (LG, +3), Tweak Book to remove attunement (he uses it)
-TODO: make Grand Obsidian basic subscription ring.
+Grand Obsidian basic subscription ring.
+https://www.dndbeyond.com/magic-items/3003243-grand-obsidian-basic-subscription-ring
 TODO: roll artifacts (extinction + maul + book) https://5e.tools/items.html
 TODO: Rak boss.
-TODO: NW Baphomet fight now inevitable.
+
+Oathkeper: Smokey maul with a soft yellow glow
+- Major Negative: +20year aging.
+- Minor Negative: Must eat + drink 6 times the normal amount of each day
+- Minor Negative: Flaw is amplified in a way determined by me. (Openly disrespecting anyone who is not a proven warrior.)
+- Minor Positive: Resistance to Necrotic (random roll)
+- Major Positive:
+- Positive: have him roll d100 (major), d100 minor.
+
+Exalted book:
+- Major positive: Gain a 6th level spell, can re-use on a 6 on a d6 after cast, otherwise, next dawn.
+- Major positive: Add d6 damage of weapon type to dmg roll.
+SPELL: https://www.dndbeyond.com/spells?filter-class=2&filter-search=&filter-level=6&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-sub-class=
+have him explore what he wants; CREATE SOMETHING (Heroes Feast / Word of Recall) / PROTECT SOMETHING (Blade Barrier) / RESTRICT (Forbiddance) / SEE SOMETHING (Find the Path) / NO UNDEAD SPELLS!
+- Minor positives: Proficiency in Religion
+- Minor positive: gain a 2nd level spell: SEE SOMETHING: (locate object / augury) / CREATE SOMETHING (continual flame / skywrite) / IMPROVE SOMEONE (calm emotions / enhance ability)
+Then add to: https://www.dndbeyond.com/homebrew/creations/magic-items/3001386-book-of-exalted-deeds-goatweaver/edit
+
+Extinction:
+- Major Positive: +2 INT
+- Minor Positive: 3rd level spell; Sending
+- Minor Negative: Blinded when > 10ft away from it
+- Major Negative: Vulnerability to all damage while attuned.
+
+Neverwinter: Baphomet fight now inevitable (exit into fight, dex save to avoid hoofs, fireballs flying, zaehesh there).
+
+Scrying: See Shar: https://www.reddit.com/r/ImaginaryCastles/comments/b3zu6x/unseen_westeros_stygai_by_dziga_kaiser/ (outside)
+Describe inner sanctum with Irae's summoning setup.
 
 Players:
 - Florent
