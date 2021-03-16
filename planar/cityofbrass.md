@@ -37,15 +37,17 @@ The Temperate and Eternal
 
 ## Onyx Octagon: Arena
 Twin sisters fight in one night (weekly practice, good betting setup)
+Odds: 5/1 on Morromoth, 1/5 on Zisters
+Zor'oxoz + Zoglazath
 - Marilith (7 attacks with multiarms + tail grapple) parry reaction +5 ac, teleport
 - Marilith (ditto, but can summon Nalfeshnee)
-In fight they are taking on a Goristro (charge attack against one of them)
+In fight they are taking on a Goristro Morromoth (charge attack against one of them)
 
-Champion in 2 nights
+Champion in 2 nights vs Solar Heinlen (teleports out to forfeit)
 
 They need to beat the champion for the Artifact.
 
-Champion: Rak Thulkesh (Previous guard of Asmodeus himself)
+Champion: Rak Thulkesh (Previous guard of Asmodeus himself, fought in blood war, devil)
 4x attacks, 28 force dmg (spawned star hits)
 Dispel Legendary (2), Provoke Rage (3)
 

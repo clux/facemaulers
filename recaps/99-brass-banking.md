@@ -9,7 +9,7 @@ He also would give you `Extinction`, if you could beat his champion in the Octag
 
 With financial plans set, you got an account with the Grand Obsidian, a banking branch run by devils/efreeti/and who knows who else. You have their base subscription that grants you a teleporting deposit ring that lets you teleport gold into it at will.
 
-You also sold the majority of your magic items to cash out somewhere in the range of 150k gold (what necessitates a bank), then you used a commensurate amount on items taded to the Plane of Fire;
+You also sold the majority of your magic items to cash out somewhere in the range of 150k gold (what necessitates a bank), then you used a commensurate amount on items traded in the Plane of Fire;
 
 - Book of Exalted Deeds 80k
 - Blackrazor for Oathkeeper (50k sword for 50k maul)
@@ -27,9 +27,9 @@ TODO: Rak boss.
 Oathkeper: Smokey maul with a soft yellow glow
 - Major Negative: +20year aging.
 - Minor Negative: Must eat + drink 6 times the normal amount of each day
-- Minor Negative: Flaw is amplified in a way determined by me. (Openly disrespecting anyone who is not a proven warrior.)
+- SKIP: Minor Negative: Flaw is amplified in a way determined by me; Openly disrespecting anyone who is not a proven warrior.
 - Minor Positive: Resistance to Necrotic (random roll)
-- Major Positive:
+- Major Positive: +10ft base speed.
 - Positive: have him roll d100 (major), d100 minor.
 
 Exalted book:
