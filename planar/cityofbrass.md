@@ -36,10 +36,18 @@ Most Puissant of the X
 The Temperate and Eternal
 
 ## Onyx Octagon: Arena
-Twin sisters fight in one night
+Twin sisters fight in one night (weekly practice, good betting setup)
+- Marilith (7 attacks with multiarms + tail grapple) parry reaction +5 ac, teleport
+- Marilith (ditto, but can summon Nalfeshnee)
+In fight they are taking on a Goristro (charge attack against one of them)
+
 Champion in 2 nights
 
 They need to beat the champion for the Artifact.
+
+Champion: Rak Thulkesh (Previous guard of Asmodeus himself)
+4x attacks, 28 force dmg (spawned star hits)
+Dispel Legendary (2), Provoke Rage (3)
 
 ## Finance district Marlgate
 ![](brass-finance.jpg)
