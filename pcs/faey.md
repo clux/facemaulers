@@ -10,6 +10,11 @@ Can be granted a region of the feywild;
 - olympus style; https://www.pinterest.co.uk/pin/577023770985775767/
 - traditional waterfall retreat; https://www.pinterest.co.uk/pin/728949889681092036/
 
+## Death in City of Brass
+No one guarded him in there, so there were no one to save him, all to save 1000gp for a safe backstage pass.
+An entourage of devils and efreet come to carry his body in a box to a
+Soul selling. Resurrected
+
 ## Mithrendain Watchers
 done very little here...
 

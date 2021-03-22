@@ -46,8 +46,9 @@ In fight they are taking on a Goristro Morromoth (charge attack against one of t
 Champion in 2 nights vs Solar Heinlen (teleports out to forfeit)
 
 They need to beat the champion for the Artifact.
+Fights USUALLY to the death, but teleport forfeits/disqualifies. Mention as they enter.
 
-Champion: Rak Thulkesh (Previous guard of Asmodeus himself, fought in blood war, devil)
+Champion: Rak Tulkhesh (Previous guard of Asmodeus himself, fought in blood war, devil)
 4x attacks, 28 force dmg (spawned star hits)
 Dispel Legendary (2), Provoke Rage (3)
 

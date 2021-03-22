@@ -47,6 +47,8 @@ Extinction:
 - Minor Negative: Blinded when > 10ft away from it
 - Major Negative: Vulnerability to all damage while attuned.
 
+"artifact randoms vary from user to user"
+
 Neverwinter: Baphomet fight now inevitable (exit into fight, dex save to avoid hoofs, fireballs flying, zaehesh there).
 
 Scrying: See Shar: https://www.reddit.com/r/ImaginaryCastles/comments/b3zu6x/unseen_westeros_stygai_by_dziga_kaiser/ (outside)
