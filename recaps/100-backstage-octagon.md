@@ -28,6 +28,19 @@ So. With two days left until your scheduled fight with Rak Tulkhesh, we are goin
 TODO: scry on irae (to find maerimydra?) tomorrow
 - room with teleport circle and green flame lake in shar
 
+TODO: who took faey? devils + efreet entourage to soul auction / courthouse
+- need to pay 100gp for entrance (for non devils, mordai can go free, maybe they can ask if he's selling GW)
+- presentation round, faey dimensional shackled, antimagic (no fey step), stripped of items, basic robes only
+- read up infractions, "naturally, he was killed upon trespassing"
+- "spiritual forfeiture"
+- bidding ends tonight at midnight, hours open now, brief hiatus between 4-8, then opening again to end at midnight.
+- TODO: guards (if heisting him)
+- TODO: map of jail
+
+TODO: if they fight mariliths and die, jail break:
+- all three in same jail
+
+
 Players:
 - Florent
 - Guy
