@@ -4,6 +4,12 @@
 Adventuring == high risk, high reward.
 20% rent per month.
 
+### Collateral Lending
+Prices at 75% of market value (based on spread) as collateral (spell ritual).
+Get loan of the market value presented as collateral.
+On week end, pay back loan with 10% interest (cost to ensure good faith).
+On death, week end, weapons collected (automatically).
+
 ### Investment
 5% return in a month on good investments.
 -4% a month on bad investments.
