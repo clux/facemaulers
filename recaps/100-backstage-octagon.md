@@ -39,6 +39,11 @@ TODO: who took faey? devils + efreet entourage to soul auction / courthouse
 
 TODO: if they fight mariliths and die, jail break:
 - all three in same jail
+- magic disabled within, items locked away
+- breaking bars (picking lock with scraps == monk, breaking it == pala)
+- wardens (efreeti all have a wardstone, need to kill it alone)
+- efreeti tactic: fire wall while they are in it across long corridor
+- ring of fire resistance on a burned
 
 
 Players:

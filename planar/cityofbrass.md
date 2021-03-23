@@ -6,8 +6,14 @@ Everything is bright, and covered in a these clouds of steam that rise up out of
 
 Floor; brass, but unpaved areas of cracked obsidian, with magma clearly roaming beneath.
 
-Hundreds of thousands living here.
+Millions living here.
 efreet but also salamanders, archons, genasi, fire giants, elementals. 2/3rd slaves.
+
+Curfew every night, the illuminated come out with gongs and bells to signal.
+(First offence is arrest and fine, second loss of hand, third is death)
+
+City floats frequently. Not at the moment, so navy is there.
+When city hovers, there is oil in the canals (which are occasionally lit).
 
 ## Teleportation circle
 Outside the huge brass gate leading to the city.
@@ -153,6 +159,42 @@ Close to quasi-planes of smoke/magma/radiance.
 
 
 Turban + gaseous beard.
+
+## Blacksmiths in Keffinspires
+Are all Azers living in golden hills of Keffinspires. Don't really venture outside the golden gates.
+
+## Pleasure Gardens in Rookery
+Also a very lawless area.
+
+## Military
+100k soldiers of eternal crimson (efreeti general, not well equipped nor well trained)
+25k archers/lancers the sorrowful
+35k Angel of Death (elite efreeti archers), composite bows, riding nightmares
+10k firenewt light cavalry
+smaller battalions:
+- Black Darts, 2k manscorpion slaves with javelins (kind of dridery)
+- Bronze Phalanx 1,2k Azer Engineers
+- Order of the Fiery Heart, 500 Max Level Efreeti (Griffin mounted shock troops)
+- The Unquenchables (palace guards) 3000
+- The Branded, 150 efreet mamluks (slaves) eunuchs (guarding the hareem of 150 wives)
+- The Illuminated; 50k guards/constables, patrol the city (police).
+- The Watchfire Legions, 40k secret police
+
+fiery heart: beef up by 50%, +2 weaponry (huge ass firey scimitars), +2 armors, 20AC, 300HP
+Elite archers: ![](efreeti-archers.png) ranged attack +13 hit, 3d6+8 piercing + 2d6 fire, otherwise same stats
+
+## Navy + Sultan's Fleet
+18k sailors who can man the sultan's fleet.
+Fleet == 130 Brass ships that can sail through magma, 13 of them enchanted to fly
+![](sultan-ship.png)
+
+## Gods
+The Sultan. Mostly illegal to worship other gods. However;
+- Kossuth (Lord of Flames), primordial. Worship discouraged, not criminalized.
+- Imix; (Lord of Hellfire, The Eternal Flame)
+- Surtr (Fire giant God). Allowed for fire giants. Muspelheim
+
+Shrine to Kossuth was built at the creation of the city, no sultan has dared to anger him.
 
 ## Items
 - Mantle of Spell Resistance (adv saves on spells, attuned)
