@@ -28,6 +28,7 @@ TODO: scry on irae (to find maerimydra?) tomorrow
 - room with teleport circle and green flame lake in shar
 
 TODO: remember setup for Baphomet.
+TODO: remember attunement bonuses for maul
 
 RAK FIGHT PLAN:
 TODAY: 50k on rak today, 50k on them tomorrow. dd.

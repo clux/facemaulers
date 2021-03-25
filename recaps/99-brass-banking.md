@@ -18,11 +18,11 @@ You also sold the majority of your magic items to cash out somewhere in the rang
 
 With the shopping episode out of the way, you make your way to the arena to see what is going on, now that you are clearly here for a few days.
 
-Need: Make Oathkeeper, tweak Stormbow (LG, +3), Tweak Book to remove attunement (he uses it)
-Grand Obsidian basic subscription ring.
-https://www.dndbeyond.com/magic-items/3003243-grand-obsidian-basic-subscription-ring
-TODO: roll artifacts (extinction + maul + book) https://5e.tools/items.html
-TODO: Rak boss.
+Need:
+- Make Oathkeeper, tweak Stormbow (LG, +3), Tweak Book to remove attunement (he uses it)
+- Grand Obsidian basic subscription ring https://www.dndbeyond.com/magic-items/3003243-grand-obsidian-basic-subscription-ring
+- roll artifacts (extinction + maul + book) https://5e.tools/items.html
+
 
 Oathkeper: Smokey maul with a soft yellow glow
 - Major Negative: +20year aging.
