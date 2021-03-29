@@ -28,9 +28,9 @@ Oathkeper: Smokey maul with a soft yellow glow
 - Major Negative: +20year aging.
 - Minor Negative: Must eat + drink 6 times the normal amount of each day
 - SKIP: Minor Negative: Flaw is amplified in a way determined by me; Openly disrespecting anyone who is not a proven warrior.
-- Minor Positive: Resistance to Necrotic (random roll)
+- Minor Positive: Resistance to Psychic (random roll)
 - Major Positive: +10ft base speed.
-- Positive: have him roll d100 (major), d100 minor.
+- SKIP: Positive: have him roll d100 (major), d100 minor.
 
 Exalted book:
 - Major positive: Gain a 6th level spell, can re-use on a 6 on a d6 after cast, otherwise, next dawn.
