@@ -13,9 +13,8 @@ Actually only available in the shadowfell.
 
 Other path from [[irithyll]] two way teleport to below.
 
-Look ideas in area-art:
-- https://www.pinterest.co.uk/pin/858991328908429121/
-- https://www.pinterest.co.uk/pin/531565562261595488/
+![](shar-entrance.jpg)
+https://www.pinterest.co.uk/pin/858991328908429121/
 
 Can do a big undead city.. City of Seyna map..
 
@@ -28,6 +27,10 @@ A brooding block of black marble veined with red, filled with misshapen corridor
 
 Take some inspiration from Arach-Tinilith.
 https://forgottenrealms.fandom.com/wiki/Arach-Tinilith
+
+### Central Chamber
+![](shar-chamber.jpg)
+Where Irae tries to revive [[kiaransalee]] using the second egg of [[felgolos]].
 
 ## History
 The Crones obtained a voidstone, and placed it within the Acropolis in order to sustain a gate to the Shadowfell, to summon an army of undead.
