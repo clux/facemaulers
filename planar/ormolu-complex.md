@@ -2,12 +2,16 @@
 Prison institute modelled a bit after BG2 Spellhold.
 Basalt rock / obsidian everywhere. Rivers are lava rivers.
 
+An EBA if they fail in City of Brass, or try to break out Faey.
+
 - all three in same jail
 - magic disabled within, items locked away
 - breaking bars (picking lock with scraps == monk, breaking it == pala)
 - wardens (efreeti all have a wardstone, need to kill it alone)
 - efreeti tactic: fire wall while they are in it across long corridor
 - ring of fire resistance on a burned
+
+![](ormolu.jpg)
 
 ## Labels
 Prisoner taken down through 41 or 73.
