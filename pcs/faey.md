@@ -30,6 +30,12 @@ Zegash looking to have a conversation with "mr veil i presume", (he bought the f
 they will find them after the arena (if they survive it)
 Entourage: Horned Devil, Chain Devil, High Level Thiefling zegash
 
+## Zegash
+Blue Abishai. Might try to blackmail.
+Could also give them a Greater Dimension Door, which would forfeit the match.
+Matchfixing. They don't bite.
+Talk about breaking the magic of the bank.
+
 ### Faey's Items
 If he's in prison, in a bag there [[ormolu-complex]].
 Otherwise, appraisal process in a vault.

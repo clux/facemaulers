@@ -23,8 +23,7 @@ So with Faey back, now well rested, you meet up at the Ivory Ducks with Faey to 
 
 
 NB: Mention scrying.
-
-TODO: scry on irae (to find maerimydra?) tomorrow
+- scry on irae (to find maerimydra? see brass scrying) tomorrow
 - room with teleport circle and green flame lake in shar
 
 TODO: remember setup for Baphomet.

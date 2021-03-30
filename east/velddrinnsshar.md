@@ -3,9 +3,10 @@
 
 City in the centre of the Moondeep Sea (AKA beneath Lake of Dragons in Cormyr in my setting).
 
-TODO: island on the Lake of Dragons, sheer drop tunnel down.
-(flying carpet perhaps)
-st michael's mount style island in the middle of the lake. Glorious perched atop?
+They have to pass through a vortex during a storm to get to the shadowfell portal.
+OR: island on the Lake of Dragons, sheer drop tunnel down (flying carpet?).
+
+OR: st michael's mount style island in the middle of the lake.
 Perhaps the black marble temple is atop?
 Perhaps some light/dark symbolism?
 Actually only available in the shadowfell.
@@ -62,8 +63,11 @@ Dream Wraiths. CC135 CR5
 - Skull Lord MTF 230 CR15
 
 ## Felgolos rescue
-[[felgolos]] is being drained to become a dracolich. He has 30 days. He will try to contact them when they are on the same plane of existence.
+[[felgolos]] could become drained to become a dracolich.
+If this happens, he has 30 days.
+He will try to contact them when they are on the same plane of existence.
 
+Otherwise he plots the steal of the other egg.
 
 ## Inspiration
 ### Floating Netherese City; Thultanthar
