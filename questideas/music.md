@@ -32,6 +32,10 @@ https://www.youtube.com/c/Musicforyoursoul/videos
 
 ## Battle
 
+### Rise of the Tomb Raider; Soundtrack Battle Full
+https://www.youtube.com/watch?v=PXQT-wPgWHQ
+30min
+
 ### Divinity 2 Battle Themes
 https://www.youtube.com/watch?v=h422r0y_bEg
 90min
