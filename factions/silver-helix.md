@@ -74,6 +74,8 @@ https://forgottenrealms.fandom.com/wiki/Aerosclughpalar
 
 rumors: "Do not underestimate Vaeros. Despite merely running debate circles in the open, he is frequently invited to present popular viewpoints to the council."
 
+- Aho Mitakuye Oyasin
+
 ### Stormguard
 [[felgolos]] agreed to influence the giants, but he has not responded back in ages, presumed dead, or not wanting to be found.
 

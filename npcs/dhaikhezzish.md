@@ -58,6 +58,13 @@ Aritfact Extinction; modified Rod of Absorption. Can also cast spells:
 - Mind Blank 6 Charges
 2d4+2 charges restored per day. Up to 8 in staff.
 Staff maintains concentration if necessary, but it can only concentrate on one spell at a time.
+Removed spellcasting slots from rod of absorption part.
+https://www.dndbeyond.com/magic-items/3105572-extinction
+Extinction:
+- Major Positive: +2 INT
+- Minor Positive: 3rd level spell; Sending
+- Minor Negative: Blinded when > 10ft away from it
+- Major Negative: Vulnerability to all damage while attuned.
 
 ## Scrying
 At the Long Castle spire deep within. Just do DMC3 style tower. Rotating as you walk around and activate it.
