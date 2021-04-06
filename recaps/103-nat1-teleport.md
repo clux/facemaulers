@@ -15,6 +15,8 @@ Promptly, you Plane Shifted to Neverwinter with a nat1 level accuracy, where you
 
 TODO:
 - Heading to Irithyll after battle
+- Plan battle extras. Can we have undead with a beholder? Antimagic Ray?
+- Invite to Beholders & Baphomet
 
 NB:
 - Mordai; unknown vuln necrotic. Blinded when lost extinciton.
