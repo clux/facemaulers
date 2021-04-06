@@ -121,6 +121,12 @@ AKA Catherine Montvoisin.
 
 Provided poison, aphrodisiacs, abortion, purported magical services, and arranging of black masses with clients among the aristocrats and became the central figure. Her purported organization of commissioned black magic and poisoned murder was suspected to have killed anywhere between 1000 and 2500 people.
 
+## Chasm Gorge Baphomet
+They fight baphomet in the gorge.
+![](neverwinter-gorge.jpeg)
+Aberration station down there so brought up a beholder.
+Also near graveyard so undead interplay.
+
 ## EBA: Death
 If they die, here, do a Skyrim wake up towards Evernight
 
