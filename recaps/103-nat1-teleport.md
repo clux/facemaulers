@@ -17,6 +17,7 @@ TODO:
 - Heading to Irithyll after battle
 - Plan battle extras. Can we have undead with a beholder? Antimagic Ray?
 - Invite to Beholders & Baphomet
+- Heartcleaver artifact
 
 NB:
 - Mordai; unknown vuln necrotic. Blinded when lost extinciton.
