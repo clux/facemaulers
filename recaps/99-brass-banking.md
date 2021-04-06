@@ -45,7 +45,7 @@ Extinction:
 - Major Positive: +2 INT
 - Minor Positive: 3rd level spell; Sending
 - Minor Negative: Blinded when > 10ft away from it
-- Major Negative: Vulnerability to all damage while attuned.
+- Major Negative: Vulnerability to necrotic damage and -2 STR while attuned.
 
 "artifact randoms vary from user to user"
 

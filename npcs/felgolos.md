@@ -24,7 +24,7 @@ he sacrificed himself to add a vulnerability to the egg; someone of a particular
 someone has to turn Felgolos into a god
 perditional contradoxy style
 
-or he true polymorphed into a skeleton with a bronze crown and is undercover in velddrinshar.. (although message works across planar boundaries)
+or he true polymorphed into a crone but has a yellow sheen and is undercover in velddrinshar.. (although message works across planar boundaries)
 captured in polymorphed form (true sight see it), convert him to undead?
 
 or just plain slow conversion to a GHOST DRAGON: CC170.. why?

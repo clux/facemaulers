@@ -39,6 +39,26 @@ If they loose. Double or nothing:
 Fight `Rak Tulkhesh`.
 vs. Knights of Kavaki in 3 days.
 
+### After the loss
+- someone fired whoever placed those odds, no one consulted a background check? ask names.
+
+staff (visage change):
+- yes. you have of course earned your price.
+- there is one small condition though.
+- in the event that you die on your mission
+- we don't want to be known as littering the multiverse with these artifacts
+- it's already suspicious enough that you visit several magnus
+- upon your death, we would like it returned to us
+if they joke, ensure that the 9th level `Greater Dimensional Claim` is cast. Cannot be dispelled, cannot be wished away. Artifact level magic.
+(Same as what the various power crystals in the bank use to ensure their collateral.)
+give them a signed seal on a brass scroll, he laser etches it in.
+bank can then verify it with the vendor who displays it.
+
+scrying, last day.
+come back. fight again.
+we'll find something more diverse for you, apparently nothing is strong enough alone to tackle you.
+Another fight, or whatever else powerful enough to match your first offering here, you can look at whatever you want in here for a few days, no judgement (raises eyebrow, creepily).
+
 ## Expensive Art
 P135 DMG
 - Jade game board with solid gold playing pieces

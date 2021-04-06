@@ -4,12 +4,6 @@
 City in the centre of the Moondeep Sea (AKA beneath Lake of Dragons in Cormyr in my setting).
 
 They have to pass through a vortex during a storm to get to the shadowfell portal.
-OR: island on the Lake of Dragons, sheer drop tunnel down (flying carpet?).
-
-OR: st michael's mount style island in the middle of the lake.
-Perhaps the black marble temple is atop?
-Perhaps some light/dark symbolism?
-Actually only available in the shadowfell.
 
 Other path from [[irithyll]] two way teleport to below.
 
@@ -28,9 +22,16 @@ A brooding block of black marble veined with red, filled with misshapen corridor
 Take some inspiration from Arach-Tinilith.
 https://forgottenrealms.fandom.com/wiki/Arach-Tinilith
 
+Pyramid like paths. Green flame water ways.
+
 ### Central Chamber
 ![](shar-chamber.jpg)
 Where Irae tries to revive [[kiaransalee]] using the second egg of [[felgolos]].
+
+### Her chamber
+At the top. Room with info on plans.
+Also got a teleport circle, can go to Maerimydra.
+Arklem can port there.
 
 ## History
 The Crones obtained a voidstone, and placed it within the Acropolis in order to sustain a gate to the Shadowfell, to summon an army of undead.

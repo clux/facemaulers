@@ -60,6 +60,19 @@ Rak Tulkhesh (Previous guard of Asmodeus himself, fought in blood war, devil)
 4x attacks, 28 force dmg (spawned star hits)
 Dispel Legendary (2), Provoke Rage (3)
 
+### After Rak
+Ticketing office, several tickets on the ground. Several elite guards around during payout, big money. Line outside the checkout line, but not very big this time, not many had bet on you.
+
+As you step forward in the line, the efreet 4m in front of you completes and one elite guard waves you forward (there are several).
+RP
+Financiers, spend extra time going over certificate to double check.
+- You put 50k against Rak Tulkhesh? You are either the luckiest motherfuckers in the plane.
+(Dont want to be fired over this, nonon, the gold is there, I even messaged the Obsidian).
+
+The efreeti, who was interviewing you earlier comes over. Shouting insults!
+ - frogs, fucking frogs? there are outright lies, i demand that these creatures be jailed!
+eventually, several elite guard  in; so let me get this straight, you are meant to run extensive background checks on the contestants, and you use their own input as a significant determiner in their odds?
+
 ## Finance district Marlgate
 ![](brass-finance.jpg)
 
@@ -96,7 +109,7 @@ Where the scrying occurs.
 Scried to find Arklem in Irithyll [[100-backstage-octagon]]
 
 ### Irae Scry
-Finds Irae in Shar. Shar entrace reveal.
+Finds Irae in Shar. Shar entrace reveal
 Green river image. Green flame light.
 Seed necrotic tempest.
 Pass through a city beyond the gates. Black marble temple.
