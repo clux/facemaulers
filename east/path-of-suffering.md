@@ -36,7 +36,7 @@ NB: She does not have her items here. She has cloak of invisibility.
 
 ![](path-of-suffering-ruins.jpg)
 
-## Shadowfell madness
+## EBA: Shadowfell madness
 Play on their weaknesses. Sins they have committed. Play on it. Dante. 1408
 1408: The Philosophical Depths That Horror Can Reach
 https://www.reddit.com/r/DnD/comments/8hafdw/dantes_inferno_has_it_been_done/

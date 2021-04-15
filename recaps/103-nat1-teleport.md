@@ -13,9 +13,8 @@ Trying to find out if something had happened in Neverwinter, you messaged [[zaeh
 
 Promptly, you Plane Shifted to Neverwinter with a nat1 level accuracy, where you find yourselv over the - now lava filled - gorge on the south end of the city, standing on a small sinking plateau, with a beholder at one side, and the enormous minotaur demon Baphomet on the other.
 
-TODO:
-- Heading to Irithyll after battle
-- Plan battle extras. Can we have undead with a beholder? Antimagic Ray?
+Plan:
+- Battle. Antimagic Ray interaction with Baphomet Maze!
 - Invite to Beholders & Baphomet
 
 NB:
@@ -36,7 +35,7 @@ Sun is down. Dark. Fire from city source. Appears to be light below from the lav
 - 3 attacks per round + 3x heartcleaver attacks legendary!
 - Maybe cast spells instead for one action (bonus), 2 actions (full action)
 - Use charge as leg if possible; 2x actions, but more dmg, and push/prone.
-- Heartcleaver artifact +4 Greatsword. Confusion on Crit for 1 round.
+- Heartcleaver artifact +4 Greatsword. Confusion on Crit for 1 round (evil bag, faey has it)
 
 Beholder: Ray on one person (or cluster). He can't eye-ray in there. Well, narrate it anyway.
 Rays: !roll (d3, 3d10, 3d3) (1=GW, 2=Mordai, 3=Faey), cone target, rays, targets

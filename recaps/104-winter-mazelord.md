@@ -1,0 +1,42 @@
+Winter Mazelord
+15 April 2021
+
+You found yourself in Neverwinter, in a precarious situation, embroiled in a battle with a Beholder and Baphomet himself, under the illusionary effects of Mirage Arcane.
+
+It was a strange battle in which the Beholder's antimagic cone screwed up many effects (including his own death ray against Faey (which he was going to reflect)), while this powerful minotaur demon lord roamed around the battlefield much faster than the rest of you (due to him creating these passive illusionary effects).
+
+Goatweaver did his usual schtick of dealing 1000 damge in one round once he got going, but then Baphomet's special trump card kicked in, and Goatweaver was put in a Maze (8).
+
+This meant it was down to the two comparatively much less healthy players to stay alive while and fight a demon lord and beholder until GW could make a DC18 INT check. No easy task for an 8 INT paladin.
+
+Several rounds of kiting him around, deflecting dispels, with Mordai blinking in an out of the ethereal plane, Faey finds an opening and sends some critical lightning arrows at the beholder after it accidentally entered the tuning fork's area of effect.
+
+GW makes his save after 2 hours of fighting and is back, but immediately charged, dispelled, critted (lethargic and confused) and down to 2 HP.
+Mordai comes to save him with a Wall of Force, but does himself get Maze'd afterward, leaving GW in his cage for two rounds to heal up.
+
+Faey receives the brunt of the damage after that and does go down, but due to all the kiting and running around that he did, Baphomet is now so low, that a refreshed GW can enter the battlefield, and take him out on his reaction attack.
+
+You meet up with Galeron and the greycloaks who explain the attack, as well as the economic situation of the city, and gets you to Madame Rosene at the driftwood tavern.
+
+Not immediately recognisable of a tavern, but you were greeted by a look of some resentment from a previous episode where you had strong opinions on how to prepare blood soup.
+
+At any rate, that's now more than two years ago in real life time.
+
+So, with a nights rest. A couple of Baphomet rump steaks in GW's belly, you set out to potentially revitalize the city's economy, or perhaps just buy yourself a cheap house in this buyers market.
+
+PLAN:
+- Maybe: Wall of Stone to build houses. Maybe cheaper to build a wall.
+- Heading to Irithyll after battle
+- Celerom can help them to Irithyll, he's in BG.
+- Mages can help research; they can note the remnants of a skeleton ship at sea. INV15 where Orcus. Maybe...
+- Sent mages across, evidence of partial summoning, evidence of teleportation having happened.
+- Undead energy. Had been drifting for months, but fresh magical energy.
+- Celerom OTOH can tell about the strange Vampires.
+- Irithyll: NO FLIGHT. City fight or investigation.
+- Irithyll: Path of Suffering? Maybe encounter ONLY if they don't have scrying protection.
+
+
+Players:
+- Florent
+- Guy
+- Jay

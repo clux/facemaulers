@@ -84,6 +84,8 @@ bearded. standard soldier. less reputable, happy with the pay.
 now learning kavaki religion (they deceived him)
 he is a bit dim.
 
+DEAD neverwinter. Kavaki sent him to Valhalla.
+
 #### Sasha Dreamsoar
 Cleric of Auril (upstairs middle room back)
 talked about the recruitment from baldurs gate
@@ -94,6 +96,8 @@ https://www.reddit.com/r/UnearthedArcana/comments/juolfx/frost_domain_a_divine_d
 Thiefling from flaming fist. (downstairs east alone)
 He was the ambitious one. got powers from Mephisto.
 He's been given the chance to summon a higher power. Chance roll to do Gate correctly.
+
+Dead. Neverwinter.
 
 ### Next Set of Adventurers
 Post Recon

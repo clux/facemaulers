@@ -1,7 +1,7 @@
 # Irithyll
 Ancient city with gothic arcitecture. Dim blue light from the full moon. Eternal night here (crazy spell from vampires). DS3 inspired.
 Hard to actually find, they have to pass through the shadowfell via [[path-of-suffering]], to find it secluded in a valley.
-Inhabitants are ancient undead. Vampire society in control. Hags in the sewers working for Irae as cultists to flood the material plane with temporary undead.
+Inhabitants are ancient undead. Vampire society in control. Hags in the sewers working for Irae as cultists to help sustain the material plane's undead.
 
 ![](irithyll.jpg)
 
@@ -74,10 +74,10 @@ S: "i keep saying this, but this is indeed a fresh start for us, to inhabit peac
 E: "well it is nice being actually revered in the city"
 E: "but don't you miss it; the draining from a live one, having their live force flow into you?"
 P: "well, you see, the populus is not going to appreciate such draining in the long run"
-P: "what you need to do is blame it on a night hag, so the population never knows who the real enemy is"
-E: "why are you always using women as your goto-boogeyman?"
+D: "what you need to do is blame it on a night hag, so the population never knows who the real enemy is"
+E: "why are you always using women as your goto-scapegoat?"
 E: "why do you never use a goblins or trolls?"
-P: "well, pardon, it was just the first that came to mind."
+D: "well, **shake face** excuse me, it was just the first that came to mind."
 S: "everyone. calm down. have you not eaten in a while? we have company."
 
 Guards;  Vampire Knight CC379 CR11 + Zombie Lord; CC394 CR5.
@@ -93,7 +93,7 @@ Celerom wants to reform them into vegetarians. But they are old fashioned. One w
 Arklem not concerned with sustainability atm, he's a tactician (happy to let people think this is the real deal).
 
 Arklem wants the plan to progress quickly now that demon lords have been weakened and orcus lost.
-He wants any adventurers sent to koth or zug so the shadowfell army can rise and activate [[velddrinnsshar]]'s acropolis.
+He wants any adventurers dead, and taken by koth or zug, so the shadowfell army can rise unimpeded and Irae can activate [[velddrinnsshar]]'s acropolis.
 
 NB: Koth' summoned high end adventurers are reasons for powerful undead arch druids et al.
 
