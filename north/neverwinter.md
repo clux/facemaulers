@@ -125,7 +125,7 @@ Provided poison, aphrodisiacs, abortion, purported magical services, and arrangi
 They fight baphomet in the gorge.
 ![](neverwinter-gorge.jpeg)
 Aberration station down there so brought up a beholder.
-Also near graveyard so undead interplay.
+Also near graveyard so undead interplay. Actually different than what it appears due to Baphomet's mirage arcane.
 
 ## EBA: Death
 If they die, here, do a Skyrim wake up towards Evernight

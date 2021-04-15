@@ -17,11 +17,32 @@ TODO:
 - Heading to Irithyll after battle
 - Plan battle extras. Can we have undead with a beholder? Antimagic Ray?
 - Invite to Beholders & Baphomet
-- Heartcleaver artifact
 
 NB:
 - Mordai; unknown vuln necrotic. Blinded when lost extinciton.
 - GW: Soon read book (effects in [[99-brass-banking]])
+
+B&B Battle:
+Sun is down. Dark. Fire from city source. Appears to be light below from the lava, but it does not seem to bounce off you a lot (PERC15).
+
+- Baphomet Mirage Arcane active (difficult terrain, gorge to the left)
+- Narrate terrain when someone starts to move
+- Narrate person returning from Maze upon Baphomet casting a concen. spell
+- Replace Madness with 1 round Confusion
+- Reckless attacks, will be good for them: 22AC
+- Save ADV, 3 leg res.
+- Hunters Mark
+- Maze on Goatweaver; maybe do it on Mordai first?
+- 3 attacks per round + 3x heartcleaver attacks legendary!
+- Maybe cast spells instead for one action (bonus), 2 actions (full action)
+- Use charge as leg if possible; 2x actions, but more dmg, and push/prone.
+- Heartcleaver artifact +4 Greatsword. Confusion on Crit for 1 round.
+
+Beholder: Ray on one person (or cluster). He can't eye-ray in there. Well, narrate it anyway.
+Rays: !roll (d3, 3d10, 3d3) (1=GW, 2=Mordai, 3=Faey), cone target, rays, targets
+RAY=150ft!
+
+Wraith: Life Drain if dragged in. One per round. Beholder can use one bonus ray to do it.
 
 Players:
 - Florent
