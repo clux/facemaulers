@@ -153,6 +153,29 @@ Descriptions from 4th ed neverwinter:
 **False Bottom**
 > A clever defense, the Twisted Fane is a red herring perpetuated by the aboleths. By all appearances, the fortress stands at the nadir of the Chasm and gives the impression that it is the source of the Spellplague energy that rises toward the surface. Upon closer inspection, a character who makes a DC 19 Arcana check finds that the azure crystal has no such power. The foulspawn dwell here to lend credence to the deception. They operate under the domination of the aboleths and wait as sword fodder for an attack. The aboleths’ hope is that any enemies powerful enough to reach the bottom of the Chasm will slay the foulspawn, destroy the worthless crystal, and leave, thinking their task accomplished. Meanwhile, the aboleths can regroup and ready an attack on the foes who have now revealed themselves.
 
+### EBA: Restoration
+Victirian problems:
+- Shit everywhere in the streets from horses
+- Sewage failing (simple pipes out in river)
+- Economic decline, basic living. All luxuries goto WD. Young people moving there.
+- Lost most profitable diamond trade company
+- Taxes to save for bad times lost
+- Fishing, transporting fish, Greycloaks basically police and watchers of graveyard.
+- Basic rundown feel. In need of gentrification.
+
+### EBA: Haunted Goliath House on a Hill
+House on a hill that belonged to family of reclusive goliath wizards.
+No rest in the place unless they solve the issue of the curse.
+Curse: Goliaths inhabit various contraptions of the room making rest impossible.
+Examples: Falling chandeliers. Cloaker. Bookshelf/secret door. Animated armor grabbing players to separate them.
+
+Grabbed players sees ghosts of their victims; Akkhan (GW), Cael Aloro (KIA with young Mordai), Hans (Faey).
+
+Piano boss in a hidden hall. He's ethereal. His playing summons chairs towards players in hall.
+Stage 2: ghosts ballerinas spinning through the area.
+Stage 3: Pianist vulnerable, but hides in invulnerable piano now. Piano turns into a possessed hovering instrument. Stomping down on players. Firing out keys. Slam piano top. Pulse wave AOE. He will peak out outside to send magic missle.
+Stage 4: Piano on its side. Ghost recovering inside, but piano now vulnerable.
+
 ### EBA: Travel Complications
 Large chasm along major pathway north to Mirabar. Direct path: down to Zuggtmoy (wedding happened). Other path: chasm down to Slime / Ooblex dungeon. Corrupted driders.
 
