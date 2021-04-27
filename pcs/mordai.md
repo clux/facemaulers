@@ -24,6 +24,10 @@ not really distrusting still
 more characterised by inability by insufficiently powerful/knowledgable to prevent disaster
 wanting to be in control over those who take control. anger / desperation?
 
+## Personal plans
+still have travelling to do
+would like to spend time of previous study and recall (at castle never)
+
 ## Planned
 - Have him experience something to question his silent suffering?
 

@@ -5,7 +5,7 @@ You found yourself in Neverwinter, in a precarious situation, embroiled in a bat
 
 It was a strange battle in which the Beholder's antimagic cone screwed up many effects (including his own death ray against Faey (which he was going to reflect)), while this powerful minotaur demon lord roamed around the battlefield much faster than the rest of you (due to him creating these passive illusionary effects).
 
-Goatweaver did his usual schtick of dealing 1000 damge in one round once he got going, but then Baphomet's special trump card kicked in, and Goatweaver was put in a Maze (8).
+Goatweaver did his usual schtick of dealing huge round damage once he got going, but then Baphomet's special trump card kicked in, and Goatweaver was put in a Maze (8).
 
 This meant it was down to the two comparatively much less healthy players to stay alive while and fight a demon lord and beholder until GW could make a DC18 INT check. No easy task for an 8 INT paladin.
 

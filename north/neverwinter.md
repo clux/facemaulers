@@ -153,8 +153,41 @@ Descriptions from 4th ed neverwinter:
 **False Bottom**
 > A clever defense, the Twisted Fane is a red herring perpetuated by the aboleths. By all appearances, the fortress stands at the nadir of the Chasm and gives the impression that it is the source of the Spellplague energy that rises toward the surface. Upon closer inspection, a character who makes a DC 19 Arcana check finds that the azure crystal has no such power. The foulspawn dwell here to lend credence to the deception. They operate under the domination of the aboleths and wait as sword fodder for an attack. The aboleths’ hope is that any enemies powerful enough to reach the bottom of the Chasm will slay the foulspawn, destroy the worthless crystal, and leave, thinking their task accomplished. Meanwhile, the aboleths can regroup and ready an attack on the foes who have now revealed themselves.
 
+### EBA: Stronghold
+True cost of Castle Never; 100k Wizard Tower (maxed wizard tower), with 30k Keep (3rd level)
+Build time of a year with full financing.
+Tower extremely strong. Not breachable, but also main point is scrying.
+Fixup requiring 10k. 20days.
+Can upgrade fortifications for an extra 15k on keep.
+Maybe taken for 50k at the lowest steal. 100k lump sum more appropriate.
+
+Hook for needing one? Making enemies.
+
+#### Houses
+1200 gold medium sized comfortable house with a guest room. 500gp extra for living just outside the city wall. 600 gold for furnishing, silverware, rug, lamps, hearth. => 2k gold.
+
+Old Cathedral in Undead Area. Normally 20k Gold. Now a 10k offer would work.
+
+#### Estate Agent Help
+Raymond 'Renegade' Rowley of "Power Word: Estate" (rebranded pirate)
+DESC: black leather boots, elegant, slim fitted long black waistcoat, red sash around his waist, and a smaller red sash around his head, and a wide brimmed leather hat on top of that
+USE: can do appraisals (badly)
+
+Other companies, Shadowfell Estates, Mordenkainen's Affordable Fortresses
+Nina Blade (former boatswain on The Homocidal Pearl)
+Zula 'Weird'o' Zulu (former captain on The Corrupted Delivery)
+
+#### Justification help
+"Sneak attack first, take something they value, and have them bring the fight to you. (Suicidal Pearl)"
+"you seem like a financially savvy group of adventurers..."
+
+"the amount of gold people like you have generated in the past two years have been a great boom to the economy in certain places like Waterdeep, and Baldur's Gate... but it has lead to prices going up for common folks as resources are taken up by the wealthy. We used to be able to buy Potions of Speed for some of our best crewmen when boarding ships, but now that's not feasible, and our jobs is a lot more risky these days because of it."
+"meanwhile, there's only so many houses you can cram within the city walls. if you value something, you should have something physical to show for it. not an IOU from some bookeeper."
+
+"Cannot carry around wealth indefinitely, and are you going to trust a bank in this climate? The only sensible investment is a physical castle.
+
 ### EBA: Restoration
-Victirian problems:
+Victorian problems:
 - Shit everywhere in the streets from horses
 - Sewage failing (simple pipes out in river)
 - Economic decline, basic living. All luxuries goto WD. Young people moving there.
@@ -162,6 +195,11 @@ Victirian problems:
 - Taxes to save for bad times lost
 - Fishing, transporting fish, Greycloaks basically police and watchers of graveyard.
 - Basic rundown feel. In need of gentrification.
+
+Nicest house?
+
+### EBA: Aberration Restoration
+Flumph clogging the drains.
 
 ### EBA: Haunted Goliath House on a Hill
 House on a hill that belonged to family of reclusive goliath wizards.
