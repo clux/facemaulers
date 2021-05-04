@@ -19,18 +19,26 @@ How exactly the judgement will work is up for discussion, as is the name; Hall o
 
 Turns out Galeron was a little suspicious of a the "guilty people shine red" methodology when there's no one else to hold Goatweaver accountable (despite his reputation) - and due to a lack of other "most devout followers" at present, the search is on for proof. Then, it seems, the plan is to provide some education to get more devout followers within the city.
 
-exalted book; religion proficiency, heroes feast major
+found: exalted book; religion proficiency, heroes feast major
 
-TODO:
-- last major positive undiscovered for exalted book
-- tweak 99 major negative for Extinction (vuln necro not good)
-- GW: still undiscovered resistance to psychic
+Done:
+- last major positive undiscovered for exalted book +2 stat CHA
+- (GW good at insight/animal/perception/survival, but not investigation/nature/religion/history)
+- tweak 99 major negative for Extinction (vuln necro bad): plant touch necro dmg d6 (not creature)
+- GW: still undiscovered resistance to psychic, now has halo effect, and boosted magic
 
 plan:
 - irithyll
 - drop off ring (return to another magnus)
 - have ring to show the way
 - bone city via cactus travel towards
+
+NB: scrying mechanics
+scrying on cathedral larloch; from larloch's minor drain
+scry through tower: orb smaller, can also focus on areas, through shadowfell/faeywild
+dc25 to go cross planes otherwise
+scry with ball: suggestion on guard, directions to somewhere
+
 
 Players:
 - Florent

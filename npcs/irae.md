@@ -37,6 +37,11 @@ Cultists in [[irithyll]] are used to to recreate control over Demon Lords.
 - [[63-rime-turtles]] (battle aid; chrono mancy, delayed blast fireball, mass suggestion)
 - [[72-prince-of-demons]] (time stop, stole bag of holding) in [[wd-demogorgon]]
 
+## Motivation CHange
+After the party destroyes Bone City (actually killing her the Luskanites in her book), she becomes polarised, and wants revenge on the party and put an end to them.
+She rushes to complete the ascension by herself to crush the adventurers.
+Has NPCs to seed confusion in Irithyll rather than warning them in [[path-of-suffering]] (warning no longer applies).
+
 ## Lines
 "Do you like the scythe? I feel it goes well with the undead look."
 "With this, the undead are re-united, once again."

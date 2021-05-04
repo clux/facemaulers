@@ -33,8 +33,17 @@ At the top. Room with info on plans.
 Also got a teleport circle, can go to Maerimydra.
 Arklem can port there.
 
+## Development
+- Irae arrives with staff to summon Kiaransalee
+- Gets good few weeks for herself while party gears up in Brass + fixes Neverwinter
+- Felgolos is spying on her
+
 ## History
 The Crones obtained a voidstone, and placed it within the Acropolis in order to sustain a gate to the Shadowfell, to summon an army of undead.
+
+## NPC: Antoine Lastfever
+broken french accent. no h sound. uvular r (back of throat), dark l. last syllable weight.
+what does he want?
 
 ## Hazards / Environment
 ### Ward Spell

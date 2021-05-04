@@ -5,6 +5,10 @@ Path have to lead a winding path around a mountain, around ancient burial ground
 
 ![](path-suffering-look.jpg)
 
+Nothing there on the way in if they protect from scrying.
+Otherwise, ambush.
+
+
 ### EBA: Manasari emissaries
 Pass a few Shadar-Kai on the way out. Emissaries from Dorian, asking the Celerom to proceed with his experiment and bring forth samples.
 - Surprise: "Are you here to end my path, or do you willingly wish enter the path of suffering?"
@@ -21,7 +25,7 @@ Path sends you through a valley, foot prints visible, mist starting to form at y
 
 DELIBERATELY DEADLY ENCOUNTER. They can always be prisoners in Irithyll dungeon. Fairy fire dusts everyone passively here.
 
-Protector of the path: **Faldorn**. (Now undead druid, crazy branches atop her head, evil aligned druid (buffs her spell DC by 2)
+Protector of the path: **Faldorn**. (Now undead druid, crazy maggot infested branches atop her head, evil aligned druid (buffs her spell DC by 2)
 - Archdruid AC16, HP80, Storm of Vengeance. Passive Fairy Fire, Fire Storm
 - Shape Change into T-Rex Zombie
 

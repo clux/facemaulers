@@ -34,18 +34,19 @@ Oathkeper: Smokey maul with a soft yellow glow
 
 Exalted book:
 - Major positive: Gain a 6th level spell, can re-use on a 6 on a d6 after cast, otherwise, next dawn.
-- Major positive: Add d6 damage of weapon type to dmg roll.
+- Major positive: ~~Add d6 damage of weapon type to dmg roll.~~ NO. +2 WIS.
 SPELL: https://www.dndbeyond.com/spells?filter-class=2&filter-search=&filter-level=6&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-sub-class=
-have him explore what he wants; CREATE SOMETHING (Heroes Feast / Word of Recall) / PROTECT SOMETHING (Blade Barrier) / RESTRICT (Forbiddance) / SEE SOMETHING (Find the Path) / NO UNDEAD SPELLS!
+have him explore what he wants; CREATE SOMETHING (__Heroes Feast__ / Word of Recall) / PROTECT SOMETHING (Blade Barrier) / RESTRICT (Forbiddance) / SEE SOMETHING (Find the Path) / NO UNDEAD SPELLS!
 - Minor positives: Proficiency in Religion
-- Minor positive: gain a 2nd level spell: SEE SOMETHING: (locate object / augury) / CREATE SOMETHING (continual flame / skywrite) / IMPROVE SOMEONE (calm emotions / enhance ability)
+- Minor positive: gain a 2nd level spell: SEE SOMETHING: (locate object / augury) / CREATE SOMETHING (continual flame / skywrite) / IMPROVE SOMEONE (__calm emotions__ / enhance ability)
 Then add to: https://www.dndbeyond.com/homebrew/creations/magic-items/3001386-book-of-exalted-deeds-goatweaver/edit
 
 Extinction:
 - Major Positive: +2 INT
 - Minor Positive: 3rd level spell; Sending
 - Minor Negative: Blinded when > 10ft away from it
-- Major Negative: Vulnerability to necrotic damage and -2 STR while attuned.
+- Major Negative: ~~Vulnerability to necrotic damage~~ plant necro dmg and -2 STR while attuned.
+modify:
 
 "artifact randoms vary from user to user"
 

@@ -59,6 +59,10 @@ View down to Irithyl: https://youtu.be/8ma-l-9zC3M?t=307
 
 ![](irithyll-cathedral.png)
 
+## NPC: Velma Scale
+can elevator them up to the cathedral, but wants them to steal.
+archdruid; will shapeshift to a
+
 ### Council Members
 Discussing in A. All happy to take a fight there should it happen.
 [[arklem]] in 10-X will try to prevent them from fucking with their coffins.
@@ -126,6 +130,8 @@ Process;
 => CR12 Demon (slight increase homebrew) - force it to create a amulet to obey them
 - Gate when it's done
 - Drain its essence with Egg and unholy Lich magic
+
+in church?
 
 ### Monstrosities
 
