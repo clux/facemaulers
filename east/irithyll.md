@@ -36,7 +36,9 @@ They can go to the dungeon if they know about the self-serving Irae cult below.
 Undead here are generally not sentient yet (apart from the deacons), so they will attack on sight. Celerom has put in place a "lab".
 
 ## Magnetosphere
-Some spells do not work within the city. Teleport, flight, plane shift, misty step, ethereal transit, sending across planar boundaries. There's eternal moonlight. => Ensures they have to fight their way out if the vampires do not like what they hear.
+Some spells do not work within the city. Teleport, flight, plane shift, misty step, gaseous form, ethereal transit, sending across planar boundaries. There's eternal moonlight. => Ensures they have to fight their way out if the vampires do not like what they hear.
+
+Modification: They work, but require a DC20 concentration check / DC20 arcana check to succeed one time cast. Notice that it affects subset(high roll) of Conjuration/Transmutation (low roll).
 
 ## City Style: Passive Aggressive INTO Active Aggressive
 Balistas on fortress walls. Flight doesn't work anyway, but eh.
@@ -48,11 +50,32 @@ Shadow dragon. Ancient Blue cruises over the city.
 ## Maps
 repurpose from https://www.polygon.com/2017/1/17/14193428/dark-souls-3-maps-guide-enemies-items darksouls folder in dnd
 
+![](irithyll-streets.jpg)
+
 ## Old Church
 Where they actually get to make their case with the council. If they kill any undead, then the whole city revolts.
 If that happens high up, they have an escape mission on their hand after potentially dealing with [[arklem]]. Such a setup allows them to use terrain and prioritise other undead.
 
-## Old Church; Vampire Council
+If they go here without meeting The Reaver, he'll tail them in.
+
+### Secured Monstrosities
+- Elophar CR4; CC149 (ritual nalfeshnee)
+- Kulmking CR9 CC244 (ritual devourer)
+- Nachzehrer CR8 CC272 (ritual hezrou)
+
+Reaver can unleash them and seal them again on demand.
+Additionally, he's a pretty powerful creature on his own.
+![](irithyll-church.jpg)
+
+### Summoning Area
+Creating abyssal undead by summoning undead from the abyss and taking their powers.
+Process;
+- Summon Greater Demon at lvl 9 with blood circle (requires fresh killed humanoid blood)
+=> CR12 Demon (slight increase homebrew) - force it to create a amulet to obey them
+- Gate when it's done
+- Drain its essence with Egg and unholy Lich magic
+
+## Cathedral Foyer; Vampire Council
 Undead + Zombies rule at day.
 Upper cathetral at Irithyl; https://youtu.be/8ma-l-9zC3M?t=298
 View down to Irithyl: https://youtu.be/8ma-l-9zC3M?t=307
@@ -62,6 +85,47 @@ View down to Irithyl: https://youtu.be/8ma-l-9zC3M?t=307
 ## NPC: Velma Scale
 can elevator them up to the cathedral, but wants them to steal.
 archdruid; will shapeshift to a
+knows of way
+
+### city npc motivation
+why will undead there want to betray arklem?
+- some vampires: knows the cityis being filled with demons, "no class" (what is this, pre-sundering horror novel?)
+- carnivores: conflicting council messages disgraceful? are we even doing this?
+
+### Conductor like figure to guide them to Shar
+#### NPC: The Figurehead / Named Female
+The spirit trapped in a galleon
+
+#### The Skipper
+A night sailing vampire that was taking things to East long time ago. Ancient.
+Knows the history of Shar.
+Takes you on a small wodden rowboat. He doesn't need to breathe underwater.
+- Can take you there if you bring him a humanoid child that bleeds
+Intimidation / Kidnapping can work. And he won't be keen on it, but ultimately he will respawn.
+You can only threaten him so much.
+Unless they figure out where he respawns and stake that.
+If they threaten him to take them there, they will temporarily die as they pass through to the shadowfell.
+
+#### The Reaver (call me Keanu)
+Reaper like figure. Speak confusingly. Old man.
+Used to clean lost souls, out of a job now because lost souls are corrupted and infused with demons.
+- "ay, lost souls, you be not, but beware not, i won't taddle on ya, if ya won't"
+- "ay, this is not a place for you (morday); or you (gw), but maybe you (faey)."
+- "i don't know all the circumstances of what leads people to end up here"
+- "but what i do know that it takes some getting used to *chuckles*"
+
+if talking about Arklem / Larloch he will shush them in, and give some info.
+Ultimately wants their blood as part of a better summoning ritual in the Church.
+Will want them to put an end to the unnatural setup
+
+
+#### The Cleric
+Maybe put him in Shar.
+Can "cure" people of the flesh.
+But will actually just try to light a fire and place them to roast with salt. To cure the meat.
+- if asked to "fix" someone, he'll say "i'll make them useful again"
+https://www.reddit.com/r/dndmemes/comments/n97cmu/beware_the_lizardfolk_cleric_with_the_chef_feat/
+
 
 ### Council Members
 Discussing in A. All happy to take a fight there should it happen.
@@ -123,21 +187,6 @@ Lower end.
 - Wormhearted Suffragan TOB410 CR5 (parasite caster)
 - Master of the Demon Mountain CC265 CR17
 
-## Summoning Area
-Creating abyssal undead by summoning undead from the abyss and taking their powers.
-Process;
-- Summon Greater Demon at lvl 9 with blood circle (requires fresh killed humanoid blood)
-=> CR12 Demon (slight increase homebrew) - force it to create a amulet to obey them
-- Gate when it's done
-- Drain its essence with Egg and unholy Lich magic
-
-in church?
-
-### Monstrosities
-
-- Elophar CR4; CC149 (ritual nalfeshnee)
-- Kulmking CR9 CC244 (ritual devourer)
-- Nachzehrer CR8 CC272 (ritual hezrou)
 
 ## Dungeon
 Two tier. Upper end is the huge lair of Arklem. Front for it is the Royal area where the useless rulers are.
