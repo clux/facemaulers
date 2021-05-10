@@ -4,6 +4,8 @@ A folded pyramid (looks like a 5-cell / hypertetrahedron projection) mechanism t
 A desert-style goblim realm of money loot goblins.
 Goblin queen guards the passage to a pyramid which contain [[arklem]]'s phylactery.
 
+![looks](5-cell.gif)
+
 ## Developments
 Pentachoron identified as a planar teleporter.
 Goblin came out of it earlier trying to move it. But he escaped into it.

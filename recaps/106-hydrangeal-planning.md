@@ -32,10 +32,11 @@ Irithyll:
 - make sure they meet keanu early when they try magic
 - city dangers alone; active dangers; ballistas, skeletons vomitting, fire archers, heavy necrotic damage; (see City Style)
 - gaseous form / flight / dim door? DC20 magnetosphere ward.
+
+TODO:
 - need rehearsing the weird undead council and fat skeleton
 - need fleshing out arklem's items (spellbook), his phylactery, motivations
 - need fleshing out the lower mountain (ties to Larloch?)
-
 
 Guesses:
 - Arklem phylactery not with Iraes (no, [[penthacoron]])
