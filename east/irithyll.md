@@ -52,6 +52,17 @@ repurpose from https://www.polygon.com/2017/1/17/14193428/dark-souls-3-maps-guid
 
 ![](irithyll-streets.jpg)
 
+## Houses
+Hard, worn woodden tables and chairs
+Dark wodden pillars. Leather chairs. White stone fireplaces. (Search victorian gothic)
+Wodden.
+
+Inhabitants are corrupted, but a few creatures alive.
+Most jobs are helping the city with pathetic jobs.
+Most menial jobs are people trying to make enough to partake in the rituals from the cultists so they can maintain a semblance of humanity.
+The long-living undead rule over this and command an increasing army (now daemonic).
+Some will know of the path to Shar (and the Skipper).
+
 ## Old Church
 Where they actually get to make their case with the council. If they kill any undead, then the whole city revolts.
 If that happens high up, they have an escape mission on their hand after potentially dealing with [[arklem]]. Such a setup allows them to use terrain and prioritise other undead.

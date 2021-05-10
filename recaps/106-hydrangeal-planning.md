@@ -26,16 +26,19 @@ DO:
    * __8h for 1 charge, 2 people => 6 points a day (kind of right)__
    * 16h for 1 charges, 1 people => 4.5 points a day on avg, but annoying
    * 12h for 2 charges, 3 people => 4 points a day (a bit too cheap)
+- TODO: seed poop from mountain salamander (can be summoned as part of fight)
 
 Irithyll:
 - make sure they pass through [[path-of-suffering]]
 - make sure they meet keanu early when they try magic
 - city dangers alone; active dangers; ballistas, skeletons vomitting, fire archers, heavy necrotic damage; (see City Style)
 - gaseous form / flight / dim door? DC20 magnetosphere ward.
+- seed The Skipper from the royals if you have to (otherwise, lore add)
 
 TODO:
 - need rehearsing the weird undead council and fat skeleton
-- need fleshing out arklem's items (spellbook), his phylactery, motivations
+- need fleshing out arklem's items (spellbook), his phylactery (done), motivations
+- FUCKING DUNGEON
 - need fleshing out the lower mountain (ties to Larloch?)
 
 Guesses:
