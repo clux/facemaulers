@@ -43,6 +43,7 @@ Modification: They work, but require a DC20 concentration check / DC20 arcana ch
 ## City Style: Passive Aggressive INTO Active Aggressive
 Balistas on fortress walls. Flight doesn't work anyway, but eh.
 Skeletons vomitting 2d8 acid damage (but slow). Doesn't attack welcome people past church.
+Vampires grant safe passage through ring.
 Fire archers 2d8 fire damage (with heavy crossbows) slowly firing from vantage.
 Enemies deal exorbitantly heavy necrotic damage with actual weapons.
 Shadow dragon. Ancient Blue cruises over the city.
@@ -76,6 +77,9 @@ If they go here without meeting The Reaver, he'll tail them in.
 
 Reaver can unleash them and seal them again on demand.
 Additionally, he's a pretty powerful creature on his own.
+
+Reaver spells: Cloudkill/incin cloud, Circle of Death
+
 ![](irithyll-church.jpg)
 
 ### Summoning Area
@@ -92,6 +96,9 @@ Upper cathetral at Irithyl; https://youtu.be/8ma-l-9zC3M?t=298
 View down to Irithyl: https://youtu.be/8ma-l-9zC3M?t=307
 
 ![](irithyll-cathedral.png)
+
+### Areas
+F: Blood pool. 4 statues around it. Needs to be rotated
 
 ## NPC: Velma Scale
 can elevator them up to the cathedral, but wants them to steal.
@@ -138,6 +145,9 @@ But will actually just try to light a fire and place them to roast with salt. To
 https://www.reddit.com/r/dndmemes/comments/n97cmu/beware_the_lizardfolk_cleric_with_the_chef_feat/
 
 
+### Annoying Skeleton Duck
+Quacks near them in one alley. Alerts the Reaver.
+
 ### Council Members
 Discussing in A. All happy to take a fight there should it happen.
 [[arklem]] in 10-X will try to prevent them from fucking with their coffins.
@@ -149,32 +159,21 @@ Arklem is using Geas to make them confused about any deals from [[celerom]], and
 
 - **Dorian** - Past king of Neverwinter. Skeletal Monarch CC341 CR9 (pompus voice, a bit stephen fry like when he was the servant)
 
-S: "i keep saying this, but this is indeed a fresh start for us, to inhabit peacefully without all that judgement from the living."
-E: "well it is nice being actually revered in the city"
-E: "but don't you miss it; the draining from a live one, having their live force flow into you?"
-P: "well, you see, the populus is not going to appreciate such draining in the long run"
-D: "what you need to do is blame it on a night hag, so the population never knows who the real enemy is"
-E: "why are you always using women as your goto-scapegoat?"
-E: "why do you never use a goblins or trolls?"
-D: "well, **shake face** excuse me, it was just the first that came to mind."
-S: "everyone. calm down. have you not eaten in a while? we have company."
+E: I am so bored. When is extender going bring the fresh blood?
+S: Do not be disrespectful, you know he's working hard.
+D: Yes, yes, safety first and all that, but it would be nice if our first arrivals were a little less demonic.
+E: Honestly, that part is rather fascinating, if perhaps a little paranoid. Who among the living is going to want to enter Irithyll?
+S: The wizard friend of the Supreme Matron perhaps? As long as they are emissaries of the [[undying-soul]], we must treat them to council.
+
+Greets them respectfully.
+RE: Arklem. If they prod too much they will get angered, they are not supposed to know that much.
+"That is an internal matter."
+"You are venturing beyond your ambassadorial roles here."
+
+Suggests they take up things the Matron.
+They will evoke a hostile response by venturing past them or digging too deeply.
 
 Guards;  Vampire Knight CC379 CR11 + Zombie Lord; CC394 CR5.
-Maybe further inside.
-
-### Council surface level conflict
-Vampires want to freedom and their empire to continue, and leech of nearby slaves. Irae's plans are both with and against them. Council divided. S for it, other against.
-The expansion would threaten their secrecy, but also grants power.
-
-Celerom wants to reform them into vegetarians. But they are old fashioned. One will not change at all, but the younger ones MIGHT. The king COULD betray them and destroy the charm from Celerom to force them out.
-
-### Council actual conflict
-Arklem not concerned with sustainability atm, he's a tactician (happy to let people think this is the real deal).
-
-Arklem wants the plan to progress quickly now that demon lords have been weakened and orcus lost.
-He wants any adventurers dead, and taken by koth or zug, so the shadowfell army can rise unimpeded and Irae can activate [[velddrinnsshar]]'s acropolis.
-
-NB: Koth' summoned high end adventurers are reasons for powerful undead arch druids et al.
 
 ## Upper City
 Past old church. Harms anyone on sight (elevator is safe though).
@@ -199,12 +198,18 @@ Two tier. Upper end is the abandoned church of Larloch, partly sealed off and le
 - Tveirherjar CC359 CC7 (general battle skeleton)
 - Spectral Guardian TOB358 CR6
 - Wormhearted Suffragan TOB410 CR5 (parasite caster)
-- Master of the Demon Mountain CC265 CR17
+
+
+- Master of the Demon Mountain CC265 CR17 (son of baba yaga)
+Along with a Doom Golem CR10
+
+Blood poop indicative of a blood salamander. Hemolotl.
 
 ### Contents
 One room with info on Arklem.
-Activate a particular magical enchantment and you can see the 5-cell gif of the [[penthacoron]]
+Skeletal pseudodragons start to emerge from hideyholes when they get close to it.
 
+In watery chamber (drainable, with alarm) inside a stone tank, is a bunch of dead goblins and the 5-cell floating; gif of [[penthacoron]].
 
 ## Sewers
 Worshippers of Irae granting her divine powers on the lower end.
@@ -231,11 +236,31 @@ Quest: One reclusive hag/crone immune to the magic via tattoos. Offers if they d
 ### Underdark passage
 Can spot takeover parallel by Zuggtmoy. Plus [[koth]]'s domain.
 
+
+## Rejected
+### Vampire Vegetarian Plot
+Celerom wants to reform them into vegetarians. But they are old fashioned. One will not change at all, but the younger ones MIGHT. The king COULD betray them and destroy the charm from Celerom to force them out.
+
+Arklem not concerned with sustainability atm, he's a tactician (happy to let people think this is the real deal).
+
+S: "i keep saying this, but this is indeed a fresh start for us, to inhabit peacefully without all that judgement from the living."
+E: "well it is nice being actually revered in the city"
+E: "but don't you miss it; the draining from a live one, having their live force flow into you?"
+P: "well, you see, the populus is not going to appreciate such draining in the long run"
+D: "what you need to do is blame it on a night hag, so the population never knows who the real enemy is"
+E: "why are you always using women as your goto-scapegoat?"
+E: "why do you never use a goblins or trolls?"
+D: "well, **shake face** excuse me, it was just the first that came to mind."
+S: "everyone. calm down. have you not eaten in a while? we have company."
+
+Plot died because Celerom won't return.
+
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [path-of-suffering]: path-of-suffering "Path of Suffering"
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [celerom]: ../npcs/celerom "Celerum"
 [velddrinnsshar]: velddrinnsshar "V'elddrinnsshar"
+[undying-soul]: ../factions/undying-soul "Undying Soul"
 [penthacoron]: ../planar/penthacoron "Penthacoron"
 [koth]: ../npcs/koth "Koth M'gog"
 [//end]: # "Autogenerated link references"

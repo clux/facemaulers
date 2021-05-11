@@ -5,7 +5,6 @@ Got your Kastle Knever / Kastle Kavaki set up right.
 
 Mordai used a week to learn some of the fortifications of the castle (keep level fortifactions unfound), activate the teleportation circle, and scry on a plethora of things. Scried on Irithyll, the insides of Irithyll Cathedral.
 
-
 You found a bit about the general layout of the city, and the general layout of the upper levels of the Cathedral. Upper levels apparently derelict remains of some named necromancer Larloch.
 
 GW made a ramshackle shrine to Kavaki with flowers out front. A single column with a goat's head on top and some swords planted in the ground trying to woo the lord.
@@ -36,10 +35,10 @@ Irithyll:
 - seed The Skipper from the royals if you have to (otherwise, lore add)
 
 TODO:
-- need rehearsing the weird undead council and fat skeleton
 - need fleshing out arklem's items (spellbook), his phylactery (done), motivations
-- FUCKING DUNGEON
-- need fleshing out the lower mountain (ties to Larloch?)
+- FUCKING DUNGEON (theatre of the mind)
+- CORRUPTING INFLUENC OF SHADOWFELL
+
 
 Guesses:
 - Arklem phylactery not with Iraes (no, [[penthacoron]])
@@ -55,6 +54,27 @@ phylactery in the pyramid?
 kill arklem before irae
 first: magic supplies in WD, then something something irithyl, but conceal magic
 
+
+Log:
+- bought scrolls, food staff
+- Gregor thought GW is a druid. Wants to see inside of a tree. Hes in debt and wants to suicide in a tree.
+- GW makes a shrine. religion 6. bone colum. It's bad. "Maker better shrine later".
+- Faey scouts out. Sees two cities collided. Red lights in church.
+- Invis. Faey keeps eye out.
+- Sending works.
+- Reaver backstabbed them in the church, they killed him
+- Vampire respawn time
+- Transmutation/Conjuration block unless arcana 20 (winged boots work!)
+- Council might not be happy with them
+- Seeded the Blue Should-Be-Extinct Salamander (TODO: now do the blue saphire poop)
+- TODO: blood pool in there
+- TODO: arklem surpires?
+- TODO: surprise skeleton
+- they found the crawl space entrance to bypass the council foyer
+
+plan: bust open, immediate fireball/lightning, stormbow auto-crit, maybe fork, adv to hit, unseen attacker. can silence the entire door. clairvoyance.
+
+TODO: seed the skipper...
 
 Players:
 - Florent
