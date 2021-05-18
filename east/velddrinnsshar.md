@@ -57,6 +57,10 @@ Then:
 Necrotic Tempest raging around path to temple. DC15 CON save every minute vs 3d6 necro dmg.
 Instate it along with the DS3 entrance fight to spice it up.
 
+### Miniboss High AC Undead Champion
+Red visor eyes, huge sword.
+Enters with sword dropping from the skies first in city, then he's dropped from an undead griffin. Make him fly glide above ground as to unnaturally move.
+
 ### Sorcer Relics
 Spider familiar tracking them.
 ### Sleeping

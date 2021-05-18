@@ -6,10 +6,12 @@ Faction that worships [[kiaransalee]].
 - "they brought demon lords to toril, do you really want to fuck with them?"
 
 ## Prophecy
+In books about the divine realms of the dark seldarine:
+
 The aligned three avenges that which came before. They shall become the true harbingers of the long peace. Through all means necessary, the errors of the past shall be corrected, and through conflict, peace will return. So sayeth the revenancer.
 > Nothing is as powerful than that which returns having avenged.
 
-Slashes indicate translastion issues from undercommon. Peace and stability is the same word in undercommon.
+Slashes indicate translation issues from undercommon. Peace and stability is the same word in undercommon.
 
 ## Motivation
 **Goal**: Unending life, unending peace. Irae can make it happen. High ranks have power. Raise all they can. Start with the shadowfell. Mind control important people. At a certain point they will have critical mass and can start taking on the [[silver-helix]].
@@ -27,7 +29,7 @@ Slashes indicate translastion issues from undercommon. Peace and stability is th
 - Vindicator `Valindra`
 - High Psion [[koth]]
 - Stormlord [[umnos]] (diseased)
-- MAYBE: Expositor [[zaehesh]]?
+- Expositor [[zaehesh]] (diseased)
 - Hypnotist [[mordai-vell]] (diseased)
 
 ## Early Developments
@@ -56,7 +58,7 @@ Slashes indicate translastion issues from undercommon. Peace and stability is th
 - Party defeats bone city, discovers [[irae]]'s behind the scenes work, fixes [[celerom]]
 
 ## Goals
-- Re-animate, and kill the Raven Queen, to raise Kiaransalee
+- ~~Re-animate, and kill the Raven Queen, to~~ raise Kiaransalee
 - Slowly convert the living into an army of the dead
 
 ## Headquarters
