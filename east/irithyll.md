@@ -175,6 +175,8 @@ They will evoke a hostile response by venturing past them or digging too deeply.
 
 Guards;  Vampire Knight CC379 CR11 + Zombie Lord; CC394 CR5.
 
+"Church; invaders" only words.
+
 ## Upper City
 Past old church. Harms anyone on sight (elevator is safe though).
 
@@ -190,8 +192,47 @@ River Lords CC327 swim in water drains. Sentient. Past colonial land owners in n
 Entrance is the royal area front.
 Cathedral is the abandoned remains of the church of Larloch, now used as a "council".
 Partly sealed off and left as a place for the useless rulers in a royal foyer.
-There's a blood fountain which can be drained that leads to [[irithyll-oubliette]].
 
+### Cathedral Lore
+#### Library East
+Books from Larloch's time. 400DR first arrival. Elven mage from the east who settled here. Originally to study the place and its biology. Dense library on his discoveries. Taken maybe decades to do all this research, all seem to be from roughly this 400-420DR time period.
+
+Books from third arrival. 494DR. He has brought a pet behir, descibed initially as a lovely companion. Flesh eating. But as the book goes on, it's decreasingly described on good terms. Vile creature. At various points you can tell that he's experimenting on it to get it to alter its behaviour, but he's not having success. "After that one minor drain, she's not interested at all, and has moved into crevices in the floor and into the caves below.
+He's clearly pretty old at this point. Grown to like the white lillies and the way the moonlight always hits things.
+
+#### Library West
+Books on the dark seldarine???
+Books from 540DR. Calamity. City crashes (turns out it was a netherese City).
+
+Books from later. 1100DR helped an dark elven cleric with magic. Fascinating magic of a completely different elven pantheon. Never before combined with standard magic.
+
+Prophecy books: 3 undying souls with vengeance achived can be sacrificed to infuse her with Power.
+Already taken Larloch. Taken Valindra? Taking Felgolos. Will sacrifice themselves if they have to.
+
+They took some journals.
+
+Spell describing an afterbourner
+
+#### Library South
+Sealed the caves.
+Xinleal / Telemount
+Was suspicious of WIzard friend and his Cleric buddy
+
+
+#### B: Undying Soul Visage
+Can be used in the blood fountain.
+
+Also one central statue of Arklem, Irae, Koth:
+- "marble: two hands in a globular grasp (like control the world type grasp)"
+- "quartz: one etched sphere, and a hovering curved blade above it (no hilt, just flying perfectly above the sphere)"
+- "lamprey eel like mouth etched into the sphere"
+It's one of the few symbols of the [[undying-soul]].
+
+### Blood Fountain
+There's a blood fountain which can be drained that leads to [[irithyll-oubliette]].
+It contains magically constructed statues of three creatures. Arklem, Irae, Larloch. (but without mods hard to tell: INV 25)
+
+They brought the symbol of undying soul to the fountain, grabbed someone else's blood draped it across the bladeto unlock it.
 ## Sewers
 Worshippers of Irae granting her divine powers on the lower end.
 These covens not only grant magic stability throughout the city, they feast on anything that comes near, can tempt children in certain shadowy forests with portals into the sewers.

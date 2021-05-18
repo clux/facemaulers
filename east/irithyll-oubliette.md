@@ -116,6 +116,7 @@ Maybe he'll fight from above 37.
 ### 20. Arklem's Chambers
 Path in is sealed and one has to deactivate all the magical energy columns in 37 to unseal the door.
 
+Books on the Skipper?
 ### 25. Arklem's Teleport Circle
 ### 23. Arklem's Water Tank With Phylactery
 
