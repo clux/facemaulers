@@ -46,6 +46,7 @@ See https://forgottenrealms.fandom.com/wiki/Beniago under Ship Kurth for favoura
 - Scroll of Resurrection (2560gp – at temple only)
 - Rod of Useful Items – 500gp
 - TODO: Some alchemical potions and stuff for Pendle!
+- https://dota2.gamepedia.com/Dragon_Lance - +3 Spear with 20ft reach, 20k gold
 
 ## Inside
 Speakeasy for traders. 10 drow, 2 tiefling (1 warlock), 1 kenku, 2, changelings, 1 tabaxi.

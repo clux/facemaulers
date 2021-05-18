@@ -1,9 +1,8 @@
 # Mages Guild
 The magocracy that rules Waterdeep.
 
-## Thieves Guild
-Sszaonar – Arachnomancer
-https://dota2.gamepedia.com/Dragon_Lance - +3 Spear with 20ft reach
+## Lower floor
+![](../waterdeep/mages-guild-lower.jpg)
 
 ## Places
 Reclining chair study room.
