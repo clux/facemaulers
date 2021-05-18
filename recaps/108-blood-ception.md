@@ -29,6 +29,7 @@ notes:
 
 TODO:
 - TODO: finalize combat
+- chronomancy loot (netherese tech justification) to get them in trouble for a time heist
 - seed the skipper
 - get across that the prophecy pertains to the 3 undying souls are needed to summon Kiaransalee.
 - CORRUPTING INFLUENC OF SHADOWFELL (didn't really get it across with Larloch)
