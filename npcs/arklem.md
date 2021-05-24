@@ -36,7 +36,7 @@ Koth' summoned high end adventurers; undead arch druids et al. See [[path-of-suf
 This will happen if they traverse out of there manually (which they have to unless they luck on Arcana due to the Ward).
 
 ## Stats
-Mostly, normal lich.
+Lich-like. But god items and chronomancy.
 Lair actions tether to low hp party member to split damage.
 Deters paladin. If you can't tether, use the spirits.
 
@@ -49,7 +49,7 @@ Quill of Scribing? Can scribe any spell you can cast?
 Or just Heart Weaver's Primer (Some cool wiz spells, mind control related)
 
 He has Wand of Orcus.
-https://5e.tools/items/wand-of-orcus-dmg.html
+https://5e.tools/items/wand-of-orcus-dmg.html (+3 AC, spells, call undead)
 
 ## Combos
 - Paralyzing touch into disintegrate (meh, not really fun)

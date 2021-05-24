@@ -98,13 +98,24 @@ priest -> pope tree? Pope has godly powers of resurrection.
 
 suppose we need people working in healthcare as well. druids or clerics?
 
-## MAGIC IS ENERGY FIELD
+## MAGIC IS ENERGY FIELD (WIZ/PAL/CLERIC/WARLOCK)
 people have access to it (rich)
-poor can hack it
+poor must hack it
+vaccine gives you protection against poison/disease
+plane shift visas on top of wards
+
+## MAGIC IS BIOLOGICAL (DRUID/SORC/HUNTER)
+gene sequence allows you to interract
+like eyes let you interract with light
+gene => organ (lets you interract)
+kind of like shark sensors for electrical currents
+gene editing vs organ transplants?
+dna chromosones / crispr? -> solns for the rich
+souls?
 
 ## Races
 Thieflings - sons of traders/investors
-Dwarves/Gnomes - generally live underground or maintain construction or power infra
+Dwarves/Gnomes - generally live underground or maintain construction or power infra, conspires against the rich ruling class
 Elves - politicians?
 
 ## CHARACTER CREATION
