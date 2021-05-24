@@ -62,15 +62,17 @@ Second iteration spells (all sketchy, all mostly homebrew);
 last two remove player agency and make it all about the tank, so maybe not..
 maybe require them to be ranged?
 
-Thirt iteration
+Third iteration
 - **Temporal Reversion** 4 (action, touch, VS): Turn back HP time on creature. 7d4+MOD HP
 - **Permanency** 9 (1min, self) Make a spell of 4th level or lower (ctime <1min) permanent.
 
 
 ### Mine
-- **Photonic Amplification** 6 (conc, self, VS); Allow casting two action spells while concentrating (plus potentially cantrip as bonus action).
+- **Overcharge** 5 (conc, self, VS); Allow casting two action spells while concentrating (plus potentially cantrip as bonus action). Take 1d6 lightning dmg at end of each round.
 Haste for wizards (but limiting concentration). My idea
+- **Bifurcate** 5 (conc, self, VS); concentrates on two spells of equal or lower level.
 
+- TODO: a spell new that works a bit like witch bolt, but higher DMG
 
 ### Notes to self
 - Fasttrack was 4 ,boosted
