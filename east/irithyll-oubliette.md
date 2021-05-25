@@ -64,6 +64,22 @@ Along with a Doom Golem CR10
 
 11a is gas source.
 
+Arklem arrives in round 3 (alarm tripped, sensor check, port).
+
+Sees action. Time stop + DBF (Concentration) + Mass Heal
+(give faey a perc check and chance to move?)
+
+- "You are intruding into sacred lands."
+- yellow light flashes from his fingers, pointing it in your general direction
+- "You have some nerve coming here."
+- wind spell - moving gas in their direction (doesn't affect them, but it is flammable)
+
+(4 rounds in)
+"Stay right where you are. You have 30s to explain yourself." (One hand holding a spell)
+- CON save vs retching (this turn)
+(6 rounds later)
+- "You are out of time.
+
 ### 16. Two Way Mirror
 Arklem there if they stare too hard.
 Used by Arklem to communicate to guards. Every n hours, guard from 6 passes through there.
@@ -79,6 +95,11 @@ Guards talking about the move to [[velddrinnsshar]]:
 - "yes, but wanted to extract an undying soul from here first to speed up the summoning"
 - "that's not necessary anymore, didn't you hear? they got an old one in shar."
 - "yes, one of the helix."
+
+### 18. Main Entrance
+Communication mirrors. Heavily sealed door. Truesight mirrors.
+Arklem will answer if they use it.
+Actual doorbell button next to the mirrors.
 
 ### 27-34 Rooms
 Resting places / Studies for creatures.
@@ -129,6 +150,7 @@ Needs the soul of 3 creatures alive when the god was alive.
 Actual Netherese Ritual to summon a God.
 
 ### 25. Arklem's Teleport Circle
+Also communication mirrors in there that has view over the caves.
 ### 23. Arklem's Water Tank With Phylactery
 
 

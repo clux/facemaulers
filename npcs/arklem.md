@@ -30,6 +30,7 @@ He wants adventurers dead, and taken by koth or zug, so the shadowfell army can 
 
 ### Plans
 Doesn't know they are there due to Nondetection, but has plans for eventualities.
+Alarmed once party started combat.
 
 ### Ambush Summon Party
 Koth' summoned high end adventurers; undead arch druids et al. See [[path-of-suffering]].
@@ -61,11 +62,14 @@ Extremely high initial damage, then bail out after he's done. If he didn't kill 
 Dimension doors to his chambers (if he's outside), grabs what he can and ports to [[velddrinnsshar]].
 If he's cornered, he dimension doors away first, leaving stuf, then to [[velddrinnsshar]].
 In their best interest to corner him.
+- Reaction Absorb Elements (Radiant/Bludgeoning)
 
 ### Spells
+- Time Stop; DBF + Heal/SelfBuffs (Protection vs Radiant potion, Armor of Agathys, Freedom of Movement, Fire Shield)
 - Overcharge -> Existential Paradox + Harm (20d10 + 14d6) + Unstable Singularity (pulls away) / Destructive Wave (push / prone+ thunder/necro)
 - Bifurcate -> Bestow Curse (WIS) / Dominate Person / Hold Person + Earthquake / Sight of Kiaransalee (reskinned sunbeam, no blind, but 8d8 necro, fear if twice)
 - Bifurcate -> Bigby's Interposing hand (melee defense: 24/29AC), Overcharge?
+- Counterspell
 
 ### Victory Contingency
 If he wins, have them locked up for [[koth]].
