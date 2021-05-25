@@ -27,7 +27,7 @@ Modified from above inspirations;
 - **Pause** 0 (bonus action, 60ft, VS, 1min, allows a creature to not make death saves and freeze it (if not hit))
 worse than spare the dying? no, ranged! buffed to not be concentration
 - **Suppress Reaction** 2 (action, 30ft, VSM, INT save or fall to bottom of initialtive order, repeat save eoT)
-- **Unstable Singularity** 6 (action, 30ft sphere, VSM, pull4d12 (if centered), explosion next round 12d12 vs DEX)
+- **Unstable Singularity** 6 (action, 30ft sphere, VSM, pull4d12 vs STR (if centered), explosion next round 12d10 vs CON)
 
 TODO: BUFF worse than EB and they might not take the damage
 - **Temporary Wound** 0 (action, 30ft, VS, conc, CON save vs 1d12 temp necrotic dmg – regained end if >0)

@@ -141,13 +141,16 @@ He summons different things, but they know about salamanders.
 Lightning weakness on Demon King's creatures. Antimagic Field, and he's on a ledge high up. Invis + Blur. Save adv, leg res. Spell as leg action. Summon or spell normally (while trying to avoid).
 TODO: can they break control of them?
 Maybe he'll fight from above 37.
+??He will summon the Salamander if they haven't figured out how to tame it??
 
-### 20. Arklem's Chambers
+### 20. Arklem's C hambers
 Path in is sealed and one has to deactivate all the magical energy columns in 37 to unseal the door.
 
 Books on the Prophecy.
 Needs the soul of 3 creatures alive when the god was alive.
 Actual Netherese Ritual to summon a God.
+
+imps in 20 (3)
 
 ### 25. Arklem's Teleport Circle
 Also communication mirrors in there that has view over the caves.
