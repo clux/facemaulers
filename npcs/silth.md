@@ -7,18 +7,12 @@ Cyan robes. Druid spells. Blue dragon breath, green dragon stats. Can poison the
 
 Truesight, PP30. Weakened the storm giants horde from within. Irae could then easily take over even these demigods. (Paranoia + Coughing)
 
-Will rule this place after Irae is done attempting to steer the demonlords towards major cities. Will not let them enter the vault. Which acts as her lair.
-Apathetic about the beast Fryggt and levitating storm giants. She entered as a fake storm giant anyway. Knows enough druid spells to deceive.
-
+Will rule [[menzo]] after Irae is done steering the demonlords towards major cities.
+She was meant to be a defender of the reliquary in halos, but she's better in [[menzo]].
 She tried to cause a distraction near waterdeep (Gulthias tree)
-
-Will extort them to get something of theirs so she does not call the guards.
-Then will do it anyway. If they can't fight their way out, Irae will put them in the Pentachoron.
 
 PERC: 20+ grace > normal giants
 Posh + annoyed accent.
-
-She was meant to be a defender of the reliquary in halos, but she's better in [[menzo]].
 
 ## Hints of polymorph
 Large footsteps has depressed the floors in this hallway. Regular sized, but clearly heavier.
