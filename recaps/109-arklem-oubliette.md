@@ -31,7 +31,8 @@ books;
 find the [[tesseract]]
 
 TODO: books on larlock, items left behind, book for gw (divination for dummies)
-TODO: 3 ancients.. felgolos, ~~akkhan~~, who else?
+TODO: introduce a path to Shar?
+TODO: escape plot... can't teleport. who waits? Reaver? Irae? Unlikely Irae at this point.
 
 Players:
 - Florent

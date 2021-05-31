@@ -13,6 +13,9 @@ The aligned three avenges that which came before. They shall become the true har
 
 Slashes indicate translation issues from undercommon. Peace and stability is the same word in undercommon.
 
+### Prophecy Goal
+Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
+
 ## Motivation
 **Goal**: Unending life, unending peace. Irae can make it happen. High ranks have power. Raise all they can. Start with the shadowfell. Mind control important people. At a certain point they will have critical mass and can start taking on the [[silver-helix]].
 **Possible goal**: Have [[koth]] reclaim [[neverwinter]]. Valindra?
