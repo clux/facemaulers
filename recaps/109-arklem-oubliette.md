@@ -22,17 +22,23 @@ After some puttering around, you come to the ingenious solution to use divinatio
 It works, you're in. GW swats away 3 imps in one round, Arklem emerges from a pool, and dimension doors again left.
 He's close, but he's at the Teleportation Circle of his chamber, and next round he is out, and you unfortunately, just get to watch him dissappear.
 
+At the end of this, GW checks out the latter corridor, and apparently finds a devil (actully tiefling), and charges towards him. Initiative.
+
 books;
 - how to construct pocket planes (dimensional stability == platonic hyber solid)
 - chronomancy book
 - something prophetic about needing 3 creatures
 - kill the skipper
+- path to share introducible by Malexus
 
 find the [[tesseract]]
 
-TODO: books on larlock, items left behind, book for gw (divination for dummies)
-TODO: introduce a path to Shar?
-TODO: escape plot... can't teleport. who waits? Reaver? Irae? Unlikely Irae at this point.
+notes:
+- items: mantle of spell resispance, manual of quickness of action, nolzur's marvelous pigments
+- book for gw (divination for dummies)
+- escape plot... can't teleport. who waits? Reaver? Reaver + Monarchs (THEY PORTED)
+- books on larlock; keys to interpretting chronomancy
+- don/doff rules: 1/3rd hit dice, don10 minutes	doff/5 minutes. 11AC without.
 
 Players:
 - Florent
