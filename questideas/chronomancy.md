@@ -68,9 +68,9 @@ Third iteration
 
 
 ### Mine
-- **Overcharge** 5 (conc, self, VS); Allow casting two action spells while concentrating (plus potentially cantrip as bonus action). Take 1d6 lightning dmg at end of each round.
+- **Overcharge** 5 (conc, self, VS); Allow casting two action spells (of same or lower level) while concentrating (plus potentially cantrip as bonus action). Take 2d6 lightning dmg at end of each round.
 Haste for wizards (but limiting concentration). My idea
-- **Bifurcate** 5 (conc, self, VS); concentrates on two spells of equal or lower level.
+- **Bifurcate** 5 (conc, self, VS); concentrates on two spells of equal or lower level. Disadvantage on concentration checks.
 
 - TODO: a spell new that works a bit like witch bolt, but higher DMG
 

@@ -10,6 +10,11 @@
 - Most died from agricultural collapse
 - Magic fueled by batteries - actually scientific
 
+MODERN MAGIC UA
+https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf
+
+all households have classes!
+
 ## Hot Start
 Play the dramatic backstory of one NPC.
 Have one player create a fake PC.
