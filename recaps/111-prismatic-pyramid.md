@@ -15,7 +15,7 @@ studies spells from chronomancy book and actually understands them, takes the po
 ### Mages guild
 They set up a protection ruse in the city. Non-detection, scry-proofness. All students involved even.
 Party running protection magic until that point.
-They find a way for you to get inside the [[tesseract]]. Diano in Ethereal plane + Ursula here holding it clear.
+They find a way for you to get inside the [[tesseract]]. Diana in Ethereal plane + Ursula here holding it clear.
 
 ### Inside Wasteland
 Burning man scenario, sounds, torches. Large nightwalker chasing you as you rush to the door.
@@ -25,6 +25,7 @@ Door opens, you make your way in, barricade, and only take slight amounts of aur
 
 ### Inside Pyramid
 found lots of strange rooms, raging fire, rancid meats, electricity
+prismatic sphere in central chamber!
 you tried to do the opposite of what the layers seemed to represent; cold on the red fire layer, this worked.
 orange layer (detected to be acid from rat) had less of a clear combo. by looking at the associated room, and rendering the unsafe meat more safe, you chowed down a whole steak, and turns out a bit of __strong wind__ is what was needed.
 yellow layer; greed, lightning; tried combos; eldritch blast and force damage worked
@@ -33,9 +34,9 @@ blue room; sloth; you did not sleep, you just bonfired it.
 
 so that leaves the 2 layers here; Indigo and Violet, and also two rooms here that you haven't checked out.
 
-TODO: can still bail on only one person solution to these..
-TODO: tweak timepiece (said to give one 7th)
-TODO: tweak negatives from chronomancy spells. did I add more?
+Notes:
+- tweaked feat (but guy had to make his own - 2x cantrip, 2x(1,2,3), 1x(4,5,6,7), cha ability)
+- tweak negatives from chronomancy doubling spells
 
 Players:
 - Florent

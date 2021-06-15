@@ -237,7 +237,7 @@ Shrine to Kossuth was built at the creation of the city, no sultan has dared to 
 - +3 Short Sword of Life Stealing
 
 ### Mauls
-- Oathkeeper +4 Radiant Maul. Crits against Evil aligned creatures must make a DC18 CON save or take 50 points of fire damage.
+- Oathkeeper +4 Radiant Maul. Crits against Evil aligned creatures must make a DC20 CON save or take 50 points of fire damage.
 - Remorseless +4 Flaming Maul. 50% chance to haste self on crit.
 
 ### Swords

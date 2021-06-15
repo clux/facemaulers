@@ -21,6 +21,7 @@ Arklem doesn't want to be found - anti-scry ritual.
 - Teleported to Irae's phylactery from the ship (and with heavy buffs, attuned to the wand)
 - Stole the Egg of Galadaeros during Yeenoghu's assault on Luskan
 - Was spotted by Celerom
+- Had his phylactery destroyed in [[112-tesserect]] -> he is mortal
 
 ## Mephisto Deal
 Alleviate pressure in blood war. Get runes for summoning (must not be traced back to them), tempt some drow with it (Irae helped with this / did this). Gave [[malexis]] a job as well (condition).
@@ -60,8 +61,6 @@ Something that give a sorcerer wizard capabilities. Cross reference with tasha.
 - Arcane Grimoire +3 Spell DC
 - (Black) Robe of the Archmagi +2 Spell DC/SAVE (AC==15+DEX)
 - Wand of Orcus, https://5e.tools/items/wand-of-orcus-dmg.html (call undead) + AC+3
-
-TODO: plot item to let mordai use more spells.
 
 ## Tactics
 Extremely high initial damage, then bail out after he's done. If he didn't kill them with it, he'll prioritize his own safety, knows their power.
@@ -133,6 +132,7 @@ We would like to restore the city to its former position as the prime trading ou
 [arcane-brotherhood]: ../factions/arcane-brotherhood "Arcane Brotherhood"
 [undying-soul]: ../factions/undying-soul "Undying Soul"
 [orcus]: ../deities/orcus "Orcus"
+[112-tesserect]: ../recaps/112-tesserect "112-tesserect"
 [malexis]: malexis "Malexis"
 [celerom]: celerom "Celerum"
 [irithyll]: ../east/irithyll "Irithyll"

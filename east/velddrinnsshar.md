@@ -12,6 +12,9 @@ https://www.pinterest.co.uk/pin/858991328908429121/
 
 Can do a big undead city.. City of Seyna map..
 
+music:
+- https://www.youtube.com/watch?v=E0VCNB9Ep2M prometheus studio: fortress/monastery gothic (grimdark)
+
 ## Acropolis of Thanatos
 A black marble temple. A temple devoted to the worship of the [[kiaransalee]].
 
@@ -44,6 +47,9 @@ The Crones obtained a voidstone, and placed it within the Acropolis in order to 
 ## NPC: Antoine Lastfever
 broken french accent. no h sound. uvular r (back of throat), dark l. last syllable weight.
 what does he want?
+
+## NPC: Elegant Hag of the Wastes
+https://www.reddit.com/r/DnD/comments/nvosx6/art_madame_cl%C3%A9mentine_night_hag_of_avarie/
 
 ## Hazards / Environment
 ### Ward Spell

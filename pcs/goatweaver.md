@@ -1,6 +1,17 @@
 # Goatweaver
 Paladin of [[kavaki]].
 Honorary Arch-Mage of [[mages-guild]]
+Current understandee of the Book of Exalted Deeds:
+- visible halo
+- spell buffs, wis buff
+- adv vs fiends/undead within halo
+Keeper of Oathkeeper (+4 Maul, 50fire DMG on CRIT unless DC20CON)
+
+Random properties:
+- Base speed increase, psychic res, must eat/drink 6x normal amount, 20 years aged (Oathkeeper)
+- Heroes Feast + Calm Emotions cast, CHA buff, religion proficiency
+
+Can interpret the fates through the beholder churros (Augury)
 
 ## Questions
 - GW: You, you are a man of god, are you not? Where does one go when you die?
