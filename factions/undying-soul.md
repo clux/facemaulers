@@ -27,18 +27,23 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 
 
 ## Members
-- Grand Extender [[arklem]] (leader)
-- Righteous Hand and Supreme Matron (ilharess alur) [[irae]] (co-leader)
-- Vindicator `Valindra`
+- Grand Extender [[arklem]]
+- Righteous Hand and Supreme Matron (ilharess alur) [[irae]]
+- Vindicator `Valindra` (diseased)
+- Shadow King [[larloch]] (diseased)
 - High Psion [[koth]]
 - Stormlord [[umnos]] (diseased)
 - Expositor [[zaehesh]] (diseased)
 - Hypnotist [[mordai-vell]] (diseased)
 
 ## Early Developments
-- Arklem becomes a Lich >700 y, ago. Starts the arcane brotherhood.
+- Works with [[larloch]] in [[irithyll]] and learns from his research
+- Arklem becomes a Lich >700 y, ago.
+- [[valindra]] starts the arcane brotherhood in 800DR
+- Takes over the Arcane Brotherhood after [[valindra]] in 950DR
 - Safekeeps Egg of Galadaeros after the defeat of Kiaransalee.
-- Arklem takes over [[irithyll]] and starts populating it with raised heroes
+- [[valindra]] works on dracolich tech in Neverwinter
+- Arklem takes over [[irithyll]] and starts populating it with raised heroes + demons
 - Resurrects Akkhan for his energy -> fails.
 - Manipulates relationship between dwarves and giants, to try to get in with fire giants
 - Broker a peace with [[umnos]]
@@ -59,6 +64,11 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 - Party defeats [[umnos]] and closes the spine; demon lords not controllable.
 - [[irae]] + [[arklem]] baits [[felgolos]] into shadowfell for his kids, doing a slow drain there
 - Party defeats bone city, discovers [[irae]]'s behind the scenes work, fixes [[celerom]]
+- [[irae]] starts rituals to summon [[kiaransalee]], needs 3 ancient souls
+- (had plenty of weeks here while party was in city of brass)
+- Betrays `Valindra` and use her soul to power ritual
+- Takes [[larloch]]'s soul
+- Found 3rd soul; [[felgolos]]
 
 ## Goals
 - ~~Re-animate, and kill the Raven Queen, to~~ raise Kiaransalee
@@ -75,10 +85,12 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 [velddrinnsshar]: ../east/velddrinnsshar "V'elddrinnsshar"
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [irae]: ../npcs/irae "Irae T'sarran"
+[larloch]: ../npcs/larloch "Larloch"
 [umnos]: ../npcs/umnos "Fracto-Nimbuli"
 [zaehesh]: ../npcs/zaehesh "Zaehesh"
 [mordai-vell]: ../npcs/mordai-vell "Mordai Vell"
 [irithyll]: ../east/irithyll "Irithyll"
+[valindra]: ../npcs/valindra "Valindra"
 [gilgrin-vault]: ../spine/gilgrin-vault "Gilgrin Vault"
 [wd-demogorgon]: ../waterdeep/wd-demogorgon "Waterdeep Siege"
 [luskan]: ../north/luskan "Luskan"

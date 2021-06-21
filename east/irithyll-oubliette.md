@@ -42,6 +42,7 @@ What does salamanders like?
 Claw marks across the cliff face. Dry.
 Inhabitant: Grimlight Greater Behir (6 pairs of legs huge salamader, can be mistaken for a saphire dragon without wings). Carnivourous, hates dragons. Occasionally ventured out to eat lesser demons now that there was flesh in the city.
 https://www.aidedd.org/dnd/monstres.php?vo=behir - beef it up a bit
+maybe https://www.reddit.com/r/UnearthedArcana/comments/o2nhxx/behir_stormstriders_give_your_bbeg_a_behir_mount/
 They can summon it here with the right ideas.
 Pour astral water in there?
 Can charm / animal handling 15 it when it comes out.
