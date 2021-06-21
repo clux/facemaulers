@@ -22,16 +22,21 @@ Sending at this point is returned by Irae (who doesn't know where they are)
 - She might just use it to listen in...
 - "Nice of you to check in. Felgolos is fine, a little tired perhaps."
 - "so you continue your tour of destruction in the shadowfell. i shall keep my eyes out."
+
+## State
+Caught. Chained. Flesh drained? Acid drip. Mostly dead.
+Why bother? They used so much time. It's complete at this point.
+
 ### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`
 he sacrificed himself to add a vulnerability to the egg; someone of a particular persuasion have to be raised by Irae and it will corrupt the egg
 someone has to turn Felgolos into a god
 perditional contradoxy style
 
-or he true polymorphed into a crone but has a yellow sheen and is undercover in velddrinshar.. (although message works across planar boundaries)
+he true polymorphed into a crone but has a yellow sheen and is undercover in velddrinshar.. (although message works across planar boundaries)
 captured in polymorphed form (true sight see it), convert him to undead?
 
-or just plain slow conversion to a GHOST DRAGON: CC170.. why?
+
 
 ## Gilgrin Start Place
 Rests in the middle of the lava pit, covers large sprawling surface, tail, in the lava / across closed lava acqueduct.

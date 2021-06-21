@@ -19,7 +19,7 @@ After some quick bone questions to Kavaki and quick thinking when you headed bac
 TODO:
 - overcharge might need more of a self-damage buff 4d6
 - seed the skipper / candlekeep? freeform unknowing anything?
-- 3 souls to feed Kiaransalee, 2 left.
+- 3 souls to feed Kiaransalee, 2 left. (valindra, larloch, felgolos)
 - scrying potentials
 
 plans:
