@@ -21,6 +21,7 @@ Empty at the moment. Open, small shrine with the symbol of an ice crystal.
 
 ## Ruler
 High Chancellor [[adalon]]
+With ![](adalon-manor.png)
 
 ## Lake Redwater
 Named from a bloody battle that took place there.
