@@ -15,8 +15,6 @@ https://dota2.fandom.com/wiki/Faceless_Void#Abilities
 - Spell components found in [[irithyll-oubliette]] in netherese ruins
 - Spell casting improvement in [[arklem]]'s book.
 
-
-
 ## Spells
 Modified from above inspirations;
 

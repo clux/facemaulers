@@ -11,21 +11,25 @@ now it's harder for him to send further (found the place, door to shadowfell),
 can't return, scoping out the place, trying to send messages every now and then.
 he has a divination blocker (a ring casting mindblank?)
 
-He got to [[velddrinnsshar]], under cover as a cleric of [[kiaransalee]].
-Found the egg, but need an opportunity to steal it.
+He got to [[velddrinnsshar]], under-cover as a cleric of [[kiaransalee]].
+Found the egg, but needed an opportunity to steal it.
 Too many powerful creatures there, and it's used as a focus point for [[kiaransalee]].
 Capture would be terrible for him.
 
-Too long have passed at this point, he tried to get it alone, failing to message the party, and got trapped. He's now being drained into a ghost dragon as final energy to summon Kiaransalee.
+Too long have passed at this point, he tried to get it alone, failing to message the party, and got trapped. He's now being force turned into a dracolich for the summoning of Kiaransalee.
 
 Sending at this point is returned by Irae (who doesn't know where they are)
 - She might just use it to listen in...
 - "Nice of you to check in. Felgolos is fine, a little tired perhaps."
 - "so you continue your tour of destruction in the shadowfell. i shall keep my eyes out."
 
-## State
-Caught. Chained. Flesh drained? Acid drip. Mostly dead.
-Why bother? They used so much time. It's complete at this point.
+## velddrinnsshar state
+![](../east/felgolos-chamber.jpg)
+
+Chained underneath the center of that tower.
+Caught. Chained. Converted to a dracolich, but still in a dormant state.
+He __could__ be saved, but it would require a pretty powerful lich reversal setup.
+The soul is heavily guarded, prismatic wall, alarmed (top of area). If they try, then fight breaks out with Irae and Arklem.
 
 ### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`

@@ -21,6 +21,7 @@ TODO:
 - seed the skipper / candlekeep? freeform unknowing anything?
 - 3 souls to feed Kiaransalee, 2 left. (valindra, larloch, felgolos)
 - scrying potentials
+- dragonbow for faey?
 
 plans:
 - track liches to shar (they know dragonlake, seed skipper?, other lore?)

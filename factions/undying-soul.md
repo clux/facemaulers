@@ -69,6 +69,7 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 - Betrays `Valindra` and use her soul to power ritual
 - Takes [[larloch]]'s soul
 - Found 3rd soul; [[felgolos]]
+- [[arklem]] has his phylactery destroyed (cannot be used for summoning)
 
 ## Goals
 - ~~Re-animate, and kill the Raven Queen, to~~ raise Kiaransalee
