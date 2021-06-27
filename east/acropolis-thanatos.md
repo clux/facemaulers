@@ -23,12 +23,12 @@ At the top. Room with info on plans.
 Also got a teleport circle, can go to Maerimydra.
 Arklem can port there.
 
-### Felgolos chamber
-[[felgolos]] could become drained to become a dracolich.
-If this happens, he has 30 days.
-He will try to contact them when they are on the same plane of existence.
+The bag of holding she took is there. Shario's amulet will be used by her if necessary (if they take her on alone), but will otherwise be in her chambers in a locked safe.
 
-Otherwise he plots the steal of the other egg.
+### Felgolos chamber
+[[felgolos]] on brink of becoming a full ancient dracolich. See his doc.
+![](felgolos-chamber.jpg)
+He will try to contact them when they are on the same plane of existence? Or Irae intercepts.
 
 
 ## Hazards

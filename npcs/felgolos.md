@@ -30,6 +30,11 @@ Chained underneath the center of that tower.
 Caught. Chained. Converted to a dracolich, but still in a dormant state.
 He __could__ be saved, but it would require a pretty powerful lich reversal setup.
 The soul is heavily guarded, prismatic wall, alarmed (top of area). If they try, then fight breaks out with Irae and Arklem.
+If such a battle goes super-south, felgolos __can potentially__ aid them with his last sliver of his remaining goodness (completing the dracolich transformation).
+If Irae is about to go down, she will escape to the summoning chamber using Time Stop (and will try to bring Felgolos' soul if ready, otherwise she'll sacrifice herself)
+If he is not saved in time, he'll be there to defend earlier, and his soul will be used immediately to insert into summoning ritual.
+
+Lore: if they scry on people having conversations they can mention that he's almost there. He seems to be clinging to his former life longer than expected, but it won't be long. A day at most.
 
 ### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`
