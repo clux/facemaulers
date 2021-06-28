@@ -2,6 +2,9 @@
 > The Wailing Banshee / The Revenancer
 Vengeful scythe wielding drow. Cruel, twisted, went insane ages ago.
 
+![](kiaransalee-qop.jpg)
+![](kiaransalee-qop2.jpg)
+
 Never trusted anyone else to do justice to her vision, so she settled problems for herself.
 
 Once a mortal priestess, Kiaransalee is reputed to have returned from death driven by the power of her own spite to slay her rivals with an army of undead.
@@ -21,6 +24,21 @@ NB: s/voidstone/Egg of Galadaeros/g
 Orderly regimented cells of drow clerics (necromancers often) in enclaves. Heavy on persecution, autocratic. High ranking clerics given priestesses to deal with nay-sayers. Many were liches, many with ties to Thay.
 
 Larynda Telenna high priestess. In Vault of Gnashing Teeth beneath Vaasa (frozen wasteland).
+
+![](kiaransalee_symbol.jpg)
+
+## Stats
+If she rises: Base on CR30 https://kryptonluke.wordpress.com/2015/06/18/lady-of-pain/
+But give them plot hooks to indicate,
+Make a 10th level spell.
+- 30AC mage armor
+- Necrotise anyone touching you
+- Create a flying city
+https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
+
+### Weaknesses
+Ring finger.
+All magic from silver rings?
 
 ## Legion of Vengeful Banshees
 Banshee knights stationed at Acropolis of Thanatos.

@@ -17,6 +17,7 @@ Slave driver Revenant with L4D2 zombie tank watches over things.
 ### Central Chamber
 ![](shar-chamber.jpg)
 Where Irae tries to revive [[kiaransalee]] using the second egg of [[felgolos]].
+Center can mimic https://forgottenrealms.fandom.com/wiki/Undying_Temple
 
 ### Her chamber
 At the top. Room with info on plans.

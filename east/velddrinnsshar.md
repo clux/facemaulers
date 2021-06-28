@@ -17,6 +17,8 @@ Irae hosts undead balls?
 Drider bowl
 Zombie tank from L4D2 (reskinned fire giant with 29str, single attacks)
 
+TODO: drow city!
+
 ### Library
 Books about histories of famous people. Biographies, literal ghostwriter.
 - Shadowmantle; book about an unseelie moon elf who rose to become the overwizard of the Tower Arcane around 800DR in [[luskan]]. The book follows her from 1100 to 1102 as she had taken residence in [[evernight]] working on creating phylacteries for dragons. (Dracoliches). Ghostwritten by Edvard Feeler (high-functioning autist demilich who made black tentacle spell)
