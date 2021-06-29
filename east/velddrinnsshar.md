@@ -16,7 +16,23 @@ music:
 Drow style city. But with undead creatures building.
 
 ### Entertainment
-Drider bowl
+#### Drider bowl
+mutant driders crossed with demons (champions taken from prisons in menzo)
+now fight for glory. bets on the beefy ones.
+winner enter draw to get to reshuffle the bones of old pip (failed medical student now undead)
+
+
+### Library of the Dead
+Run by Madame Eithne
+- Will let you read books if you give her a scroll of Ceremony (to cast a funeral rite)
+- Otherwise they have to
+
+Books about histories of famous people. Biographies, literal ghostwriter.
+- Shadowmantle; book about an unseelie moon elf who rose to become the overwizard of the Tower Arcane around 800DR in [[luskan]]. The book follows her from 1100 to 1102 as she had taken residence in [[evernight]] working on creating phylacteries for dragons. (Dracoliches). Ghostwritten by Edvard Feeler (high-functioning autist demilich who made black tentacle spell)
+- ~~Greeth; another ghostwritten biography of the archmage of the arcane brothehood, his rise to power, and an extraordinary ruse~~
+
+### High End Cemetery
+Big mausoleums and tombs on a hill. Where the more noble undead can rest.
 
 ### Security
 Zombie tank from L4D2 (reskinned fire giant with 29str, single attacks)
@@ -26,7 +42,7 @@ Driders scanning unusual areas.
 Arachnomancer (faerie fire, giant spider)
 
 ### Religion
-Temple to ilhares alur and kiaranslee.
+#### Temple to Ilhares Alur and Kiaranslee.
 Temple entrance shaped like two grasping hands, top hand with silver ringed fingers, into a spherical chamber standing on almost a stilt in the ground. Hands above ground, req levitate.
 Matron Shi'nayne Mizzrym
 Looks: big stiff leather black cloak that contains these bent flaps that form an outline around her ears and joining at her forhead) where there's a purple gemstone embedded. Long, super thick white mane of hair, pulled back, and two thin long horns protrude behind the leather face rectangle. (or just silk weave dress as in book...)
@@ -43,13 +59,15 @@ Drow there for a kinder society after the tyranny of Lolth. Worshippers of Eilis
 Also Menzo got pretty wrecked by demon lords (portal right there).
 
 
-### Library
-Books about histories of famous people. Biographies, literal ghostwriter.
-- Shadowmantle; book about an unseelie moon elf who rose to become the overwizard of the Tower Arcane around 800DR in [[luskan]]. The book follows her from 1100 to 1102 as she had taken residence in [[evernight]] working on creating phylacteries for dragons. (Dracoliches). Ghostwritten by Edvard Feeler (high-functioning autist demilich who made black tentacle spell)
-- ~~Greeth; another ghostwritten biography of the archmage of the arcane brothehood, his rise to power, and an extraordinary ruse~~
 
-### NPC: Elegant Hag of the Wastes
+### NPC: Madame Clementine; Elegant Night Hag of the Avarie
 https://www.reddit.com/r/DnD/comments/nvosx6/art_madame_cl%C3%A9mentine_night_hag_of_avarie/
+she runs a guild for aspiring drow mages, she's in fact a warlock patron for some of them
+after riches and has a small mansion to the side.
+stats: beef up a night hag. elder night hag. baba lysaga?
+why?
+- killing her will soften resistance
+- she's respected and will have information (lore books)
 
 
 ## History
