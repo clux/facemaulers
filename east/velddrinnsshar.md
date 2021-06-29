@@ -13,11 +13,35 @@ music:
 - https://www.youtube.com/watch?v=E0VCNB9Ep2M prometheus studio: fortress/monastery gothic (grimdark)
 
 ## City
-Irae hosts undead balls?
-Drider bowl
-Zombie tank from L4D2 (reskinned fire giant with 29str, single attacks)
+Drow style city. But with undead creatures building.
 
-TODO: drow city!
+### Entertainment
+Drider bowl
+
+### Security
+Zombie tank from L4D2 (reskinned fire giant with 29str, single attacks)
+Drow shadowblade MTOF 187 CR11 (melee defense squads)
+Drow inquisitor (to detect lies) CR14 MTOF184 (white out eyes, whispers to shadowblades)
+Driders scanning unusual areas.
+Arachnomancer (faerie fire, giant spider)
+
+### Religion
+Temple to ilhares alur and kiaranslee.
+Temple entrance shaped like two grasping hands, top hand with silver ringed fingers, into a spherical chamber standing on almost a stilt in the ground. Hands above ground, req levitate.
+Matron Shi'nayne Mizzrym
+Looks: big stiff leather black cloak that contains these bent flaps that form an outline around her ears and joining at her forhead) where there's a purple gemstone embedded. Long, super thick white mane of hair, pulled back, and two thin long horns protrude behind the leather face rectangle. (or just silk weave dress as in book...)
+Has a retriever (large construct spider CR14)
+High perception. Likely to detect them if undercover.
+Will fight for Kiaransalee, and accept her fate as part of Kiaransalee's chosen.
+
+### Economy
+War. Undead has no food needs. Drow has magic. Undead wants to reunite. Drow wants to conquer.
+Theocracy masquerading as Noocracy.
+
+### Philosophy
+Drow there for a kinder society after the tyranny of Lolth. Worshippers of Eilistraee there even.
+Also Menzo got pretty wrecked by demon lords (portal right there).
+
 
 ### Library
 Books about histories of famous people. Biographies, literal ghostwriter.
