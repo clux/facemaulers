@@ -20,7 +20,7 @@ GW with the best use of travel through plants (peekaboo).
 GW questioning everyone's alignment after several years :D
 
 ### Learnings
-- GW 60ft flight is a bit OP (50?)
+- GW 60ft flight is a bit OP (45ft)
 - Faey reflect every round is a bit OP (wraps 2x daily now)
 - Mordai's overcharge is actually balanced
 

@@ -15,22 +15,29 @@ Quick thinking, two individual, dimension doors (some more successful than other
 You do try some clever ways of distracting it by ways of GW, however, Faey takes the most damage here. t, and watch the water start to take down the entire pyramid.
 
 After some quick bone questions to Kavaki and quick thinking when you headed back, you placed the tesseract into the cliffsides outside the city, where it detonated spectacularly.
+(mordai takes some damage falling into the cracks there)
 
-TODO:
-- ~~overcharge might need more of a self-damage buff 4d6~~ nah it's fine
-- seed the skipper (malexis?) / candlekeep?
-- can they freeform their way in?
-- who to talk to? [[silver-helix]] knows? [[andraste]] can loan dragonbow to faey?
-- mention Natalya if they go there
+smashed vase, homed in on soul
+
+them plans:
+- teleport gregor to "baldurs gate" tomorrow
+- purchasing things (speed potions, healing)
+- trying to just find the opening to shar
+- reminded: they have wish
+- gw fly speed; 30ft with another creature, half speed up, 15ft, - nerfed 45 normally
+- carped 800lbs 20ft speed (coz damaged)
 
 notes:
+- pauper is gemstone lady, wife of gregor (who was going to help her, but seems he wants to leave)
+- who to talk to? [[silver-helix]] knows? [[andraste]] can loan dragonbow to faey?
+- mention Natalya if they go there
+- ~~overcharge might need more of a self-damage buff 4d6~~ nah it's fine
 - mention candlekeep lore (prophecy interpretation)
-- scrying potentials
+- scrying potentials (i failed to let them scry on arklem, he has mindblank anyway)
 
 plans:
 - track liches to shar (they know dragonlake, seed skipper?, other lore?)
-- hornweaver stuck in stable
-- gregor (might come to dragon lake, or they might return in 2 days)
+
 
 Players:
 - Florent

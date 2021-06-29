@@ -55,6 +55,8 @@ Deters paladin. If you can't tether, use the spirits.
 - Dimension Door / Counterspell
 - Mirror Image during Timestop or before entrance (3 free hits)
 
+Movement halved after phylactery down.
+
 ## Items
 Something that give a sorcerer wizard capabilities. Cross reference with tasha.
 
