@@ -9,7 +9,7 @@ You tear a rowboat off your robe of useful items, and set off. [[goatweaver]]'s 
 
 Anyway, you haul the croc across the lake, try to find the spot for porting through, but you fail to activate it.
 
-You met [[andraste]] (takeover) who have heard your liches in involved with [[kiaransalee]]. You share prophecies, interpretations. Turns out her grandmother fought against her. You got her grandmother's bow. Worrying that perhaps they are at the cusp of summoning, she advices against getting a full interpretation of this at this point.
+You met [[andraste]] (takeover) who have heard your liches in involved with [[kiaransalee]]. You share prophecies, interpretations. Turns out her grandmother fought against her. You got her grandmother's [bow](https://www.dndbeyond.com/magic-items/2819631-dragonwood). Worrying that perhaps they are at the cusp of summoning, she advices against getting a full interpretation of this at this point.
 
 She tells you of one creature, that based on observation, can get you through to [[velddrinnsshar]]; the [[skipper]]. Turns out you found his black metal boat 10m long hidden behind some shrubbery on the eastern shoreline. Strange mechanisms inside that you could not get to work.
 
@@ -23,6 +23,7 @@ notes:
 - 30min by boat to place (see instruction in [[skipper]] doc)
 - 30min to boat (use shark slide, but with lever set to safe)
 - gregor due to leave today
+- https://roll20.net/compendium/dnd5e/Carpet%20of%20Flying (carpet from selunebowl is 800lbs rated, but burned => 20ft speed)
 
 TODO:
 - sorrowsworn / spiders / visible ward for [[velddrinnsshar]]

@@ -9,6 +9,9 @@ divination magic outside.
 (inspired by the conductor from the grisha triology)
 ## Looks
 White tufts around ears. Bald svirfneblin.
+
+## Magic
+https://dnd-wiki.org/wiki/Arcane_Trickster_(5e)/Spell_List
 Bag of Devouring.
 Bag of Tricks.
 
