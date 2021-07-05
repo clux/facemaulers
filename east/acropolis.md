@@ -1,6 +1,8 @@
 ## Acropolis
-A black marble temple; 3 sided pyramid.
+~~A black marble temple; 3 sided pyramid.~~
 A temple devoted to the worship of the [[kiaransalee]].
+
+![](acropolis-floating.jpg)
 
 Stood in a lake-filled cavern with its ceiling covered with thousands of skulls, atop a spire of white stone that held a set of spiraling stairs guarded by boneclaws.
 

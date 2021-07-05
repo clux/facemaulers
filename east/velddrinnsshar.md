@@ -16,10 +16,25 @@ music:
 Drow style city. But with undead creatures building.
 
 ### Encounters
-Off the beaten path:
 #### Harpooning "The Lonely" which then calls in a Drider
+Off the beaten path encounter (graveyard?)
 The drider will lower its weapon if they are close to killing it.
+#### Ceiling Spiders & Dracoliches
+For an aerial approach across the ceiling.
+Spider is actually Arachnomancers
+Dracoliches are immune to charm/frighten/paralyze/poisoned, immune to poison.
+Dracoliches have adv on saves, res to necrotic.
+Adult Black (say).
 
+#### Irae in the City
+Spectacular leader style.
+- "thank you, thank you. now you know today is a big day."
+- "we stand here at the moment of creation, at the cusp of our victory"
+- "the conversion of the final ancient draws to a close, and with it, our time of confinement"
+- "we will be reunited with our lost ones once again"
+- "lolth will regret intercede in our affairs"
+- "menzo will be ours"
+- "from the halls of undermountain, waterdeep will be swallowed up?"
 
 
 ### Entertainment
