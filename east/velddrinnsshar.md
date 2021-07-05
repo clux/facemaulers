@@ -15,6 +15,13 @@ music:
 ## City
 Drow style city. But with undead creatures building.
 
+### Encounters
+Off the beaten path:
+#### Harpooning "The Lonely" which then calls in a Drider
+The drider will lower its weapon if they are close to killing it.
+
+
+
 ### Entertainment
 #### Drider bowl
 mutant driders crossed with demons (champions taken from prisons in menzo)
@@ -80,9 +87,12 @@ what does he want?
 
 
 ## Hazards / Environment
-## Protection
+### Protection
 Necrotic Tempest raging around path to temple. DC15 CON save every minute vs 3d6 necro dmg.
 Instate it along with the DS3 entrance fight to spice it up.
+
+### Death
+If you die here, you immediately become an undead servant or a mane/dretch/rutterkin. You can only be reverted back via raise dead/wish/resurrection polymorph.
 
 ### Miniboss High AC Undead Champion
 Red visor eyes, huge sword.

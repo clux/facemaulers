@@ -1,5 +1,6 @@
-## Acropolis of Thanatos
-A black marble temple. A temple devoted to the worship of the [[kiaransalee]].
+## Acropolis
+A black marble temple; 3 sided pyramid.
+A temple devoted to the worship of the [[kiaransalee]].
 
 Stood in a lake-filled cavern with its ceiling covered with thousands of skulls, atop a spire of white stone that held a set of spiraling stairs guarded by boneclaws.
 
@@ -9,6 +10,10 @@ Take some inspiration from Arach-Tinilith.
 https://forgottenrealms.fandom.com/wiki/Arach-Tinilith
 
 Pyramid like paths. Green flame water ways.
+
+TODO:
+- spell recharge area
+- something cool connecting these (doesn't need to feel big, just evocative)
 
 ### Basement
 Big ass sylinder that powers some things. Treadmill in the bottom with 200 zombies around a flywheel.
@@ -23,6 +28,8 @@ Center can mimic https://forgottenrealms.fandom.com/wiki/Undying_Temple
 At the top. Room with info on plans.
 Also got a teleport circle, can go to Maerimydra.
 Arklem can port there.
+
+![](irae-chamber.jpg)
 
 The bag of holding she took is there. Shario's amulet will be used by her if necessary (if they take her on alone), but will otherwise be in her chambers in a locked safe.
 
