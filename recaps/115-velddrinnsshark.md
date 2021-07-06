@@ -20,6 +20,7 @@ A drow inquisitor on the side has seen you and dispelled the invisibility as you
 TODO:
 - zhurkwood somewhere
 - book, again, put on some of the women there to loot, or elsewhere
+- combat plan; inquisitor has truesight, insect plague, harm, but what does he summon?
 
 initiative;
 24 Mordai
