@@ -12,8 +12,38 @@ https://www.pinterest.co.uk/pin/858991328908429121/
 music:
 - https://www.youtube.com/watch?v=E0VCNB9Ep2M prometheus studio: fortress/monastery gothic (grimdark)
 
+## Way up
+### Guards
+Foreshadowing of the L4D tank and the drow favoured consort
+
 ## City
 Drow style city. But with undead creatures building.
+They can walk around for a while. Drow here are friendly, share a hatred for lolth and past oppression.
+
+### Looks
+Large city filled with almost spherical houses (drow dwellings), purple glow radiates from within them.
+Other houses made out of bone?
+Parts of the city on the ground, parts from the ceiling. Highly irregular, can only see the ceiling in certain places of the cavern.
+Towards the back right of the cavern, you can see this massive stalagtite with several structures built or carved into it.
+On the ground; stalagmite hollowed out; 100ft tall; (super steep colluseum)
+On the center; a black tetrahedral structure with a green beam rising way up from the center of it; past fog, past as far as you can see.
+
+Proper city; town square; big statue of kiaransalee.
+
+PERC:
+- 30 spiders crawling around the cavern edges, protrude far up
+- 25 draconic creatures flying
+
+
+### Inhabitants
+should be clear that:
+- drow have the most freedom (females)
+- undead are alive, but confused and not in great shape
+#### Drow
+- "the corruption at Menzoberranzan is over and it's time for an age of peace/stability for us all."
+- (on plans) "to free us, bring us out of this twisted negative plane, back to our home"
+#### Undead
+- "need to see my dear clarence again" (died in wdeep 300y ago)
 
 ### Encounters
 #### Harpooning "The Lonely" which then calls in a Drider
@@ -27,11 +57,27 @@ Dracoliches have adv on saves, res to necrotic.
 Adult Black (say).
 
 #### Irae in the City
+notice a half-demon drow creature + a drider
+
 Spectacular leader style.
-- "thank you, thank you. now you know today is a big day."
-- "we stand here at the moment of creation, at the cusp of our victory"
-- "the conversion of the final ancient draws to a close, and with it, our time of confinement"
-- "we will be reunited with our lost ones once again"
+- "eternal greetings once again; daherow, chosen ones, champions"
+- "our time of confinement is coming to an end, you will be reunited with your lost ones again"
+
+(if they really fucked up the entrace, kill the [[skipper]] publically)
+- "however, there are traitors among us"
+
+(otherwise)
+- "however, some wish to usurp our plans, and keep us here forever."
+- "this must not come to pass."
+- "3 creatures, a powerful infernal sorcerer, an archfaey, and an armored goliath, travel together, and was last seen in Irithyll"
+- "they are powerful; capable of even injuring our Grand Extender. should they come to this place; watch out, cast the alarm, and band together."
+- "but do not fear, they are too late to stop us now."
+- "i am telling you this, because anyone involved in taking one or more of them down will receive a hefty splice once this is over. name your beast, and it shall be yours, in whatever form you desire"
+
+(if they interject)
+battle, bring in faldorn fron [[path-of-suffering]]
+
+(plan monologuing)
 - "lolth will regret intercede in our affairs"
 - "menzo will be ours"
 - "from the halls of undermountain, waterdeep will be swallowed up?"
@@ -49,6 +95,8 @@ Run by Madame Eithne
 - Will let you read books if you give her a scroll of Ceremony (to cast a funeral rite)
 - Otherwise they have to
 
+![](shar-library.jpg)
+
 Books about histories of famous people. Biographies, literal ghostwriter.
 - Shadowmantle; book about an unseelie moon elf who rose to become the overwizard of the Tower Arcane around 800DR in [[luskan]]. The book follows her from 1100 to 1102 as she had taken residence in [[evernight]] working on creating phylacteries for dragons. (Dracoliches). Ghostwritten by Edvard Feeler (high-functioning autist demilich who made black tentacle spell)
 - ~~Greeth; another ghostwritten biography of the archmage of the arcane brothehood, his rise to power, and an extraordinary ruse~~
@@ -57,7 +105,7 @@ Books about histories of famous people. Biographies, literal ghostwriter.
 Big mausoleums and tombs on a hill. Where the more noble undead can rest.
 
 ### Security
-Zombie tank from L4D2 (reskinned fire giant with 29str, single attacks)
+Zombie tank from L4D2 (reskinned fire giant with 29str, single attacks, 8d6+9, 20AC barb, phys res, 180HP)
 Drow shadowblade MTOF 187 CR11 (melee defense squads)
 Drow inquisitor (to detect lies) CR14 MTOF184 (white out eyes, whispers to shadowblades)
 Driders scanning unusual areas.
@@ -80,7 +128,16 @@ Theocracy masquerading as Noocracy.
 Drow there for a kinder society after the tyranny of Lolth. Worshippers of Eilistraee there even.
 Also Menzo got pretty wrecked by demon lords (portal right there).
 
-
+#### Motivations
+Power
+- Being spliced with demons
+Domination
+- Getting demons as pets
+- Having demons as a party meal
+Knowledge
+- All time in the world to learn everything (incl. left overs from Irithyll and neth soc)
+Eternal Friendship
+- Being reunited with their past loved ones
 
 ### NPC: Madame Clementine; Elegant Night Hag of the Avarie
 https://www.reddit.com/r/DnD/comments/nvosx6/art_madame_cl%C3%A9mentine_night_hag_of_avarie/
@@ -152,6 +209,8 @@ Blessing of Kiaransalee; Immunity to Necrotic on DC22 CON SAVE.
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [irithyll]: irithyll "Irithyll"
+[skipper]: ../pcs/skipper "The Skipper"
+[path-of-suffering]: path-of-suffering "Path of Suffering"
 [luskan]: ../north/luskan "Luskan"
 [evernight]: ../north/evernight "Evernight"
 [arklem]: ../npcs/arklem "Arklem Greeth"

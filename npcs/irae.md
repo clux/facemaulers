@@ -13,7 +13,7 @@ Summoned everyone in Luskan, but did it before she had the blade. Thus, the unde
 
 ## Motivation
 She wants to be the true autocrat of the world. Undeath / lichdom gets rid of suffering of people. "What is one generation? in the face of endless happiness?"
-"end justifies the means, surely not a concept you are unfamiliar with?"
+"end justifies the means, surely not a philosophy you are unfamiliar with?"
 She saw [[kiaransalee]]'s potential, but have not gone insane about it. She wants her propechy to become true, but on her own terms.
 She's in it for socio-economic means, through revolutionary means.
 She'll want to use undead mechanisms of the shadowfell to make it more efficient than Kiaransalee. Complete re-use of the _supply chain_. Fetch bones from distant cities via potent necromancy and have the skeletons _Gate_ across, or simply _walk_ across if they don't require sustenance.

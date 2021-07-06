@@ -32,9 +32,10 @@ Steam is to keep the creature on the run.
 
 ### Shadowfell Travel
 Pirates of the caribbean style.
-Certain point in the lake, Arcanist's Magic Aura. Turn the rotor 90deg, reverse phantom steed.
+Certain point in the lake, Arcanist's Magic Aura. Turn the rotor 90deg down, reverse phantom steed.
 
-Boat begins to rotate (keel over). When it's under, you need to prestidigitation the water away.
+Boat begins to rotate (keel over backwards). It's being pulled under by the engine.
+When it's under, you need to prestidigitation the water away.
 You then see the green acid lake below.
 
 ### Last Travel
