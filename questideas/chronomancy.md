@@ -9,6 +9,7 @@ https://i.redd.it/qe33wlydkqt31.jpg (tera's travels – at the peaks of gravity)
 http://www.darkplane.com/news/2017/1/29/arcane-tradition-chronomancy-with-spells (generally not balanced)
 https://creativerogues.tumblr.com/post/185107737429/a-chronomancers-guide-chronomancy-spells-ideas (some on dunamancy)
 https://dota2.fandom.com/wiki/Faceless_Void#Abilities
+https://criticalrole.fandom.com/wiki/Tether_Essence
 
 ## Location
 - Spellbook well hidden in Sphinx past lair in [[grundsgryn]]

@@ -30,6 +30,7 @@ biodomes.
 subnautica/soma/atlantis <- inspiration
 
 ## Religions
+talk to players first and design few gods from it..
 ### XR
 Xtinction Religion - uprising protesters turned violent
 slaughtered large amount of "enemies of humanity" everywhere
@@ -62,6 +63,11 @@ sorcerers hunted (maybe the ones that use magic for own gain?). clerics allowed 
 - Speak with dead for rulers; Ask Thatcher for guidance?
 - Sorcery licenses? Regulation for clerics? Detection of misuse of magic from government / police.
 - Police vans with nova like detect magic pulses. Asks for papers, and issues warnings.
+
+### Factions
+- [Trading companies?](https://criticalrole.fandom.com/wiki/Myriad)
+- cults wanting to bring back old facists?
+- collection of mages?
 
 ## warlock
 money domain

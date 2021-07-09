@@ -36,6 +36,12 @@ Make a 10th level spell.
 - Create a flying city
 https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
 
+### Boss Fight
+Bring back undead variants of slain allies?
+- Zaehesh
+
+helpers from the past? Celerom?
+
 ### Weaknesses
 Ring finger.
 All magic from silver rings?

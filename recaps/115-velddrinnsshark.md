@@ -21,6 +21,9 @@ TODO:
 - zhurkwood somewhere
 - book, again, put on some of the women there to loot, or elsewhere
 - combat plan; inquisitor has truesight, insect plague, harm, but what does he summon?
+- shadowdragon ? sorrowsword: https://www.dndbeyond.com/posts/268-sorrowsworn-are-the-shadowfells-most-despair
+- irae drop by?
+- how do they get up to the acropolis? teleportation setup inside
 
 initiative;
 24 Mordai
