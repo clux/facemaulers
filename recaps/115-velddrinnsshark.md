@@ -25,6 +25,9 @@ TODO:
 - irae drop by?
 - how do they get up to the acropolis? teleportation setup inside
 
+NOTES:
+- chronomancy use, narrate black weave around mordai
+
 initiative;
 24 Mordai
 19 GW
@@ -32,6 +35,9 @@ initiative;
 11 Faey
 shadow dragon?
 
+## Combat
+Drow Inquisitor;
+- you are not authorized within the acropolis
 
 Players:
 - Florent

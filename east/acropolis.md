@@ -17,6 +17,12 @@ Pyramid like paths. Green flame water ways.
 TODO:
 - spell recharge area
 - something cool connecting these (doesn't need to feel big, just evocative)
+- rest spell for them?
+
+## Lore TODO
+temple built to summon a god
+lore on walls; statues of kiaransalee
+3-sided things, 3 spires
 
 ### Basement
 Big ass sylinder that powers some things. Treadmill in the bottom with 200 zombies around a flywheel.

@@ -33,14 +33,22 @@ But give them plot hooks to indicate,
 Make a 10th level spell.
 - 30AC mage armor
 - Necrotise anyone touching you
-- Create a flying city
+- Raise Dragon
 https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
 
 ### Boss Fight
 Bring back undead variants of slain allies?
 - Zaehesh
 
+- spider form?
+- queen of blades style?
+- undead mirror of players: face a undead Simulacrom/Clone of them
 helpers from the past? Celerom?
+
+need to banish her to the abyss.
+tremmels made in special forge..
+gw can cast banish
+need something to make her vulnerable to banish (gw can do it up to 3 times)
 
 ### Weaknesses
 Ring finger.
