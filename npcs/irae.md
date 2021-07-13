@@ -140,13 +140,11 @@ Ring of Kiaransalee (ish)
 - Fly up and usse 4 Motes from Crown
 - Teleport away (when near death)
 - Scythe attacks: 2 straight attacks, one wave
-  * Straight attack: +17 hit, 40-50 dmg each most necro
+  * Straight attack: +17 hit, 30-40 dmg each most necro
   * Wave attack: fan out nova, 20 ft cylinder, 25 necro dmg
 - Legendary Actions:
   * Deflect attack (scythe splits and parries)
   * Invis/Flight bop away
-  *
-
 
 ## Magic Items
 NB: These COULD drop. Don't overdo it. Although campaign end, so...
