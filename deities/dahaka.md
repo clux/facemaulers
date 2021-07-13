@@ -2,6 +2,7 @@
 Guardian of Time. Limits the use of Chronomancy.
 Single entity time police.
 Seen at [[grundsgryn]].
+![](./dahaka.jpg)
 
 Ancient LG
 Based on Prince of Peria; Warrior Within
@@ -18,7 +19,14 @@ But upon death, he can get a challenge to "unwind" his fate.
 
 He needs to unwind a bunch of time loops. They will stop with the last of the 3 [[undying-soul]].
 
-Dahaka will:
+### Looks
+Faded area with dahaka. He needs to cast chronomancy to align with the time. He will see one devil.
+Winged devil ; black cornugon in full plate. wings probably under his armor.
+
+- I take many forms. I simply took one that I thought would be most comfortable for you.
+
+### Offer
+Dahak will
 - offer him temporary immortality for his purpose for 1 month, and at the end, he will die.
 - afterwards: tie up the hanir loop triggered by mordai's chronomancy influencing the wild magic
 
@@ -27,6 +35,7 @@ if he declines the undercover mission (temporary immortality), hanir tieup start
 Deal:
 - he gets to live for 1 month; true Divine Soul/Patron
 - can cast any spell provided he has scroll; spell DC buffed to 20 somehow?
+- can do a once per week full rest refresh (chronomancy refresh)
 - needs to kill Arklem/Irae/Kiaransalee
 - need to kill or Modify Memory Ursula (8th level)
 - need to kill or Modify Memory Celerom (8th level)
@@ -38,10 +47,12 @@ Deep voice.
 - Tell me. When did you learn about chronomancy.
 - The dragon hoard that you stole, do you know where it came from?
 - The gold that you got, what did you do with it?
-- The only way to end this, is to tie up the time loops.
+- it's possible that you should not exist depending on what you did with that gold
+- The only way to end this, is to cut the source of the magic
+  * wizards who uses it, wipe their memory, destroy the knowledge
 
 ### Lines
-Chronomancy was never intended to exist. It was extracted from the powers of mystra during the fall of the netherese. We hoped severing the connection with them would be enough to release that energy, but the knowledge lived on.
+Chronomancy was never intended to exist. It was extracted from the powers of mystra during the fall of the netherese. I hoped severing the connection with them would be enough to release that energy, but the knowledge lived on.
 Dragon Hoard:
 - Chronomancy has non-sensical effects on the multiverse. Someone takes something from the future, and brings it to the past; that item now exists in a time loop. It must end up in the location in the future to be stolen, yet has no concrete origin. It breaks the original creation, and shoe-horns the universe into a pocket with no real history.
 - Where did the gold come from? No one knows anymore, our position in the multiverse is severed from the universe where the gold had a real origin.

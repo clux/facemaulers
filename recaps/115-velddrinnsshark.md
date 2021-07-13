@@ -19,7 +19,6 @@ A drow inquisitor on the side has seen you and dispelled the invisibility as you
 
 TODO:
 - zhurkwood somewhere
-- book, again, put on some of the women there to loot, or elsewhere
 - combat plan; inquisitor has truesight, insect plague, harm, but what does he summon?
 - shadowdragon ? sorrowsword: https://www.dndbeyond.com/posts/268-sorrowsworn-are-the-shadowfells-most-despair
 - irae drop by?
@@ -27,17 +26,22 @@ TODO:
 
 NOTES:
 - chronomancy use, narrate black weave around mordai
-
-initiative;
-24 Mordai
-19 GW
-14 Drow Inquisitor
-11 Faey
-shadow dragon?
+- retry book loot: put on some of the women there to loot, or elsewhere
 
 ## Combat
 Drow Inquisitor;
 - you are not authorized within the acropolis
+
+Irae:
+- you should have stayed out of this (she tethers to the dragon)
+
+### initiative
+24 Mordai
+21 Irae (round 3)
+19 GW
+14 Drow Inquisitor
+11 Faey
+10 shadow dragon (round 2)
 
 Players:
 - Florent
