@@ -57,13 +57,11 @@ TODO:
   * Auril frostmaiden lore read
 - tetrahedron entrace. ports up when they can?
   * needs a minute to activate. 3 buttons, then powers up.
-- UPDATE Irae weapons, stats not updated on her scythe (needs to be either wave or normal, 5d8+11, +11 everywhere)
-- UPDATE: Eye of Vengeance so we can justify chronomancy like spell legendary actions.
-- NB: didn't actually need it..
-- hint at shield guardian amulet?
 - retry book loot: put on some of the women there to loot, or elsewhere
 - move path of suffering map to shar (we didn't use it in path-of-suffering)
 
+NOTES:
+- broken shield guardian amulet on the ground (to seed information on how it worked)
 
 Players:
 - Florent

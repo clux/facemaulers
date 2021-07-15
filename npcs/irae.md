@@ -105,8 +105,8 @@ When in lair; other crones concentrate on her protections:
 - Stoneskin
 
 ## Stats
-https://roll20.net/compendium/dnd5e/Lich
-Roll her as a Fey conjuration wizard turned Lich.
+Rolled her as a Fey conjuration wizard turned [Lich](https://roll20.net/compendium/dnd5e/Lich):
+https://www.dndbeyond.com/profile/sszynrae/characters/37451385
 
 NB: she revealed twinning (so she must have this)
 NB: she must have flight + truesight passively + stun/charm immunity
@@ -137,14 +137,20 @@ Ring of Kiaransalee (ish)
 
 ## Actions
 - Cast spell DC21 (maybe Twin)
-- Fly up and usse 4 Motes from Crown
+- Fly up and use 4 Motes from Crown
 - Teleport away (when near death)
 - Scythe attacks: 2 straight attacks, one wave
   * Straight attack: +17 hit, 30-40 dmg each most necro
-  * Wave attack: fan out nova, 20 ft cylinder, 25 necro dmg
-- Legendary Actions:
-  * Deflect attack (scythe splits and parries)
-  * Invis/Flight bop away
+  * Wave attack: fan out nova, 20 ft cylinder, ditto, but costs overchannel or 2 straight attacks
+- Reactions (2 per round, via the Eye):
+  * Counterspell (she knows what spell is cast due to the eye)
+  * Shield
+  * Misty Step
+  * Deflect Ranged Attack (scythe splits and parries)
+- Bonus Actions:
+  * Crown of Stars
+
+NB: the deflect is a combo of her war magic deflection. technically it should have used her reaction as well, but she needs some high level action economy. Have put it on the scythe.
 
 ## Magic Items
 NB: These COULD drop. Don't overdo it. Although campaign end, so...
@@ -159,18 +165,25 @@ Passive ability: true resurrection auto cast on self on death once every 10 days
 ### Eye of Vengeance
 Passive Truesight 60ft
 Lets the wielder automatically see what type of spell being cast (for counterspell purposes).
-Lets the wielder Twin spells (like sorceres's Twinned Spells metamagic) twice per day.
+~~Lets the wielder Twin spells (like sorceres's Twinned Spells metamagic) twice per day.~~
+Lets the wielder have two reactions
 Contains spells to be cast (using a pool of 8 charges, 1d4+4 recharged):
 - Crown of Stars (2 charges)
 - Mindblank (2 charges)
 - Clairvoyance (1 charge)
 
+https://www.dndbeyond.com/magic-items/2391736-eye-of-vengeance
+
 ### Scythe of the Revenancer
-+2 CHA/INT (ABOVE 20)
+~~+2 CHA/INT (ABOVE 20)~~
 +4d8 necrotic damage on hit
+- two attacks (outlined in actions)
+- deflect missle attempt as reaction
 
 Passive effect; undead raised by her, (or by her transitively gain the sentient undead feat).
 Passive effect; Cast Create Undead at 9th level (provided enemies need to be present)
+
+- https://www.dndbeyond.com/magic-items/2391663-scythe-of-the-revenancer
 
 ## Spell Combos
 - Forcecage 20ft + Cloudkill/Incendiary Cloud/Wall of Fire (blocks line of sight, and slowly kills them)
