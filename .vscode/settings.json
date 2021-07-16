@@ -7,24 +7,23 @@
   "[markdown]": {
     "editor.quickSuggestions": true
   },
+  "foam.openDailyNote.directory": "./recaps",
+  "foam.openDailyNote.fileExtension": "md",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
+  "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
   },
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "note-macros": {
-    "recaps": [
-      {
-        "type": "note",
-        "directory": "recaps",
-        "extension": ".md",
-        "name": "recap",
-        "date": "yyyy-W"
-      }
-    ]
-  },
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "markdown.preview.breaks": true,
+  "pasteImage.path": "${currentFileDir}",
+  "pasteImage.namePrefix": "${currentFileNameWithoutExt}",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "prettier.singleQuote": false,
+  "spellright.notificationClass": "warning",
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
 }
