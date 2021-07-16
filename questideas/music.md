@@ -32,6 +32,10 @@ https://www.youtube.com/c/Musicforyoursoul/videos
 
 ## Battle
 
+### STORM - Colm R. McGuinness
+https://www.youtube.com/watch?v=qaVW6bgmmVE
+64min (crit role boss battle)
+
 ### Rise of the Tomb Raider; Soundtrack Battle Full
 https://www.youtube.com/watch?v=PXQT-wPgWHQ
 30min

@@ -40,6 +40,10 @@ Deal:
 - need to kill or Modify Memory Ursula (8th level)
 - need to kill or Modify Memory Celerom (8th level)
 
+### Amended Offer
+Since they used Wish on Mordai, need to sweeten the deal a bit here.
+He needs to do the same thing to come back, but he doesn't die at the end of 1 month (unless he fails to do those things).
+
 ## Personality
 Cop interrogation. Good cop.
 Deep voice.
