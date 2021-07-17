@@ -9,6 +9,12 @@
   },
   "foam.openDailyNote.directory": "./recaps",
   "foam.openDailyNote.fileExtension": "md",
+  "foam.files.ignore": [
+    "/.vscode",
+    "/README.md",
+    "/add-recaps-here-once-704-is-closed",
+    "/TODOS.md"
+  ],
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "files.defaultLanguage": "markdown",
