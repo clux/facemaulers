@@ -63,6 +63,13 @@ Chaos Magic effects: https://centralia.aquest.com/downloads/NLRMEv2.pdf
 (The Net Libram of Random Magical Effects version 2.00 By Orrex)
 (level + 1)^2 percent chance of chaos surge.
 
+## Paradox
+When he was a child there was technically two of him.
+Sensitive to chronomancy. Wild magic.
+Got stronger when he was older (coexistence with himself).
+Good luck to young self, bad luck old.
+Luck is a resource.
+
 
 
 ## Rejected Ideas
