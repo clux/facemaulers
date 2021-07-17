@@ -20,41 +20,138 @@ But upon death, he can get a challenge to "unwind" his fate.
 
 He needs to unwind a bunch of time loops. They will stop with the last of the 3 [[undying-soul]].
 
+In the challenge world his body will feel like jello. Attacks will fail. He can choose to totally disregard the Dahaka, but misses out on the offer.
+
 ### Looks
 Faded area with dahaka. He needs to cast chronomancy to align with the time. He will see one devil.
 Winged devil ; black cornugon in full plate. wings probably under his armor.
+Shuffling a deck of cards repeatedly mid conversation.
+Feet kicked up on desk. Watching multiple scrying orbs projected onto plates.
+(Security TV screen)
+He can switch between them seemlessly. Sometimes tracking people, sometimes location. Different screens show different times.
 
+- "Spoilers. Spoilers. What fun is there if I know the ending to every story.."
 - I take many forms. I simply took one that I thought would be most comfortable for you.
 
-### Offer
-Dahak will
-- offer him temporary immortality for his purpose for 1 month, and at the end, he will die.
-- afterwards: tie up the hanir loop triggered by mordai's chronomancy influencing the wild magic
+### Original Offer
+- temporary immortality for 1 month, and at the end, he will die
+- he has to complete tasks below
 
 if he declines the undercover mission (temporary immortality), hanir tieup starts immediately.
 
-Deal:
-- he gets to live for 1 month; true Divine Soul/Patron
+Show him Hanir Cutscene.
+
+### Benefits
+- while alive; true Divine Soul/Patron
 - can cast any spell provided he has scroll; spell DC buffed to 20 somehow?
 - can do a once per week full rest refresh (chronomancy refresh)
+
+### Tasks
+Needs to end the use and knowledge of [[chronomancy]]. I.e.:
+
 - needs to kill Arklem/Irae/Kiaransalee
 - need to kill or Modify Memory Ursula (8th level)
 - need to kill or Modify Memory Celerom (8th level)
 
-### Amended Offer
-Since they used Wish on Mordai, need to sweeten the deal a bit here.
-He needs to do the same thing to come back, but he doesn't die at the end of 1 month (unless he fails to do those things).
-
 ## Personality
 Cop interrogation. Good cop.
 Deep voice. Cockney geezer god.
-Feet kicked up on desk. Watching TV
-"Spoilers. Spoilers." I know the ending to every movie now.
+Doesnt want spoilers, and reacts out of proportion, borderline evil.
+Ultimately the deck didn't work. He controls it with his shuffling.
+Hans always dies.
 
-points to tv: celerom, before powerful magician, now, they now how they are going to die.
+### Amended Offer
+Wish => His life is not automatically forfeit after 1 month. He gets to live.
+
+Same Tasks and benefits with one extra benefit (if asked)
+
+- Remove `Flames` card for Hanir (see Hanir Interaction)
+
+By doing this, [[hjarka]] can live (and she can potentially eulogise herself).
+
+If he does not accept. Offer is rescinded.
+God does nothing (or something worse, hjarka gets locked in too)
+He is resurrected either way, but only with listed benefits if he accepts.
+
+#### Threat Layer?
+can threaten to change card to send her back (figure 8 cycle, one half: hans's sad cycle, hjarka's sent back cycle, next iteration, party see an old hjarka and she gets killed)
+do they roll with that?
+offer still only for 1mo, after that "i know how your cycle ends, offer ends here"
+
+### Questions
+- Tell me. When did you learn about chronomancy.
+- The dragon hoard that you stole, do you know where it came from?
+- The gold that you got, what did you do with it?
+- it's possible that you should not exist depending on what you did with that gold
+- The only way to end this, is to cut the source of the magic
+  * wizards who uses it, wipe their memory, destroy the knowledge
+
+### Lines
+State of Wish:
+- Oh great, everything's blue today. I guess it's Selune's time to shine.
+- Yeah, I can't do what I normally do, because someone has invoked a Wish on you.
+- You're lucky you know, your fate had a 3/4 probability of being tied to me.
+- Not that it would have mattered in the long run, given the powers you are toying with.
+
+Chronomancy was never intended to exist. It was distilled from the essence of mystra after her fall at the end of the netherese empire. I hoped the chaos they sent themselves on would be enough to end that energy use, but the knowledge lives on.
+Dragon Hoard:
+- Chronomancy has non-sensical effects on the multiverse. Someone takes something from the future, and brings it to the past; that item now exists in a time loop. It must end up in the location in the future to be stolen, yet has no concrete origin. It causes a sharp break from its original history and creation, and shunts the universe into an increasingly constrained pocket with no real history or surprises.
+- Where did the gold come from? No one knows anymore, our position in the multiverse is severed from the universe where the gold had a real origin.
+- Spent gold? Well, that gold has to find its way back. The universe will conspire to do so, and by doing so, it becomes ever more strangely deterministic.
+- Eventually the gold ends back with `Nihilant` until figments of you destroy him in about 50 years time. Thankfully, not many people interact with that island.
+
+Paradoxical Summons: ok as long as you complete it. If you break it, you cause another paradox elsewhere.
+
+TODO: Celerom: before powerful magician, now, they now how they are going to die?
+
+## Hanir Interaction
+Partially responsible for [[hanir]]'s demise. Gave him the DOMT originally.
+
+He did this as an experiment to help end the chronomancy (since he interacted with party), but no deck order helped, so he's kept on the island as this is the route that minimizes further time convolution.
+
+Chronomancy causes loops, and the greatest loops are caused by Hanir whose wild magic amplifies it.
+
+At the end of campaign, dahaka shows him the alternate end of hans prove that [[hjarka]] survives.
+
+#### Hanir Cutscene
+You think spoilers/determinism is/are bad? I'll show you.
+I have tried everything to change the life of the one responsible for the biggest time loops caused by chronomancy. Even I cannot do it.
+
+**Intro Hans**
+- Observe. (cut to young handsome angelic creature) A lowly sorcerer rejects his servitude under the divine. Tired of pointless fighting for Selune.
+- (cut to him falling) Rebels against his former morality and leader, and almost ends up completely controlled by an undead mind controlling beast (feydark necromancer?) (show darkened wings, necrotic shroud, clutches staff).
+- Then, he is rescued by your friend [[faey]].
+- At this point, his life is about to take a turn, because unbeknownst to him, he now coexists with himself.
+- (Screen locks in on Hans' face)
+- His magical abilities starts failing him; because the weave is splits between the two versions of himself.
+- Now, you know a large part of the rest. You travelled with this assimar.
+- Every time you used your magic near him, he blacks out, or suffers catastrophic malfunctions of magic.
+
+**Outro Hans (start)**
+- He became aware of his future, and would go to any length to avoid it.
+- I had the tools to permute his future and lessen the destructive impact he would have on the timeline, and I simply gave him the opportunity (shuffles deck).
+- He was the perfect vessel for experimentation, because he represented the complete lack of determinism due to the unpredictable influence of chronomancy.
+- (cut to him having the deck while talking to a hooded grey female) But his resolve was strong. He would not take the chance. He would take any opportunity to fix his future/past (depending on how you look at it), and he placed his faith in the first god whose acolytes he met.
+- He got a cleric to take him to sea, in the hopes of Divine Intervention from the powers of Umberlee.
+
+**Outro Hans (crazy shit)**
+- I'm sure you're interested in how this ends.
+- (improvise sea attack by a boat - empress, and Hans' accident, plus Flames card)
+- (improvise cleric battling (unhood to reveal hjarka) failing battle with Pit Fiend, then Hans; Void, Fool Idiot)
+- Tried everything. Tried even extracting his inner spirit and forcing it through a stable medium ([[faey]] with the focus), but the least destructive path was hist most confined path.
+
+**Clarification if asked**:
+- Dahaka gave Hans the cards. "Your future is determined by these cards. Pick the future one you want. One card in here (Moon w/Wishes) grants you the card to write your future as you see fit."
+- The cleric? Oh, her outcome is irrelevant for Hans. In this deck variations she saves Hans by sacrificing herself to fight the Pit Fiend.
+- Hanirs fate? Oh, he has to die. Everything you are doing and have been doing in the past (80 sessions) year depends on this. Any permutation where he lives, the world is in an unlivable state.
+- Changing something? Yeah some things can be changed. And Selune is watching this so I'm inclined to make you an offer. TODO: fix
+
+
+
+
 oh, you think it's good? [[hanir]]
 (timelord thugs wanted gold back, time elementals / ancient faey / hierarchy of misery)
-(hanir wild magic, chronomancy causes loops, greatest loop in hanir)
+
 (tries to leave to stop his future from happening)
 (walks into umberlee timeline)
 (8 loop, part living, part dead?)
@@ -70,47 +167,12 @@ hanir picked card; kraken (kills hjarka), second card (makes him mad)
 (timelord changes card, s/kraken/prison/ card)
 shuffles deck of cards
 maybe he didn't draw the madness card, he just got old, senile on island
+
 played with by umberlee
 he was madly in love with hjarka
 but then 200y in the past
 hans was a simp
 
-choice:
-- card swap (and she lives), but he has to end chronomancy
-- he does nothing, god does nothing (or something worse, hjarka gets locked in too)
-in both ways he is resurrected
-can threaten to change card to send her back (figure 8 cycle, one half: hans's sad cycle, hjarka's sent back cycle, next iteration, party see an old hjarka and she gets killed)
-do they roll with that?
-offer still only for 1mo, after that "i know how your cycle ends, offer ends here"
-
-intention:
-doesnt want spoilers, and reacts out of proportion, borderline evil
-
-
-at the end of campaign, dahaka shows him the alternate end of hans
-prove that they the cycle
-
-- Tell me. When did you learn about chronomancy.
-- The dragon hoard that you stole, do you know where it came from?
-- The gold that you got, what did you do with it?
-- it's possible that you should not exist depending on what you did with that gold
-- The only way to end this, is to cut the source of the magic
-  * wizards who uses it, wipe their memory, destroy the knowledge
-
-### Lines
-Chronomancy was never intended to exist. It was extracted from the powers of mystra during the fall of the netherese. I hoped severing the connection with them would be enough to release that energy, but the knowledge lived on.
-Dragon Hoard:
-- Chronomancy has non-sensical effects on the multiverse. Someone takes something from the future, and brings it to the past; that item now exists in a time loop. It must end up in the location in the future to be stolen, yet has no concrete origin. It breaks the original creation, and shoe-horns the universe into a pocket with no real history.
-- Where did the gold come from? No one knows anymore, our position in the multiverse is severed from the universe where the gold had a real origin.
-- Spent gold? Well, that gold has to find its way back. The universe will conspire to do so, but it becomes ever more strangely deterministic.
-
-Paradoxical Summons: ok as long as you complete it. If you break it, you cause another paradox elsewhere.
-Hans:
-- One loop that started since your time on Grundsgryn, is a mage called Hans.
-- The universe conspired to bring him back in time to guide you to unwind cycles, causing you to disperse the gold in locations that would eventually be hoarded by `Nihilanth`
-- His wild magic makes him more susceptible to the deterministic influence of Chronomancy
-- (they can maybe see Hanir and Hjarka helping Hanir cleanse himself through umberlee)
-- (he jokes about it and departs, but it's not working for him, he voyages to [[moray]] to try to get Wish access, ties in with his desire to get the Wish card)
 
 ### Selune / Kavaki Epilogue?
 kavaki and selune dating
@@ -121,6 +183,8 @@ heard some creepy british voice
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [grundsgryn]: ../seaofbones/grundsgryn "Grundsgryn"
 [undying-soul]: ../factions/undying-soul "Undying Soul"
+[chronomancy]: ../questideas/chronomancy "Chronomancy"
+[hjarka]: ../pcs/hjarka "Hjarka"
 [hanir]: ../pcs/hanir "Hans Irel"
-[moray]: ../seaofbones/moray "Moray"
+[faey]: ../pcs/faey "Faeynore"
 [//end]: # "Autogenerated link references"

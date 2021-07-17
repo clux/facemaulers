@@ -1,32 +1,67 @@
 # Hans Irel
 Watchers of the Night with [[faey]] in the [[feywild]].
-Had divine blood. Rejected it many years ago when he fell. Almost corrupted.
-Mordai figured out who he was in the feywild
+Goes by Hans in real world // Hanir in faeywild.
 
-## Future version
-Aasimar serving under by a God.
-Then controlled by a necromancer.
-Faey helped. They worked in Feywild for a while under the watchers
+## Chronological Developments
+### Hans Irel backstory
+Aasimar serving under by a God, divine blood.
+Rejected it many year ago. Fell, was controlled by a necromancer.
+Rescued by Faey. They worked in Feywild for a while under the watchers.
 
-..still cannot control spells properly
-manages to control spells after a while.. somehow
-but now chronomancy renders wild magic unstable
+Key Points:
+- co-exists with past Hanir from around the time of his fall from grace
+- struggles to control spells as time goes on
 
-## Past version
+### Second Character (Hans)
+- JG: Future version met in [[53-wish-unleashed]]
+- JG: Link to his past version revealed [[61-seer-planning]]
+- JG: Future version leaves in [[73-demo-gone-gone]]
+
+Key Points:
+- chronomancy renders his magic increasingly unstable and wild
+- lost all control when [[mordai]] used chronomancy
+- left as a result
+
+### Linking arc (slowly revealed over endgame)
+- DM: Goes soul searching and is given the DOMT from [[dahaka]]
+- DM: Hans want to pull from DOMT to get the Wish card, but resists.
+- DM: Meets [[hjarka]] and is ~~infatuated~~ madly in love with her
+- DM: Wants to become the champion of Umberlee
+- DM: [[hjarka]] takes him toward [[moray]]
+- DM: They are attacked, and his magic failures cause most of his crew to die
+- DM: DOMT: **OPTIONAL** Pulls Flames to summon a Pit Fiend - [[dahaka]] arc
+- DM: DOMT: Pulls The Void (imprisoned on [[moray]])
+- DM: DOMT: Pulls The Fool + Idiot (=> hanir lower level, less int (insane))
+- DM: Hanir forgets about the deck, after waking up on [[moray]]
+- DM: Hanir slowly goes insane in the [[mirror-temple]] toyed with by Umberlee
+- DM: Hanir fails to become a cleric, and drops the DOMT
+
+Key Points:
+- Hjarka wants to put him on a less self-destructive path (told April)
+- (thought that her at sea would be a better end for her)
+- Hans spends 100 years on [[moray]] failing to fix his fate.
+- Hjarka's end depends on whether the [[dahaka]] stacks the deck against him
+- reasons for his fate is [[chronomancy]] and wild magic interaction
+
+### First Character (Hanir)
+- JG: Past version met in [[33-mirror-hans]]
+- JG: Past version [[34-tyrant-deception]] finds deck of many things
+- JG: Past version dies in [[35-temple-of-the-queen]] after drawing Avatar of Death
+
+
+## Original Past from James (somewhat rewritten above)
+he fell in love with a priest of umberlee
 priest of umberlee: "destiny is to become champion of umberlee"
-he was convinced
-they fell in love
-set sail towards island (found coordinates)
-entered island found deck together
+set sail towards island
+
 he failed the test
 got angry (confusedly)
 went to sleep on boat again
 pulled a card
-summoned a great powerful beast (kraken)
-see wife brutalee murdered by the kraken
-he pulls another card
-(halved his int - semi retarded)
-...
+summoned a great powerful beast (~~kraken~~ Pit Fiend)
+see wife brutalee murdered by the beast
+he pulls more cards; halved his int - semi retarded, and drops XP
+
 much later
 woken up by the umberlee incarnate
 becomes guardian of the mirror world of the world
@@ -36,6 +71,7 @@ he was there for 100 years
 
 ## Tying it in: Distress - Chronomancy
 Music: https://www.youtube.com/watch?v=5ms9lXWCBww
+(These happened in [[73-demo-gone-gone]])
 
 Hanir distressed with group (gw disrespect)
 Wants to leave group for research. He's nervous / a bit selfish.
@@ -55,21 +91,16 @@ TODO: ursula can also use this to track her..
 few strands of sheeps wool as he plane shifts out
 (he needs to roll on the table on the high level spell)
 
-## reasons for fate
-[[chronomancy]] abuse.
-
-## Wild Magic
+## Earlier Wild Magic Effects
 Chaos Magic effects: https://centralia.aquest.com/downloads/NLRMEv2.pdf
 (The Net Libram of Random Magical Effects version 2.00 By Orrex)
 (level + 1)^2 percent chance of chaos surge.
 
-## Paradox
+## Note Paradox
 When he was a child there was technically two of him.
 Sensitive to chronomancy. Wild magic.
 Got stronger when he was older (coexistence with himself).
-Good luck to young self, bad luck old.
-Luck is a resource.
-
+Good luck to young self, bad luck old => Luck is a resource.
 
 
 ## Rejected Ideas
@@ -78,18 +109,6 @@ practice seer (divination apprentice), can see signs, somewhat.
 misguided, sees signs in different universe. destiny has a certain agenda here.
 he falls in love with her?
 maybe he learns mind blank.
-### Unknown Priestess
-Young Hanir fiends priestess, falls in love
-
-### Hjarka Tie-in
-future Hjarka could uncover something to help out with demon lords
-as she's a priestess of umberlee
-
-Old Hanir found on the Island interacted with Young(ish) Hjarka
-Current Hjarka interacting with Young Hanir
-Self-fulfilling prophecy that Hjarka needs to get her back in time.
-
-Hjarka introduces Young hanir to a cleric of Umberlee, to start his journey?
 
 ### Irae Tie-in
 In a battle with her, chronomancy gets out of hand?
@@ -100,5 +119,16 @@ To destroy her phylactery, they need to reach it in the past?
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [faey]: faey "Faeynore"
 [feywild]: ../planar/feywild "Feywild"
+[53-wish-unleashed]: ../recaps/53-wish-unleashed "53-wish-unleashed"
+[61-seer-planning]: ../recaps/61-seer-planning "61-seer-planning"
+[73-demo-gone-gone]: ../recaps/73-demo-gone-gone "73-demo-gone-gone"
+[mordai]: mordai "Mordai"
+[dahaka]: ../deities/dahaka "Dahaka"
+[hjarka]: hjarka "Hjarka"
+[moray]: ../seaofbones/moray "Moray"
+[mirror-temple]: ../seaofbones/mirror-temple "Mirror Temple"
 [chronomancy]: ../questideas/chronomancy "Chronomancy"
+[33-mirror-hans]: ../recaps/33-mirror-hans "33-mirror-hans"
+[34-tyrant-deception]: ../recaps/34-tyrant-deception "34-tyrant-deception"
+[35-temple-of-the-queen]: ../recaps/35-temple-of-the-queen "35-temple-of-the-queen"
 [//end]: # "Autogenerated link references"
