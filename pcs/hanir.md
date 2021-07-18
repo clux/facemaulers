@@ -13,9 +13,9 @@ Key Points:
 - struggles to control spells as time goes on
 
 ### Second Character (Hans)
-- JG: Future version met in [[53-wish-unleashed]]
-- JG: Link to his past version revealed [[61-seer-planning]]
-- JG: Future version leaves in [[73-demo-gone-gone]]
+- JG: Yound version met in [[53-wish-unleashed]]
+- JG: Link to his old version revealed [[61-seer-planning]]
+- JG: Young version leaves in [[73-demo-gone-gone]]
 
 Key Points:
 - chronomancy renders his magic increasingly unstable and wild
@@ -30,23 +30,22 @@ Key Points:
 - DM: [[hjarka]] takes him toward [[moray]]
 - DM: They are attacked, and his magic failures cause most of his crew to die
 - DM: DOMT: **OPTIONAL** Pulls Flames to summon a Pit Fiend - [[dahaka]] arc
-- DM: DOMT: Pulls The Void (imprisoned on [[moray]])
-- DM: DOMT: Pulls The Fool + Idiot (=> hanir lower level, less int (insane))
-- DM: Hanir forgets about the deck, after waking up on [[moray]]
+- DM: DOMT: Pulls 3 cards; Fool + Idiot + Donjon (imprisoned on [[moray]])
+- DM: Hanir cannot draw more, leaves deck somewhere within
 - DM: Hanir slowly goes insane in the [[mirror-temple]] toyed with by Umberlee
 - DM: Hanir fails to become a cleric, and drops the DOMT
 
 Key Points:
 - Hjarka wants to put him on a less self-destructive path (told April)
 - (thought that her at sea would be a better end for her)
-- Hans spends 100 years on [[moray]] failing to fix his fate.
+- Hans spends 100 years on [[moray]] failing to avoid his fate.
 - Hjarka's end depends on whether the [[dahaka]] stacks the deck against him
 - reasons for his fate is [[chronomancy]] and wild magic interaction
 
 ### First Character (Hanir)
-- JG: Past version met in [[33-mirror-hans]]
-- JG: Past version [[34-tyrant-deception]] finds deck of many things
-- JG: Past version dies in [[35-temple-of-the-queen]] after drawing Avatar of Death
+- JG: Old version met in [[33-mirror-hans]]
+- JG: Old version [[34-tyrant-deception]] finds deck of many things
+- JG: Old version dies in [[35-temple-of-the-queen]] after drawing Avatar of Death
 
 
 ## Original Past from James (somewhat rewritten above)

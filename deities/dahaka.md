@@ -34,7 +34,7 @@ He can switch between them seemlessly. Sometimes tracking people, sometimes loca
 - I take many forms. I simply took one that I thought would be most comfortable for you.
 
 ### Original Offer
-- temporary immortality for 1 month, and at the end, he will die
+- temporary resurrection for 1 month, and at the end, he will die
 - he has to complete tasks below
 
 if he declines the undercover mission (temporary immortality), hanir tieup starts immediately.
@@ -44,7 +44,7 @@ Show him Hanir Cutscene.
 ### Benefits
 - while alive; true Divine Soul/Patron
 - can cast any spell provided he has scroll; spell DC buffed to 20 somehow?
-- can do a once per week full rest refresh (chronomancy refresh)
+- can do a once per week full rest refresh (chronomancy refresh 30min ritual)
 
 ### Tasks
 Needs to end the use and knowledge of [[chronomancy]]. I.e.:
@@ -65,7 +65,7 @@ Wish => His life is not automatically forfeit after 1 month. He gets to live.
 
 Same Tasks and benefits with one extra benefit (if asked)
 
-- Remove `Flames` card for Hanir (see Hanir Interaction)
+- Swap `Flames` card for `Donjon` Hanir (see Hanir Interaction)
 
 By doing this, [[hjarka]] can live (and she can potentially eulogise herself).
 
@@ -73,13 +73,24 @@ If he does not accept. Offer is rescinded.
 God does nothing (or something worse, hjarka gets locked in too)
 He is resurrected either way, but only with listed benefits if he accepts.
 
-#### Threat Layer?
-can threaten to change card to send her back (figure 8 cycle, one half: hans's sad cycle, hjarka's sent back cycle, next iteration, party see an old hjarka and she gets killed)
-do they roll with that?
+#### Offer Lines
+- Fucking hell. Stage of wish. Well. This is either good for you or bad for you, and I can't tell you which is which (changes outcome).
+- Legally, it's good for you.
+
+- I would have requested a complete contract with a specific purpose normally, but you are legally free to return thanks to the state of Wish that we find ourselves in. However, you may want to listen to the following; THREATS.
+- You will officially be the first creature I send back.
+- You  champion. Don't worry about that title btw. I'm not you know who from your mother's side.
+
+#### Threat Layer
+- ~~Change card to affect Hjarka to send her back (figure 8 cycle, one half: hans's sad cycle, hjarka's sent back cycle, next iteration, party see an old hjarka and she gets killed)~~
+- Your lives (regardless of your immediate outcomes) are locked in a state of determinism as long as Chronomancy exists. You think you have free will?
+- As long as Chronomancy exists. Kiaransalee can return. If you do not succeed, Kiaransalee returns. If you succeed, then the cycle of her death, and her revival will continue every 500 years, and you will be the next sunset warriors. Until an iteration of you fails.
+- Only wiping chronomancy entirely from the multiverse record will do it. I have done as much as possible to minimise its influence, but my choices rely on individual choice. (Hanir story).
+
 offer still only for 1mo, after that "i know how your cycle ends, offer ends here"
 
 ### Questions
-- Tell me. When did you learn about chronomancy.
+- Tell me. What do you know of Chronomancy. (jk, i have seen you)
 - The dragon hoard that you stole, do you know where it came from?
 - The gold that you got, what did you do with it?
 - it's possible that you should not exist depending on what you did with that gold
@@ -88,17 +99,17 @@ offer still only for 1mo, after that "i know how your cycle ends, offer ends her
 
 ### Lines
 State of Wish:
-- Oh great, everything's blue today. I guess it's Selune's time to shine.
+- Oh great, we're in a state of Wish. I guess you get to live after all.
 - Yeah, I can't do what I normally do, because someone has invoked a Wish on you.
 - You're lucky you know, your fate had a 3/4 probability of being tied to me.
 - Not that it would have mattered in the long run, given the powers you are toying with.
 
-Chronomancy was never intended to exist. It was distilled from the essence of mystra after her fall at the end of the netherese empire. I hoped the chaos they sent themselves on would be enough to end that energy use, but the knowledge lives on.
+Chronomancy was never intended to exist for mortals. It was distilled from the essence of mystra after her fall at the end of the netherese empire. I hoped the chaos they sent themselves on would be enough to end that energy use, but the knowledge lives on.
 Dragon Hoard:
-- Chronomancy has non-sensical effects on the multiverse. Someone takes something from the future, and brings it to the past; that item now exists in a time loop. It must end up in the location in the future to be stolen, yet has no concrete origin. It causes a sharp break from its original history and creation, and shunts the universe into an increasingly constrained pocket with no real history or surprises.
+- Chronomancy has non-sensical effects on the multiverse. Someone takes something from the future, and brings it to the past; that item now exists in a time loop. It must end up in the location in the future to be stolen, yet has no concrete origin. It causes a sharp break from its original history, both creation and future, and shunts the universe into an increasingly constrained pocket with no real history or surprises.
 - Where did the gold come from? No one knows anymore, our position in the multiverse is severed from the universe where the gold had a real origin.
 - Spent gold? Well, that gold has to find its way back. The universe will conspire to do so, and by doing so, it becomes ever more strangely deterministic.
-- Eventually the gold ends back with `Nihilant` until figments of you destroy him in about 50 years time. Thankfully, not many people interact with that island.
+- Eventually the gold ends back with `Nihilant` until versions of yourselves are set to destroy him in about 50 years time. Thankfully, not many people interact with that island.
 
 Paradoxical Summons: ok as long as you complete it. If you break it, you cause another paradox elsewhere.
 
@@ -144,26 +155,16 @@ I have tried everything to change the life of the one responsible for the bigges
 - Dahaka gave Hans the cards. "Your future is determined by these cards. Pick the future one you want. One card in here (Moon w/Wishes) grants you the card to write your future as you see fit."
 - The cleric? Oh, her outcome is irrelevant for Hans. In this deck variations she saves Hans by sacrificing herself to fight the Pit Fiend.
 - Hanirs fate? Oh, he has to die. Everything you are doing and have been doing in the past (80 sessions) year depends on this. Any permutation where he lives, the world is in an unlivable state.
-- Changing something? Yeah some things can be changed. And Selune is watching this so I'm inclined to make you an offer. TODO: fix
+- Changing something? Of course, we're in a state of Wish, I can do whatever we want. That said. Some things cannot be changed for your sanity. Destiny.
+- Change can't pertains to them. That would affect you and your encounter with Hanir, and then this encounter would not have happened. But that means you never tell young Hanir about his fate, and he goes on to create bigger time chaos with you.
+- Destiny: You need to meet Hanir, he needs to die, and he needs to die spectacularly enough for you to warn him of his fate.
+- Does he know they'll succeed. But can't tell them, because that will funnily enough cause the outcome to change.
 
 
-
-
-oh, you think it's good? [[hanir]]
-(timelord thugs wanted gold back, time elementals / ancient faey / hierarchy of misery)
-
-(tries to leave to stop his future from happening)
-(walks into umberlee timeline)
-(8 loop, part living, part dead?)
-(he met hjarka, and she was the one who died? but only been a few months since he left...)
-(hans met hjarka, fell in love, going to sail, )
-show recognise the face of the girl
-"oh you know more than one person of the story"
-"if you do do this, can break the loop (he put the deck, shuffles the deck)"
 gw deserves a reward for the wish magic, selune
 "we're in a state of wish, i can do whatever we want"
 
-hanir picked card; kraken (kills hjarka), second card (makes him mad)
+
 (timelord changes card, s/kraken/prison/ card)
 shuffles deck of cards
 maybe he didn't draw the madness card, he just got old, senile on island
@@ -179,6 +180,11 @@ kavaki and selune dating
 "i am kavaki, god of goliaths'
 dating a moon goodess now
 heard some creepy british voice
+
+## Rejected
+### Dahaka Reclaim Squad
+He has thugs to bring future gold back
+time elementals / ancient faey.
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [grundsgryn]: ../seaofbones/grundsgryn "Grundsgryn"
