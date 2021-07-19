@@ -82,13 +82,19 @@ battle, bring in faldorn fron [[path-of-suffering]]
 - "menzo will be ours"
 - "from the halls of undermountain, waterdeep will be swallowed up?"
 
+### Tetrahedron
+Obsidian. Lazer etched inners.
+Center (where green acid is contains an etched triquetrus - circle with 3 overlapping venn diagrams, celtic triple corner).
+Circle reprecenting the cyclical nature of time, and the three the ones needed.
+Two out of three light up.
 
-### Entertainment
-#### Drider bowl
+Leave walls for Acropolis?
+Need to seed Larloch and Valindra, but they need book first..
+
+### Drider bowl
 mutant driders crossed with demons (champions taken from prisons in menzo)
 now fight for glory. bets on the beefy ones.
 winner enter draw to get to reshuffle the bones of old pip (failed medical student now undead)
-
 
 ### Library of the Dead
 Run by Madame Eithne
@@ -152,19 +158,10 @@ why?
 ## History
 The Crones obtained a voidstone, and placed it within the Acropolis in order to sustain a gate to the Shadowfell, to summon an army of undead.
 
-## NPC: Antoine Lastfever
-broken french accent. no h sound. uvular r (back of throat), dark l. last syllable weight.
-what does he want?
-
-
-
 ## Hazards / Environment
 ### Protection
 Necrotic Tempest raging around path to temple. DC15 CON save every minute vs 3d6 necro dmg.
 Instate it along with the DS3 entrance fight to spice it up.
-
-### Death
-If you die here, you immediately become an undead servant or a mane/dretch/rutterkin. You can only be reverted back via raise dead/wish/resurrection polymorph.
 
 ### Miniboss High AC Undead Champion
 Red visor eyes, huge sword.

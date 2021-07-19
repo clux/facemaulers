@@ -16,22 +16,29 @@ Dahaka chase into Wave summoning an Elder elemental MTOF 198
 
 ## Mordai Challenge
 Mordai does not have a god/patron anymore.
-But upon death, he can get a challenge to "unwind" his fate.
+But upon death, he can get a chance to "unloop" his fate.
+In a faded area with dahaka. He needs to cast chronomancy to align with the time.
 
-He needs to unwind a bunch of time loops. They will stop with the last of the 3 [[undying-soul]].
+He needs to end all time loops.
+Mainly killing the 3 [[undying-soul]]
+But also involving the people he's told about chronomancy.
 
 In the challenge world his body will feel like jello. Attacks will fail. He can choose to totally disregard the Dahaka, but misses out on the offer.
 
 ### Looks
-Faded area with dahaka. He needs to cast chronomancy to align with the time. He will see one devil.
-Winged devil ; black cornugon in full plate. wings probably under his armor.
+~~Winged devil ; black cornugon in full plate. wings probably under his armor.~~
+~~GOO: infinitely many eyes, infinitely many screens.~~
+~~Rick; Rogue time scientist gnome.~~
+An enormous flying eye, eyelashes, and several petal like wings protruding on each side (sahaquiel, but more wing petals, like seraphim).
+
+
 Shuffling a deck of cards repeatedly mid conversation.
 Feet kicked up on desk. Watching multiple scrying orbs projected onto plates.
 (Security TV screen)
 He can switch between them seemlessly. Sometimes tracking people, sometimes location. Different screens show different times.
 
 - "Spoilers. Spoilers. What fun is there if I know the ending to every story.."
-- I take many forms. I simply took one that I thought would be most comfortable for you.
+- I take many forms. I simply took one that I thought would be comfortable for you. (infernal, eerily familiar; WIS25 like his mum's father, Melrath).
 
 ### Original Offer
 - temporary resurrection for 1 month, and at the end, he will die

@@ -25,12 +25,6 @@ notes:
 - gregor due to leave today
 - https://roll20.net/compendium/dnd5e/Carpet%20of%20Flying (carpet from selunebowl is 800lbs rated, but burned => 20ft speed)
 
-TODO:
-- sorrowsworn / spiders / visible ward for [[velddrinnsshar]]
-- actual map or theatre of the mind for shar
-- ensure they get the books, to seed valindra!
-
-
 Players:
 - Florent
 - Guy
