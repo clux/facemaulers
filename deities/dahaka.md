@@ -1,12 +1,9 @@
 # Dahaka
-Guardian of Time. Limits the use of Chronomancy.
-Single entity time guardian.
-Seen at [[grundsgryn]].
+AKA Sahaquiel; Celestial Guardian of Time.
+Seen at [[grundsgryn]] in a terrifying light:
 ![](./dahaka.jpg)
 
-Ancient LE
-Based on Prince of Peria; Warrior Within
-Omnitemporal + Omnipresent
+Omnitemporal + Omnipresent celestial deity.
 
 Came about due to netherese society starting to tamper with time.
 Dahaka desires chronomancy to unwind chronomancy for his existence to end.
@@ -50,7 +47,8 @@ Show him Hanir Cutscene.
 
 ### Benefits
 - while alive; true Divine Soul/Patron
-- can cast any spell provided he has scroll; spell DC buffed to 20 somehow?
+- spell DC buffed to 20 somehow
+- modify memory 6th level, overcharge up to 8th level every 2 days
 - can do a once per week full rest refresh (chronomancy refresh 30min ritual)
 
 ### Tasks
@@ -59,10 +57,11 @@ Needs to end the use and knowledge of [[chronomancy]]. I.e.:
 - needs to kill Arklem/Irae/Kiaransalee
 - need to kill or Modify Memory Ursula (8th level)
 - need to kill or Modify Memory Celerom (8th level)
+- cloud giants Sansuri
 
 ## Personality
 Cop interrogation. Good cop.
-Deep voice. Cockney geezer god.
+Deep voice.
 Doesnt want spoilers, and reacts out of proportion, borderline evil.
 Ultimately the deck didn't work. He controls it with his shuffling.
 Hans always dies.
@@ -86,7 +85,7 @@ He is resurrected either way, but only with listed benefits if he accepts.
 
 - I would have requested a complete contract with a specific purpose normally, but you are legally free to return thanks to the state of Wish that we find ourselves in. However, you may want to listen to the following; THREATS.
 - You will officially be the first creature I send back.
-- You  champion. Don't worry about that title btw. I'm not you know who from your mother's side.
+- You champion. Don't worry about that title btw. I'm not you know who from your mother's side.
 
 #### Threat Layer
 - ~~Change card to affect Hjarka to send her back (figure 8 cycle, one half: hans's sad cycle, hjarka's sent back cycle, next iteration, party see an old hjarka and she gets killed)~~
@@ -181,6 +180,14 @@ he was madly in love with hjarka
 but then 200y in the past
 hans was a simp
 
+### Outcome
+he accepted the terms without further requests.
+they will meet again (current meeting was their penultimate one)
+
+### Future Plan
+he will have to wipe his memory after it's done
+and after he does his patron is both his divine soul and his warlock patron.
+(only functional difference is that the eldritch blast has a bright white feel, and "that's what it always was" - remember to seed the green EB)
 
 ### Selune / Kavaki Epilogue?
 kavaki and selune dating

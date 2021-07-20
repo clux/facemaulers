@@ -36,6 +36,9 @@ If he is not saved in time, he'll be there to defend earlier, and his soul will 
 
 Lore: if they scry on people having conversations they can mention that he's almost there. He seems to be clinging to his former life longer than expected, but it won't be long. A day at most.
 
+## phylactery
+large green gem as that's valindra's style
+
 ### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`
 he sacrificed himself to add a vulnerability to the egg; someone of a particular persuasion have to be raised by Irae and it will corrupt the egg

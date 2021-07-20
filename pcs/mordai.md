@@ -24,13 +24,6 @@ not really distrusting still
 more characterised by inability by insufficiently powerful/knowledgable to prevent disaster
 wanting to be in control over those who take control. anger / desperation?
 
-## Personal plans
-still have travelling to do
-would like to spend time of previous study and recall (at castle never)
-
-## Planned
-- Have him experience something to question his silent suffering?
-
 ## Developments
 - Got book of Chronomancy on from [[andariel]]
 - Hid book from [[paxos]] (and avoided a trip to [[gehenna]])
@@ -46,11 +39,16 @@ Black “eyes”, purple skin, horns. Robe.
 - knowledge
 - power
 
+still have travelling to do
+would like to spend time of previous study and recall (at castle never)
+
 ## Developments
 - [[03-cursed-grove]] Paxos requests the fruit, but Mordai fails to get/steal it
 - [[10-kruthik-dungeon]] Warlock dream 1 (too Fjord-like, failed to do much, mordai pops all the eggs)
 - [[18-infernal-gary]] Warlock dream 2
 - [[80-plutocracy]] Portal to Mephistar and ultimatum
+- [[83-going-east]] Takes Wizard levels in protest. First principles being applied.
+- [[117-acro-police]] Divine Soul with [[dahaka]]
 
 ## 83-downtime
 Mages Guild
@@ -64,7 +62,26 @@ Understands the weave now.
 ## Patron Paxos
 Arcanoloth in the Gehanna
 
-## Fruit Quest
+## Patron Sahaquiel
+- while alive; true Divine Soul/Patron
+- spell DC buffed to 20 somehow
+- modify memory 6th level, overcharge up to 8th level every 2 days
+- can do a once per week full rest refresh (chronomancy refresh 30min ritual)
+
+## TODO: End
+[[dahaka]] needs to remove chronomancy from him at the end.
+Last removal triggers meeting.
+
+He would like to go out as a divine soul sorcerer
+
+time magic to eradicate the pact? or celestial warlock (paxos is sahaquiel)
+still sorcerer / wizard / warlock (but patron changed)
+mordai was supposed to give back the book? but he didn't.
+if his patron was sahaquiel all along; this was meant to be. he was never meant to give the book back. he needed it to end arklem/irae.
+earlier warlock dreams was actually weird fever dreams of sahaquiel? w/e.
+
+## Patron Quests and Visions
+### Fruit Quest
 "Mordai."
 “I sense that are entering a place of great power. You should be careful when threading here.”
 “I sense an unnatural form of healing magic around this place - which I assume you are here for. But I also sense a different type of magic hidden away.”
@@ -82,7 +99,7 @@ Do with the rest as you wish. But if you have people you value, do not feed it t
 
 future: Rewarding increasingly evil quests
 
-## Vision 1
+### Paxos Vision 1
 Mordai vision in Kruthik Dungeon:
 You find yourself in the midst of an endless sea of mist - rising about 2ft up from the ground, extending seemingly endlessly out into the horizon. However around your person is a circle of red fire about 1ft tall clawing at your feet.
 
@@ -98,7 +115,7 @@ Another word echoes; “ENERGY”
 Pick one up, flash back to the other room.
 It can light up in the smaller circle. He will be enveloped and woken up in center afterwards.
 
-## Vision 2
+### Vision 2 - this was bad
 Mordai's patron can earn him Misty Visions:
 You wake up in a room full of mist. As you step along, you hear squidgy of something splattering.
 You've stepping on _large_ orange larva, as you look down to investigate you see it's not dead.
@@ -106,17 +123,17 @@ Its head seems enormous, and then it turns towards you and smiles. The face is h
 "What are you doing here Mordai?" - dual toned voice.
 Stepping further (suddenly) / investigating (pull and pull):
 
-## Vision 3
+### Vision 3
 unused
 If mordai studies the book. Recursive knowledge First.
 He can get an invocation to cast a 4th level chronomancy spell.
 
-## Vision 4
+### Vision 4
 unused
 Sou see yourself walking backwards throughout a maze. Candles burning down.
 oos chtum rewuop
 
-## Level 15 ultimatum
+### Level 15 ultimatum
 Fiend he's ultimately related to Mephisto(pheles)
 ![](https://i.imgur.com/NEboCVd.png)
 
@@ -169,7 +186,8 @@ CULT BONUSES (if you get at least 3 followers, then 10)
 10 Bonus; Spell Leech; bonus action grab lowest level spell of spell slot of creature it can see within 30 ft (and you gain it).
 
 
-## Abandoned staff concept
+### Abandoned Paxos staff concept
+Was meant to be a thing from the Gulthias Tree.
 Maybe: Make it a modified wand of lightning bolts if he attunes.
 Maybe: Make it a modified wand of binding ? Spells are too good though..
 Make other spells in a staff!
@@ -188,7 +206,7 @@ https://5thsrd.org/spellcasting/spells/enhance_ability/
 Give him that as a pact bonus. (Needs concentration, but is a nice team buff). Variety.
 
 
-## Dropped evel 15 sketches
+## Dropped level 15 sketches
 ### mordai sketch 2
 Infernal: Mephisto is happy to have received so many corrupted storm giants. They are great for his experiments. From Cania in the Icy Citadel of Mephistar conducts series of arcane experiments. Highly irregular mind control that affected these giants.
 (he's also happy to see weird magic from him, and they're trying to study it, but hard from afar)
@@ -234,4 +252,7 @@ E.g.
 [10-kruthik-dungeon]: ../recaps/10-kruthik-dungeon "10-kruthik-dungeon"
 [18-infernal-gary]: ../recaps/18-infernal-gary "18-infernal-gary"
 [80-plutocracy]: ../recaps/80-plutocracy "80-plutocracy"
+[83-going-east]: ../recaps/83-going-east "83-going-east"
+[117-acro-police]: ../recaps/117-acro-police "117-acro-police"
+[dahaka]: ../deities/dahaka "Dahaka"
 [//end]: # "Autogenerated link references"
