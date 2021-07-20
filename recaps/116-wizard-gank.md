@@ -62,8 +62,10 @@ NOTES:
 - Shadowmantle book loot on drow
 - reaching the acropolis? teleportation setup in tetrahedron
   * 3 buttons, portal, minute to activate, circle (special port, long misty step)
-  * they can also just fly up now though (600ft) through mist, show them the layout
+  * they can also just fly up now though (600ft) through necrotic tempest con save vs 3d6 necro
 - [[velddrinnsshar]] tetrahedron section; clear wall sandstone, lazer etched
+- short rest => liches have all spells (lair actions)
+- divination wards from nondetection does not counter Alarm (which is a magical trap PERC25 detect magic)
 
 Players:
 - Florent
