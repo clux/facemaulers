@@ -77,7 +77,7 @@ Green Acid. Flows with remarkable perturbation given that this appears looks lik
 Actually connected to the chamber below (which ultimately drains out of acropolis).
 
 #### Right Room; Valindra's chamber and Necro Guarden
-Books in there. Shadowmantle book.
+Books in there. Note book from Valindra. 500gp diamond.
 Book on necrotic gardening. Grows in acidic soil provided enough perturbations for it to only fleetingly touch the acid.
 
 #### Necro Garden (below Valindra)
