@@ -23,6 +23,15 @@ General problem solving.
 https://www.youtube.com/watch?v=mIrt5MkGpy0
 very repeatable, used many times
 
+### Dark Fantasy Music - Midnight's Tale [1 HOUR]
+https://www.youtube.com/watch?v=37K9-BksfdA
+
+### Dark Gregorian & Byzantine chants | Gothic ritual ambient (30min)
+https://www.youtube.com/watch?v=Prtnrms0VdA
+
+### Fortress-Monastery gothic chants 80min
+https://www.youtube.com/watch?v=E0VCNB9Ep2M
+nothing special, mild gothic
 
 ## Town
 ### Medieval Fantasy Music – Medieval Market | Folk, Traditional, Instrumental
@@ -52,6 +61,9 @@ https://www.youtube.com/watch?v=maAEoJQnWr4
 https://www.youtube.com/watch?v=_9ppF08u2GM
 47min
 
+### Ork Battle Music 1h
+https://www.youtube.com/watch?v=Zx6b667d7CQ
+a bit slow - but eerie
 
 ### RPG Playlist - Combat Music 1
 https://www.youtube.com/watch?v=M_hrNDhLwvE
@@ -65,3 +77,8 @@ short
 ### CRONOS - Epic Powerful Orchestral Music Mix | Jo Blankenburg
 https://www.youtube.com/watch?v=NoFfgJbkl-o
 Generally not TOO over-epic.
+
+
+## Channels
+- [Gianni Russo](https://www.youtube.com/channel/UCxY_e-kSM9HIvigwaauvX2Q)
+- [Prometheus Studio](https://www.youtube.com/channel/UCttFYkVyUGHWsopvkRZgJbg/videos)
