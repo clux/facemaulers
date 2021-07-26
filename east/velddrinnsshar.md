@@ -99,6 +99,7 @@ winner enter draw to get to reshuffle the bones of old pip (failed medical stude
 ### Library of the Dead
 Run by Madame Eithne
 - Will let you read books if you give her a scroll of Ceremony (to cast a funeral rite)
+- If they agree, she'll kill herself first
 - Otherwise they have to
 
 ![](shar-library.jpg)
@@ -106,6 +107,8 @@ Run by Madame Eithne
 Books about histories of famous people. Biographies, literal ghostwriter.
 - Shadowmantle; book about an unseelie moon elf who rose to become the overwizard of the Tower Arcane around 800DR in [[luskan]]. The book follows her from 1100 to 1102 as she had taken residence in [[evernight]] working on creating phylacteries for dragons. (Dracoliches). Ghostwritten by Edvard Feeler (high-functioning autist demilich who made black tentacle spell)
 - ~~Greeth; another ghostwritten biography of the archmage of the arcane brothehood, his rise to power, and an extraordinary ruse~~
+
+Placed book on gaggle of drow instead.
 
 ### High End Cemetery
 Big mausoleums and tombs on a hill. Where the more noble undead can rest.

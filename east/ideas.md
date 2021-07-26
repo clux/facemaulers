@@ -89,6 +89,7 @@ blaming god
 make him jealous of being kavaki's original favourite? Akkhan?
 or maybe he's a better mauler? he can maul higher?
 high hitter maul.
+TRIED AND FAILED
 
 ## Impromptu boss
 https://old.reddit.com/r/DnDBehindTheScreen/comments/j6akdx/nameless_legendary_sword_to_use_as_a_campaign/
@@ -102,9 +103,6 @@ This message is a warning about danger. The danger is in a particular location..
 
 This place is best left shunned and uninhabited.
 
-
-Could also have the source of Irae's setting was them digging too deep and finding relics from an ancient civilization? E.g. divinity 2 Aeterna
-https://divinityoriginalsin2.wiki.fextralife.com/Ancient+Temple
 
 ## Douchebag Genie
 Mini-genie providing limited wishes.

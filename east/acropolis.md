@@ -15,7 +15,7 @@ https://forgottenrealms.fandom.com/wiki/Arach-Tinilith
 Pyramid like paths. Green flame water ways.
 
 TODO:
-- ~~spell recharge area~~
+- ~~spell recharge area~~ gave Mordai chronomancy refresh (once a week)
 - something cool connecting these (doesn't need to feel big, just evocative)
 - rest spell for them?
 
@@ -24,12 +24,18 @@ Necrotic Tempest raging around path to [[acropolis]]. DC15 CON save every minute
 ~~Shadow Dragon~~
 Vrock
 
-## Looks
-Catacomb like walls. Bones everywhere. But different styles.
-Outside, towers with two blood giants trying to snipe down intruders. Immobile sentries.
-Spires outside for protection (250m tall). Dungeon inside the big rock. Big. 400m wide.
+## Enemies
+- ~~Doom Golem CC197 CR10 (bone based construct from Valindra's past)~~ used in oubliette
+- Blood Giants CR8 CC180 (great snipers + obscurers - tactical + they know them)
+- Revenants (explodified)
+- Bladelord?
 
-![](acropolis-inside-1.jpg)
+## Lore
+temple built to summon a god
+lore on walls; statues of kiaransalee
+
+- can speak with dead
+- ~~murray~~
 
 ## Regional Effects
 The growing presence of [[kiaransalee]] causes necromantic effects everywhere.
@@ -38,11 +44,20 @@ The growing presence of [[kiaransalee]] causes necromantic effects everywhere.
 - If sleeping herein, assaulted by `n x Dream Wraiths` CC135 CR5
 - Locals suffers from healing magic herein.
 
+## Entrance
+### Looks
+Catacomb like walls. Bones everywhere. But different styles.
+Outside, towers with two blood giants trying to snipe down intruders. Immobile sentries.
+Spires outside for protection (250m tall). Dungeon inside the big rock. Big. 400m wide.
+
+![](acropolis-inside-1.jpg)
+
 ### Conciousness of Kiaransalee Manifests
 - through skulls; "welcome. welcome. welcome"
 - "more living, yes. so hungry."
 - skulls rearranging
 - ground vibrating (2hz, small amplitude, but enough to make it difficult to walk)
+- skulls reform in lower end
 
 ### Entrance (lower end)
 Leads downward from entrance. They can peak outside to see the defensive Towers.
@@ -58,6 +73,16 @@ Spinning triquetrus symbol. Two parts of it light up green, one red.
 #### Central Room
 Skulls. Reforming as they venture past. Form rubiks cube like art.
 Doesn't talk.
+
+#### Bottom Right Cylon Room
+Eidolon statues 2x sets of 3. One is the old, one is the new.
+Actually 3x2 blank statues, stone cylinders that shape into the statues as they move center.
+First set has Irae (scythe ready to strike slashing), Larloch (finger out to drain necrotic), Arklem (staff out lightning).
+Second set has Larloch (finger), Valindra (hand for ray of frost cold), Dragon (breath, necro)
+
+Center has a large white glowing lever.
+Eidolon spirits starts if they activate the light passage.
+Spirits look like humanoid, incorporeal, and face looks drawn on like wilson.
 
 #### Misc Top Rooms
 **Murray Skull NPC**
@@ -75,6 +100,9 @@ And some of Kiransalley.
 #### River
 Green Acid. Flows with remarkable perturbation given that this appears looks like a small pond.
 Actually connected to the chamber below (which ultimately drains out of acropolis).
+Light pillars visible, but no paths connecting them, although it feels like there should be, and there's a shadowy remnant where you feel it should be.
+
+If they fought the Eidolons then there are safe passages across, otherwise, flight / acid.
 
 #### Right Room; Valindra's chamber and Necro Guarden
 Books in there. Note book from Valindra. 500gp diamond.
@@ -94,23 +122,40 @@ Entrance path to lower area.
 Blood giant (Eddy) + drow favoured consort (Risreth Zaphrune) (MTOF183) patrols here.
 Will reverse gravity on the acid if anyone comes close. Blood giant will snipe.
 
-## Lore TODO
-temple built to summon a god
-lore on walls; statues of kiaransalee
 
-- can speak with dead
-- murray
+## Inner Paths
+### Library of the Dead ?
+Put pyramid head librarian there.
+Re-run the attempt on Eithne from [[velddrinnsshar]]
 
-## Enemies
-- Doom Golem CC197 CR10 (bone based construct from Valindra's past)
-- Blood Giants CR8 CC180 (great snipers + obscurers - tactical + they know them)
-- Revenants
-
-TODO: environmental effects to help them?
+Books of forbidden knowledge?
+Got nothing worth doling out at this point though. Maybe skip if no time.
 
 ### Basement
 Big ass sylinder that powers some things. Treadmill in the bottom with 200 zombies around a flywheel.
 Slave driver Revenant with L4D2 zombie tank watches over things.
+
+Maybe they can do something here to release felgolos?
+TODO: environmental effects to help them?
+
+### Larloch's Chambers ?
+Obv he's dead, but his pet behir is here?
+Environmental effect + maybe lore...
+
+## Inner Sanctum
+### Felgolos chamber
+[[felgolos]] on brink of becoming a full ancient dracolich. See his doc.
+![](felgolos-chamber.jpg)
+He will try to contact them when they are on the same plane of existence? Or Irae intercepts.
+Large Green Gem is the phylactery. Encased in some protection magic in left altar.
+Prismatic Wall? Too slow. Then how does she get it?
+Maybe just indigo layer.
+
+Imprisonment Scene. Nah. He's ready. Weeks have passed!
+They just need to switch him on. Grab his phylactery and dimension door to the central chamber.
+Battle will start. They might be hesitant to kill him - it matters little.
+However, if they leave him, they technically have an adult dracolich which remains loyal until Kiaransalee awakens.
+
 
 ### Central Chamber
 ![](shar-chamber.jpg)
@@ -134,18 +179,6 @@ Arklem can port there.
 
 The bag of holding she took is there. Shario's amulet will be used by her if necessary (if they take her on alone), but will otherwise be in her chambers in a locked safe.
 
-### Felgolos chamber
-[[felgolos]] on brink of becoming a full ancient dracolich. See his doc.
-![](felgolos-chamber.jpg)
-He will try to contact them when they are on the same plane of existence? Or Irae intercepts.
-Large Green Gem is the phylactery. Encased in some protection magic in left altar.
-Prismatic Wall? Too slow. Then how does she get it?
-Maybe just indigo layer.
-
-Imprisonment Scene. Nah. He's ready. Weeks have passed!
-They just need to switch him on. Grab his phylactery and dimension door to the central chamber.
-Battle will start. They might be hesitant to kill him - it matters little.
-However, if they leave him, they technically have an adult dracolich which remains loyal until Kiaransalee awakens.
 
 ## Hazards
 ### Ward Spell
