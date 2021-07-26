@@ -107,6 +107,8 @@ If they fought the Eidolons then there are safe passages across, otherwise, flig
 #### Right Room; Valindra's chamber and Necro Guarden
 Books in there. Note book from Valindra. 500gp diamond.
 Book on necrotic gardening. Grows in acidic soil provided enough perturbations for it to only fleetingly touch the acid.
+TODO: information on summoning?
+Pet Kobold Vampirespawn tending to garden. Sleeping atm.
 
 #### Necro Garden (below Valindra)
 Gloom flowers. 3ft tall. Enormous black tulip with these feeling tendrils.
@@ -131,6 +133,10 @@ Re-run the attempt on Eithne from [[velddrinnsshar]]
 Books of forbidden knowledge?
 Got nothing worth doling out at this point though. Maybe skip if no time.
 
+TODO: some way to give players the Blessing of Kiaransalee?
+"Will you court death to receive my blessing?"
+> DC20 CON save, vs necro death? But then get necro resistance?.
+
 ### Basement
 Big ass sylinder that powers some things. Treadmill in the bottom with 200 zombies around a flywheel.
 Slave driver Revenant with L4D2 zombie tank watches over things.
@@ -141,6 +147,7 @@ TODO: environmental effects to help them?
 ### Larloch's Chambers ?
 Obv he's dead, but his pet behir is here?
 Environmental effect + maybe lore...
+Something to justify his precense here if..
 
 ## Inner Sanctum
 ### Felgolos chamber

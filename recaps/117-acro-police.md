@@ -30,6 +30,8 @@ NOTES:
 - eidolon protects light passage (only stops visible otherwise)
 
 TODO:
+- one more NPC ghost? spirit of K? kobold vamp enough?
+- something cool / dead in the acid..
 - do some more Auril Frostmaiden style things with the bone setup
 - Kiaransalee foreshadowing (sentient remains propagate throughout)
   * Auril frostmaiden lore read
@@ -37,6 +39,7 @@ TODO:
 - sorrowsword in acropolis? https://www.dndbeyond.com/posts/268-sorrowsworn-are-the-shadowfells-most-despair
 - finalize felgolos setup
 - finalize irae/arklem setup
+- valindra lore on original creators of K
 
 Players:
 - Florent
