@@ -57,7 +57,9 @@ Spires outside for protection (250m tall). Dungeon inside the big rock. Big. 400
 - "more living, yes. so hungry."
 - skulls rearranging
 - ground vibrating (2hz, small amplitude, but enough to make it difficult to walk)
-- skulls reform in lower end
+- "i can see the light. you have helped once again, i am ever in your debt; larloch"
+- "i can feel the darkness, you will be with me to your end; valindra."
+- "i can sense the power, bring him to me"
 
 ### Entrance (lower end)
 Leads downward from entrance. They can peak outside to see the defensive Towers.
@@ -104,11 +106,20 @@ Light pillars visible, but no paths connecting them, although it feels like ther
 
 If they fought the Eidolons then there are safe passages across, otherwise, flight / acid.
 
+Foreshadowing, put early if possible:
+> Large tattered brown wing protruding out of the green liquid. Connecting tissue that controlled it has corroded away. Leaving a small layer of salt around.
+
 #### Right Room; Valindra's chamber and Necro Guarden
 Books in there. Note book from Valindra. 500gp diamond.
 Book on necrotic gardening. Grows in acidic soil provided enough perturbations for it to only fleetingly touch the acid.
-TODO: information on summoning?
+
 Pet Kobold Vampirespawn tending to garden. Sleeping atm.
+- "welcome to the acropolis"
+- "Snurka help Valindra, but she gone now, I tend to her garden"
+
+PERSUASION:
+- "they are trying to bring up the revenancer"
+- "they said something about needing 3 ancients."
 
 #### Necro Garden (below Valindra)
 Gloom flowers. 3ft tall. Enormous black tulip with these feeling tendrils.
@@ -151,17 +162,87 @@ Something to justify his precense here if..
 
 ## Inner Sanctum
 ### Felgolos chamber
-[[felgolos]] on brink of becoming a full ancient dracolich. See his doc.
 ![](felgolos-chamber.jpg)
-He will try to contact them when they are on the same plane of existence? Or Irae intercepts.
-Large Green Gem is the phylactery. Encased in some protection magic in left altar.
-Prismatic Wall? Too slow. Then how does she get it?
-Maybe just indigo layer.
+Entrance Teleport Right
+#### First Room
+> Tattered piece of a yellow cloak. INV20; unusually bright. laugh to yourself as you think, oh, the last time you saw something this bright on the human form of [[felgolos]].
 
-Imprisonment Scene. Nah. He's ready. Weeks have passed!
+Passage is Alarmed. Detect Abjuration magic on passage, extends about 20ft in. Irae alerted.
+If they bypass it, they get one extra round.
+
+#### Atrium
+(Where the extraction happened and is safeguarded.)
+3 white circular holes in the wall pointing towards a floating black tetrahedron (locked)
+INV10: Tetrahedron is pointed straight up (at mass above dragon)
+INV20: Looks like the black tetrahedron is a focus for whatever comes out of the 3 holes
+ARC20: Power amplification setup.
+
+#### Chamber
+A large mass of dark wines wrapped around an oozing black mass, all dangling from the ceiling, and further connected to a platform. Immediately below, you catch the beginnings of an enormous ribcage.
+As you peek further, you see enormous skeletal mass slowly shift. An enormous vertebraed neck, with bony coils and shining black adamantine plates attached; together forming a black plate necklace.
+Its face, an enormous, but majestic skull, with huge lifted cheekbones, and two dark glowing blue eyes embedded within.
+
+As it spots you, you see a shift in its facial bones as it struggles against a lingering chain attached to the platform above. Face tilts to the side, almost like there's a bit of recognition, but then it tilts back.
+
+([[felgolos]] has become a full ancient dracolich. But needs to be freed; sever the placenta.)
+
+If they don't trigger the alarm:
+- They have time to see Felgolos, bit of time to recognise the lay of the land
+- See that there are rooms on the side, while the dragon looks at them
+- As soon as anything is touched, arklem comes
+
+If they trigger the alarm on the way in:
+- Arklem comes in, as they watch
+
+##### Arklem Start
+- **enters with armor of agathys active**
+- "you three have been quite the nuisance"
+- "but as you'll soon learn, i only need one life to take care of you, particularly with my little friend here."
+- "like you, he came a long way"
+- **casts bifurcate: mirror image, freedom of movement**
+- **summons a small tiny helper, moves in right**
+
+##### Dragon
+16d10 LG
+No charm/frighten/paralyze/poison/exhaustion.
+Immune PoisonFire
+Res Necrotic. Leg Res on top? Maybe not. 450HP, 20AC. Movement zero.
+Adv Magic Effect Saves.
+DC21 DEX vs 16d6 fire || **Sleep until hit**.
+Attacks: 1 bite (+14 2d10+8), 2 claws (+14 2d6+8) || breath.
+
+Breaths on command (always initiative under Arklem)
+
+##### Irae
+Will come in with a Retriever if things are going south.
+
+
+#### Chamber Battle
+Arklem and Irae both want to dodge here. Objective is to use Felgolos against them, and if that fails, grab the phylactery and retreat.
+
+- Irae comes in later - couples herself to felgolos?
+- Irae will hit buttons
+- Crown of Stars + flight
+- Disintegrate GW?
+
+
 They just need to switch him on. Grab his phylactery and dimension door to the central chamber.
 Battle will start. They might be hesitant to kill him - it matters little.
 However, if they leave him, they technically have an adult dracolich which remains loyal until Kiaransalee awakens.
+
+#### Buttom Rooms
+##### Left
+Entrance has a purple shimmer that's deactivated by a panel in room below.
+Wheel in center heel changes damage type (reacts); LG, F, C, N, P (LG default)
+##### Right
+Fires up the weave lasers.
+With 100 dmg, the placenta is dead, and the phylactery can be taken.
+
+#### Top Left Phylactery
+Large green gem (Valindra's style - done by Irae)
+Encased in some protection magic in left altar.
+Prismatic Wall? Too slow. Then how does she get it?
+Maybe just indigo layer.
 
 
 ### Central Chamber

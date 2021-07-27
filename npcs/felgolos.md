@@ -36,8 +36,11 @@ If he is not saved in time, he'll be there to defend earlier, and his soul will 
 
 Lore: if they scry on people having conversations they can mention that he's almost there. He seems to be clinging to his former life longer than expected, but it won't be long. A day at most.
 
-## phylactery
-large green gem as that's valindra's style
+### scrying / sending
+possible from same plane of existence. Irae intercepts sending.
+
+### rejected
+Imprisonment Scene. And slow conversion. Nah. He's ready now. Weeks have passed!
 
 ### Maybe Future
 He needs to be gone for a while. Maybe send a message to the players about `conflicts of divinity, chapter 5`
