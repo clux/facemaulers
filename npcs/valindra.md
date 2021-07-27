@@ -4,6 +4,8 @@ Agent of `Szass Tam` in Thay.
 Moon elf, lich (links to [[feywild]])
 
 https://forgottenrealms.fandom.com/wiki/Valindra_Shadowmantle (basis, but modified)
+https://5e.tools/bestiary/valindra-shadowmantle-toa.html
+
 ## Personality
 Valindra never felt the same respect for community that other moon elves shared. She grew into a self-absorbed individual who cared little for anything that wasn't connected to her own interests or goals. Valindra prided herself on her intellect and would rather talk her way out of a fight than blast an opponent with magic. That said, she wouldn't hesitate to kill or maim an enemy if the situation demanded it. Her arrogance, however, made her prone to underestimating her enemies
 

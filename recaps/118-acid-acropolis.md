@@ -30,6 +30,7 @@ NOTES:
 
 TODO:
 - battle finalize! (some survivability for Arklem as this goes on)
+- cover case where players just "run away with arklem" and kill him separately
 - basement + larloch + library areas before final?
 - finalize irae/arklem setup behind
 - how much leeway for raising Kiaransalee
