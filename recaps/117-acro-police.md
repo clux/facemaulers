@@ -1,7 +1,7 @@
 117-acro-police
 20 July 2021
 
-Mordai talked to the [[dahaka]] aka `Sahaquiel` as part of his death during with Wish was cast to resurrect him.
+Mordai talked to the [[dahaka]] aka `Sahaquiel` as part of his death during wich Wish was cast to resurrect him.
 This creature told you that the universe is deterministic, and bound to repeat itself, and he has lost the ability to see everything because chronomancy time loops are destroying the information about origin and end.
 
 He showed you the fate of [[hanir]], whose wild magic was apparently triggered by [[mordai]]'s chronomantic abilities. You saw him travel to [[moray]] with [[hjarka]] after having departing after defeating Demogorgon. He had gotten the deck of many things from Sahaquiel who had supposedly tried all the permutations of the deck to minimise time based destruction.
@@ -23,7 +23,6 @@ Finding yourself just inside a temple like structure ([[acropolis]]), with large
 
 You found one particular suspicious skull, unlike the others, that you quickly dispatched (Murray), and carried on south.
 
-
 NOTES:
 - ask Faey what he would like to do at the end of game
 - remember to seed mordai's green EB
@@ -31,8 +30,7 @@ NOTES:
 - remember kiaranslee spirit seed!
 - eidolon protects light passage (only stops visible otherwise)
 
-TODO:
-- finalize irae/arklem setup
+
 
 Players:
 - Florent

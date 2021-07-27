@@ -113,9 +113,10 @@ Foreshadowing, put early if possible:
 Books in there. Note book from Valindra. 500gp diamond.
 Book on necrotic gardening. Grows in acidic soil provided enough perturbations for it to only fleetingly touch the acid.
 
-Pet Kobold Vampirespawn tending to garden. Sleeping atm.
+Pet Kobold Snurka/Rorn Vampirespawn tending to garden. Sleeping atm.
 - "welcome to the acropolis"
 - "Snurka help Valindra, but she gone now, I tend to her garden"
+immune to acid
 
 PERSUASION:
 - "they are trying to bring up the revenancer"
@@ -127,6 +128,7 @@ Influence on necrotic energy. Black bed, where occasionally acid splashes up on 
 Can make necrotic energy more powerful, and (parenthesised also protect you against its effects).
 But have to get through first room (where perturbations start acid geysir).
 
+Rorn
 Grows on outpost
 Gloomflowers CC188 CR3 (Valindra's garden, can be used for necro res potion)
 
@@ -180,11 +182,11 @@ ARC20: Power amplification setup.
 #### Chamber
 A large mass of dark wines wrapped around an oozing black mass, all dangling from the ceiling, and further connected to a platform. Immediately below, you catch the beginnings of an enormous ribcage.
 As you peek further, you see enormous skeletal mass slowly shift. An enormous vertebraed neck, with bony coils and shining black adamantine plates attached; together forming a black plate necklace.
-Its face, an enormous, but majestic skull, with huge lifted cheekbones, and two dark glowing blue eyes embedded within.
+Its face, an enormous, but majestic skull, with huge lifted cheekbones, and two dark glowing blue eyes embedded within. Fresh black droopy liquid cover its shiny skeletal body.
 
 As it spots you, you see a shift in its facial bones as it struggles against a lingering chain attached to the platform above. Face tilts to the side, almost like there's a bit of recognition, but then it tilts back.
 
-([[felgolos]] has become a full ancient dracolich. But needs to be freed; sever the placenta.)
+([[felgolos]] has become a full ancient dracolich. Still attached to placenta.)
 
 If they don't trigger the alarm:
 - They have time to see Felgolos, bit of time to recognise the lay of the land
@@ -194,13 +196,19 @@ If they don't trigger the alarm:
 If they trigger the alarm on the way in:
 - Arklem comes in, as they watch
 
+50ft tall, 30above platform
+
 ##### Arklem Start
 - **enters with armor of agathys active**
 - "you three have been quite the nuisance"
 - "but as you'll soon learn, i only need one life to take care of you, particularly with my little friend here."
-- "like you, he came a long way"
+- "i hope you recognise him, he came a long way for this"
 - **casts bifurcate: mirror image, freedom of movement**
 - **summons a small tiny helper, moves in right**
+- "as you can see he's fully turned"
+
+Will target for a while, but if nothing happen dragon will claw up north.
+Fight until it's scary.
 
 ##### Dragon
 16d10 LG

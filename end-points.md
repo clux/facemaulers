@@ -6,6 +6,10 @@ patron clearup.
 
 ## Faey
 Ask.
+Arch-faey manager route?
+He'll think about it.
+Watcher prep.
+Will sacrifice himself if __necessary__, but only calculated.
 
 ### Neverwinter
 Soulcage for Raffolk found?
