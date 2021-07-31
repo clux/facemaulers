@@ -52,6 +52,11 @@ nicodaemus - fiddler of the crossroads; the devil: (in charge of one town)
 Norwegians/Swedes/Finns who locked their gates and enclosed themselves off from the world and lives semi-peacefully off oil money and hydropower. Barbarians with high technology. Technologial utopia that only sustain 3m people. Strict gates.
 Together defend the eastern front vs russia.
 
+## China
+Authoritarian drow. Smart, but authoritarian. Rule by fear. Eradicate competing factions.
+CCP == Lolth analogue.
+https://www.youtube.com/watch?v=WOzd6o5X17A
+
 ## Oligarchs
 Only wealthy leaders left of the largely desolate state. Natural resources mostly sold to China and its subsidiary aseanic states.
 
