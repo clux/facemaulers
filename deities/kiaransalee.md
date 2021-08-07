@@ -1,6 +1,7 @@
 # Kiaransalee
 > The Wailing Banshee / The Revenancer
 Vengeful scythe wielding drow. Cruel, twisted, went insane ages ago.
+Lesser deity, portfolio; revenge.
 
 ![](kiaransalee-qop.jpg)
 ![](kiaransalee-qop2.jpg)
