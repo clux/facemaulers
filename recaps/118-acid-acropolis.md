@@ -27,13 +27,10 @@ As Arklem glides in, to the sound of magical buffs, he proclaims that he only ne
 
 NOTES:
 - remember to seed mordai's green EB
+- remember Arklem Luck + Buffs
 
 TODO:
-- battle finalize! (some survivability for Arklem as this goes on)
-- cover case where players just "run away with arklem" and kill him separately
-- basement + larloch + library areas before final?
-- finalize irae/arklem setup behind
-- how much leeway for raising Kiaransalee
+- battle finalize! (some survivability for Arklem as this goes on; LUCK)
 
 Players:
 - Florent

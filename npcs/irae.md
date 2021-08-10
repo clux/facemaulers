@@ -183,6 +183,8 @@ https://www.dndbeyond.com/magic-items/2391736-eye-of-vengeance
 Passive effect; undead raised by her, (or by her transitively gain the sentient undead feat).
 Passive effect; Cast Create Undead at 9th level (provided enemies need to be present)
 
+Special: (At most one attack then): Need to DEX SAVE behind someone with the scythe.
+
 - https://www.dndbeyond.com/magic-items/2391663-scythe-of-the-revenancer
 
 ## Spell Combos

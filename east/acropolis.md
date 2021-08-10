@@ -156,11 +156,7 @@ Slave driver Revenant with L4D2 zombie tank watches over things.
 
 Maybe they can do something here to release felgolos?
 TODO: environmental effects to help them?
-
-### Larloch's Chambers ?
-Obv he's dead, but his pet behir is here?
-Environmental effect + maybe lore...
-Something to justify his precense here if..
+TODO: maybe if they die they can end up prisoners here...
 
 ## Inner Sanctum
 ### Felgolos chamber
@@ -211,39 +207,67 @@ Will target for a while, but if nothing happen dragon will claw up north.
 Fight until it's scary.
 
 ##### Dragon
-16d10 LG
+16d10 LG ~(80-100dmg)
 No charm/frighten/paralyze/poison/exhaustion.
 Immune PoisonFire
 Res Necrotic. Leg Res on top? Maybe not. 450HP, 20AC. Movement zero.
 Adv Magic Effect Saves.
-DC21 DEX vs 16d6 fire || **Sleep until hit**.
+DC21 DEX vs 16d10 LG || **Sleep until hit**.
 Attacks: 1 bite (+14 2d10+8), 2 claws (+14 2d6+8) || breath.
 
 Breaths on command (always initiative under Arklem)
+If they kill him. There will be a diamond at the center of skull.
 
 ##### Irae
 Will come in with a Retriever if things are going south.
 
 
 #### Chamber Battle
-Arklem and Irae both want to dodge here. Objective is to use Felgolos against them, and if that fails, grab the phylactery and retreat.
+music: https://www.youtube.com/watch?v=uhUhTdk1Ohc
+Arklem and Irae both want to dodge here. Objective is to use Felgolos against them, and hold the line until Irae can retrieve the phylactery. If that fails, maybe Arklem will retreat and sac himself.
 
-- Irae comes in later - couples herself to felgolos?
-- Irae will hit buttons
-- Crown of Stars + flight
-- Disintegrate GW?
+##### Retriever Order
+- R1+R2, Retriever zooms around from left (80ft dash)
+- R3, Retriever activates button (maybe tries to stun interceptors)
+- R4, retriever moves ready to intercept phylactery (shifts mechanical armor plates to hold it)
+- R5, retriever steps away with phylactery || dimension doors if in danger (if he can plane shift..)
 
+##### Arklem Order
+Retreats once retriever is gone, or if phylactery is destroyed (knows its Felgy or Him).
+Will try to intimidate them and waste time.
 
-They just need to switch him on. Grab his phylactery and dimension door to the central chamber.
+See [[arklem]] under stats and TACTICS!
+Has already cast
+- 8th level `Armor of Agathys` (40 temp HP and reversal cold melee dmg)
+- `Freedom of Movement` (restrain / paralyze immune vs magic / auto escape manacles)
+
+(If he's super fucked, cast Invulnerability as his 9th, and they can interrogate him)
+
+Holds the line near Felgy for 5 rounds.
+- R1 Bifurcate: Unstable Singularity
+- R2 (probably realising he can be sniped) - snipe against Faey
+- R3: Heal at 7th for 80HP
+
+Existential Paradox on GW if he's coming in (and then Felgo on him).
+
+NB: They can probably stun him and run away with him. But difficult. He has luck.
+
+##### Felgy Order
 Battle will start. They might be hesitant to kill him - it matters little.
 However, if they leave him, they technically have an adult dracolich which remains loyal until Kiaransalee awakens.
+
+- Will Breathe on Arklem's command in optimal locations (maybe we get two in, damage is huge)
+- Use melee on anyone attacking Arklem in melee
 
 #### Buttom Rooms
 ##### Left
 Entrance has a purple shimmer that's deactivated by a panel in room below.
 Wheel in center heel changes damage type (reacts); LG, F, C, N, P (LG default)
-##### Right
-Fires up the weave lasers.
+##### Right: Weave Laser Control
+Lever that starts weave laser firing (last 2 rounds).
+Laser deals 100 points of damage type.
+20s
+
 With 100 dmg, the placenta is dead, and the phylactery can be taken.
 
 #### Top Left Phylactery
@@ -252,13 +276,44 @@ Encased in some protection magic in left altar.
 Prismatic Wall? Too slow. Then how does she get it?
 Maybe just indigo layer.
 
+----------------------------------
+music: https://www.youtube.com/watch?v=1sVCmeiAacE aldia
+
+### If Kiaransalee: Elated Undead Gaining Corporeal Form
+they need to understand that a god is being raised (if they fail to stop Retriever)
+ghosts toasting??
+skeletons suddenly reassembling, being surprised about it
+one saying some equally creepy shit, but then realising that he doesn't need to say things
+- "i can sense the light within your sou... wait i can see. by the gods i can see. jimmeeyyy *runs*"
+later down the hallway; two ghosts toasting (body forming, not quite able to drink)
+- "do you think we should be toasting already? A: it just feels so good"
+- "wouldnt the liquid get stuck as our bodies reshape? A: you are such a killjoy sometimes."
+points at PCS:
+- "oh, you have found clothes and armor. are you going somewhere already?"
+- "i mean, we've been here for so long, take some time to celebrate having your body back, huh?"
+what does it mean:
+- "what does it mean? what dysfunctional skull did'u have the misfortune of spending eternity with?"
+- "it means the Lady is back, the three are uniting, and soon, we will be her vengeful chosen."
+irae? "hah, no?"
+
+### If !Kiaransalee: Guarded Pathway to Palace of Loss
+Essentially soul food for the liches.
+Can do similar to above, but never gaining complete corporeal form, and less concrete.
+- "the lady is almost back, just one more, and we will be her vengeful chosen"
+
+Seed palace of loss in case they die, and need a reset place.
+https://forgottenrealms.fandom.com/wiki/Palace_of_Loss
 
 ### Central Chamber
 ![](shar-chamber.jpg)
 Where Irae tries to revive [[kiaransalee]] using the second egg of [[felgolos]].
 It floats in the center, 20m wide, expanded. Pulsating.
-Stream of green energy spinning around it, like 2/3 electrons forging a trail.
-Triquetrus attachments like a tetrahedron.
+Stream of green energy spinning up to it from a triangular base. Like electons forming a trail.
+(Triquetrus attachments like a tetrahedron.)
+If phylactery is there; Irae will be a Vessel for her when needed.
+If the phylactery isn't there. Friede style Irae is the battle? Maybe with Arklem.
+- Irae will fight once (maybe use the amulet and get herself back with gimped revenancer)
+- Gimped revenancer is a physical creature that spirals acid into the world.
 
 Center can mimic https://forgottenrealms.fandom.com/wiki/Undying_Temple
 
@@ -290,4 +345,5 @@ Then:
 [velddrinnsshar]: velddrinnsshar "V'elddrinnsshar"
 [acropolis]: acropolis "acropolis"
 [felgolos]: ../npcs/felgolos "Felgolos"
+[arklem]: ../npcs/arklem "Arklem Greeth"
 [//end]: # "Autogenerated link references"

@@ -41,6 +41,9 @@ https://www.youtube.com/c/Musicforyoursoul/videos
 
 ## Battle
 
+### Dragon Age Inquisitin Battle for Heaven (60m)
+https://www.youtube.com/watch?v=uhUhTdk1Ohc
+
 ### STORM - Colm R. McGuinness
 https://www.youtube.com/watch?v=qaVW6bgmmVE
 64min (crit role boss battle)

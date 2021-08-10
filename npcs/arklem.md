@@ -72,9 +72,10 @@ If he's cornered, he dimension doors away first, leaving stuf, then to [[velddri
 In their best interest to corner him.
 - Reaction Absorb Elements (Radiant/Bludgeoning)
 - Potion of Invulnerability / Golem shield
+- Dimension Door out of range with Bifurcate
 
 ### Spells
-- Time Stop; DBF + Heal/SelfBuffs (Protection vs Radiant potion, Armor of Agathys6th (50tmphp), Freedom of Movement, Fire Shield)
+- Time Stop; DBF + Heal/SelfBuffs (Protection vs Radiant potion, Armor of Agathys8th (40tmphp), Freedom of Movement, Fire Shield)
 - Overcharge -> Existential Paradox + Harm (20d10 + 14d6) + Unstable Singularity (pulls away) / Destructive Wave (push / prone+ thunder/necro)
 - Bifurcate -> Bestow Curse (WIS) / Dominate Person / Hold Person + Earthquake / Sight of Kiaransalee (reskinned sunbeam, no blind, but 8d8 necro, fear if twice)
 - Bifurcate -> Bigby's Interposing hand (melee defense: 24/29AC), Overcharge?
