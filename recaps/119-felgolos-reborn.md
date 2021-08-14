@@ -1,7 +1,7 @@
-119-felgolos-rebirth
+119-felgolos-reborn
 10 August 2021
 
-You ventured through the [[acropolis]] in [[velddrinnsshar]] and fought [[felgolos]] - reborn as a dracolich, along with [[arklem]].
+You ventured through the [[acropolis]] in [[velddrinnsshar]] and fought [[felgolos]] - reborn as a dracolich - with [[arklem]].
 
 It was a long and gruelling battle.
 
@@ -44,11 +44,12 @@ Skeleton reforming in lower left room (can be used before the middle part of [[a
 TODO:
 - remind Guy that he has chrono recharge (they can probably finish of Arklem)
 - skeletal foreshadowing finalize
-- ping GW with links to how to run the game
 - tell people on Saturday whether to run or not
 - HOW TO SETUP BATTLE IF THEY LONG REST?
 - IF THEY SHORT REST THEY CAN HUNT HIM DOWN EASILY
 - IF THEY LONG REST; KIARANSALEE LIKELY
+- CAST SPELLS THE ROD OF ABSORPTION CAN TANK!
+
 
 NOTES:
 - but the lich is in another castle
