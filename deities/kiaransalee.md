@@ -33,10 +33,12 @@ If she rises: Base on CR30 https://kryptonluke.wordpress.com/2015/06/18/lady-of-
 
 - 25AC, Resistant Physical(Piercing/Bludgeoning/Slashing). Resistant Poison/Acid/Lightning. Immune Necrotic.
 - Stuns can happen, but only take away one of her legendary actions.
+- 30HP regen every round.
+- TODO: Spells (some must be absorption'able)
 
 Make a 10th level spell.
 - 30AC mage armor
-- Necrotise anyone touching you
+- Necrotise anyone she looks at / is touched by (or just use flaying glance)
 - Raise Dragon
 https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
 
@@ -46,7 +48,8 @@ TODO: plot hooks on how she works?
 
 Plot hooks to bypass it?
 - Necrotic buff from flowers? (full res for 8h)
-- Kavaki/Selune divine protection
+- Kavaki/Selune divine bypass (avoids her flaying glance)
+- First attacks against her do nothing. Flaying Glance once? DC26 CON vs 22d6 necro ought to be a deterrent.
 
 
 ### Boss Fight
