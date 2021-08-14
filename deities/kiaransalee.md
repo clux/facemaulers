@@ -30,12 +30,24 @@ Larynda Telenna high priestess. In Vault of Gnashing Teeth beneath Vaasa (frozen
 
 ## Stats
 If she rises: Base on CR30 https://kryptonluke.wordpress.com/2015/06/18/lady-of-pain/
-But give them plot hooks to indicate,
+
+- 25AC, Resistant Physical(Piercing/Bludgeoning/Slashing). Resistant Poison/Acid/Lightning. Immune Necrotic.
+- Stuns can happen, but only take away one of her legendary actions.
+
 Make a 10th level spell.
 - 30AC mage armor
 - Necrotise anyone touching you
 - Raise Dragon
 https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
+
+TODO: plot hooks on how she works?
+- Rising insta-necrotises something as it comes up.
+- Arklem can also mention it.
+
+Plot hooks to bypass it?
+- Necrotic buff from flowers? (full res for 8h)
+- Kavaki/Selune divine protection
+
 
 ### Boss Fight
 Bring back undead variants of slain allies?

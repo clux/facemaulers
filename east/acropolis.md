@@ -325,9 +325,13 @@ Staff must be modified a bit for it to make sense for them:
 - Spell Concentration: Staff maintains with attunement
 - Spells: Summon greater demon (at 8th level), Time Stop (9th, once), Maze (8th), Resurrection (7th), ForceCage (7th), Crown of Stars (7th), Wind Walk (6th), Tenser's Transformation (6th)
 - Random props: Minor Ben: 1st/3rd level spell free. Major Ben: +2 ability score (which?), Minor Det: Blinded when away from it, Animals hostile so you. Maj Det: Long Term Madness
-- No Call Undead. +3 something. Spell DC boost? How to do with Mordai's stuff?
+- No Call Undead. +3 AC. No spell DC boost. (Not there by default, and hard to do with Mordai's stuff)
 
-#####
+##### Summoning of Kiaransalee
+Something something she will rise again. Her necrotic halo will make it impossible for you to damage her.
+
+##### Denial
+"No. This cannot be the end. We are so close. This is so pointless. You are dead anyway. Why do you waste your energy."
 
 ### Central Chamber
 ![](shar-chamber.jpg)

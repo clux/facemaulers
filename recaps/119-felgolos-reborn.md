@@ -35,25 +35,25 @@ Arklem does one Ray of Frost on GW and plans to exit. It misses. We roll for whe
 
 At this point, Arklem knows he has to leave. The two of them will finish him. But he now has to survive one last round. One arrow hits, he has to use Shield to survive. The shield makes him dodge all of GW's hits, and he can dimension door up to the top where he gets sneak attacked by Faey. He's at 10hp, concentration dropped. Next attacks all miss. GW too far away. Arklem's next turn comes, and with almost no spell slots left, dimension doors out.
 
-He's not far. But all of you are wounded. Finding the scroll of revivify, you bring back Mordai (the second time today).
+He's not far ("the lich is in another castle"). But all of you are wounded. Finding the scroll of revivify, you bring back Mordai (the second time today).
 You take a moment to heal, and scan the surrounding rooms.
 
 Skeleton reforming in lower left room (can be used before the middle part of [[acropolis]]'s inner sanctum).
 
 
-TODO:
-- remind Guy that he has chrono recharge (they can probably finish of Arklem)
-- skeletal foreshadowing finalize
-- tell people on Saturday whether to run or not
-- HOW TO SETUP BATTLE IF THEY LONG REST?
-- IF THEY SHORT REST THEY CAN HUNT HIM DOWN EASILY
-- IF THEY LONG REST; KIARANSALEE LIKELY
-- CAST SPELLS THE ROD OF ABSORPTION CAN TANK!
-
-
 NOTES:
-- but the lich is in another castle
+- Chronomancy: Recharge happening (Guy confirms)
+- Skeleton says: "oh, it is happening. it is happennnn" *glitch* bony arm falls to the ground. "No, not yet, almost. Patience."
 
+
+TODO:
+- CAST SPELLS THE ROD OF ABSORPTION CAN TANK!
+- Decide end
+   * Friede Fight (she aborts Kiaransalee early, and uses her power for multi-stage)
+   * Irae fight (but Kiaransalee rises, possible WoO deal)
+- Multi-stage regardless:
+   * Friede => Irae -> Moonlight Ward -> Irae + Kiaransalee Baby
+   * K => Irae -> Moonlight + Ads?
 
 Players:
 - Florent
