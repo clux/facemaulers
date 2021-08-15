@@ -51,6 +51,7 @@ TODO:
 - Decide end
    * Friede Fight (she aborts Kiaransalee early, and uses her power for multi-stage)
    * Irae fight (but Kiaransalee rises, possible WoO deal)
+   * Something between; Irae solo Friede -> Irae amulet + Kiaransalee as a lesser deity setup Queen of Blades (leaving Irae with spells only)
 - Multi-stage regardless:
    * Friede => Irae -> Moonlight Ward -> Irae + Kiaransalee Baby
    * K => Irae -> Moonlight + Ads?

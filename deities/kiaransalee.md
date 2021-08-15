@@ -30,6 +30,7 @@ Larynda Telenna high priestess. In Vault of Gnashing Teeth beneath Vaasa (frozen
 
 ## Stats
 If she rises: Base on CR30 https://kryptonluke.wordpress.com/2015/06/18/lady-of-pain/
+Style like Queen of Blades SC2
 
 - 25AC, Resistant Physical(Piercing/Bludgeoning/Slashing). Resistant Poison/Acid/Lightning. Immune Necrotic.
 - Stuns can happen, but only take away one of her legendary actions.
@@ -40,31 +41,42 @@ Make a 10th level spell.
 - 30AC mage armor
 - Necrotise anyone she looks at / is touched by (or just use flaying glance)
 - Raise Dragon
+- Raise Undead Mirrors of Players (Simulacrum/Clone?)
 https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
 
 TODO: plot hooks on how she works?
 - Rising insta-necrotises something as it comes up.
 - Arklem can also mention it.
 
-Plot hooks to bypass it?
-- Necrotic buff from flowers? (full res for 8h)
-- Kavaki/Selune divine bypass (avoids her flaying glance)
+Information to seed:
+- They need necrotic res. (Remind them of flowers - full res for 8h)
+- They need to bypass her gaze; Kavaki/Selune divine fortress? Forbiddance.
 - First attacks against her do nothing. Flaying Glance once? DC26 CON vs 22d6 necro ought to be a deterrent.
 
+Plot hooks:
+- Mordai: Setup the force cannon from the acropolis it the top of Castle Never (quick heist)
+- Mordai: attune to Wand of Orcus and gain crazy dmg spells (although that setup is boring for GW)
+- Faey: Use Necro Flower recipe to gain an advantage
+- GW: Kavaki's Simple Fortress; near GW's temple in NW to allow him to channel a special divinity within city borders
+ * need something to make her vulnerable to Banish (gw can do it up to 3 times) -> Abyss
+ * Auto-fail condition within fortress if mortally wounded?
+ * Otherwise; lich resurrect?
+ * How to seed the spell? Reskinned Mordenkainen Fortress?
+- Faey/GW: tremmels in the gilgrin forge (via cloud giants?)
+ * Plot justification for this? Would need lore in Acropolis.
 
-### Boss Fight
-Bring back undead variants of slain allies?
+### Boss Fight Neverwinter
+How does she get there?
+Teleport the acropolis, 2 days out from NW, slowly float it towards NW.
+Why? Valindra is part of her. Tons of dead there to raise. Outside to avoid fortresses / trap spells.
+
+Raise dead in the area:
+- Greycloaks galore
 - Zaehesh
+- Flaming Fist champions
+- Legion of Banshee Knights (TODO: stats?)
 
-- spider form?
-- queen of blades style?
-- undead mirror of players: face a undead Simulacrom/Clone of them
-helpers from the past? Celerom?
-
-need to banish her to the abyss.
-tremmels made in special forge..
-gw can cast banish
-need something to make her vulnerable to banish (gw can do it up to 3 times)
+Environment: Near market. She's 100ft tall? They need to fly. Feels weird.
 
 ### Weaknesses
 Ring finger.
@@ -77,9 +89,6 @@ Still guarding her
 ## Graverending
 Single annual holy day of the faith. Celebrated each midwinter Eve. Each cleric travel to a nearby village outside their control and in the midst of night, raise as many undead as they can to increase their ranks.
 Due to the stealthy aspect of this operation, the date varies each year.
-
-## Prophecy
-A continent of undeath, is a continent without suffering.
 
 ## Resummoning
 Can be resummoned in [[velddrinnsshar]] in the Acropolis.
