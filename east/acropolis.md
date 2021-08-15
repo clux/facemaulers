@@ -94,7 +94,7 @@ Can cast speak with dead. Just does this for a living.
 
 Can tell of the betrayal of Valindra.
 - she was making non-humanoids immortl, studying dragons in evernight
-And some of Kiransalley.
+And some of Kiaransalee.
 - she was the deefinition of an undefeatable maig
 - wings, scythe, huge, absolutely inormous.
 - any enemies that fell, snap (cant click fingers anymore), her side

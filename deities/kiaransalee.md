@@ -64,6 +64,7 @@ Plot hooks:
  * How to seed the spell? Reskinned Mordenkainen Fortress?
 - Faey/GW: tremmels in the gilgrin forge (via cloud giants?)
  * Plot justification for this? Would need lore in Acropolis.
+- Party: If Irae becomes part of her, then she'll be weakened if they take care of Irae's phylactery...
 
 ### Boss Fight Neverwinter
 How does she get there?
@@ -76,7 +77,7 @@ Raise dead in the area:
 - Flaming Fist champions
 - Legion of Banshee Knights (TODO: stats?)
 
-Environment: Near market. She's 100ft tall? They need to fly. Feels weird.
+Environment: Near market. She's 14ft tall. Humanoid form, just huge.
 
 ### Weaknesses
 Ring finger.
