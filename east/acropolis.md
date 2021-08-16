@@ -299,6 +299,7 @@ irae? "hah, no?"
 ### If !Kiaransalee: Guarded Pathway to Palace of Loss
 Essentially soul food for the liches.
 Can do similar to above, but never gaining complete corporeal form, and less concrete.
+- corpses spawning, collapsing, glitches
 - "the lady is almost back, just one more, and we will be her vengeful chosen"
 
 Seed palace of loss in case they die, and need a reset place.
@@ -307,9 +308,12 @@ https://forgottenrealms.fandom.com/wiki/Palace_of_Loss
 ### Arklem Chase: (If both get away)
 Arklem is low after [[119-felgolos-reborn]], they can chase him if they use the [[chronomancy]] refresh.
 In which case:
-- He has done some basic healing (not much)
+- He has done some basic healing (not much). Ray of Frost + Dominate Person
 - Retriever gets away and starts setting up the finale (takes a while to load)
 - Interrogation possible
+
+Area. Long walkway across acid river. ![](acropolis-bridge.jpg)
+Guards? Something light if any. No need to drag this out.
 
 #### Arklem Reveals
 ##### Wand of Orcus
