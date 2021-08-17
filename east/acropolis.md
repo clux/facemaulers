@@ -374,6 +374,7 @@ If the phylactery isn't there. Friede style Irae (see her doc). Maybe with Arkle
 - "So, you have come to witness the creation first hand, you'll be pleased to be the first to meet her gaze."
 - START: "Cold Heart. We have give you the three. Please accept the soul residue of this ancient dracolich known as Felgolos."
 
+
 - ARKLEM: "What you have done is despicable, and make no mistake, your hour of revenance is at hand, and her gaze will graze your delicate flesh."
 - KIARANSALEE: "The Lady of the Dead, the perfect abjudicator of right and wrong. Ruling with a powerful, yet informed hand. Cutting down those who oppose and those who work against the undying."
 - DOMINATE: "Don't you see, XX? You are the chosen right hand now that Arklem is gone. Your knowledge will be limitless. Your quest for moral righteousness will have the perfect source." WIS SAVE DC21
@@ -409,9 +410,10 @@ Fight over acid. Acid damage => 8d8 when starting their turn there.
 - Counterspell / Shield / Misty Step / Scythe Deflect (roll d20) / LUCK
 - POWER SURGE: +10 FORCE on spell. Needed, she'll die quick.
 - Dominate Person
+- **Tether Retriever**
 - Glyph of Warding (Acid Rune on Egg)
 - TWIN SPELLS with chronomancy
- * Overcharge: Harm + Singularity
+ * Overcharge: Harm + Singularity / Existential Paradox + Destructive Wave / False Life + Harm / Abi Dalzim + Contagion
 
 Maybe:
 - Moonlight ward if too easy (actually a full reset for her though, so maybe not...)

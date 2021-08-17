@@ -82,7 +82,6 @@ In their best interest to corner him.
 - Reactions: Counterspell or Shield (depending on party)
 - Cantrip Ray of Frost 4d8 (+14 hit (2 from robes))
 
-
 If fighting heavy spellcasters: Globe of Invulnerability
 - Paralyzing touch if at DC25 if fighting alone, and move out of reach from fighter
 - Shield Guardian if alone
