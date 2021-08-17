@@ -46,22 +46,18 @@ NOTES:
 - Skeleton says: "oh, it is happening. it is happennnn" *glitch* bony arm falls to the ground. "No, not yet, almost. Patience."
 - Arklem showdown: [[acropolis]] -> arklem chase
 - Foreshadow Irae's absorption into Kiaransalee by having Felgolos' contribution take more time than anticipated
+- Arklem death: grey smoke everywhere, skin rots, green nova ripples through like a volcanic shockwave (bridge falls?)
 - continue to seed mordai's green EB
 - Irae: spells vs rod of absorption reaction: blight, harm, dominate, hold, modify mem
+- ENDGAME:
+  * Arklem sets up deity; semi-hard Irae fight - where Irae gets absorbed into Kiaransalee to speed
+  * Both Irae & Arklem weak (short rest only) - Irae's death serving as a end boss, but also justifying the deity setup up transformation
+  * Irae has some spells, and will get some back in her lair, so not a complete push-over here. Keep them at bay, but no timestop / level 9.
+
 
 TODO:
-- Arklem chase end scene finalize. Got map.
-- Decide end
-   * ~~Friede Fight (she aborts Kiaransalee early, and uses her power for multi-stage)~~ <- can't seed kiaransalee then
-   * Arklem sets up deity; semi-hard Irae fight (where Irae gets absorbed into Kiaransalee to speed up transformation, use Moonlight?)
-   * ~~Weird Combo? Irae solo Friede -> Irae amulet + Kiaransalee as a lesser deity setup Queen of Blades (leaving Irae with spells only)~~ <- feels worst of both worlds
-   * Both Irae & Arklem weak (short rest only) - Irae's death serving as a end boss, but also justifying the deity setup
-     - Irae has some spells, and will get some back in her lair, so not a complete push-over here. Keep them at bay, but no timestop / level 9.
-     - Deity Setup. How to do neverwinter fight? See [[kiaransalee]]. Maybe read last bits of Tiamat. => High stakes play. Encourage conditions that can weaken her before she is summoned.
-- Multi-stage regardless:
-   * Rest: Friede => Irae -> Moonlight Ward -> Irae + Kiaransalee Baby
-   * Short: Weak Irae -> Moonlight? + Ads -> Kiaransalee rebirth
-- Decide on how Arklem + Irae dies (arklem self-destructs with fire, Irae moonlight wards || absorbs her self)
+* Deity Setup for NW. How to do the fight? See [[kiaransalee]].
+* Ideas from last bits of Tiamat => High stakes play. Encourage conditions that can weaken her before she is summoned.
 
 Players:
 - Florent

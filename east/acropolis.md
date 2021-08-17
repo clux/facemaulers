@@ -306,11 +306,19 @@ Seed palace of loss in case they die, and need a reset place.
 https://forgottenrealms.fandom.com/wiki/Palace_of_Loss
 
 ### Arklem Chase: (If both get away)
-Arklem is low after [[119-felgolos-reborn]], they can chase him if they use the [[chronomancy]] refresh.
-In which case:
-- He has done some basic healing (not much). Ray of Frost + Dominate Person
-- Retriever gets away and starts setting up the finale (takes a while to load)
-- Interrogation possible
+Arklem is low after [[119-felgolos-reborn]], they can chase him if they use the [[chronomancy]] refresh. They'll chase through winding corridors in the acropolis. Multiple glitching skeletons before.
+No smoke left from his cloak.
+
+Arklem did a short rest out of sight having an active alarm behind him. (1hr)
+Arklem currently channelling (say 9min = 9*10/3=30 lair recharge actions, but not really full lair, so 1/3 relevant) => spells: 7x1, 2x4, 1x5. Roll for some extra if they take longer (some 2s helpful for dim door + hold person). He also doesn't regen as fast, as he's not a true lich anymore. He's a wizard who's dying rapidly.
+
+He can technically Dim Door so maybe he gets to use it once nearby and they follow once more after a few hits. Aztec sewers map after?
+
+**SEED DENIAL AT ALL POINTS.**
+
+- Full HP (100) with L1 agathys, but only Ray of Frost + Dominate Person (5) / Cone of Cold (5) + Greater Invis (4) + Dimension Door (4).
+- Retriever faster gets away and starts setting up the finale (takes a while to load)
+- Interrogation possible (but really difficult to lock him down, he can misty step as verbal only if shackled, but he can be stunned now) - max movement == 60dash+30misty
 
 Area. Long walkway across acid river. ![](acropolis-bridge.jpg)
 Guards? Something light if any. No need to drag this out.
@@ -331,30 +339,82 @@ Staff must be modified a bit for it to make sense for them:
 - Random props: Minor Ben: 1st/3rd level spell free. Major Ben: +2 ability score (which?), Minor Det: Blinded when away from it, Animals hostile so you. Maj Det: Long Term Madness
 - No Call Undead. +3 AC. No spell DC boost. (Not there by default, and hard to do with Mordai's stuff)
 
-##### Summoning of Kiaransalee
-Something something she will rise again. Her necrotic halo will make it impossible for you to damage her.
 
 ##### Denial
 "No. This cannot be the end. We are so close. This is so pointless. You are dead anyway. Why do you waste your energy."
+"You are too late. You will all suffer beneath her malevolent splendor. A feast for the re-born, or champions of thanatos."
+"Her necrotic gaze will obliterate the guilty with her gaze."
+(hold dim door 1st)
+
+##### Bargaining
+!: "Stop. Don't do this. There is so much I can do. There is so much we can do. We are so close to seeing the world enwrapped in the undying grace of the Banshee. We have worked so hard for this."
+WHY: "You seek justice, we seek justice. In a world where justice can be enforced perfectly, where death is not the end. You will see that a stable society is inevitable."
+HOW: "She sees everything, she senses when retribution is necessary. With an all-seeing vengeance oracle behind us, everyone will be too afraid to work towards their own means."
+FURTHER: "Man only knows rule by authority. You just dress up your oppression with words. How many of your monarchs, presidents, archpriests, or councils have you see that ultimately just work towards their own means, at the behest of the people?"
+HIS ROLE: "The strongest, and most experienced must help with setting it up. With converting those to cling to their old powers."
+THE PEOPLE: "Will be lifted from the burden of their own mortality. They will be free."
+SOULS?: "We can feed on our resistance - for a while - then we will do with summoning. It will be a cold in hell once we start using Gate."
+ULT: "But if you kill me, you will find yourself having to pay for your sins."
+FACE REVEAL?: if asked, will reveal the almost fully gray and stretched skin across a visible cheekbone. multiple dotted adamantine gems across his forehead, each softly emiting a slight stream of gray smoke. soft purple glow emanates from within his eye-sockets.
 
 ### Central Chamber
 ![](shar-chamber.jpg)
-Where Irae tries to revive [[kiaransalee]] using the second egg of [[felgolos]].
+Where [[irae]] is birthing [[kiaransalee]] to the world using the second egg of [[felgolos]].
 It floats in the center, 20m wide, expanded. Pulsating.
+Stone shifts as you walk on it. See traces of green between each tile, and their gap, is irregular (difficult terrain spell).
 Stream of green energy spinning up to it from a triangular base. Like electons forming a trail.
 (Triquetrus attachments like a tetrahedron.)
-If phylactery is there; Irae will be a Vessel for her when needed.
-If the phylactery isn't there. Friede style Irae is the battle? Maybe with Arklem.
-- Irae will fight once (maybe use the amulet and get herself back with gimped revenancer)
-- Gimped revenancer is a physical creature that spirals acid into the world.
-
 Center can mimic https://forgottenrealms.fandom.com/wiki/Undying_Temple
 
-Classified as Irae's Lair. Initiative 20 Actions.
+If felgolos phylactery is there; Irae will be a Vessel for her when needed.
+If the phylactery isn't there. Friede style Irae (see her doc). Maybe with Arklem.
+- Irae will fight once (maybe use the amulet and get herself back with gimped revenancer)
+
+#### Irae Lines
+- "So, you have come to witness the creation first hand, you'll be pleased to be the first to meet her gaze."
+- START: "Cold Heart. We have give you the three. Please accept the soul residue of this ancient dracolich known as Felgolos."
+
+- ARKLEM: "What you have done is despicable, and make no mistake, your hour of revenance is at hand, and her gaze will graze your delicate flesh."
+- KIARANSALEE: "The Lady of the Dead, the perfect abjudicator of right and wrong. Ruling with a powerful, yet informed hand. Cutting down those who oppose and those who work against the undying."
+- DOMINATE: "Don't you see, XX? You are the chosen right hand now that Arklem is gone. Your knowledge will be limitless. Your quest for moral righteousness will have the perfect source." WIS SAVE DC21
+
+- NEARDEATH: "Fine, you have forced my hand, and I respect you for it, I guess my path is not to be the hand of the abjudicator, but rather abjudicator herself". (Can do it with high level Invulnerability style protection if they are annoying about it).
+- SACRIFICE: "Cold Heart. Oh, vengeful one. Let me complete the circuit. Take Larloch, Take Valindra, and Take me, you Kiaranshee to bring you from the Demonweb Pits.
+
+end session at transformation? describe wings. do a gaze, force them to escape? end there? less cliffhangery.
+
+#### Rests
+- Rest: Friede => Irae -> Moonlight Ward -> Irae + Kiaransalee Baby
+- Short: Weak Irae -> Moonlight? + Ads -> Kiaransalee rebirth
+
+#### Battle
+Phylactery is brought in, but it's not going perfectly. Irae needs to sacrifice herself.
+
+Classified as Irae's Lair. Initiative 20 Actions. permutation cycle: (2 3 1)
 > Spell Regen: d8 roll, recover that level of spell.
 > Tether: The lich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the lich to the target. Whenever the lich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the lich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the lich or the target is no longer in the lich’s lair.
 > Necrophos Ult: The lich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the lich can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, taking 52 (15d6) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear.
 > Summon a Revenant with Great Reveance. Revenants explode.
+
+NB: Tether out of K-baby egg.
+
+Fight over acid. Acid damage => 8d8 when starting their turn there.
+
+#### Irae Tactics
+
+- Fly under and over platforms, baiting acid / get full cover from Faey.
+- High level Armor of Agathys (40 temp HP)
+- Crown of Stars (bonus)
+- Use Scythe, target people.
+- Counterspell / Shield / Misty Step / Scythe Deflect (roll d20) / LUCK
+- POWER SURGE: +10 FORCE on spell. Needed, she'll die quick.
+- Dominate Person
+- Glyph of Warding (Acid Rune on Egg)
+- TWIN SPELLS with chronomancy
+ * Overcharge: Harm + Singularity
+
+Maybe:
+- Moonlight ward if too easy (actually a full reset for her though, so maybe not...)
 
 ### Her chamber
 At the top. Room with info on plans.
@@ -381,4 +441,5 @@ Then:
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [119-felgolos-reborn]: ../recaps/119-felgolos-reborn "119-felgolos-reborn"
 [chronomancy]: ../questideas/chronomancy "Chronomancy"
+[irae]: ../npcs/irae "Irae T'sarran"
 [//end]: # "Autogenerated link references"
