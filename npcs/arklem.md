@@ -22,6 +22,8 @@ Arklem doesn't want to be found - anti-scry ritual.
 - Stole the Egg of Galadaeros during Yeenoghu's assault on Luskan
 - Was spotted by Celerom
 - Had his phylactery destroyed in [[112-tesserect]] -> he is mortal
+- Almost died in [[119-felgolos-reborn]] fighting the party with [[felgolos]]
+- Died in [[120-liches]] not having had enough time to recover
 
 ## Mephisto Deal
 Alleviate pressure in blood war. Get runes for summoning (must not be traced back to them), tempt some drow with it (Irae helped with this / did this). Gave [[malexis]] a job as well (condition).
@@ -136,6 +138,9 @@ We would like to restore the city to its former position as the prime trading ou
 [undying-soul]: ../factions/undying-soul "Undying Soul"
 [orcus]: ../deities/orcus "Orcus"
 [112-tesserect]: ../recaps/112-tesserect "112-tesserect"
+[119-felgolos-reborn]: ../recaps/119-felgolos-reborn "119-felgolos-reborn"
+[felgolos]: felgolos "Felgolos"
+[120-liches]: ../recaps/120-liches "120-liches"
 [malexis]: malexis "Malexis"
 [celerom]: celerom "Celerum"
 [irithyll]: ../east/irithyll "Irithyll"

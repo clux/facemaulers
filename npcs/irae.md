@@ -36,6 +36,8 @@ Cultists in [[irithyll]] are used to to recreate control over Demon Lords.
 - [[62-hazy-bracers]] (murder of Petros) in [[rimehaze]]
 - [[63-rime-turtles]] (battle aid; chrono mancy, delayed blast fireball, mass suggestion)
 - [[72-prince-of-demons]] (time stop, stole bag of holding) in [[wd-demogorgon]]
+- [[115-velddrinnsshark]] fought party with Furlinastis and killed mordai
+- [[120-liches]] fought party and resurrected [[kiaransalee]]
 
 ## Motivation CHange
 After the party destroyes Bone City (actually killing her the Luskanites in her book), she becomes polarised, and wants revenge on the party and put an end to them.
@@ -361,6 +363,8 @@ https://divinityoriginalsin2.wiki.fextralife.com/Ancient+Temple
 [63-rime-turtles]: ../recaps/63-rime-turtles "63-rime-turtles"
 [72-prince-of-demons]: ../recaps/72-prince-of-demons "72-prince-of-demons"
 [wd-demogorgon]: ../waterdeep/wd-demogorgon "Waterdeep Siege"
+[115-velddrinnsshark]: ../recaps/115-velddrinnsshark "115-velddrinnsshark"
+[120-liches]: ../recaps/120-liches "120-liches"
 [path-of-suffering]: ../east/path-of-suffering "Path of Suffering"
 [dragonlake-pier]: ../east/dragonlake-pier "Dragonlake Pier"
 [menzo]: ../underdark/menzo "Menzoberranzan"

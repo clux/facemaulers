@@ -1,7 +1,7 @@
 120-liches
 17 August 2021
 
-You cheated time with the powers of Mordai's new patron Sahaquiel and was able to progress time while gaining a long rest. Having just fought both Irae and Arklem within the last hour, you felt you had the upper hand and pressed your advantage.
+You cheated time with the powers of Mordai's new patron Sahaquiel and was able to progress time while gaining a long rest. Having just fought both Irae and Arklem within the last hour, you felt you had the upper hand and pressed your advantage. Mordai remembers that liches can regain spells in their lair (however only up to 8th, so them pressing simplified Irae fight).
 
 Venturing deep inside the acropolis you found skeletons and undead glitchingly form and collapse, something big is underway. You find Arklem desperately trying to channel back spells, but it seemed not too successful. The tether to his soul has weakened, and he himself was weak.
 
@@ -15,7 +15,7 @@ BREAK
 
 Fight erups. Irae staves of your attacks, tethered to a hidden Retriever below the platform, avoiding the brunt of the damage. Shielding early in the round to make her hard to hit. She chronomancy twins spells on GW, and he saves everything. The scythe is working, but the big rolls are dodged. You all roll amazingly.
 
-Mauls eventually catch up with her, as Faey and Mordai fireballs/singularities or shoots from the sidelines which eventually takes down the Retriever. Then, lair tethering herself to GW, he does not care as he hits irae 3 times despite the tether and bigby's hand in front (useless spell).
+Mauls eventually catch up with her, as Faey and Mordai fireballs/singularities or shoots from the sidelines, sniping motes from her crown of stars, and eventually takes down the Retriever. Then, lair tethering herself to GW, he does not care as he hits irae 3 times despite the tether and bigby's hand in front (useless spell).
 
 She's low, she does her last desperation move. She sacrifices herself at the altar. She's instantly locked in place, green energy around her, your attacks bounce off as her face melts in front of you.
 
@@ -32,10 +32,14 @@ NOTES:
 TODO: next
 - wand staff silent after GW, seed later after irae fight
 - NB: failed to lore seed kiaransalee much; they shot down arklem - did some monologuing of irae
-* How to do the fight? See [[kiaransalee]].
+* How to do the fight? See [[kiaransalee]]. https://www.pinterest.co.uk/pin/588001295080506101/
 * Move to Neverwinter how?
 * How to force a regroup? Reverse Banish?
 * Ideas from last bits of Tiamat => High stakes play. Encourage conditions that can weaken her before she is summoned.
+
+ * Lore investigation ideas:
+ - Wand of Orcus can unveil the interaction between Kiaransalee and Orcus, how Orcus granted lichood initially (god of undeath), but clashed with K, and the wand was lost (and in my version, after retrieving it, Arklem + Irae stole it from his avatar in the prime material)
+ - Nightwing for Kiaransalee? https://www.dandwiki.com/wiki/Nightwing_(5e_Creature)
 
 Players:
 - Florent

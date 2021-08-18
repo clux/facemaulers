@@ -4,7 +4,7 @@ More questions for Berctha.
 
 Hans's fate is convoluted, something is messing with it.
 She does more clearly tell that at the top of the mountain; evil lives. "Stop the lich".
-Irae T'sarran. 200 year old drow priestess.
+Irae T'sarran. centuries old drow priestess.
 Does not know about the place to confirm whether she was the one from the sea.
 They return to Mithrendain and teleport to hill giant house.
 

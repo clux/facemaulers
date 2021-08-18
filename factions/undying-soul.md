@@ -27,10 +27,10 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 
 
 ## Members
-- Grand Extender [[arklem]]
-- Righteous Hand and Supreme Matron (ilharess alur) [[irae]]
-- Vindicator `Valindra` (diseased)
-- Shadow King [[larloch]] (diseased)
+- Grand Extender [[arklem]] (diseased)
+- Righteous Hand and Supreme Matron (ilharess alur) [[irae]] (part of Kiaransalee)
+- Vindicator `Valindra` (part of Kiaransalee)
+- Shadow King [[larloch]] (part of Kiaransalee)
 - High Psion [[koth]]
 - Stormlord [[umnos]] (diseased)
 - Expositor [[zaehesh]] (diseased)
@@ -68,8 +68,11 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 - (had plenty of weeks here while party was in city of brass)
 - Betrays `Valindra` and use her soul to power ritual
 - Takes [[larloch]]'s soul
-- Found 3rd soul; [[felgolos]]
+- Captures [[felgolos]]; planned 3rd soul
 - [[arklem]] has his phylactery destroyed (cannot be used for summoning)
+- [[felgolos]] converted to a dracolich to have his soul extracted
+- [[irae]] sacrificed as final soul instead of [[felgolos]]
+- [[kiaransalee]] rose
 
 ## Goals
 - ~~Re-animate, and kill the Raven Queen, to~~ raise Kiaransalee
