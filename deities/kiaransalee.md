@@ -60,11 +60,21 @@ Plot hooks:
 - GW: Kavaki's Simple Fortress; near GW's temple in NW to allow him to channel a special divinity within city borders
  * need something to make her vulnerable to Banish (gw can do it up to 3 times) -> Abyss
  * Auto-fail condition within fortress if mortally wounded?
+ * Clergy; turn rivers into holy water
  * Otherwise; lich resurrect?
  * How to seed the spell? Reskinned Mordenkainen Fortress?
 - Faey/GW: tremmels in the gilgrin forge (via cloud giants?)
  * Plot justification for this? Would need lore in Acropolis.
 - Party: If Irae becomes part of her, then she'll be weakened if they take care of Irae's phylactery...
+
+Escape:
+- morph scenery around her, direct route out of shadowfell.ripples in space.
+- not fully ascended yet, needs a bit of time
+- but then needs to monologue a bit to declare intent.
+- how to feel powerful, but not kill them...
+- kill one with huge damage as they discover a weakness
+- then scared, multi-banish them
+- demi-plane out after taking damage
 
 ### Boss Fight Neverwinter
 How does she get there?
