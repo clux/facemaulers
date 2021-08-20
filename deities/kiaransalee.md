@@ -73,8 +73,32 @@ Escape:
 - but then needs to monologue a bit to declare intent.
 - how to feel powerful, but not kill them...
 - kill one with huge damage as they discover a weakness
-- then scared, multi-banish them
-- demi-plane out after taking damage
+
+
+### Initial Fight in Acropolis
+She rises there, but hasn't fully recovered her powers. Will use them, but will not want to risk anything.
+
+She's "above them" initially. Don't even react to attacks that do no damage.
+
+- INITIAL MOVEMENT: **soft exhale + explore body** "not perfect, but you have done well."
+- INVESTIGATE SOURCES: **flashing yellow** "valindra, you have been wronged", **flashing black** "larloch, you've been wronged", **flashing white** "irae
+
+Kill one of them if they do damage to her (rebuke with Gaze), she'll retreat into the Orb, and teleport the orb over the material where she gains power, absorbing the light of the sky. Daylight over.
+
+TODO: they need to discover a weakness here. Finger with rings / wings. Radiant only damage type? Radiant is weird for Faey/Mordai.
+Weakness: her retribution sources are built on a contradiction (irae betrayed to larloch + valindra)=> K can be out-talked.
+
+https://www.quora.com/As-a-first-time-DM-for-5e-Ive-written-myself-into-a-corner-my-players-will-fight-the-avatars-of-gods-or-perhaps-the-gods-themselves-as-level-20-characters-How-do-I-stat-a-gods-avatar
+
+
+VOICE! Deep inhaling breathing into mic.
+
+#### Lines
+
+- NOTICING THEM/INTERACTION: **soft exhale + slowly gaze towards them** white flash from her body. slow recognition, turning into disgust.
+-
+
+
 
 ### Boss Fight Neverwinter
 How does she get there?
