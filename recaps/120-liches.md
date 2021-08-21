@@ -27,19 +27,19 @@ NOTES:
 - they need to regroup somehow, seed deal with staff
 - they can get irae's veil + spider gaze
 - they have arklem's grimoire, wand, robes
+- arklem wand talks, mostly an item choice thing (bad thing to use if they die with it or spend too long with it)
+- seed 3 phase boss in the lair (light in rooms, valindra green, larloch purple)
 - they can get their bag of holding back if they keep going (but how?)
+- ensure they don't just go back after kiaransalee ports out
 
-TODO: next
-- wand staff silent after GW, seed later after irae fight
-- NB: failed to lore seed kiaransalee much; they shot down arklem - did some monologuing of irae
+TODO:
 * How to do the fight? See [[kiaransalee]]. https://www.pinterest.co.uk/pin/588001295080506101/
-* Move to Neverwinter how?
-* How to force a regroup? Reverse Banish?
+* Move to Neverwinter how - she teleports
+* How to force a regroup? don't they ought to investigate further
 * Ideas from last bits of Tiamat => High stakes play. Encourage conditions that can weaken her before she is summoned.
-
- * Lore investigation ideas:
- - Wand of Orcus can unveil the interaction between Kiaransalee and Orcus, how Orcus granted lichood initially (god of undeath), but clashed with K, and the wand was lost (and in my version, after retrieving it, Arklem + Irae stole it from his avatar in the prime material)
- - Nightwing for Kiaransalee? https://www.dandwiki.com/wiki/Nightwing_(5e_Creature)
+* Wand of Orcus can unveil the interaction between Kiaransalee and Orcus, how Orcus granted lichood initially (god of undeath), but clashed with K, and the wand was lost (and in my version, after retrieving it, Arklem + Irae stole it from his avatar in the prime material)
+* How does Kiaransalee travel outside teleport? Orb, then what? Recharge?
+* How does she get better during this charge? SEED IT!
 
 Players:
 - Florent

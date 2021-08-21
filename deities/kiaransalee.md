@@ -39,6 +39,7 @@ Style like Queen of Blades SC2
 
 Make a 10th level spell.
 - 30AC mage armor
+- Crazy HP. Run her with occasional weaknesses, but just huge HP (indicate regeneration?)
 - Necrotise anyone she looks at / is touched by (or just use flaying glance)
 - Raise Dragon
 - Raise Undead Mirrors of Players (Simulacrum/Clone?)
@@ -63,9 +64,13 @@ Plot hooks:
  * Clergy; turn rivers into holy water
  * Otherwise; lich resurrect?
  * How to seed the spell? Reskinned Mordenkainen Fortress?
-- Faey/GW: tremmels in the gilgrin forge (via cloud giants?)
- * Plot justification for this? Would need lore in Acropolis.
-- Party: If Irae becomes part of her, then she'll be weakened if they take care of Irae's phylactery...
+- Faey/GW: larloch / valindra items to help draw them out
+ * Acropolis; soul of felgolos can be used (tear at it / use it as a focus) if they extract it
+ * Acropolis; larloch's ring can be used. casts something that will trigger his phase
+- Party: If Irae becomes part of her, then she'll be weakened if they take care of Irae's phylactery.
+- Mages; some way to cancel out regeneration? maybe Kavaki quest with spirits?
+
+NB: if they are to trigger her phases, she needs to go last in initiative..
 
 Escape:
 - morph scenery around her, direct route out of shadowfell.ripples in space.
@@ -81,12 +86,20 @@ She rises there, but hasn't fully recovered her powers. Will use them, but will 
 She's "above them" initially. Don't even react to attacks that do no damage.
 
 - INITIAL MOVEMENT: **soft exhale + explore body** "not perfect, but you have done well."
-- INVESTIGATE SOURCES: **flashing yellow** "valindra, you have been wronged", **flashing black** "larloch, you've been wronged", **flashing white** "irae
+- INVESTIGATE SOURCES: **flashing green** "valindra, timeless sorceress, unimaginable progress", **flashing purple** "larloch, ancient sorcerer, ancient suffering", **flashing white** "irae, grand visionary, perfecter. completer. ruthless." (twitches as the last word is said)
 
 Kill one of them if they do damage to her (rebuke with Gaze), she'll retreat into the Orb, and teleport the orb over the material where she gains power, absorbing the light of the sky. Daylight over.
 
-TODO: they need to discover a weakness here. Finger with rings / wings. Radiant only damage type? Radiant is weird for Faey/Mordai.
-Weakness: her retribution sources are built on a contradiction (irae betrayed to larloch + valindra)=> K can be out-talked.
+She takes damage while she's in Irae's form? White flashes. green and purple flashes indicate extreme danger.
+
+- **Irae's form** *White*: Scythe wielder takes damage from Radiant
+- **Larloch's form** *Purple*: Necrotic Gaze takes damage from force/thunder/lightning/fire
+- **Valindra's form** *Green*: Raising Undead takes damage from piercing damage / bludgeoning
+
+They need to discover a weakness here. Finger with rings / wings. Radiant weakness in one phase.
+
+Weakness: her retribution sources are built on a contradiction (irae betrayed to larloch + valindra)=> K can be out-talked / her forms can be triggered.
+Weakness: her forms can be triggered. GW can draw out Irae's form. Mordai can draw out Larloch's form? Faey can draw out Valindra's form?
 
 https://www.quora.com/As-a-first-time-DM-for-5e-Ive-written-myself-into-a-corner-my-players-will-fight-the-avatars-of-gods-or-perhaps-the-gods-themselves-as-level-20-characters-How-do-I-stat-a-gods-avatar
 
@@ -95,7 +108,7 @@ VOICE! Deep inhaling breathing into mic.
 
 #### Lines
 
-- NOTICING THEM/INTERACTION: **soft exhale + slowly gaze towards them** white flash from her body. slow recognition, turning into disgust.
+- NOTICING THEM/INTERACTION: **soft exhale + slowly gaze towards them** white flash from her body. slow recognition, turning into disgust. "irae's nemeses" **strange twitch green/purple flash**
 -
 
 
