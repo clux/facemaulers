@@ -30,63 +30,120 @@ Larynda Telenna high priestess. In Vault of Gnashing Teeth beneath Vaasa (frozen
 
 ## Stats
 If she rises: Base on CR30 https://kryptonluke.wordpress.com/2015/06/18/lady-of-pain/
+https://www.pinterest.co.uk/pin/588001295080506101/
 Style like Queen of Blades SC2
 
-- 25AC, Resistant Physical(Piercing/Bludgeoning/Slashing). Resistant Poison/Acid/Lightning. Immune Necrotic.
-- Stuns can happen, but only take away one of her legendary actions.
-- 30HP regen every round.
-- TODO: Spells (some must be absorption'able)
+AC23
+DC27
+Special resistances/immunities based on phases.
 
-Make a 10th level spell.
-- 30AC mage armor
-- Crazy HP. Run her with occasional weaknesses, but just huge HP (indicate regeneration?)
-- Necrotise anyone she looks at / is touched by (or just use flaying glance)
-- Raise Dragon
-- Raise Undead Mirrors of Players (Simulacrum/Clone?)
-https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
+STR 28 DEX 30 CON 30 INT 24 WIS 24 CHA 24
+Saves: STR+9, DEX+19, CON+19, INT+7, WIS+17
+Legendaries: 5
+Movement 40: 40ft fly
 
-TODO: plot hooks on how she works?
-- Rising insta-necrotises something as it comes up.
-- Arklem can also mention it.
+## Phases
+Body softly illuminate with the color of the phase. Demeanor changes in minor ways.
+Players can trigger the form in certain ways if they make certain discoveries about how she works, or detect patterns in her behiavour. Some triggers are social (by speaking to her), others are mechanical (spells/objs).
 
-Information to seed:
-- They need necrotic res. (Remind them of flowers - full res for 8h)
-- They need to bypass her gaze; Kavaki/Selune divine fortress? Forbiddance.
-- First attacks against her do nothing. Flaying Glance once? DC26 CON vs 22d6 necro ought to be a deterrent.
+Abilities happen between player turns (legendary actions).
+Changes happen after current attack / spell has damage computed and ticked.
+Stuns can happen to Valindra (she loses a turn).
+If no changes happen in a round, take a random form at top of round.
+At most 2 AOE/Gaze attacks per round (because unharmonious union).
+3rd Action has to be something else.
 
-Plot hooks:
+### Purple / Larloch
+Slower voice. Stoic. Talks about restoring the old empire to its former glory.
+
+Abilities:
+- True Sight of Kiaransalee: DC27CON vs 20d8 (95 avg) Necrotic DMG + turn blind (half dmg save)
+- Tiamat Style Frightful Presence: DC27 WIS vs Frighten
+- Anything else?
+
+Strengths:
+- Physical immunity
+
+Weakness:
+- Fire Spells (many in Wand of Orcus)
+
+Form triggers:
+- Magic: Dark Magic / Shadow / Darkness
+- Social: Irae's and Arklem's betrayal
+- Mechanical: Lizard remnants / saphires / Behir related / Larloch Ring
+
+### Green / Valindra
+Dark sickening laugh. Science nerd. Talks about draconic bearers of vengeance.
+
+Actions:
+- Scythe range attack. DC27 DEX vs. Lightning 90ft cone 18d8. (recharge 5/6)
+- Regen: 30hp
+- Summon Simulacrum roll for player. (No items, half HP).
+
+Strengths:
+- Magic immunity (non-physical damage types)
+- High AC: 28
+
+Weakness:
+- Piercing / Bludgeoning (but have to beat her AC)
+
+Form triggers:
+- Magic: Thunder / Lightning Damage (failed to remember force, have to re-purpose...)
+- Social: Wasted dragons
+
+### White / Irae
+Arrogant baseline Irae. Talks very openly about direct revenge and them first.
+
+Actions:
+- Scythe of the Revenancer (twinned - 2 attacks) 4d8 necro + 1d8+15 x2 (~40dmg each) +19
+- Shield/Counterspell/Absorb Elements
+- if nice: blight, harm, dominate, hold, modify mem (absorbable)
+
+Strengths:
+- Immunity to Necrotic
+
+Weakness:
+- Radiant
+
+Form triggers:
+- Magic: Light/White magic / Chronomancy
+- Social: Taunting about the deaths in [[undying-soul]]
+
+## God Weakening
+- Gaze protection vs. Larloch; Kavaki/Selune divine fortress? Forbiddance.
+- Necrotic resistance (Remind them of flowers - full res for 8h)
+
+## Plot Noticing in Acropolis
+See notebooks in [[acropolis]]
+
+Mages:
 - Mordai: Setup the force cannon from the acropolis it the top of Castle Never (quick heist)
-- Mordai: attune to Wand of Orcus and gain crazy dmg spells (although that setup is boring for GW)
 - Faey: Use Necro Flower recipe to gain an advantage
-- GW: Kavaki's Simple Fortress; near GW's temple in NW to allow him to channel a special divinity within city borders
- * need something to make her vulnerable to Banish (gw can do it up to 3 times) -> Abyss
- * Auto-fail condition within fortress if mortally wounded?
- * Clergy; turn rivers into holy water
- * Otherwise; lich resurrect?
- * How to seed the spell? Reskinned Mordenkainen Fortress?
-- Faey/GW: larloch / valindra items to help draw them out
+- Can't kill a god; need something to make her vulnerable to Banish (gw can do it up to 3 times) -> Abyss. Need to weaken her to near-death.
+
+Clerics?
+- GW: Kavaki's Simple Fortress; near GW's temple in NW to allow him to channel a special divinity within city borders (How to seed the spell? Reskinned Mordenkainen Fortress? Auto-fail condition within fortress if mortally wounded?)
+* Clergy; turn rivers into holy water
+
+Acropolis
  * Acropolis; soul of felgolos can be used (tear at it / use it as a focus) if they extract it
  * Acropolis; larloch's ring can be used. casts something that will trigger his phase
+
+- Faey/GW: larloch / valindra items to help draw them out
+
 - Party: If Irae becomes part of her, then she'll be weakened if they take care of Irae's phylactery.
 - Mages; some way to cancel out regeneration? maybe Kavaki quest with spirits?
 
-NB: if they are to trigger her phases, she needs to go last in initiative..
-
-Escape:
-- morph scenery around her, direct route out of shadowfell.ripples in space.
-- not fully ascended yet, needs a bit of time
-- but then needs to monologue a bit to declare intent.
-- how to feel powerful, but not kill them...
-- kill one with huge damage as they discover a weakness
-
 
 ### Initial Fight in Acropolis
-She rises there, but hasn't fully recovered her powers. Will use them, but will not want to risk anything.
+She rises there, but hasn't fully recovered her powers. Will use them, but will not want to risk anything. Need to exposition a bit here for intent / weaknesses. She also needs to feel powerful without actually killing them here (at least permanently).
+
+Kill one with huge damage as they discover a weakness, target that player.
 
 She's "above them" initially. Don't even react to attacks that do no damage.
 
 - INITIAL MOVEMENT: **soft exhale + explore body** "not perfect, but you have done well."
-- INVESTIGATE SOURCES: **flashing green** "valindra, timeless sorceress, unimaginable progress", **flashing purple** "larloch, ancient sorcerer, ancient suffering", **flashing white** "irae, grand visionary, perfecter. completer. ruthless." (twitches as the last word is said)
+- INVESTIGATE SOURCES: **flashing green** "valindra, timeless sorceress, unimaginable progress", **flashing white** "irae, grand visionary, perfecter. completer. ruthless." (twitches as the last word is said), **flashing purple** "larloch, ancient sorcerer, ancient suffering"
 
 Kill one of them if they do damage to her (rebuke with Gaze), she'll retreat into the Orb, and teleport the orb over the material where she gains power, absorbing the light of the sky. Daylight over.
 
@@ -101,16 +158,14 @@ They need to discover a weakness here. Finger with rings / wings. Radiant weakne
 Weakness: her retribution sources are built on a contradiction (irae betrayed to larloch + valindra)=> K can be out-talked / her forms can be triggered.
 Weakness: her forms can be triggered. GW can draw out Irae's form. Mordai can draw out Larloch's form? Faey can draw out Valindra's form?
 
-https://www.quora.com/As-a-first-time-DM-for-5e-Ive-written-myself-into-a-corner-my-players-will-fight-the-avatars-of-gods-or-perhaps-the-gods-themselves-as-level-20-characters-How-do-I-stat-a-gods-avatar
-
+### Escape
+- morph scenery around her, direct route out of shadowfell. ripples in space.
 
 VOICE! Deep inhaling breathing into mic.
 
 #### Lines
 
 - NOTICING THEM/INTERACTION: **soft exhale + slowly gaze towards them** white flash from her body. slow recognition, turning into disgust. "irae's nemeses" **strange twitch green/purple flash**
--
-
 
 
 ### Boss Fight Neverwinter
@@ -141,6 +196,23 @@ Due to the stealthy aspect of this operation, the date varies each year.
 ## Resummoning
 Can be resummoned in [[velddrinnsshar]] in the Acropolis.
 
+## Misc Ideas
+Make a 10th level spell?
+- 30AC mage armor ?
+- Crazy HP. Run her with occasional weaknesses, but just huge HP (indicate regeneration?)
+- Necrotise anyone she looks at / is touched by (or just use flaying glance)
+- Raise Dragon
+- Raise Undead Mirrors of Players (Simulacrum/Clone?)
+https://www.reddit.com/r/DMAcademy/comments/afggqq/10th_level_spells/
+
+
+## Inspiration
+https://www.quora.com/As-a-first-time-DM-for-5e-Ive-written-myself-into-a-corner-my-players-will-fight-the-avatars-of-gods-or-perhaps-the-gods-themselves-as-level-20-characters-How-do-I-stat-a-gods-avatar
+https://www.enworld.org/threads/5e-epic-monster-updates.468639/
+https://www.quora.com/As-a-first-time-DM-for-5e-Ive-written-myself-into-a-corner-my-players-will-fight-the-avatars-of-gods-or-perhaps-the-gods-themselves-as-level-20-characters-How-do-I-stat-a-gods-avatar
+
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [velddrinnsshar]: ../east/velddrinnsshar "V'elddrinnsshar"
+[undying-soul]: ../factions/undying-soul "Undying Soul"
+[acropolis]: ../east/acropolis "acropolis"
 [//end]: # "Autogenerated link references"

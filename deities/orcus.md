@@ -1,7 +1,18 @@
 # Orcus
 syrgaul + tameraut undead crew (wants to rule the seas)
 
-Attacked by [[undying-soul]] in a rapid mage attack. Boat now floating in the sea.
+## Undying Soul Attack
+Attacked by [[undying-soul]] in a rapid mage attack.
+Boat now floating in the sea.
+
+Happened at sea after the Tameraut had gone down. But same place.
+Irae dropped bits of herself into the ocean (it melded with magic components of the tameraut later).
+
+That's why Irae's phylactery is portable from the Pit of Hatred.
+Tameraut had magic capabilities embedded in the ship. Malfunctioning in water.
+
+Why could they enter a portal underwater?
+Entered into low water side and portal somehow does not respect pressure.
 
 ## Orcus's Ship
 Watches over the seas near the rift. Will attack anyone who's been on the island to erase notices.

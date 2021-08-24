@@ -306,6 +306,7 @@ Silth. Has a lair in the underdark
 
 ### Silth the Infestor - Ancient Viridian Dragon
 Has the power of a green and blue dragon. Can poison the minds of people and lower their intelligence. Truesight. PP30. Symptoms; paranoia + coughing.
+Dropped. Was a Menzo hook.
 
 ### Celerum - Mage
 Persuaded to join their "cause" by keeping the people of Luskan alive and have them "retain their humanity". Deceptive plot. Required Modify Memory. Stopped responding to messages as a result of his new work.

@@ -48,7 +48,6 @@ NOTES:
 - Foreshadow Irae's absorption into Kiaransalee by having Felgolos' contribution take more time than anticipated
 - Arklem death: grey smoke everywhere, skin rots, green nova ripples through like a volcanic shockwave (bridge falls?)
 - continue to seed mordai's green EB
-- Irae: spells vs rod of absorption reaction: blight, harm, dominate, hold, modify mem
 - ENDGAME:
   * Arklem sets up deity; semi-hard Irae fight - where Irae gets absorbed into Kiaransalee to speed
   * Both Irae & Arklem weak (short rest only) - Irae's death serving as a end boss, but also justifying the deity setup up transformation

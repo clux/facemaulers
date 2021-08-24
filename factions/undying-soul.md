@@ -31,7 +31,7 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 - Righteous Hand and Supreme Matron (ilharess alur) [[irae]] (part of Kiaransalee)
 - Vindicator `Valindra` (part of Kiaransalee)
 - Shadow King [[larloch]] (part of Kiaransalee)
-- High Psion [[koth]]
+- High Psion [[koth]] (in underdark)
 - Stormlord [[umnos]] (diseased)
 - Expositor [[zaehesh]] (diseased)
 - Hypnotist [[mordai-vell]] (diseased)
@@ -53,8 +53,8 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 ## Late developments
 - Tether [[mordai-vell]] to [[koth]] and slowly corrupt dragon's influence in [[neverwinter]]
 - [[irae]] sequesters [[umnos]], opens the spine, and unleashes demon lords
+- [[arklem]] + [[irae]] heads to pit of hatred - fights/banishes [[orcus]] but steal his wand
 - [[irae]] steals staff in [[gilgrin-vault]], puts matriarch boss in place
-- [[arklem]] + [[irae]] heads to pit of hatred - channels spine to trap Orcus and steal his wand
 - Party defeats [[mordai-vell]] after losing two members in shadowfell
 - [[irae]] unleashes [[wd-demogorgon]] - steals scythe blade with Time Stop
 - [[irae]] sends Yeenoghu to [[luskan]]
@@ -66,13 +66,13 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 - Party defeats bone city, discovers [[irae]]'s behind the scenes work, fixes [[celerom]]
 - [[irae]] starts rituals to summon [[kiaransalee]], needs 3 ancient souls
 - (had plenty of weeks here while party was in city of brass)
-- Betrays `Valindra` and use her soul to power ritual
-- Takes [[larloch]]'s soul
+- Uses `Valindra` and use her soul to power ritual (she agrees)
+- Uses [[larloch]]'s betrayed soul
 - Captures [[felgolos]]; planned 3rd soul
 - [[arklem]] has his phylactery destroyed (cannot be used for summoning)
 - [[felgolos]] converted to a dracolich to have his soul extracted
 - [[irae]] sacrificed as final soul instead of [[felgolos]]
-- [[kiaransalee]] rose
+- [[kiaransalee]] rose, fought party and plane shifted to safety
 
 ## Goals
 - ~~Re-animate, and kill the Raven Queen, to~~ raise Kiaransalee
@@ -95,6 +95,7 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 [mordai-vell]: ../npcs/mordai-vell "Mordai Vell"
 [irithyll]: ../east/irithyll "Irithyll"
 [valindra]: ../npcs/valindra "Valindra"
+[orcus]: ../deities/orcus "Orcus"
 [gilgrin-vault]: ../spine/gilgrin-vault "Gilgrin Vault"
 [wd-demogorgon]: ../waterdeep/wd-demogorgon "Waterdeep Siege"
 [luskan]: ../north/luskan "Luskan"

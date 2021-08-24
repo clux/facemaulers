@@ -30,6 +30,11 @@ Zegash looking to have a conversation with "mr veil i presume", (he bought the f
 they will find them after the arena (if they survive it)
 Entourage: Horned Devil, Chain Devil, High Level Thiefling zegash
 
+Presumably his consciousness was in a mycelium network atm.
+
+## Death in Shadowfell
+Reborn as a silver deer fawn in faeywild.
+
 ## Zegash
 Blue Abishai. Might try to blackmail.
 Could also give them a Greater Dimension Door, which would forfeit the match.

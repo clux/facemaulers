@@ -45,6 +45,10 @@ VA-VA-KA - friend in giant
 VA-VA-KI - fiend in giant
 KA-VA-KI - desired
 
+## Thaumaturgy
+Can cast thaumaturgy because of Larloch's purple ring.
+Reworked to have "KAVAKI" in big embossed letters on it.
+
 ## Pugweaver
 Mastiff
 IDEA: CANIGHT: https://i.redd.it/vtn0qgdald061.jpg

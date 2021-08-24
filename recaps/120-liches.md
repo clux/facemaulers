@@ -19,7 +19,7 @@ Mauls eventually catch up with her, as Faey and Mordai fireballs/singularities o
 
 She's low, she does her last desperation move. She sacrifices herself at the altar. She's instantly locked in place, green energy around her, your attacks bounce off as her face melts in front of you.
 
-Her items fall to the ground, all except one. The scythe. It comes spinning towards the sphere, where a singular bony arm extrudes itself from the orb, with several silver rings visible. The arm catches the maul.
+Her items fall to the ground, all except one. The scythe. It comes spinning towards the sphere, where a singular bony arm extrudes itself from the orb, with several silver rings visible. The arm catches the scythe.
 
 The darkness of the orb expands, until it covers all that you can see. Then two dark green eyes visible, with a black cat-like swirl within them. Bony skeletal wings, and two arms, both clutching onto Irae's scythe.
 
@@ -31,15 +31,12 @@ NOTES:
 - seed 3 phase boss in the lair (light in rooms, valindra green, larloch purple)
 - they can get their bag of holding back if they keep going (but how?)
 - ensure they don't just go back after kiaransalee ports out
+- See [[kiaransalee]] for fight info.
+- Kill one with huge damage as they discover a weakness
+- Move to Neverwinter how - she teleports (see doc for ripple)
 
 TODO:
-* How to do the fight? See [[kiaransalee]]. https://www.pinterest.co.uk/pin/588001295080506101/
-* Move to Neverwinter how - she teleports
-* How to force a regroup? don't they ought to investigate further
-* Ideas from last bits of Tiamat => High stakes play. Encourage conditions that can weaken her before she is summoned.
-* Wand of Orcus can unveil the interaction between Kiaransalee and Orcus, how Orcus granted lichood initially (god of undeath), but clashed with K, and the wand was lost (and in my version, after retrieving it, Arklem + Irae stole it from his avatar in the prime material)
 * How does Kiaransalee travel outside teleport? Orb, then what? Recharge?
-* How does she get better during this charge? SEED IT!
 
 Players:
 - Florent
