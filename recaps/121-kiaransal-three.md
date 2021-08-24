@@ -75,10 +75,12 @@ NOTES:
 TODO:
 - SCRY on kiaransalee
 - kiaransalee travel into boss fight finalize. she doesn't improve now, right?
+- [[kiaransalee]] stats remember properly
 - HOW TO FIGURE OUT THE REST OF KIARANSALEE? They got a lot...
   * Seed sight of Kiaransalee?
   * Seed resistances of Valindra and Larloch.. will feel unfair.
   * Seed triggers! Didn't happen in fight because i fucked up force dmg..
+  * Seed social triggers (contradictions of creation..)
 - gregor final
 
 Players:
