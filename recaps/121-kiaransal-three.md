@@ -81,6 +81,17 @@ TODO:
   * Seed resistances of Valindra and Larloch.. will feel unfair... DID VALINDRA PHYSICAL IN MENZO + FIGHT
   * Seed triggers! Didn't happen in fight because i fucked up force dmg.. DID LG TRIGGER IN MENZO
   * Seed social triggers (contradictions of creation..) DID THE LOLTH ONE IN MENZO
+- KIARANSALEE boss fight seed... what happens after scrying? how to indicate the next step?
+  * she taunts the scryer? "you're next"..
+  * they regroup and ask for help? mages not better than they are now...
+  * they figure out something completely new? give them time to go wild and avoid hard railroading immediately perhaps...
+  * they track her movement? will take a while... can feel boring...
+  * half session of investigation, then an UNAVOIDABLE EVENT? but what?
+    - menzo lifted? larloch powers, slowly fly it towards neverwinter, plan to raise that too?
+    - menzo ion cannon destroys things in path? that will force a fight in flying menzo...
+    - seed silth in city? can maybe dissuade from fighting there..
+    - maybe kiaransalee needs to power up in cities every now and then, so can't immediately teleport again... IF SO SEED IT IN MENZO
+
 - [[gregor]] final... can we raise the stakes here? READ THEIR NOTES TO FIND STUFF...
 
 Players:
