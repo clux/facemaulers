@@ -126,7 +126,7 @@ To destroy her phylactery, they need to reach it in the past?
 [hjarka]: hjarka "Hjarka"
 [moray]: ../seaofbones/moray "Moray"
 [mirror-temple]: ../seaofbones/mirror-temple "Mirror Temple"
-[chronomancy]: ../questideas/chronomancy "Chronomancy"
+[chronomancy]: ../rules/chronomancy "Chronomancy"
 [33-mirror-hans]: ../recaps/33-mirror-hans "33-mirror-hans"
 [34-tyrant-deception]: ../recaps/34-tyrant-deception "34-tyrant-deception"
 [35-temple-of-the-queen]: ../recaps/35-temple-of-the-queen "35-temple-of-the-queen"

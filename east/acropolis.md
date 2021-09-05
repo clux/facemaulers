@@ -468,7 +468,7 @@ Then:
 [felgolos]: ../npcs/felgolos "Felgolos"
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [119-felgolos-reborn]: ../recaps/119-felgolos-reborn "119-felgolos-reborn"
-[chronomancy]: ../questideas/chronomancy "Chronomancy"
+[chronomancy]: ../rules/chronomancy "Chronomancy"
 [irae]: ../npcs/irae "Irae T'sarran"
 [121-kiaransal-three]: ../recaps/121-kiaransal-three "121-kiaransal-three"
 [orcus]: ../deities/orcus "Orcus"
