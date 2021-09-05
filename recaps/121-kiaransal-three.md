@@ -65,6 +65,7 @@ Items:
   - Wand of Orcus (variant) yet to be identified
 
 NOTES:
+- SCRY on kiaransalee -> see [[menzo]] (seeds valindra immunity, change seq, irae social trigger, dmg)
 - wand of orcus scene re-prep
   * Wand of Orcus can unveil the interaction between Kiaransalee and Orcus, how Orcus granted lichood initially (god of undeath), but clashed with K, and the wand was lost (and in my version, after retrieving it, Arklem + Irae stole it from his avatar in the prime material)
 - Found bag (
@@ -73,14 +74,13 @@ NOTES:
 - They have components to make 2 necro res potions (dried one will fail).
 
 TODO:
-- SCRY on kiaransalee (she's wrecking [[menzo]])
 - kiaransalee travel into boss fight finalize. she doesn't improve now, right?
 - [[kiaransalee]] stats remember properly
 - HOW TO FIGURE OUT THE REST OF KIARANSALEE? They got a lot...
-  * Seed sight of Kiaransalee?
-  * Seed resistances of Valindra and Larloch.. will feel unfair.
-  * Seed triggers! Didn't happen in fight because i fucked up force dmg..
-  * Seed social triggers (contradictions of creation..)
+  * Seed sight of Kiaransalee? DONE IN FIGHT
+  * Seed resistances of Valindra and Larloch.. will feel unfair... DID VALINDRA PHYSICAL IN MENZO + FIGHT
+  * Seed triggers! Didn't happen in fight because i fucked up force dmg.. DID LG TRIGGER IN MENZO
+  * Seed social triggers (contradictions of creation..) DID THE LOLTH ONE IN MENZO
 - gregor final
 
 Players:

@@ -76,7 +76,7 @@ Form triggers:
 Dark sickening laugh. Science nerd. Talks about draconic bearers of vengeance.
 
 Actions:
-- Scythe range attack. DC27 DEX vs. Lightning 90ft cone 18d8. (recharge 5/6)
+- Scythe range attack. DC27 DEX vs. Acid 90ft cone 18d8. (recharge 5/6) (cant have LG if trigger is LG)
 - Regen: 30hp
 - Summon Simulacrum roll for player. (No items, half HP).
 
@@ -108,7 +108,7 @@ Weakness:
 
 Form triggers:
 - Magic: Light/White magic / Chronomancy
-- Social: Taunting about the deaths in [[undying-soul]]
+- Social: Taunting about the deaths in [[undying-soul]] / Talk about Lolth
 
 ## God Weakening
 - Gaze protection vs. Larloch; Kavaki/Selune divine fortress? Forbiddance.
