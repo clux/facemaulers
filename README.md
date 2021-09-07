@@ -1,34 +1,16 @@
 # Campaign 2018-2021
-To be released after campaign end.
+DM notes and brain organisation of a 3 year D&D campaign.
+Lots of unfinished ideas and clutter, but in general this organisational style was successful.
 
-## Foam
-Organisation uses [foam](https://foambubble.github.io/foam/).
-You need to follow the [last steps of foam install](https://foambubble.github.io/foam/#getting-started), namely:
-- cloning this repo
-- open it as a workspace
-- Install recommended extensions (embedded in this repo)
+## Foam Usage
+We use [foam](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
+
+You need to follow the [last steps of foam install](https://foambubble.github.io/foam/#getting-started) to browse effectively (clone repo, open as workspace, install recommended extensions).
+
+The main feature this gives is the ability to [follow markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links)
 
 ## Organisation
-Main feature is being able to quickly click through on links (and not have to specify the paths yourself), theres also some key extension features:
-
-- [Markdown Links: Show Graph](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links)
-- [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
-
-## Scripts
-Some additional scripts due to conventions herein:
-
-- `./stats.sh` - prints players and their involvement
-
-## Player Resources
-Links that players had throughout:
-
-- [session notes](https://paper.dropbox.com/doc/Session-Notes-0oWR0cmuMrCW4LKxswa5n)
-- [campaign overview](https://paper.dropbox.com/doc/Underdark-Underhandedness-ChiGXnq0KQmXRT80U5E52)
-- [bags of holding](https://paper.dropbox.com/doc/Bag-of-Holding-hGxQwKOHsxgVkM1sjQnrX)
-- [dndbeyond campaign](https://www.dndbeyond.com/campaigns/156017)
-
-## Outline
-Folders dictate regions. Sometimes the folders also coincide entirely with chapters, but in some chapters players move around a lot.
+Folders generally specify regions. Sometimes the folders also coincide entirely with chapters, but in some chapters players move around a lot.
 
 1. Introduction for [Sunless Citadel](./waterdeep/sunless-citadel.md) :: EP 1-4
 2. Segued [Into the Abyss](./underdark) :: EP 4-19
@@ -40,3 +22,16 @@ Folders dictate regions. Sometimes the folders also coincide entirely with chapt
 8. Into the Shadowfell to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
 
 In general, the [recaps folder](./recaps) is going to be the best bet to get a chronological feel.
+
+## Player Resources
+Resources maintained by players:
+
+- [Session Notes](https://paper.dropbox.com/doc/Session-Notes-0oWR0cmuMrCW4LKxswa5n)
+- [campaign overview](https://paper.dropbox.com/doc/Underdark-Underhandedness-ChiGXnq0KQmXRT80U5E52)
+- [bags of holding](https://paper.dropbox.com/doc/Bag-of-Holding-hGxQwKOHsxgVkM1sjQnrX)
+- [dndbeyond campaign](https://www.dndbeyond.com/campaigns/156017)
+
+## Scripts
+Some additional scripts due to conventions herein:
+
+- `./stats.sh` - prints players and their involvement
