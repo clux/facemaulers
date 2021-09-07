@@ -1,4 +1,4 @@
-## Cooking Challenge
+# Cooking
 - **Goal:** make something better than he can. He'll combine a bunch of garbage different than they would, but use psychadelics well.
 - **Reward:** choice of psychadelics. Nature/WIS or Arcana/INT to determine.
 - **Judgement:** Split food amongst both my crew and your companions.
