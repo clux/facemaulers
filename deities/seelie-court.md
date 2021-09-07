@@ -17,3 +17,5 @@ large noused killmoulis, thick ragged wool garment and gossamer armor (shy)
 ## Emmantiensien (emm-ann-tee-enz-ee-an)
 treants. Light reflecting bark. Super high wisdom, but quiet.
 ## Sunwuko - Monkey King
+## Alustriel Silverhand / Elue
+https://forgottenrealms.fandom.com/wiki/Alustriel_Silverhand
