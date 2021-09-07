@@ -30,11 +30,13 @@ Links that players had throughout:
 ## Outline
 Folders dictate regions. Sometimes the folders also coincide entirely with chapters, but in some chapters players move around a lot.
 
-1. Introduction [sunless-citadel](./waterdeep-waterdeep/sunless-citadel.md) -> [waterdeep](./waterdeep) :: EP 1-4
-2. [Underdark](./underdark) :: EP 5-19
-3. Surface -> [Whiteplume](./whiteplume) -> Waterdeep :: EP 20-30
+1. Introduction for [Sunless Citadel](./waterdeep/sunless-citadel.md) :: EP 1-4
+2. Segued [Into the Abyss](./underdark) :: EP 4-19
+3. Escape, [Whiteplume](./whiteplume), and [Civilization](./waterdeep/waterdeep.md) :: EP 20-30
 4. [Seafaring](./seaofbones) on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
 5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [north](./north) :: EP 45-56
 6. The subjugate [giants](./spine) and undead opposition :: EP 57-81
 7. Following the Undead Trail [East](./east) and [getting help](./factions/silver-helix.md) :: EP 82-105
 8. Into the Shadowfell to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
+
+In general, the [recaps folder](./recaps) is going to be the best bet to get a chronological feel.
