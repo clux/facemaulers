@@ -1,4 +1,4 @@
-## Painting
+# Painting
 
 particular oil (unique ratio per pigment, unique grind proportions)
 need correct oil for each pigment for best mix (most vibrancy)

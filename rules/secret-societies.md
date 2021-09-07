@@ -1,4 +1,4 @@
-## Secret Societies
+# Secret Societies
 Things to consider with compelling thieves guilds / secret societies.
 1. **Membership** - Identify a need that is not being met. Your group needs something, but it is withheld. Substances / Gold / Political Sway. Once goals are attained, the new goals grow and morph. Member base might change.
 2. **Organisation** - How does a person become a leader among these aggrieved members? What qualifications did they have, how did it shape the group? Is he radical?
@@ -9,7 +9,7 @@ Things to consider with compelling thieves guilds / secret societies.
 Examples from Chinese/Russian history:
 https://old.reddit.com/r/DnDBehindTheScreen/comments/itjn7p/stranger_than_fiction_ii_thieves_guilds_and_the/
 
-### Triads
+## Triads
 Based in local identities within China. Groups of people originating in the same area, but living in a new one. Diaspora.
 Poorest people usually. A helping system for people to stay afloat in a new location.
 Might work for leaders of both sides of official rule, and offer dirty contracts on behalf of Chinese rulers.
@@ -18,7 +18,7 @@ Secrecy forced on the organisation.
 Unregulated, because all underhand deals.
 The people are loyal to the people in the group, not where they live, so are open to a lot.
 Tension; serve your people in strange lands, but you are taken over by the rich and powerful who have no reason to support you.
-### The Literary Society (1911 Revolution)
+## The Literary Society (1911 Revolution)
 Few human rights, emperialism feeding on China.
 New group pushing for a revolution and a democratic government.
 In the past revolutionary propagandists and organisation tried to recruit military into their plots by pitching directly to recruits. Soldiers generaly could not join revolutionary organisations in a safe way, so they made their own.
@@ -31,7 +31,7 @@ Their leader; guy that was going to be executed for being in a revolutionary gro
 Secrecy meant they had no friends, didn’t know who to contact, didn’t know who to trust, so they ended up trusting a guy who did not want to be there.
 By the time real revolutionary leaders who had been trying to start this revolution for decades showed up, the revolution was full of bandwagoners.
 Once it was time to move beyond the small, secret group phase, their organization and beliefs worked against them. They believed, pretty earnestly, that all these people jumping on the bandwagon must be revolutionaries coming from their own secret groups, or at least have been converted to the idea of overthrowing the Emperor. As they found, some of their allies were generally behind overthrowing the throne, but only so they could take it themselves.
-### The Communist International
+## The Communist International
 Funded by Lenin; international alliance of Communist parties.
 Feared that the communist experiment in the USSR would not last and Russia would be torn apart; they needed friends.
 Tried to train, arm, guide other Communist partiet hoping they could turn into Soviet allies.
@@ -52,7 +52,7 @@ Backfired. Parties also felt a lack of cohesive movement from ComIntern.
 Parties couldn't trust advice and leadership when decisions were shrouded in mystery.
 Parties were not part of the decision making process, and they were not sure who were benefitting.
 
-### Pirates
-### Cartel / Mafia
+## Pirates
+## Cartel / Mafia
 Cause people to be indebted to you and force them to work for you. Geas?
 Not state sponsored. But organised crime. TODO: why not cracked down on?

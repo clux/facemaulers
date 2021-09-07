@@ -10,6 +10,7 @@ http://www.darkplane.com/news/2017/1/29/arcane-tradition-chronomancy-with-spells
 https://creativerogues.tumblr.com/post/185107737429/a-chronomancers-guide-chronomancy-spells-ideas (some on dunamancy)
 https://dota2.fandom.com/wiki/Faceless_Void#Abilities
 https://criticalrole.fandom.com/wiki/Tether_Essence
+Critical Role Graviturgy (didn't really use this though)
 
 ## Location
 - Spellbook well hidden in Sphinx past lair in [[grundsgryn]]
