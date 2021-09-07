@@ -1,6 +1,7 @@
 # Orcus
 syrgaul + tameraut undead crew (wants to rule the seas)
 
+![](orcus.jpg)
 ## Undying Soul Attack
 Attacked by [[undying-soul]] in a rapid mage attack.
 Boat now floating in the sea.
