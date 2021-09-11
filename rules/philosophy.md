@@ -29,8 +29,6 @@ Successes:
 - Belt of Giantkind: https://www.dndbeyond.com/magic-items/2040547-belt-of-giantkind (simple, but very good major boss reward)
 - Book of Exalted Deeds: https://www.dndbeyond.com/magic-items/3001386-book-of-exalted-deeds-goatweaver (ended up with good roleplay setup for GW)
 
-Most worked out OK, but some did slow down the game a bit. (E.g. Stormbow)
-
 Needed work:
 - Extinction: https://www.dndbeyond.com/magic-items/3105572-extinction (what it could absorp was actually not that much)
 - Golden Scourge: https://www.dndbeyond.com/magic-items/2042213-golden-scourge (divine smite arc flail from felgolos, the crit stuff was always going to be better)
