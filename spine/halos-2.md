@@ -60,7 +60,7 @@ She'll be at one of them, retreat if they come. Otherwise they have a chance to 
 Either they all die, and she'll surrender, or she'll surrender if locked down (but will try to revive if possible).
 
 ### Stats
-Neri is a storm giant quintesssent. But uses lightning bow; 2 attacks +14 to hit. 5d8 lightning + 1d8+10 piercing.
+Neri is a storm giant quintessent. But uses lightning bow; 2 attacks +14 to hit. 5d8 lightning + 1d8+10 piercing.
 Alternatively; chain lighting bow action; recharde 5/6 on d6.
 Otherwise same legendary actions as quintescent.
 Can step into ethereal plane while 3 lapus lazuli crystals are in place.

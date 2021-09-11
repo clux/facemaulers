@@ -66,6 +66,7 @@ two large wings - attach wings? 1k gold
 talons, 2, fangs 3, back rows of teeth - back of forearm
 horns and teeth on face guard (moveable)
 
+NB: certain dragons will see his armor as obscene..
 
 ## Future Weavers
 The very friendly Hugweaver

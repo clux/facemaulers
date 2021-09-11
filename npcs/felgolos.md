@@ -44,6 +44,17 @@ His phylactery was not used for the summoning (rejected, not unified enough).
 Technically, he will re-forge into a dracolich body again in SOME TIME.
 Maybe they can use their bone collection...
 
+## Dracolich Stats
+16d10 LG ~(80-100dmg)
+No charm/frighten/paralyze/poison/exhaustion.
+Immune PoisonFire
+Res Necrotic. Leg Res on top? Maybe not. 450HP, 20AC. Movement zero.
+Adv Magic Effect Saves.
+DC21 DEX vs 16d10 LG || **Sleep until hit**.
+Attacks: 1 bite (+14 2d10+8), 2 claws (+14 2d6+8) || breath.
+
+ended up with something like 600hp..
+
 ## Gilgrin Start Place
 Rests in the middle of the lava pit, covers large sprawling surface, tail, in the lava / across closed lava acqueduct.
 

@@ -2,6 +2,7 @@
 ## item homebrew liberally
 fun complexity in pathfinder, choosing items (armor not just one stat)
 there's also armor properties in Grit and Glory v6
+consider having things in `heirloom` variety (something for specific players)
 ### armor
 - mastercraft (+1) / dwarvencrafted (+1 with res bludge) / elvencrafted (+1 with pierce res)
 - maybe intimidation / charisma bonuses

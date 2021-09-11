@@ -207,13 +207,7 @@ Will target for a while, but if nothing happen dragon will claw up north.
 Fight until it's scary.
 
 ##### Dragon
-16d10 LG ~(80-100dmg)
-No charm/frighten/paralyze/poison/exhaustion.
-Immune PoisonFire
-Res Necrotic. Leg Res on top? Maybe not. 450HP, 20AC. Movement zero.
-Adv Magic Effect Saves.
-DC21 DEX vs 16d10 LG || **Sleep until hit**.
-Attacks: 1 bite (+14 2d10+8), 2 claws (+14 2d6+8) || breath.
+Stats in [[felgolos]] dracolich section.
 
 Breaths on command (always initiative under Arklem)
 If they kill him. There will be a diamond at the center of skull.
