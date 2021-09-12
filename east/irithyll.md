@@ -5,6 +5,8 @@ Inhabitants are ancient undead. Vampire society in control. Hags in the sewers w
 
 ![](irithyll.jpg)
 
+Actually two cities crashed into each other. North parth is an old Netherese city.
+
 ## Scrying
 Size of Irithyll is in population similar to Luskan, but more compact (vertical).
 - tall zombies and grotesque skeletal mutations
