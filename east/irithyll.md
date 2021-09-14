@@ -262,6 +262,10 @@ Can spot takeover parallel by Zuggtmoy. Plus [[koth]]'s domain.
 
 
 ## Rejected
+### DS3 Themed Mobs
+Some good stats came up for these later
+https://www.reddit.com/r/UnearthedArcana/comments/pmre7k/dark_souls_3_compendium_5e_invaders_of_irithyll/
+
 ### Vampire Vegetarian Plot
 Celerom wants to reform them into vegetarians. But they are old fashioned. One will not change at all, but the younger ones MIGHT. The king COULD betray them and destroy the charm from Celerom to force them out.
 
