@@ -15,6 +15,8 @@ But now he has all the power he needs with the Egg and Liches in allegiance(?)
 Arklem doesn't want to be found - anti-scry ritual.
 
 ## Development
+- Originally granted Lichhood by [[orcus]] 666 years ago
+- Helped [[kiaransalee]] defeat [[orcus]] 530 y ago. Buts saw the power of his Wand.
 - Made a deal with Mephisto to help summon demon lords
 - Got his son Malexis to guard and help with demon summoning
 - Took out [[orcus]]' ship, killed Orcus with a hit squad, got his Wand, crashed ship?
@@ -137,6 +139,7 @@ We would like to restore the city to its former position as the prime trading ou
 [arcane-brotherhood]: ../factions/arcane-brotherhood "Arcane Brotherhood"
 [undying-soul]: ../factions/undying-soul "Undying Soul"
 [orcus]: ../deities/orcus "Orcus"
+[kiaransalee]: ../deities/kiaransalee "Kiaransalee"
 [112-tesserect]: ../recaps/112-tesserect "112-tesserect"
 [119-felgolos-reborn]: ../recaps/119-felgolos-reborn "119-felgolos-reborn"
 [felgolos]: felgolos "Felgolos"
@@ -144,7 +147,6 @@ We would like to restore the city to its former position as the prime trading ou
 [malexis]: malexis "Malexis"
 [celerom]: celerom "Celerum"
 [irithyll]: ../east/irithyll "Irithyll"
-[kiaransalee]: ../deities/kiaransalee "Kiaransalee"
 [velddrinnsshar]: ../east/velddrinnsshar "V'elddrinnsshar"
 [path-of-suffering]: ../east/path-of-suffering "Path of Suffering"
 [koth]: koth "Koth M'gog"

@@ -1,6 +1,8 @@
 # Epilogue
 
 maybe tie in [[gifts]]
+evangelion outro music: https://www.youtube.com/watch?v=f3ezPaYSnQQ
+
 ## Mordai
 [[mordai]] (under endgame) last visit by [[dahaka]].
 patron clearup.
