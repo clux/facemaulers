@@ -17,7 +17,7 @@ NB: players never went here, never fleshed it out more than what's in this doc
 ## Kiaransalee Destruction Scene
 They will guaranteed scry on [[kiaransalee]]. Here's the cutscene:
 
-- Your vision is taken toward an immaculate looking young elf. Long flowing white hair, silk woven dress, dark skin, and wielding a large staff.
+- Your vision is taken toward an immaculate looking female elf. Long flowing white hair, silk woven dress, starkly contrasting dark skin, and wielding a large staff.
 - You only fixate on her for a second a she points her staff up in an eastern direction
 - and as you adjust your eyes, you see 5-10-20 a large number of other female drow with a variety of different adornments / armor / weapons at the ready
 - some are charging in, others are retreating
@@ -32,29 +32,39 @@ They will guaranteed scry on [[kiaransalee]]. Here's the cutscene:
 - 1s into the channelling she turns her hands, both palms facing openly towards the drow as this enormous cone of green wretched energy pulsate over the battlefield
 - seconds pass before you get another glimpse.
 - you see a the sinking form of a giant spider, the humanoid shape previously attached now sinking into the ground on the side, in what looks like a pool of acid
-- a large part of the drow army lies fallen, the previously beautiful white silk dress on the high ranking drow, corroded away, and wounds visible on her naked flesh below.
-- "i am the matron Quenthil Baenrae, and you are in treading upon the domain of the Araushnee, Queen of Spiders (add titles here)..."
+- a large part of the drow army lies fallen, the previously beautiful white silk dress on the high ranking drow, corroded away, as still corroding acid coat parts of her her naked flesh.
+- **strained** "i am the matron Quenthil Baenrae, and you are treading upon the domain of the Araushnee, the Weaver of Destiny, the Fleshcarver, the Queen of Spiders"
 - "your actions will have consequences"
-- the matron mother starts summoning a yochlol while you see a flash of white
+- the matron mother starts summoning a yochlol (demonic yellow ooze creature with a giant eye) appaers from a huge transluscent and disembodied eye that suddenly scans the battlefield. as this quickly completes you see a flash of white from kiaransalee.
 - Irae arrogant voice: "I look upon your pathetic little faces, cowering as my minions merely pass through your city..."
 - (for the first time you vision gets to scan the city for a few seconds, drow, clearly, but not one you've seen)
-- (giant cave system with a huge gash running straight through the city, large fallen towers, and huge talon shaped footmarks(DEMOGORGON) from a creature at least ??ft tall)
+- (giant cave system with a huge gash running straight through the city, large fallen towers, and huge talon shaped footmarks(DEMOGORGON) from a creature at least 20ft tall)
 - Irae: "tell me; how much did Araushnee help when the prince of demons said hello? how many of your houses fell to a single creature"
-- Irae: "face it, your backstabbing leader uses you like puppets tell your innocent to lay down their weapons and at least THEY will be spared"
+- Irae: "face it, your backstabbing leader uses you like puppets. tell your citizens to lay down their weapons and at least THEY will be spared"
 TODO: lolth takeover to indicate lolth subplot?
 - Quenthil: "I will never do your dirty work for you, you traitorous." YOOOCCHHLOOOL
 - improv: as scythes come out, slashes through yochlol with ease
 - improv: slow movement up to her // blink into high level Blight touch? as she nears death? maybe modify memory.
 - Irae: "if you are willing to sacrifice a city for your misguided deity, then you will be the first to suffer."
-- describe extremely violent scene: blight necroticing arms, legs, just a torso left with a head left, a floating needle comes out, sowing the mouth of the matron shut.
-- then force carry her with hold person concentration as she scythes through the remaining warriors: showcase scythe badass slash
+- describe extremely violent scene: blight necroticing arms, legs, just a torso left with a head left, a floating black needle comes out, sowing the mouth of the matron shut with mage hand
+- describe force carry her with hold person concentration WHILE she scythes through the remaining warriors: showcase scythe badass slash
 - improv: put down the torso of the matron mother
 - Irae: "this is what your misguided principles get you"
 - improv: slowly drag the scythe up through her torso, guts slowly fall out, keeps dragging, matron passes out, she's healed to stay concious
 - Irae: "sleep well matron baenrae, enjoy the abyss." drags scythe quickly up through her head in a quick black flash, everything is quiet. two skull parts clank off in the distance
 - hear soft crunch as a disfigured, limbless, and headless torso is softly skewered, into a sword on the ground and left there, impaled
-- TODO: end scry?
 
+End of scene:
+- black flash; stoic voice from K
+- "you all make it so grotesque. who are you putting on such a show for."
+- "now we have to wait because of this."
+- "yes, yes. calm down ladies. we will all get our revenge here."
+- "but you know our purpose; we cannot let these innocent go to waste. we will raise them first."
+- "a few thousand souls, minute to cast, best make ourselves comfortable for a little while"
+- "but then we kill two birds in one stone in from Evernight to Neverwinter."
+
+
+- maybe turn her into an undead drider
 ## NPCs
 - [[silth]]
 - Tortured drow – nothing left but their ambition.
