@@ -92,7 +92,8 @@ TODO:
     - seed silth in city? can maybe dissuade from fighting there..
     - maybe kiaransalee needs to power up in cities every now and then, so can't immediately teleport again... IF SO SEED IT IN MENZO
 
-- [[gregor]] final... can we raise the stakes here? READ THEIR NOTES TO FIND STUFF...
+DONE:
+- [[gregor]] final (he's actually not evil, he's just a bit of a breaking bad character now)
 
 Players:
 - Florent
