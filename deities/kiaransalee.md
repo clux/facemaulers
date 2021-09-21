@@ -65,7 +65,7 @@ Strengths:
 - Physical immunity
 
 Weakness:
-- Fire Spells (many in Wand of Orcus)
+- Fire Spells (one big in Wand of Orcus)
 
 Form triggers:
 - Magic: Dark Magic / Shadow / Darkness
@@ -128,7 +128,7 @@ Clerics?
 
 Acropolis
  * Acropolis; soul of felgolos can be used (tear at it / use it as a focus) if they extract it
- * Acropolis; larloch's ring can be used. casts something that will trigger his phase
+ * Acropolis; larloch's ring can be used. casts something that will trigger his phase (Darkness)
 
 - Faey/GW: larloch / valindra items to help draw them out
 

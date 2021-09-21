@@ -55,7 +55,7 @@ TODO: lolth takeover to indicate lolth subplot?
 - hear soft crunch as a disfigured, limbless, and headless torso is softly skewered, into a sword on the ground and left there, impaled
 
 End of scene:
-- black flash; stoic voice from K
+- purple flash; stoic voice from K
 - "you all make it so grotesque. who are you putting on such a show for."
 - "now we have to wait because of this."
 - "yes, yes. calm down ladies. we will all get our revenge here."

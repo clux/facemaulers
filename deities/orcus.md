@@ -60,6 +60,9 @@ Staff wants new owners, and wants to retaliate against Arklem
 - LAST WORD CORRECT USE: "Against an avatar of a Deity, your troubles are smaller. You must catch them off-guard after weakening them, and you will bypass their rematerialization."
 - ARKLEM backstab: "He brought Orcus to the Prime Material, but we were ambushed by his pathetic lich followers. They used every dirty trick in the book, and held me in some magic field to keep me here while banishing Orcus' avatar from the prime material. No big setback. But I do regret not seeing Arklem being killed. I would have enjoyed tormenting him."
 
+### Desperation
+- "We are on the same page, you and I." (failed)
+
 ### Contract
 Return me to the blood lord in 7 days. How?
 
