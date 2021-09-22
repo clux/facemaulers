@@ -175,7 +175,7 @@ Teleport the acropolis, 2 days out from NW, slowly float it towards NW.
 Why? Valindra is part of her. Tons of dead there to raise. Outside to avoid fortresses / trap spells.
 
 Raise dead in the area:
-- Greycloaks galore
+- Graycloaks galore
 - Zaehesh
 - Flaming Fist champions
 - Legion of Banshee Knights (TODO: stats?)

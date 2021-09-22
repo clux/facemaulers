@@ -18,7 +18,7 @@ Huge group of them blasted by fireball from the castle walls.
 Vlooris is the robed guy.
 
 (Drow members definitely all know about them know because of all the rucous in Waterdeep).
-Also notorious with the Greycloaks + Bragan. Bonsir leads the militia there (also with ship rethnor)
+Also notorious with the Graycloaks + Bragan. Bonsir leads the militia there (also with ship rethnor)
 
 ## History
 City was attacked repeatedly by orcs. They took over recently, but 50y ago a mercenary army from WDeep cleared the ruins. Rebuilt it with help of Neverwinter. Then renamed to Luskan.

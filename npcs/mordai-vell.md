@@ -1,5 +1,5 @@
 # Mordai Vell
-Rich noble warlock in [[neverwinter]] using the Greycloaks as his personal army for money. Warlock whose patron is [[koth]]. Uses the shadowfell's influence to summon undead and can be in good contact with [[koth]] as such.
+Rich noble warlock in [[neverwinter]] using the Graycloaks as his personal army for money. Warlock whose patron is [[koth]]. Uses the shadowfell's influence to summon undead and can be in good contact with [[koth]] as such.
 Killed [[goatweaver]] once.
 **DISEASED**
 
@@ -63,7 +63,7 @@ Synaptic Static if things are hard.
 Use luck to maintain concentration.
 Maddening Darkness + ForceCage as well good.
 If too hard. Kill one, then Soul Cage the creature and Dimension Door out.
-It's probably better to fight him with support from the Grey Cloaks and Galeron.
+It's probably better to fight him with support from the Graycloaks and Galeron.
 
 ## Received messages
 Good news below. The gate from Morglon 'Dar holds. The Prince of Demons is unleashed. Smaller outposts have succumbed to his rule by presence alone, others will fall by force.
