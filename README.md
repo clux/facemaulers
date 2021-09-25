@@ -35,3 +35,6 @@ Resources maintained by players:
 Some additional scripts due to conventions herein:
 
 - `./stats.sh` - prints players and their involvement
+
+## Music
+Runs on ~~Rhythm~~ [jmusicbot](https://github.com/jagrosh/MusicBot) on a [private discord app](https://discord.com/developers/applications/890319108846006333).

@@ -22,7 +22,9 @@ judge jury executioner of council(building name?) in neverwinter
 maybe a farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
 
 ### Waterdeep
-[[gregor]]..
+[[gregor]], they kind of saved him. it's probably best if his ending is left vague.
+he's both mad and somehow thankful (but he doesn't even know where the rubies came from).
+meeting the party would be weird, he's got mostly anger towards them.
 
 ### Neverwinter
 Soulcage for Raffolk found?
