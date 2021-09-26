@@ -30,15 +30,19 @@ TODO: iz/raffolk soul cage tie in? [[epilogue]]?
 ## Stage 3: Desperation
 Link between shadowfell breaks. Arrogance fades.
 Final desperate gambit / boom or bust choice (that might kill people?) -> last chance to win.
-Plot & BBEG merge. => Liches left?
+Plot & BBEG merge
+=> Irae tries to be the main face of Kiaransalee and speak as one
+=> White face stuck (cannot switch)
+=> However, heavy penalties to her if plot subversion as even she cannot control a god
+subversion: angering other 2 / or something else plot related? / sunset warrior attacks?
 
 
-
-### Stage 1
-Going from Choke-Point -> Killing Fields () ?
-Could do attack/defend but done that before. This should be test of mastery. She can port anyway.
-
+## Terrain
 Vertical terrain: castle walls; smaller houses
+
+## Denouement
+Emotional Releases. [[epilogue]] lead ins.
+
 
 ## Raised Undead battle Graycloaks
 
