@@ -21,6 +21,9 @@ Ask. Kavaki end? Die and travel with Kavaki?
 judge jury executioner of council(building name?) in neverwinter
 maybe a farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
 
+he has put a serious target on himself with the wand of orcus if he's unwilling to relinquish it.
+
+
 ### Waterdeep
 [[gregor]], they kind of saved him. it's probably best if his ending is left vague.
 he's both mad and somehow thankful (but he doesn't even know where the rubies came from).

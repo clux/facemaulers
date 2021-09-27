@@ -2,18 +2,30 @@
 see [[kiaransalee]] + [[irae]].
 re-read session omega
 fight styles highlighted from from [[dungeon-design]]
+
+## music
+### Orchestral Battle Music from Fullmetal Alchemist: Brotherhood
+https://www.youtube.com/watch?v=VnTDYqbgxL0 (sounds good)
+### Bleach Battle Music (Shiro Sagisu)
+https://www.youtube.com/watch?v=inqfVpkhI94 (maybe not, bit eclectic)
+### Epic Battle Themes from Evangelion (Rebuild Edition)
+https://www.youtube.com/watch?v=KepiAite1hY (think this works..)
+
+### Potential Innocent Start
+See darkness form on the horizon. If they scry they can see her out on the farmlands:
+slow, but large strides beneath sees a little curious girl on the outskirt farms.
+"how would you like to live forever?"
+**flesh tearing off in space of 10s**
+small skeleton child, blue glowing eyes
+
 ## Stage 1: Arrogant Arrival
 initial attack through **choke point**
 but then
 teleport within castle walls while skeletons attack
 acid breath down a whole wall
 -> **killing fields** fight
-
-### Potential Innocent Start
-She arrives, sees a little curious girl on the outskirt farms.
-"how would you like to live forever?"
-**flesh tearing off in space of 10s**
-small skeleton child, blue glowing eyes
+as she teleports inside she can run a DC20 CON save vs 50 necro dmg in area (if dead from this -> raise -> 10 graycloaks)
+they can hide behind buildings in this stage, use the terrain
 
 ## Stage 2: Transformation
 She blurs the line between the shadowfell and the prime material.
@@ -24,6 +36,7 @@ Terrible creatures come in from the graveyard/tower in a way that overwhelms the
 Adds a **fog of war** (reduces sight) to increase tension.
 
 Maybe mages can come help at this point.
+If they hide too much here; intorduce "The Lonely" add a soft
 
 TODO: iz/raffolk soul cage tie in? [[epilogue]]?
 
@@ -32,13 +45,19 @@ Link between shadowfell breaks. Arrogance fades.
 Final desperate gambit / boom or bust choice (that might kill people?) -> last chance to win.
 Plot & BBEG merge
 => Irae tries to be the main face of Kiaransalee and speak as one
-=> White face stuck (cannot switch)
+=> White face stuck (cannot switch, but has health?)
 => However, heavy penalties to her if plot subversion as even she cannot control a god
 subversion: angering other 2 / or something else plot related? / sunset warrior attacks?
+
+COULD have this be a cataclysmic event and they would have to battle through the city
+recover allies, final inspirations
+find mages at the bottom of halls of justice as they finish off undead allies
+
 
 
 ## Terrain
 Vertical terrain: castle walls; smaller houses
+Lava river in stage 2... can be diverted
 
 ## Denouement
 Emotional Releases. [[epilogue]] lead ins.

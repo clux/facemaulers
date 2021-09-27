@@ -34,19 +34,17 @@ NOTES:
 - Larloch's Ring: Cast Darkness (1 action) No attunement. No one got it.
 - faey usese irae's cloak (flight / greater invis)
 - internal conflict: "is it something one of them likes and one dislikes?" <- remind them of it
-- Diana is scrying on Menzo
+- Diana is scrying on Menzo (she will see that summoning is getting done || she's gone)
 
 TODO:
 - [[kiaransalee]] stats remember properly
-- penalize GW for being in direct violation of the Wand of Orcus SOMEHOW?
-  * maybe it makes sense.. Arklem also misused the Wand -> if so justify it
-  * maybe limit the resurrection?
-  * tempt him with the last word...
-- final plot seeds
+- final plot seeds (start fighting early, no point wasting time here)
 - seed boss fight setup in Neverwinter MAKE IT FUN
 
 NB: music replacement in [[music]]
-
+REMEMBER:
+- seed mordai's green EB
+- gw's temptation from wand of [[orcus]] (he won't get the last word now)
 
 Players:
 - Florent
