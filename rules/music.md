@@ -1,5 +1,14 @@
 # Music
 
+## Playing
+Replacing `rhythm`: https://github.com/jagrosh/MusicBot (pushed a docker build on my docker hub)
+
+```sh
+z musicbot
+pass broxy/discord-jmusicbot > config.txt
+docker run -v $PWD/config.txt:/app/config.txt --name jmusicbot -t clux/jmusicbot:latest
+```
+
 ## Relaxing
 ### RPG Playlist - Peaceful/Travel Music
 https://www.youtube.com/watch?v=A8qMyBWZNw0
