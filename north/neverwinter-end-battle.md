@@ -4,12 +4,19 @@ re-read session omega
 fight styles highlighted from from [[dungeon-design]]
 
 ## music
-### Orchestral Battle Music from Fullmetal Alchemist: Brotherhood
-https://www.youtube.com/watch?v=VnTDYqbgxL0 (sounds good)
-### Bleach Battle Music (Shiro Sagisu)
-https://www.youtube.com/watch?v=inqfVpkhI94 (maybe not, bit eclectic)
+### Hollow Knight • Relaxing Music with Ambiance (Rain, Fire, Night, Snow)
+https://www.youtube.com/watch?v=mYEA5A0Bjyo - setup 2h
 ### Epic Battle Themes from Evangelion (Rebuild Edition)
-https://www.youtube.com/watch?v=KepiAite1hY (think this works..)
+https://www.youtube.com/watch?v=KepiAite1hY - stage 1 22min !queue it a few times
+### Demon's Souls Remake OST - Flamelurker Boss Theme
+https://www.youtube.com/watch?v=XTja6y_cfRc - extended, good stage 2
+
+
+### Orchestral Battle Music from Fullmetal Alchemist: Brotherhood
+https://www.youtube.com/watch?v=VnTDYqbgxL0 - sounds good, stage 3
+
+fallback s3: bland
+https://www.youtube.com/watch?v=dh7nTM6D-GU ds3 alonne (used for demogorgon)
 
 ### Potential Innocent Start
 See darkness form on the horizon. If they scry they can see her out on the farmlands:
@@ -17,15 +24,38 @@ slow, but large strides beneath sees a little curious girl on the outskirt farms
 "how would you like to live forever?"
 **flesh tearing off in space of 10s**
 small skeleton child, blue glowing eyes
+porting in undead? into timestop buff them?
+
+#### Speech?
+Why are we here.. You have seen our work, how we can make you live forever.
+how we free society from the oppression of finality
+and yet you; continue to protect these weak people.
+
+you have stood against our forces for long enough that there is no need to be under any illusions here; you will pay for all you have killed along the way.
+you will be a footnote in history books; what happens to those who oppose progress. perhaps we'll open an attraction at thanatos with you in it. you would serve as quite the deterrent for other aspiring rebels.
+anyway, enough talk. it's time to disperse the contents of your entrails across this city.
 
 ## Stage 1: Arrogant Arrival
 initial attack through **choke point**
-but then
+let them get some hits in, but it can be Larloch's shape (immune to physical)
+
 teleport within castle walls while skeletons attack
 acid breath down a whole wall
 -> **killing fields** fight
 as she teleports inside she can run a DC20 CON save vs 50 necro dmg in area (if dead from this -> raise -> 10 graycloaks)
 they can hide behind buildings in this stage, use the terrain
+
+Mobs:
+- 1x Nerfed Devkarin Lich as a Undead Matron Mother
+- 1x Skeletal Owlbear
+- 2x Undead Drow archer/swordsman (drider base)
+- 1x sword wraith commander (drow favoured consort)
+- 30x snow maiden (ghostly drow)
+
+Friendlies:
+- Galeron (Champion)
+- Diana/Ursula
+NB: all of these have to doge K due to her gaze.
 
 ## Stage 2: Transformation
 She blurs the line between the shadowfell and the prime material.
@@ -37,8 +67,6 @@ Adds a **fog of war** (reduces sight) to increase tension.
 
 Maybe mages can come help at this point.
 If they hide too much here; intorduce "The Lonely" add a soft
-
-TODO: iz/raffolk soul cage tie in? [[epilogue]]?
 
 ## Stage 3: Desperation
 Link between shadowfell breaks. Arrogance fades.
@@ -52,8 +80,7 @@ subversion: angering other 2 / or something else plot related? / sunset warrior 
 COULD have this be a cataclysmic event and they would have to battle through the city
 recover allies, final inspirations
 find mages at the bottom of halls of justice as they finish off undead allies
-
-
+quick potions delivered (heroism to improve to hit, 3 potions of superior heal)
 
 ## Terrain
 Vertical terrain: castle walls; smaller houses

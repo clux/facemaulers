@@ -9,6 +9,7 @@ So will move on feelings based interaction with something relevant to Xial.
 - [[39-sinking-octopus]] Iz gets to tatalk
 - [[43-shipnanigans]] GOO dream
 - [[46-neverwinter-redshirt]] Depart ocean, and let [[gwyn]] loose
+- [[48-fireforge]] Soul Cages Raffolk when he dies
 - [[49-crusher]] Enslaved by aboleth [[koth]] in [[castle-never]]
 - Lives months in the shadowfell with [[zed]], wakes up every day in eggs in [[castle-nowhere]]
 - [[50-nowhere]] Is "rescued" by party. Ultimately tries to betray them. Iz slayed.
@@ -73,6 +74,7 @@ Light emanate from all of them, and you feel your body lift.
 [43-shipnanigans]: ../recaps/43-shipnanigans "43-shipnanigans"
 [46-neverwinter-redshirt]: ../recaps/46-neverwinter-redshirt "46-neverwinter-redshirt"
 [gwyn]: ../npcs/gwyn "Gwyn"
+[48-fireforge]: ../recaps/48-fireforge "48-fireforge"
 [49-crusher]: ../recaps/49-crusher "49-crusher"
 [koth]: ../npcs/koth "Koth M'gog"
 [castle-never]: ../north/castle-never "Castle Never"

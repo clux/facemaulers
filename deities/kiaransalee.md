@@ -75,10 +75,12 @@ Form triggers:
 ### Green / Valindra
 Dark sickening laugh. Science nerd. Talks about draconic bearers of vengeance.
 
-Actions:
+Actions: (most one per turn)
 - Range Cone attack. DC27 DEX vs. Acid 90ft cone 18d8. (recharge 5/6) (cant have LG if trigger is LG)
-- Regen: 50hp
-- Summon Simulacrum roll for player. (No items, half HP).
+- Regen: 40hp
+- Dimension Door -> Bite attack: +15 2d10+8 piercing + 2d8 acid
+- Claws: +15 2d6+8 slashing
+- Summon Simulacrum roll for player. (No items, half HP) - maybe once..
 
 Strengths:
 - Magic immunity (non-physical damage types)

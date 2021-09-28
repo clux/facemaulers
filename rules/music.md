@@ -9,6 +9,8 @@ pass broxy/discord-jmusicbot > config.txt
 docker run -v $PWD/config.txt:/app/config.txt --name jmusicbot -t clux/jmusicbot:latest
 ```
 
+unfortunately [you can't seek atm](https://github.com/jagrosh/MusicBot/issues/469) pull 674 working on it
+
 ## Relaxing
 ### RPG Playlist - Peaceful/Travel Music
 https://www.youtube.com/watch?v=A8qMyBWZNw0
