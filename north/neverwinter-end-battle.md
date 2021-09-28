@@ -41,6 +41,8 @@ initiative: 15+10
 initial attack through **choke point**
 let them get some hits in, but it can be Larloch's shape (immune to physical)
 
+![](neverwinter-map.png)
+
 teleport within castle walls while skeletons attack
 acid breath down a whole wall
 -> **killing fields** fight
@@ -51,7 +53,6 @@ Mobs:
 - 1x Nerfed Devkarin Lich as a Undead Matron Mother
 - 1x Skeletal Owlbear
 - 2x Undead Drow archer/swordsman (drider base)
-- 1x sword wraith commander (drow favoured consort)
 - 30x snow maiden (ghostly drow)
 
 Friendlies:
@@ -67,8 +68,11 @@ Everything darkens, yellow soft glow becoming visible, soft moving sound of the 
 Terrible creatures come in from the graveyard/tower in a way that overwhelms the graycloaks.
 Adds a **fog of war** (reduces sight) to increase tension.
 
-Maybe mages can come help at this point.
-If they hide too much here; intorduce "The Lonely" add a soft
+Maybe mages can come help at this point?
+
+Mobs:
+- If they hide too much here; intorduce "The Lonely" - add a soft desperate cry
+- 1x sword wraith commander (drow favoured consort)
 
 ## Stage 3: Desperation
 Link between shadowfell breaks. Arrogance fades.

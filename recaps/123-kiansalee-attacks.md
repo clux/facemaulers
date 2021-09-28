@@ -38,6 +38,7 @@ NOTES:
 TODO:
 - [[kiaransalee]] stats remember properly
 - finalize HP on kiaransalee. maybe simulate this a bit. AC and DC seems high... account for it.
+- she needs to get to the black wound/halls of justice before starting stage 2
 - account for expent spells / potions... they should be close to stage 2
 - stage 2 lock out larloch? harsh?
 - do helpers arrive before rip into Evernight? [[neverwinter-end-battle]] (ursula cleric)
