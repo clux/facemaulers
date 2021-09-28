@@ -57,18 +57,19 @@ At most 2 AOE/Gaze attacks per round (because unharmonious union).
 Slower voice. Stoic. Talks about restoring the old empire to its former glory.
 
 Abilities:
-- True Sight of Kiaransalee: DC27CON vs 20d8 (95 avg) Necrotic DMG + turn blind? (skipped this) (half dmg save)
+- True Sight of Kiaransalee: DC27CON vs 20d8 (95 avg) Necrotic DMG + turn blind? (skipped this) (half dmg save) 200
 - Tiamat Style Frightful Presence: DC27 WIS vs Frighten
-- Anything else?
+- Misty Step 60ft
+- Circle of Death 8d8 necro (insta raise creaters ho died from it)
 
 Strengths:
-- Physical immunity
+- Physical immunity (resistant if successfully taunted)
 
 Weakness:
 - Fire Spells (one big in Wand of Orcus)
 
 Form triggers:
-- Magic: Dark Magic / Shadow / Darkness
+- Magic: Dark Magic / Shadow / Darkness / Cold
 - Social: Irae's and Arklem's betrayal
 - Mechanical: Lizard remnants / saphires / Behir related / Larloch Ring
 

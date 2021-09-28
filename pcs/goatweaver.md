@@ -108,6 +108,11 @@ speaks giant.
 ## Sabertooth Tiger - Toothweaver
 Instantly destroyed inside the home of the [[skipper]] after summoning it rashly.
 
+## Salamweaver
+cold damage based reskin of salamader
+https://roll20.net/compendium/dnd5e/Salamander
+(cold body, cold weapons, otherwise identical)
+
 ## FUTURE NAMES
 floatweaver
 

@@ -27,13 +27,15 @@ small skeleton child, blue glowing eyes
 porting in undead? into timestop buff them?
 
 #### Speech?
-Why are we here.. You have seen our work, how we can make you live forever.
-how we free society from the oppression of finality
-and yet you; continue to protect these weak people.
+Neverwinter. Some of you have seen our work, we can make you live forever.
+yet some among you have seen this
+seen how we free society from the oppression of finality
+and yet these people; you; continue to protect these weak people.
 
 you have stood against our forces for long enough that there is no need to be under any illusions here; you will pay for all you have killed along the way.
 you will be a footnote in history books; what happens to those who oppose progress. perhaps we'll open an attraction at thanatos with you in it. you would serve as quite the deterrent for other aspiring rebels.
-anyway, enough talk. it's time to disperse the contents of your entrails across this city.
+anyway, enough talk. it's time to destroy this trecherous city, and disperse the contents of your entrails across its ruins.
+initiative: 15+10
 
 ## Stage 1: Arrogant Arrival
 initial attack through **choke point**
