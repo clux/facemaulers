@@ -45,6 +45,10 @@ TODO:
 REMEMBER:
 - music replacement in [[music]] and [[neverwinter-end-battle]] doc
 
+diana + ursula
+https://www.dndbeyond.com/profile/sszynrae/characters/9696877
+https://www.dndbeyond.com/profile/sszynrae/characters/9697604
+
 Players:
 - Florent
 - Guy

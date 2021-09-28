@@ -84,6 +84,8 @@ recover allies, final inspirations
 find mages at the bottom of halls of justice as they finish off undead allies
 quick potions delivered (heroism to improve to hit, 3 potions of superior heal)
 
+![](castle-never-spire.png)
+
 ## Terrain
 Vertical terrain: castle walls; smaller houses
 Lava river in stage 2... can be diverted
