@@ -1,5 +1,5 @@
 116-wizard-gank
-6 July 2021
+13 July 2021
 
 Inquisitor spots you and this starts a battle in the center of velddrinnsshar.
 You try to limit the damage by silencing the inquisitor, but it quickly gets loud.

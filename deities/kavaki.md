@@ -1,6 +1,6 @@
 # Kavaki
 > The Ram Lord
-Domains: Protection, Strength, Travel, War.
+Domains: ~~Protection, Strength, Travel, War~~ Simplicity.
 Druidic-style faith.
 
 ## Patrons

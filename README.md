@@ -1,27 +1,35 @@
 # Campaign 2018-2021
-DM notes and brain organisation of a 3 year D&D campaign.
-Lots of unfinished ideas and clutter, but in general this organisational style was successful.
+DM notes and brain organisation from a 3 year D&D 5e campaign.
 
-## Foam Usage
-We use [foam](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
+## Second Brain
+This repo uses [foam](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
 
-You need to follow the [last steps of foam install](https://foambubble.github.io/foam/#getting-started) to browse effectively (clone repo, open as workspace, install recommended extensions).
+To browse effectively; follow the [last steps of foam install](https://foambubble.github.io/foam/#getting-started) (clone repo, open as workspace, install recommended extensions).
 
-The main feature this gives is the ability to [follow markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links)
+The main feature this gives is the ability to [follow markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) effectively.
 
 ## Organisation
-Folders generally specify regions. Sometimes the folders also coincide entirely with chapters, but in some chapters players move around a lot.
+Folders generally specify regions, these sometimes coincide entirely with chapters of the campaign, but often not due to the amount of quick teleports between them.
 
-1. Introduction for [Sunless Citadel](./waterdeep/sunless-citadel.md) :: EP 1-4
-2. Segued [Into the Abyss](./underdark) :: EP 4-19
-3. Escape, [Whiteplume](./whiteplume), and [Civilization](./waterdeep/waterdeep.md) :: EP 20-30
+### Chapters and content folders
+
+1. Introduction & [The Sunless Citadel](./waterdeep/sunless-citadel.md) :: EP 1-4
+2. [Into the Abyss](./underdark) segue :: EP 4-19
+3. Escape, [Whiteplume](./whiteplume), and [Waterdeep](./waterdeep/waterdeep.md) :: EP 20-30
 4. [Seafaring](./seaofbones) on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
 5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [north](./north) :: EP 45-56
-6. The subjugate [giants](./spine) and undead opposition :: EP 57-81
-7. Following the Undead Trail [East](./east) and [getting help](./factions/silver-helix.md) :: EP 82-105
+6. [Corrupted giants](./spine) in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
+7. The undead trail [East](./east) with [help](./factions/silver-helix.md) :: EP 82-105
 8. Into the Shadowfell to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
 
-In general, the [recaps folder](./recaps) is going to be the best bet to get a chronological feel.
+### Special folders
+
+- [pcs](./pcs) :: players characters
+- [npcs](./npcs) :: important non-player-characters
+- [deities](./deities) :: significant members of the [pantheon](./deities/pantheon.md)
+- [factions](./factions) :: significant groups of characters and their properties
+- [rules](./rules) :: general dump folder for inspiration / homebrew / politics / philosophy (partly used)
+- [recaps](./recaps) :: a chronological trail with one dm's summary per session
 
 ## Player Resources
 Resources maintained by players:

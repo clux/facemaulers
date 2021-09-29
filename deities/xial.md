@@ -1,6 +1,6 @@
 # Xial
 
-Great old one. Basically a re-skinned [Yog-Sothoth](https://lovecraft.fandom.com/wiki/Yog-Sothoth)
+Great old one. Basically a re-skinned [Yog-Sothoth](https://lovecraft.fandom.com/wiki/Yog-Sothoth).
 Shrine found on the Emperor of the Waves in [[38-iz-ship]].
 
 ## Motivation

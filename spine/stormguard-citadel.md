@@ -1,7 +1,7 @@
-# Stormguard
-Giants home Citadel.
+# Stormguard Citadel
+Giants' home at the Spine of the World.
 3 paths in! Behir + Basilisk cave, quintessent mountain scaling (crazy), or through hill giant hotel.
-^ shut down the alternate path up by mentioning the dragon.
+(alternate path got shut down by mentioning the dragon)
 
 ## Motivation
 Irae has taken control of [[umnos]] via [[koth]]'s mind control powers. She is using the energy in the portals to control the demon lords.
