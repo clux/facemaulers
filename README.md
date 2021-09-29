@@ -17,10 +17,10 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 2. [Into the Abyss](./underdark) segue :: EP 4-19
 3. Escape, [Whiteplume](./whiteplume), and [Waterdeep](./waterdeep/waterdeep.md) :: EP 20-30
 4. [Seafaring](./seaofbones) on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
-5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [north](./north) :: EP 45-56
+5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [North](./north) :: EP 45-56
 6. [Corrupted giants](./spine) in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
-7. The undead trail [East](./east) with [help](./factions/silver-helix.md) :: EP 82-105
-8. Into the Shadowfell to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
+7. The [undead](./factions/undying-soul.md) trail [East](./east) with [Helical help](./factions/silver-helix.md) :: EP 82-105
+8. Into the [Shadowfell](./planar/shadowfell.md) to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
 
 ### Special folders
 
