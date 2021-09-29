@@ -1,5 +1,6 @@
 # Undying Soul
 Faction that worships [[kiaransalee]].
+The [unambiguously evil faction](https://www.youtube.com/watch?v=cTp9SdpcvF8).
 
 ## Rumors/Lines
 - "the undying soul changes everything" (liches doomed before, but now, can self-sustain)
