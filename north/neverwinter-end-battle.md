@@ -66,9 +66,9 @@ NB: This is using a lot of energy, so if she takes a lot of HP here it breaks.
 Everything darkens, yellow soft glow becoming visible, soft moving sound of the neverwinter river fades, and your ears start picking up deeper rumbling sound instead.
 
 Terrible creatures come in from the graveyard/tower in a way that overwhelms the graycloaks.
-Adds a **fog of war** (reduces sight) to increase tension.
+Adds a **fog of war** (reduces sight around her 100ft) to increase tension (faey struggles vs valindra anyway)
 
-Maybe mages can come help at this point?
+Stage happens from ![](neverwinter-halls-tower.jpg) and tears into ![](evernight-black-wound.jpg)
 
 Mobs:
 - If they hide too much here; intorduce "The Lonely" - add a soft desperate cry

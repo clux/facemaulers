@@ -35,16 +35,21 @@ NOTES:
 - gw's wand of [[orcus]] can have chaos consequences if he fails to intimidate it
 
 [[kiaransalee]] main points from [[neverwinter-end-battle]] simulation:
-- **valindra tankiest** (radiant immunity, high ac) SO:
+- **valindra tankiest** (radiant immunity, high ac) SO
   * K: disadv on saves + reduce immunity -> resistance if she's triggered
   * faey: adv to hit vs valindra if she's triggered (communicate it)
   * K_v: nail attack vs faey (for deflect potential)
-- **irae strongest** (hugh dmg output from 4 scythes pr)
+- **irae strongest glass cannon** (hugh dmg output from 4 scythes pr)
   * K: limit her precense to mostly stage 3 where they are buffed
+  * K: remember to reaction absorb/shield/counterspell
 - **larloch least-worst** (despite high dmg beam)
   * K: should go after faey (despite no acid res) coz of his opposition
   * mordai: start seeding sahaquiel EB?
-- **stage 3 pre-buffs**:
+- **stage 2 setup** fog of war around K
+  * larloch chase west-wards to halls of justice, throw faey further if possible, chase
+  * at a nice damage threshold / gw taunt start transformation
+  * can only get Irae/Valindra here? larloch sacrifice
+- **stage 3 pre-buffs**
   * faey: holy weapon
   * gw: cleric to restore spell slots
   * gw: TODO: something wand of orcus?
