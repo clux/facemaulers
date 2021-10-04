@@ -203,8 +203,8 @@ Speculating on Irae:
 He can help fight Frygt at Halos. But he'll be trapped if he goes to V'elddrinnsshar - knows the drow has done terrible things to dragons in the past to sustain the most powerful pets imaginable.
 Knows the fight happened east of the netherese empire. Can tell you the location of Sunwuko's tomb.
 
-## Simulation
-### Expectation 2 Rounds
+## Demogorgon Battle Math
+### Simulation of Expected DMG in 2 rounds
 #### Madeiron
 sacred weapon pre-battle 1minute
 just above 50% hit rate, 14dmg per hit => 28 dmg

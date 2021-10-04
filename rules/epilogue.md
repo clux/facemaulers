@@ -20,6 +20,7 @@ Will sacrifice himself if __necessary__, but only calculated.
 Ask. Kavaki end? Die and travel with Kavaki?
 judge jury executioner of council(building name?) in neverwinter
 maybe a farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
+private kavaki shrine? https://i.redd.it/dvji9bam8gn71.jpg
 
 he has put a serious target on himself with the wand of orcus if he's unwilling to relinquish it.
 potion of longevity for GW (1d6+6 years younger 90% chance)

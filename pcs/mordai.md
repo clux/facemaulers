@@ -68,7 +68,7 @@ Arcanoloth in the Gehanna
 - modify memory 6th level, overcharge up to 8th level every 2 days
 - can do a once per week full rest refresh (chronomancy refresh 30min ritual)
 
-## TODO: Endgame
+## Endgame
 [[dahaka]] needs to remove chronomancy from him at the end.
 Last removal triggers meeting.
 

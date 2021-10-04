@@ -19,29 +19,50 @@ GW manages to keep Kiaransalee in Larloch's purple form for most of the battle b
 The one time GW failed to keep Larloch's form, Valindra's form came out, and the acid cone melted the walls and opened a funnel for the remaining bears. You also found out that Valindra's form have much higher AC (despite being vulnerable to bludgeoning).
 You arrow down or fireball down drow spectres, driders and finish of the bears with an Unstable Singularity.
 Faey is sniping things left and right, noticing that Kiaransalee probably can see him, despite the invisibility.
-One round goes very well for Faey; 96 damage in one round towards Kiaransalee.
 
 As we left off; Kiaransalee's purple form slams down near the archers; sends a black rippling Circle of Death through and gets herself some new undead helpers.
-
-ASK FOR CLARIFICATION ON PIERCING DAMAGE ON ARROWS (don't think so)
+Faey does 96 damage with some insane radiant crits Kiaransalee causing her to take to the skies towards you. GW charges in to stop and tries to keep Kiaransaleein in Larloch's form, but as the intimidation fails, the protective shell reforms once more.
 
 top of the round....
-(roll for whether to attack GW or Faey...account for nat 3 on special intimidation check for larloch...)
+beam on faey (truesight + bad gw intimidate)... (he won't lose speed/acidres)
+take opportunity attack from GW
 
 NOTES:
 - GW's taunting of Larloch's form is working very well. Probably need to have Larloch die soon.
-- Gilbert is undead now.
+- Gilbert is undead now (out of sight weak skeleton start fight in epilogue)
 - reduced kiaransalee's strenght immunities to resistances if they plot taunt him
 - Kiaransalee taken 96 pts of damage unhealed (archer dmg healed) so all left from Faey
 - gw's wand of [[orcus]] can have chaos consequences if he fails to intimidate it
 
+[[kiaransalee]] main points from [[neverwinter-end-battle]] simulation:
+- **valindra tankiest** (radiant immunity, high ac) SO:
+  * K: disadv on saves + reduce immunity -> resistance if she's triggered
+  * faey: adv to hit vs valindra if she's triggered (communicate it)
+  * K_v: nail attack vs faey (for deflect potential)
+- **irae strongest** (hugh dmg output from 4 scythes pr)
+  * K: limit her precense to mostly stage 3 where they are buffed
+- **larloch least-worst** (despite high dmg beam)
+  * K: should go after faey (despite no acid res) coz of his opposition
+  * mordai: start seeding sahaquiel EB?
+- **stage 3 pre-buffs**:
+  * faey: holy weapon
+  * gw: cleric to restore spell slots
+  * gw: TODO: something wand of orcus?
+  * mordai: bless
+  * party: heal mages
+
 TODO:
-- [[kiaransalee]] stats remember properly
-- finalize HP on kiaransalee. maybe simulate this a bit. AC and DC seems high... account for it.
 - she needs to get to the black wound/halls of justice before starting stage 2
 - account for expent spells / potions... they should be close to stage 2
 - stage 2 lock out larloch? harsh?
 - do helpers arrive before rip into Evernight? [[neverwinter-end-battle]] (ursula cleric)
+
+level finishes?
+- could do this at stage 3 kiaransalee
+- tho maybe feels a bit insulting to have a god level deus ex machina
+- give mordai his 4th EB blast at the end
+- give gw some smite slots back
+- Moradin Clerics to Holy Weapon them
 
 REMEMBER:
 - music replacement in [[music]] and [[neverwinter-end-battle]] doc

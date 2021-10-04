@@ -79,12 +79,13 @@ Dark sickening laugh. Science nerd. Talks about draconic bearers of vengeance.
 Actions: (most one per turn)
 - Range Cone attack. DC27 DEX vs. Acid 90ft cone 18d8. (recharge 5/6) (cant have LG if trigger is LG)
 - Regen: 40hp
-- Dimension Door -> Bite attack: +15 2d10+8 piercing + 2d8 acid
-- Claws: +15 2d6+8 slashing
+- Dimension Door -> Bite attack: +18 2d10+8 piercing + 2d8 acid
+- Claws: 2x +18 2d6+8 piercing
+- Claw nail launch: 2x +18 2d6+8 piercing
 - Summon Simulacrum roll for player. (No items, half HP) - maybe once..
 
 Strengths:
-- Magic immunity (non-physical damage types)
+- Magic immunity Radiant
 - High AC: 28
 
 Weakness:
@@ -102,6 +103,7 @@ Actions:
 - Dimension Door
 - Has REACTIONS: Shield/Counterspell/Absorb Elements/
 - if nice: blight, harm, dominate, hold, modify mem (absorbable)
+- Power Word: Heal/Tenser Boost if she gets destroyed in her phase (one time thing only)
 
 Strengths:
 - Immunity to Necrotic
