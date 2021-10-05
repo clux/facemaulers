@@ -1,14 +1,17 @@
 123-kiansalee-attacks
 28 September 2021
 
-You get your final research into Kiaranslee done with the help of Ursula. You refresh on Larloch's demise, identify the type of pet he had (a Behir). GW makes his next pet a cold salamander to try to remind Larloch of his past / and the unholy union that he finds himself  within.
-While distributing your potions, you try to decide on plans of attack/defense. Larloch best for talking to (and you also have partial coverage to his necro res), Validra probably best for fighting (all of you have acid res, and she's weak to bludgeoning). Unfortunately, your hand is forced as Diana tells you she's on the move.
+You get your final research into Kiaranslee done with the help of Ursula. You refresh on Larloch's demise, identify the type of pet he had (a Behir). GW makes his next pet a frost salamander to try to remind Larloch of his past / and the unholy union that he finds himself within.
 
-With Graycloaks distributed across the walls (and Gilbert in left tower), you see Kiaransalee approach. She converts civilians outside the city wall as she slowly marches towards the boundary. You tell Ursula to fetch clerics or whatever they have to aid.
+While distributing your potions, you try to decide on plans of attack/defense.
+Key points you discussed; Larloch is the best for talking to (and whomst you also have partial coverage to his necro res), Irae's probably the hardest hitting one of the bunch with the scythes of the revenancer (whose dmg is a lot of necrotic), Validra could be the best for fighting (all of you have acid res, and she's weak to bludgeoning, but she also has immune to radiant). Unfortunately, your hand is forced as Diana tells you she's on the move.
+
+With Graycloaks distributed across the walls (and Gilbert in left tower), you see Kiaransalee approach. She converts civilians outside the city wall as she slowly marches towards the boundary. You tell Ursula to fetch clerics or basically whatever they have to aid.
 
 You plan on rushing out and talk, but she time stops and summons a series of undead, while you all are monologued at.
 
 Battle commences. Arrow firing simulator for a few rounds. Potions are drunk.
+
 - Mordai with NecroRes/CircleOfPower/AcidRes/Overcharge(c)
 - Faey with Speed/Invis/AcidRes (no necrores)
 - GW with Strenght/NecroRes/AcidRes/SpiritShroud(c)
@@ -16,9 +19,9 @@ Battle commences. Arrow firing simulator for a few rounds. Potions are drunk.
 
 Kiaransalee's gaze starts to sweep across the towers as she gets closer. Some of you get hit.
 GW manages to keep Kiaransalee in Larloch's purple form for most of the battle by taunting him about his past and his betrayal, which it doesn't look like he wants to believe, but whenever this happens his protective layers seem to drop a bit (immunity -> resistance).
-The one time GW failed to keep Larloch's form, Valindra's form came out, and the acid cone melted the walls and opened a funnel for the remaining bears. You also found out that Valindra's form have much higher AC (despite being vulnerable to bludgeoning).
-You arrow down or fireball down drow spectres, driders and finish of the bears with an Unstable Singularity.
-Faey is sniping things left and right, noticing that Kiaransalee probably can see him, despite the invisibility.
+The one time GW failed to keep Larloch's form, Valindra's form came out, and the acid cone melted the walls and opened a funnel for the remaining undead. It was also discovered that Valindra's form have much higher AC (despite being vulnerable to bludgeoning).
+You arrow down the undead matriarch and fireball down drow spectres, driders and finish of the undead bears with an Unstable Singularity.
+Faey is sniping things left and right, but does notice that Kiaransalee probably can see him, despite the invisibility.
 
 As we left off; Kiaransalee's purple form slams down near the archers; sends a black rippling Circle of Death through and gets herself some new undead helpers.
 Faey does 96 damage with some insane radiant crits Kiaransalee causing her to take to the skies towards you. GW charges in to stop and tries to keep Kiaransaleein in Larloch's form, but as the intimidation fails, the protective shell reforms once more.
@@ -30,7 +33,7 @@ take opportunity attack from GW
 NOTES:
 - GW's taunting of Larloch's form is working very well. Probably need to have Larloch die soon.
 - Gilbert is undead now (out of sight weak skeleton start fight in epilogue)
-- reduced kiaransalee's strenght immunities to resistances if they plot taunt him
+- reduced kiaransalee's strength immunities to resistances if they plot taunt ANY after stage 1
 - Kiaransalee taken 96 pts of damage unhealed (archer dmg healed) so all left from Faey
 - gw's wand of [[orcus]] can have chaos consequences if he fails to intimidate it
 
@@ -48,18 +51,14 @@ NOTES:
 - **stage 2 setup** fog of war around K
   * larloch chase west-wards to halls of justice, throw faey further if possible, chase
   * at a nice damage threshold / gw taunt start transformation
-  * can only get Irae/Valindra here? larloch sacrifice
+  * only Irae/Valindra here (mostly Valindra), but personality attacks still work vs. the union
 - **stage 3 pre-buffs**
+  * helpers arrive during or before rip into Evernight :: clerics plus mages!
   * faey: holy weapon
   * gw: cleric to restore spell slots
-  * gw: TODO: something wand of orcus?
   * mordai: bless
   * party: heal mages
 
-TODO:
-- account for expent spells / potions... they should be close to stage 2
-- stage 2 lock out larloch? harsh?
-- do helpers arrive before rip into Evernight? [[neverwinter-end-battle]] (ursula cleric)
 
 level finishes?
 - could do this at stage 3 kiaransalee

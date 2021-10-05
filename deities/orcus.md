@@ -78,13 +78,16 @@ Tell him he's just like Arklem. Abusing powers too great for your understanding.
 Shame, and here I thought we could have some fun and destroy a god together on peaceful terms. Let's hope you are of strong will. DC16 WIS for every spell. DC increases by 1 every spell.
 On failure; chaos effect happens. Half negative effect. Opposite of main spell. Heal type spells => drain from himself. DBF => instant frost implosion. Tenser, works, but also take 25HP underneath the temp HP. If massive failure, maybe a bigger negative effect.
 
+> If you continue your insistance to defy me like this you will regret it. Swear to me that you will return me and you shall be free to use me.
+
 If he's tempted, have him swear a sacred oath to your god that you will return me.
 Make it a timed condition. 1w. Otherwise => partially oathbreaking paladin.
 but can be funny with kavaki. it won't be a full breaking anyway since he has other oaths.
 
-Maybe tempt him that vengeance is not just for you. My master needs vengeance as well.
-I will grant you your vengeance, but you must grant me mine.
+OTHERWISE:
+> You are not the only one in need of vengeance here. My master needs vengeance as well. I will grant you your vengeance, but you must grant me mine.
 
+If he fails again after that: CHAOS EFFECTS.
 After failed save, he needs to make a high CHA save to give it up, and every time he uses it, it sources from his blood... of course, he can choose to just "always have it by his side" to torment it..
 
 ### Stats

@@ -62,13 +62,23 @@ NB: all of these have to doge K due to her gaze.
 
 ## Stage 2: Transformation
 She blurs the line between the shadowfell and the prime material.
-NB: This is using a lot of energy, so if she takes a lot of HP here it breaks.
-Everything darkens, yellow soft glow becoming visible, soft moving sound of the neverwinter river fades, and your ears start picking up deeper rumbling sound instead.
+- Needs a lot of energy, so can only be sustained during stage 2 HP pool
+- Can happen if characters get reinforcement at the end of stage 1
 
-Terrible creatures come in from the graveyard/tower in a way that overwhelms the graycloaks.
-Adds a **fog of war** (reduces sight around her 100ft) to increase tension (faey struggles vs valindra anyway)
+> Valindra: So you can dance at your home turf. Maybe we should step into mine. It's a little heavier on the bones if you catch my drift.
+> high pitched cackle: as she starts swirling around causing this black cloud to sculpt outwards around her extending as far as your eyes can see.
+> Everything darkens, yellow soft glow becoming visible, soft moving sound of the neverwinter river fades, and your ears start picking up deeper rumbling sound instead.
+> Darkness subsists, you catch a green glowing flash permeating through this coarse black darkness as you see Kiaransalee's green form hover with her skeletal wings extended.
 
-Stage happens from ![](neverwinter-halls-tower.jpg) and tears into ![](evernight-black-wound.jpg)
+who starts? depends.
+
+NB: darkness is a **fog of war** (reduces sight around her max 100ft) to increase tension (faey struggles vs valindra anyway)
+NB: valindra controls who she drags into the shadowfell with her (sculpted spell) - no help here.
+NB: larloch unlikely to come help here, but triggers will still weaken valindra here.
+
+~~Terrible creatures come in from the graveyard/tower in a way that overwhelms the graycloaks.~~
+
+Stage happens from ![](neverwinter-halls-tower.jpg) and tears into ![](evernight-black-mound.jpg)
 
 Mobs:
 - If they hide too much here; intorduce "The Lonely" - add a soft desperate cry
