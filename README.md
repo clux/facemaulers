@@ -28,7 +28,7 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 - [npcs](./npcs) :: important non-player-characters
 - [deities](./deities) :: significant members of the [pantheon](./deities/pantheon.md)
 - [factions](./factions) :: significant groups of characters and their properties
-- [rules](./rules) :: dm's notes; [politics](./rules/politics.md) / [recreation](./rules/recreation.md) / [retrospective](./rules/retrospective.md)
+- [rules](./rules) :: dm's notes; [politics](./rules/politics.md), [recreation](./rules/recreation.md), and a [retrospective](./rules/retrospective.md)
 - [recaps](./recaps) :: a chronological trail with one dm's summary per session
 
 ## Player Resources
@@ -43,6 +43,8 @@ Resources maintained by players:
 Some additional scripts due to conventions herein:
 
 - `./stats.sh` - prints players and their involvement
+
+TODO: print result for finality here at the end
 
 ## Music
 Runs on ~~Rhythm~~ [jmusicbot](https://github.com/jagrosh/MusicBot) on a [private discord app](https://discord.com/developers/applications/890319108846006333).

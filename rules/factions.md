@@ -1,6 +1,68 @@
-# Cults
+# Factions
+Ideas for types of societal/group structure that can be used to model new factions.
 
-## Stranger than Fiction IV: What Even Are Cults
+## Secret Societies
+Things to consider with compelling thieves guilds / secret societies.
+1. **Membership** - Identify a need that is not being met. Your group needs something, but it is withheld. Substances / Gold / Political Sway. Once goals are attained, the new goals grow and morph. Member base might change.
+2. **Organisation** - How does a person become a leader among these aggrieved members? What qualifications did they have, how did it shape the group? Is he radical?
+3. **Goals** - What problems does a group have, what do leaders to do address these grievances? Solution might be stepping stone, or all that the leadership understands. Can anyone contribute, no matter how shady?
+4. **Secrecy** - What purpose does secrecy serve the organisation. Afraid of found? Why? What powers are likely to find them, and what will happen then? Don't be nebulous here. Smugglers afraid of one guard captain? Cultists afraid of one religious leader cracking down? Maybe secrecy isn't simple; shadow cabinet. Parallel organisations. They could operate in the open, but choose not to.
+5. **Tensions** - Conflict, resolution, storytelling arise from how each step of the way the group gets further away from the reasons that first created the group. A secret society benefits from the idiosyncratic choices tha tlead to where it is because each offers new avenues for tensions that your party can explore. Maybe the party can unravel the web, and dethrone leaders, or change the organisation.
+
+Examples from Chinese/Russian history:
+https://old.reddit.com/r/DnDBehindTheScreen/comments/itjn7p/stranger_than_fiction_ii_thieves_guilds_and_the/
+
+### Triads
+Based in local identities within China. Groups of people originating in the same area, but living in a new one. Diaspora.
+Poorest people usually. A helping system for people to stay afloat in a new location.
+Might work for leaders of both sides of official rule, and offer dirty contracts on behalf of Chinese rulers.
+State sponsored organised crime.
+Secrecy forced on the organisation.
+Unregulated, because all underhand deals.
+The people are loyal to the people in the group, not where they live, so are open to a lot.
+Tension; serve your people in strange lands, but you are taken over by the rich and powerful who have no reason to support you.
+### The Literary Society (1911 Revolution)
+Few human rights, emperialism feeding on China.
+New group pushing for a revolution and a democratic government.
+In the past revolutionary propagandists and organisation tried to recruit military into their plots by pitching directly to recruits. Soldiers generaly could not join revolutionary organisations in a safe way, so they made their own.
+Small groups like Literary Society got together tot alk about the revolution and how to recruit new members from within their units.
+Goal was to overthrow the Qing dynasty through military conversion, but military has always sided with the throne.
+By having multiple tiny barely connected groups it made it untraceable (even to other revolutionary).
+Every organisation had the same plan, and it just kind of worked at the end when one group started making bombs, and one detonated.
+Secrecy made this possible, but also made they had no idea of what they were doing and who to trust.
+Their leader; guy that was going to be executed for being in a revolutionary group, and they just begged him to become their leader.
+Secrecy meant they had no friends, didn’t know who to contact, didn’t know who to trust, so they ended up trusting a guy who did not want to be there.
+By the time real revolutionary leaders who had been trying to start this revolution for decades showed up, the revolution was full of bandwagoners.
+Once it was time to move beyond the small, secret group phase, their organization and beliefs worked against them. They believed, pretty earnestly, that all these people jumping on the bandwagon must be revolutionaries coming from their own secret groups, or at least have been converted to the idea of overthrowing the Emperor. As they found, some of their allies were generally behind overthrowing the throne, but only so they could take it themselves.
+### The Communist International
+Funded by Lenin; international alliance of Communist parties.
+Feared that the communist experiment in the USSR would not last and Russia would be torn apart; they needed friends.
+Tried to train, arm, guide other Communist partiet hoping they could turn into Soviet allies.
+A lot of revolutionaries saw Marxism as sort of the next step in the evolution of governmen.
+Marx was persuasive to people.
+Even pragmatic people were concerned about the fate of their backwards nations, were persuaded by the idea of skipping ahead in the evolution of government, to eventually surpass even their better of rival countries.
+Membership kind 1: parties looking to ComIntern to be a participating member in a global communist movement without borders.
+Membership kind 2: actual ComIntern agents sent into the field to help the parties self-organise.
+The agents were under pressure from Soviet leaders to instill a paternalistic view of ComIntern (the others wouldn't work alone).
+The parties wanted to be equal members, but the soviets wanted affiliants. Agents stood in the middle.
+Tension played out in these conflicting goals. Some agents pressured to be heavy handed, leading to fractures.
+Tension played out in structure; agents assumed they'd be in charge even in countries they did not know. They knew theory (via Lenin/Marx directly even), but not practice (Quote from Mao).
+Mao could reach the average Chinese person through exeperience in revolution; how to fight mountain battles, plant and contact undercover agents. Stuff not covered by the Communist Manifesto.
+Secrecy; they were a giant boogeyman. Outside agenst coming in and starting a revolution? Set the stage for a later cold war.
+Stalin disbanded ComIntern before that.
+Secrecy was about what they were up to. Even the agents themselves did not understand where things were going.
+Backfired. Parties also felt a lack of cohesive movement from ComIntern.
+Parties couldn't trust advice and leadership when decisions were shrouded in mystery.
+Parties were not part of the decision making process, and they were not sure who were benefitting.
+
+## Pirates
+## Cartel / Mafia
+Cause people to be indebted to you and force them to work for you. Geas?
+Not state sponsored. But organised crime. TODO: why not cracked down on?
+
+
+## Cults
+### Stranger than Fiction IV: What Even Are Cults
 https://www.reddit.com/r/DnDBehindTheScreen/comments/jyczho/stranger_than_fiction_iv_what_even_are_cults/
 
 The five **characteristics** are: _godlike leader(s)_, _flexible beliefs_, _reinvention of the self_, _isolation of believers_, and _elite membership_.
@@ -25,7 +87,10 @@ The five **characteristics** are: _godlike leader(s)_, _flexible beliefs_, _rein
 
 > Q: why do cultists see themselves as unique and special when they are part of this organization? What prerequisites are there to membership? What do they have to do to prove that they deserve membership? How are various levels distinguished from each other within the cult? What do they gain, what secret knowledge is dispensed with membership, what boon is granted?
 
-### Heaven's Gate
+### Cult Examples
+from same post or comments therein.
+
+#### Heaven's Gate
 Suicide cult in 1997. Haley's comet tail == alien ship hiding. Suicide to beam them up.
 
 **Leader**. `Marshall Applewhite` + `Bonnie Nettles`. Mixed sci-fi, bible, occult into a Christian God who was real, and alien. Read into Book of Revelations, and made alien spin. Leaders claimed they were gods. Jesus/God were incorporeal and could take over bodies.
@@ -39,7 +104,7 @@ Suicide cult in 1997. Haley's comet tail == alien ship hiding. Suicide to beam t
 
 => Membership not illogical. Preys on psychological exploints. Faceless cultists are faceless by choice, not because you need a villainous mob, but because they gave them up in service of a greater power that knows they are special, gives them secret knowledge, and treats them like an elite + chosen group, who deserves the rewards at the end.
 
-### Aleph
+#### Aleph
 aka `Aum Shinrikyo` aka. `Aum`. Responsible for 1995 Tokyo sarin gas attack. Ex-yoga study group.
 
 **Leader**. `Shoko Ashara`. Spiritual guru preaching a more pure and original Buddhism, refering to Buddha's secret teachings. Stole some bits of Christinity, claiming he alone could take on the sins of the world to redeem people. Claimed to be Christ in 1992. Sold his own bathwater. Made a brainwave device to transmit Ashara's thoughts and personhood into people. Executed in 2018.
@@ -58,7 +123,7 @@ aka `Aum Shinrikyo` aka. `Aum`. Responsible for 1995 Tokyo sarin gas attack. Ex-
 
 => easy to quickly grow violent, won't be seen as retribution/violence, but rather necessary evil in defense against those already attacking us.
 
-### Mao Zedong
+#### Mao Zedong
 Started small. The Cultural Revolution was as much an attempt to recapture the magic of his first cult, as it was a totally new expression of his cult.
 Interestingly not divine, yet still the most deified of them all.
 > Charisma + mythical heroism in a leader can make the cult feel special and an embattled minority, even when it's the clear, dominant, oppressive majority.
@@ -71,11 +136,11 @@ Interestingly not divine, yet still the most deified of them all.
 
 >  Mao’s biggest departure from the cults we looked at earlier is that he made all of this happen to a population of a billion, not the forty of Heaven’s Gate or even the (alleged) tens of thousands once in Aleph. A billion. The most populous country in the world. And yet all the tactics that seemed to serve a small, dedicated group like a religious cult worked here. In a country they controlled, they still felt isolated. In an elite group of specially picked members, they still felt special and unique. In a place that had already been reinvented as a Communist nation once, they still had to do it again. And in a land of a billion, nobody was able to point out the absurdities in how beliefs changed so wildly.
 
-## Comments
+#### Comments
 Unlike in real life. Cults can be **right**.
 Gods might permit cults with an extreme read on their teachings.
 
-### Psychological comment
+##### Psychological comment
 > Cults do not operate though elitism. It may appear that way on the surface, but in actuality a lot of cults operate to entice the open minded. In psychology, Openness is a trait that people have and cults look for two traits among people to latch onto: People with high agreeability, and people with high openness, bonus points for people who are high in conscientiousness and by extent judgmental personalities.
 > The reasons why cults seek these personality types out isn't a conscious thing, there isn't a mastermind controlling the cult in the real world, instead, these personality types seek the new way of thinking coupled with the community.
 Isolation is not necessarily intentional.
@@ -85,7 +150,7 @@ Flexibility also due to community over belief.
 Innocense potential:
 > Cult members are not evil, not even the leader (most times) They are more like adults who want to be children, they're sad and lost in the world and want to return to a safe place where mom and dad are at the wheel, driving the car with them in the back of the car. But as Jet Black said, there is nothing more pure and cruel as a child.
 
-### Comparisons
+#### Comparisons
 Other organisations that fit this bill;
 
 - QAnon via Q
