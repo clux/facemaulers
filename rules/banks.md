@@ -1,4 +1,9 @@
+# Economics
+
 ## Banks
+Due to the medieval nature of forgotten realms, most of modern banking can be shoehorned into a single "bank" institution.
+
+Some ideas of what a bank might offer:
 
 ### Borrowing
 Adventuring == high risk, high reward.
@@ -36,7 +41,7 @@ Banks also need adventurers to make their risky enterprises less risky. Guard sh
 Can have exteremely wealthy families like the **Rothschilds** (owning multiple branches) across regions.
 Can have divisions administering conquered land, assets, slaves; **Knights Templar**. Can have their own army, laws, and influencers responsible for inventing banking practices in new areas.
 
-## Insurance Fraud
+### Insurance Fraud
 https://old.reddit.com/r/DnDBehindTheScreen/comments/k42k6w/insurance_fraud_my_goto_beginner_hook_for_a/
 > Rorschach test to see what kind of party the players want to be: honest, vengeful, opportunistic/ambitious, etc.
 
