@@ -26,6 +26,7 @@ IMMEDIATE LEVEL 17
 NOTES:
 - Mordai ended up beaing the weakest in the battle (because GW took his plot item)
 - Mordai should get his 4th EB here at the end.
+- 125 will be Florent's 100th episode
 
 TODO:
 - finalize [[epilogue]]

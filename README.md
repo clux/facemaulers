@@ -44,7 +44,22 @@ Some additional scripts due to conventions herein:
 
 - `./stats.sh` - prints players and their involvement
 
-TODO: print result for finality here at the end
+Final numbers with PCs highlighted
+
+```diff
++ 124 Guy (Mordai)
++ 100 Florent (Goatweaver)
++ 84 Jay (Faey, Zed)
+38 April (Hjarka, Andraste)
+-31 Richard (Pendle)
+-29 James (Hans, Iz, Hanir)
+-24 Spike (Windsorrow)
+10 Paul (Bron)
+4 Verity (Arqarin)
+2 Svein (Jendn)
+-1 Shaun (Mammon)
+-1 Rhys (Tyshdille)
+```
 
 ## Music
 Runs on ~~Rhythm~~ [jmusicbot](https://github.com/jagrosh/MusicBot) on a [private discord app](https://discord.com/developers/applications/890319108846006333).
