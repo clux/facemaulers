@@ -19,7 +19,7 @@ Tried to make some convincing factions with some resource help:
 Most bosses in the second half for the campaign were homebrewed quite a bit to create memorable closing points for large story arcs.
 Exceptions: demon lords. Had clarified they were as written earlier.
 
-- [[kiaransalee]] in [[neverwinter-end-battle (combo-liches; complicated end of campaign boss)
+- [[kiaransalee]] in [[neverwinter-end-battle]] (combo-liches; complicated end of campaign boss)
 - [[irae]] (lich/sorcerer with revenancer plot items and chronomancy, and shield guardian skins)
 - [[arklem]] (lich/wizard with crazy stats from items and chronomancy overcharge burst)
 - [[felgolos]] (at dracolich stage; some things to emulate brass dragon)
@@ -82,6 +82,7 @@ Akward bits:
 [bregan-daerthe]: ../factions/bregan-daerthe "Bregan D'aerthe"
 [cults]: cults "Cults"
 [kiaransalee]: ../deities/kiaransalee "Kiaransalee"
+[neverwinter-end-battle]: ../north/neverwinter-end-battle "Neverwinter v Kiaransalee"
 [irae]: ../npcs/irae "Irae T'sarran"
 [arklem]: ../npcs/arklem "Arklem Greeth"
 [felgolos]: ../npcs/felgolos "Felgolos"

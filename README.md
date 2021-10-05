@@ -19,7 +19,7 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 4. [Seafaring](./seaofbones) on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
 5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [North](./north) :: EP 45-56
 6. [Corrupted giants](./spine) in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
-7. The Lich trail [East](./east) with [Helical help](./factions/silver-helix.md) :: EP 82-105
+7. The [Silver](./factions/silver-helix.md) lich trail [East](./east) with :: EP 82-105
 8. Into the [Shadowfell](./planar/shadowfell.md) to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
 
 ### Special folders

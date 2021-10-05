@@ -1,6 +1,7 @@
 # Epilogue
 
 evangelion outro music: https://www.youtube.com/watch?v=f3ezPaYSnQQ
+another final one: tears of orphans: https://www.youtube.com/watch?v=mN2NWwJ2xlM
 
 Tie in some gifts:
 https://www.reddit.com/r/DnDBehindTheScreen/comments/joegou/20_friendly_npcs_bittersweet_last_gifts_to_pcs/
