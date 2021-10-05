@@ -36,7 +36,7 @@ Urchins : Red (heat), Black (umami), Blue (salt)
 
 http://dndspeak.com/2019/03/100-fantasy-drugs-and-their-effects/
 
-## Psychadelics
+## Psychedelics
 
 **Sundrop**: a bright yellow/orange liquid, naturally incandescent, as if it was a liquefied ray of sunshine (henceforth the name). Originally used as a magically synthesized antidepressant, Sundrop when consumed tricks the user into believing that they are happy, as it quite literally gives them ‘warm feelings’. Over usage may leave the user feeling withered between uses, as their dependency has rendered them unable to produce dopamine and serotonin. Over time users also commonly begin to build tolerances to Sundrop, requiring greater quantities to be consumed to maintain the effect. Overdosing on Sundrop causes feverish conditions, as the drug radiates through the users veins, ultimately burning them alive from the inside out.
 

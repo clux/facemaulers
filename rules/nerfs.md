@@ -18,9 +18,10 @@ The things we care about are hard-disabling skills that have low cost:
 - everyone has fire/lightning res and all cool spells are fire -> necro reskin
 
 ## Stun Limiters
-- always have legendary resist for it (but it eats them fast, or fudge con saves)
+- always have legendary resist for it (let them burn through to earn it)
 - CON SAVE PROFICIENCY / RESILIENCE FEAT
-- STORY FUDGE: can only have it drop reactions for a turn (tough feat?)
+- STORY FUDGE: can only have it drop reactions / one attack for a turn
+- Make Slow spell (Somnambulists Wraps) more attractive
 
 ## Charm Limiters
 - fey ancestry
@@ -38,3 +39,9 @@ The things we care about are hard-disabling skills that have low cost:
 - side effects for transmutation
 - polymorph -> no turtle -> trex
 - fly -> half flying speed due to heavy
+
+## Other OP problems
+### Invis Pre-Scouting
+Pre-scouting the entire dungeon with an invis familiar.
+This limits the DM options greatly, and isn't always that fun in the late game.
+Cheap to toss in an enemy with truesight to snipe a familiar once in a blue moon to discourage it.

@@ -1,4 +1,4 @@
-## Calendar
+# Calendar
 2x 160 day seasons based on equinoxes.
 
 I.e. a dark season and a light season.

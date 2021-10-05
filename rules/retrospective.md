@@ -1,10 +1,10 @@
-# Philosophy
+# Retrospective
 
 ## Bosses
 Most bosses in the second half for the campaign were homebrewed quite a bit to create memorable closing points for large story arcs.
 Exceptions: demon lords. Had clarified they were as written earlier.
 
-- [[kiaransalee]] (a little too complicated, was hard to run)
+- [[kiaransalee]] in [[neverwinter-end-battle (combo-liches; complicated end of campaign boss)
 - [[irae]] (lich/sorcerer with revenancer plot items and chronomancy, and shield guardian skins)
 - [[arklem]] (lich/wizard with crazy stats from items and chronomancy overcharge burst)
 - [[felgolos]] (at dracolich stage; some things to emulate brass dragon)
@@ -30,6 +30,7 @@ Successes:
 - Wand of Overwhelming Energy: https://www.dndbeyond.com/magic-items/526752-wand-of-overwhelming-energy (fun to have Mordai risk self-damage with overcharged lightning bolts)
 - Belt of Giantkind: https://www.dndbeyond.com/magic-items/2040547-belt-of-giantkind (simple, but very good major boss reward)
 - Book of Exalted Deeds: https://www.dndbeyond.com/magic-items/3001386-book-of-exalted-deeds-goatweaver (ended up with good roleplay setup for GW)
+- Arklem's Wand of Orcus: https://www.dndbeyond.com/magic-items/3899876-wand-of-orcus-arklem (fun roleplay setup for GW's last fight)
 
 Needed work:
 - Extinction: https://www.dndbeyond.com/magic-items/3105572-extinction (what it could absorp was actually not that much)
@@ -41,6 +42,7 @@ Needed work:
 - Condemn: https://www.dndbeyond.com/spells/476387-condemn (was meant to be a surprise thing but Flo found it due to homebrew sharing, also possibly threading too much on wizard domain)
 
 Future goals should be to have smoother flow and optimize for [language, not rules](https://www.youtube.com/watch?v=OIkwABECfR0) take on the game in general.
+
 
 ## Levelling
 Levelling can feel very gamey "oh, we're magically better". So trying to weave in reasons for levelling.

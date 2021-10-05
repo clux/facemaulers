@@ -1,6 +1,6 @@
-## Loot
+# Loot
 
-Good loot to give out.
+Good emergency loot ideas.
 
 ## Ring of Spell Splitting
 ALlows twinning on a spell that only targets one creature. Once per day.
