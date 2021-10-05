@@ -1,5 +1,5 @@
-# Dungeon Design
-Interesting notes on dungeon design.
+# Dungeons
+Philosophical notes on dungeon design.
 
 Not how to run [[combat]], nor the generation of [[maps]], but the societies and systems behind a dungeon and how they form an organic ecosystem on its own that changes based on players actions.
 
