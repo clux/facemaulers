@@ -69,3 +69,31 @@ Keylina?
 Tribal tattoos around her arms, blue face paint. Green robes. Half-elf rogue?
 Verena?
 Priestess at moradin’s temple.
+
+
+
+## Use Believable Villain Personalities
+Narcissism
+Pride + grandiosity + egotism + lack of empathy
+
+Psychopathy
+Manipulation/exploitation of others, cynical disregard for morality. Focus on self-interest and deception.
+
+Machiavellianism
+Antisocial behaviour + impulsivity, selfishness, callousness, remorselessness.
+
+### Specifics
+#### Sadism
+#### Loneliness
+When no one around you wants to relate / can’t understand / unwilling to study X.
+
+> “It’s seclusive, isolating, and wholly depressing. It’s a downward spiral that sucks you in the longer you keep the behaviour, succumbing inevitably to its grasp unless you find the increasingly rare person who will match your speed / drive / interests. We corner ourselves off, growing less comfortable with things outside a shrinking sphere of influence, fully aware that it’s all our own doing, but incapable of stopping it.”
+
+Arguably madness form this can be attributed to Xanathar with Sylgar.
+
+#### Unattached replaceability
+Extreme views of transience. Use people while they are there. Nihilistic views. Emotions are just a physical response.
+
+> “You humans are so concerned with emotions. If you could experience what it feels to be “ASCENDED” / harness the power of X, you would see your priorities shift very quickly.
+
+Can be attributed to most “harvesting” type of villains.

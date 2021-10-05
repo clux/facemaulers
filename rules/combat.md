@@ -1,6 +1,6 @@
 # Combat
 
-## Use Roles
+## Roles
 Via [Matt Colville: Tactics and Strategy #70](https://www.youtube.com/watch?v=FfYItCw00Z4)
 
 - infantry – novice positioning tools (physical blocks)
@@ -15,31 +15,41 @@ where:
 - Use cover better for artillery (split move)
 - Infantry 15ft apart – small gap with no attack of opp. 10ft both can take!
 
+## Battlefield Design
+Thoughts on what to include in battles. Spice and dynamism.
+https://old.reddit.com/r/DnDBehindTheScreen/comments/j7p42l/the_missing_ingredient_some_thoughts_on/
+
+### Killing fields
+Large open space without obstructions and cover. Pure test of skill / stat mastery. Long awaited enemy.
+Both face off knowing only their skills and wits save them from death. Powerful.
+Alternatively; arena flex. Throw low-level monsters at party.
+### No Man's Land
+Both sides pointing at each other at all times. Graveyard of bodies in the middle.
+Ditches / moats / thick brush in center can heighten risk of crossing.
+Taxes melee classes. They need ways around / protection from enemy snipers.
+Alternate paths can be a den for harvester enemies. Make this exciting.
+Once they reach other side, it's mostly over.
+Sorcerers / wizards / rangers / monks / ranged will shine. Maybe they are the spotlight clearers.
+### Choke Point
+Thermopylae. Style.
+Players needing to pass it can be limiting. AOE traps? Marching orders. Gas? Rain of arrows?
+Enemies forced through chokes are different. Endurance challenge, tanks hold the line. Mages dump into horde behind.
+Maybe combine with a skill challenge while they hold the line; pick a lock, activate a shields / mcguffin.
+### Broken Battlefield
+Cave of stalagmites, decayed skeletons, ob jects from past battles. Chaos battle of ducking, darting and leaping between weird terrain.
+Collapsed ruins, large trees, broken sight lines (60ft sight max in any direction).
+Make retreating to a better position viable.
+Should be horizontal and vertical. Criss-crossing. Atriums to jump up and down to. Parallel height paths. Chandeliers.
+Hazards. Enemiers immune to the hazards? Triggerable hazard that PCs can weaponize?
+### Attack and Defend
+Similar to No Man's Land. But one part is defending with ample cover and lay of the land, time to prepare.
+Attackers have to traverse and survive oncoming fire so they can reach the defended point. Asymmetric.
+Players as A: constantly under fire. Defenders hold actions. Hazardous terrain. Maybe send combatants, traps to flush them out.
+Players as D: send bigger forces at them. give them lay of the land, and let them make preparations.
+Best; send your players in as A first to take the point, then have them defend it later. Lets them learn the land first.
+### Fog of War
+No sight beyond a small radius.
+High tension, much fear. Can enemies see them? Good for stealth characters. Ranged characters not so much.
+
 ## Remind players to retreat
 Even if: it’s never fun, but someone has to take leadership and decide to retreat.
-
-## Use Believable Villain Personalities
-Narcissism
-Pride + grandiosity + egotism + lack of empathy
-
-Psychopathy
-Manipulation/exploitation of others, cynical disregard for morality. Focus on self-interest and deception.
-
-Machiavellianism
-Antisocial behaviour + impulsivity, selfishness, callousness, remorselessness.
-
-### Specifics
-#### Sadism
-#### Loneliness
-When no one around you wants to relate / can’t understand / unwilling to study X.
-
-> “It’s seclusive, isolating, and wholly depressing. It’s a downward spiral that sucks you in the longer you keep the behaviour, succumbing inevitably to its grasp unless you find the increasingly rare person who will match your speed / drive / interests. We corner ourselves off, growing less comfortable with things outside a shrinking sphere of influence, fully aware that it’s all our own doing, but incapable of stopping it.”
-
-Arguably madness form this can be attributed to Xanathar with Sylgar.
-
-#### Unattached replaceability
-Extreme views of transience. Use people while they are there. Nihilistic views. Emotions are just a physical response.
-
-> “You humans are so concerned with emotions. If you could experience what it feels to be “ASCENDED” / harness the power of X, you would see your priorities shift very quickly.
-
-Can be attributed to most “harvesting” type of villains.
