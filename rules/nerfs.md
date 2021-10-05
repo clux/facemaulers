@@ -16,6 +16,8 @@ The things we care about are hard-disabling skills that have low cost:
 
 ## Resistance Limiters
 - everyone has fire/lightning res and all cool spells are fire -> necro reskin
+- extra spells in different elements for bosses https://www.reddit.com/r/UnearthedArcana/comments/mrbg15/kibbles_generic_elemental_spells_all_the_spells/
+
 
 ## Stun Limiters
 - always have legendary resist for it (let them burn through to earn it)
