@@ -1,5 +1,5 @@
 # Campaign 2018-2021
-DM notes and brain organisation from a 3 year D&D 5e campaign.
+DM notes and brain organisation from a 3.5 year D&D 5e campaign.
 
 ## Second Brain
 This repo uses [foam](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
@@ -20,7 +20,7 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [North](./north) :: EP 45-56
 6. [Corrupted giants](./spine) in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
 7. The [Silver](./factions/silver-helix.md) lich trail [East](./east) with :: EP 82-105
-8. Into the [Shadowfell](./planar/shadowfell.md) to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-12X
+8. Into the [Shadowfell](./planar/shadowfell.md) to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-125
 
 ### Special folders
 
