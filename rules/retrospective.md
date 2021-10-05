@@ -9,6 +9,12 @@ Also used my [[calendar]] (which forced the eladrin to learn it), but it was har
 ## Combat
 Think the [[combat]] doc (roles and types of battlefields) was some of the most helpful way to think about designing battles.
 
+## Faction Resources
+Tried to make some convincing factions with some resource help:
+
+- [[secret-societies]] helped clarifying the rules of the [[silver-helix]] / [[undying-soul]] / [[bregan-daerthe]]
+- [[cults]] never got going (cults might be better earlier on when i didn't think about it)
+
 ## Bosses
 Most bosses in the second half for the campaign were homebrewed quite a bit to create memorable closing points for large story arcs.
 Exceptions: demon lords. Had clarified they were as written earlier.
@@ -63,6 +69,11 @@ Hard to do that extreme with D&Dbeyond, but kind of stopped levelling players fo
 [house]: house "Rules"
 [calendar]: calendar "Calendar"
 [combat]: combat "Combat"
+[secret-societies]: secret-societies "Secret Societies"
+[silver-helix]: ../factions/silver-helix "Silver Helix"
+[undying-soul]: ../factions/undying-soul "Undying Soul"
+[bregan-daerthe]: ../factions/bregan-daerthe "Bregan D'aerthe"
+[cults]: cults "Cults"
 [kiaransalee]: ../deities/kiaransalee "Kiaransalee"
 [irae]: ../npcs/irae "Irae T'sarran"
 [arklem]: ../npcs/arklem "Arklem Greeth"
