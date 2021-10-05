@@ -21,14 +21,17 @@ Kiaransalee tries a desperate Tenser's Transformation. Doesn't heal because of s
 
 IMMEDIATE LEVEL 17
 
+![](../north/neverwinter-landscape.jpg)
+
 NOTES:
 - Mordai ended up beaing the weakest in the battle (because GW took his plot item)
 - Mordai should get his 4th EB here at the end.
 
 TODO:
 - finalize [[epilogue]]
-- diana/ursula sincere congratulations
+- diana/ursula/galeron outro
 - fun arc with gilbert (undead)
+- wand of [[orcus]] outro
 
 Players:
 - Florent

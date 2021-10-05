@@ -2,6 +2,8 @@
 see [[kiaransalee]] + [[irae]].
 re-read session omega
 Using "Battlefield Design" terminology from [[combat]]
+Vertical terrain: castle walls; smaller houses
+Denouement: Emotional Releases. [[epilogue]] lead ins.
 
 ## music
 ### Hollow Knight • Relaxing Music with Ambiance (Rain, Fire, Night, Snow)
@@ -10,13 +12,8 @@ https://www.youtube.com/watch?v=mYEA5A0Bjyo - setup 2h
 https://www.youtube.com/watch?v=KepiAite1hY - stage 1 22min !queue it a few times
 ### Demon's Souls Remake OST - Flamelurker Boss Theme
 https://www.youtube.com/watch?v=XTja6y_cfRc - extended, good stage 2
-
-
 ### Orchestral Battle Music from Fullmetal Alchemist: Brotherhood
 https://www.youtube.com/watch?v=VnTDYqbgxL0 - sounds good, stage 3
-
-fallback s3: bland
-https://www.youtube.com/watch?v=dh7nTM6D-GU ds3 alonne (used for demogorgon)
 
 ### Potential Innocent Start
 See darkness form on the horizon. If they scry they can see her out on the farmlands:
@@ -60,6 +57,8 @@ Friendlies:
 - Diana/Ursula
 NB: all of these have to doge K due to her gaze.
 
+~~Raised Undead battle Graycloaks~~ welp, they died quick
+
 ## Stage 2: Transformation
 She blurs the line between the shadowfell and the prime material.
 - Needs a lot of energy, so can only be sustained during stage 2 HP pool
@@ -100,19 +99,11 @@ quick potions delivered (heroism to improve to hit, 3 potions of superior heal)
 
 ![](castle-never-spire.png)
 
-## Terrain
-Vertical terrain: castle walls; smaller houses
-Lava river in stage 2... can be diverted
-
-## Denouement
-Emotional Releases. [[epilogue]] lead ins.
-
-## Raised Undead battle Graycloaks
-
+## Stage 4: Victory
+![](neverwinter-landscape.jpg)
 
 ## Reinforcements
-At stage 1; Bless from Diana/Ursula?
-At stage 3; potions of heroism (add d4 on chance to hit). Healing potions.
+Arrives after stage 1, but too late to help them until stage 2 is done.
 
 ### Diana
 - Counterspell needs 60ft range (but she can fly in for a costly deus ex machina)
@@ -132,7 +123,7 @@ At stage 3; potions of heroism (add d4 on chance to hit). Healing potions.
 - GW spell slot transference
 Thurdan Smughammer + Verena Greatsong
 
-## Kiaransalee Stage 2 Math
+## Kiaransalee Math for Episode 124
 - Mordai with NecroRes/CircleOfPower/AcidRes/Overcharge(c)
 - Faey with Speed/Invis/AcidRes (no necrores)
 - GW with 27Strength/NecroRes/AcidRes/SpiritShroud(c)
