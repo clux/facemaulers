@@ -52,7 +52,7 @@ He has two people in the gem cutters in his family. Two other dwarves named Kuth
 
 ### Furious Gemstones
 Super nicely cut ones available for nobles in market district. Overpriced. Fair. Follows regulations.
-Run by well of Elf `Elyon Rody`
+Run by well of Elf `Elyon Rody` (wife of [[gregor]]).
 
 Some come in from Thornhold. Small faeroe island community of miners. Sells uncut gems from the docks. Normally guildcutters have a representative with sufficient cash. Erland is waiting at the docks for next shipment (scheduled today).
 
@@ -181,6 +181,7 @@ Need encounter if they start a fight in docks.
 [yawning-portal]: yawning-portal "Yawning Portal"
 [jarlaxle]: ../npcs/jarlaxle "Jarlaxle"
 [bregan-daerthe]: ../factions/bregan-daerthe "Bregan D'aerthe"
+[gregor]: ../npcs/gregor "Gregor"
 [diana]: ../npcs/diana "Diana"
 [cameron]: ../npcs/cameron "Cameron"
 [almah]: ../npcs/almah "Almah"

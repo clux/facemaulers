@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1VW3ZePGr1lO1NXAJH2n-K2ZOwzIyONx8tadEHSLIU9c/
 
 ## Fake words
 https://www.feldarkrealms.com/
+
+## Names
+https://www.fantasynamegenerators.com/

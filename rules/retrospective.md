@@ -9,11 +9,14 @@ Also used my [[calendar]] (which forced the eladrin to learn it), but it was har
 ## Combat
 Think the [[combat]] doc (roles and types of battlefields) was some of the most helpful way to think about designing battles.
 
-## Faction Resources
+## Factions and NPCs
 Late game factions did get somewhat clarified from the secret societies examples in the [[factions]] document.
 
 In particular; it helped clarifying the cohesion of [[silver-helix]] / [[undying-soul]] / [[bregan-daerthe]].
 Never really fleshed out how piracy or cults would work on a political level though. Cults might work out better earlier on in the game as well (when the stuff that people believe in may or may not be real).
+
+My [[npcs]] generation methods are probably still my weakest skill.
+It got a little better once I started associating players more directly with factions, but I think I could have done better with fewer key npcs.
 
 ## Bosses
 Most bosses in the second half for the campaign were homebrewed quite a bit to create memorable closing points for large story arcs.
@@ -81,6 +84,7 @@ Akward bits:
 [silver-helix]: ../factions/silver-helix "Silver Helix"
 [undying-soul]: ../factions/undying-soul "Undying Soul"
 [bregan-daerthe]: ../factions/bregan-daerthe "Bregan D'aerthe"
+[npcs]: npcs "NPC Generation"
 [kiaransalee]: ../deities/kiaransalee "Kiaransalee"
 [neverwinter-end-battle]: ../north/neverwinter-end-battle "Neverwinter v Kiaransalee"
 [irae]: ../npcs/irae "Irae T'sarran"
