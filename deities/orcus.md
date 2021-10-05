@@ -96,7 +96,7 @@ Staff must be modified a bit for it to make sense for them:
 - Spell Changes: Completely revamp. PW: K and FoD is crazy. Need demon spells.
 - Spell Concentration: Staff maintains with attunement
 - Spells: Time Stop (9th, once), Summon greater demon (at 8th level), Incendiary Cloud (8th), Resurrection (7th), Regenerate (7th), Delayed Blast Fireball (7th), Tenser's Transformation (6th) (nb: 3x 7th, 2x8)
-- Random props: Minor Ben: 1st/3rd level spell free. Major Ben: +2 ability score (which?), Minor Det: Blinded when away from it, Animals hostile so you. Maj Det: Long Term Madness
+- Random props: Minor Ben: 1st/3rd level spell free. Major Ben: +2 ability score WIS, Minor Det: Blinded when away from it, Animals hostile so you. Maj Det: Long Term Madness
 - No Call Undead. +3 AC. No spell DC boost. (Not there by default, and hard to do with Mordai's stuff)
 
 https://www.dndbeyond.com/magic-items/3899876-wand-of-orcus-arklem

@@ -129,7 +129,8 @@ At stage 3; potions of heroism (add d4 on chance to hit). Healing potions.
 - Raise Dead
 ### Moradin Clerics
 - Holy Weapon on Faey
-Thurdan Smughammer + Verena
+- GW spell slot transference
+Thurdan Smughammer + Verena Greatsong
 
 ## Kiaransalee Stage 2 Math
 - Mordai with NecroRes/CircleOfPower/AcidRes/Overcharge(c)

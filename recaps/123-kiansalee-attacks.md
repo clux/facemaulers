@@ -49,7 +49,7 @@ NOTES:
   * K: should go after faey (despite no acid res) coz of his opposition
   * mordai: start seeding sahaquiel EB?
 - **stage 2 setup** fog of war around K
-  * larloch chase west-wards to halls of justice, throw faey further if possible, chase
+  * ~~larloch chase to halls of justice, throw faey further if possible~~
   * at a nice damage threshold / gw taunt start transformation
   * only Irae/Valindra here (mostly Valindra), but personality attacks still work vs. the union
 - **stage 3 pre-buffs**
@@ -58,14 +58,6 @@ NOTES:
   * gw: cleric to restore spell slots
   * mordai: bless
   * party: heal mages
-
-
-level finishes?
-- could do this at stage 3 kiaransalee
-- tho maybe feels a bit insulting to have a god level deus ex machina
-- give mordai his 4th EB blast at the end
-- give gw some smite slots back
-- Moradin Clerics to Holy Weapon them
 
 REMEMBER:
 - music replacement in [[music]] and [[neverwinter-end-battle]] doc

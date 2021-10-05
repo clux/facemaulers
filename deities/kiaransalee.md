@@ -100,7 +100,7 @@ Arrogant baseline Irae. Talks very openly about direct revenge and them first.
 
 Actions:
 - Scythe of the Revenancer (twinned - 2 attacks) 4d8 necro + 1d8+15 x2 (~40dmg each) +19
-- Dimension Door
+- Dimension Door!
 - Has REACTIONS: Shield/Counterspell/Absorb Elements/
 - if nice: blight, harm, dominate, hold, modify mem (absorbable)
 - Power Word: Heal/Tenser Boost if she gets destroyed in her phase (one time thing only)
