@@ -65,7 +65,7 @@ Dael Kingsmill wants [progression to not be level based at all](https://www.yout
 Hard to do that extreme with D&Dbeyond, but kind of stopped levelling players for a while around 13/14 in favour of giving items / benefits.
 
 ## Foam
-Foam worked really well. Easy to organise, [paste image extension](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image#:~:text=Type%3A%20%22Paste%20Image%22%20or,Alt%2BV%20on%20Mac)) helped a lot.
+Foam worked really well. Easy to organise, [paste image extension](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)) helped a lot.
 
 Akward bits:
 
