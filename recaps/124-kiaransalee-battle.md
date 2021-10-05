@@ -9,15 +9,15 @@ It takes you a few rounds until you realize you're in the Shadowfell, and it's t
 
 The fight rages on outside [[castle-nowhere]], Mordai's left alone down there while you descend the castle, and he takes some solid hits. Goatweaver returns to face Irae's form as she once again looks at you while trying to finish off Mordai as he's down. Last hit, auto-crit, 2 death saves. End action, Mordai's turn death save. He makes it. Goatweaver's getting low as well as he tries to tank for Mordai. Faey jumps down to launch the dragonstrike attack at her chest to push her away giving you some room to breath.
 
-Then GW with 4hp? succeeds in casting Timestop from the Wand of [[orcus]]. Max roll on rounds. DBF, Heal heal heal, taunt, heal. Full round of mauling into DBF detonating for a 260 points of damage.
+Then GW with 4hp? succeeds in casting **Timestop** from the Wand of [[orcus]]. Max roll on rounds. **DBF**, Potion of Heal, Cure Wounds, Cure Wounds, Taunt, Cure Wounds. Full round of Mauling into DBF detonating for a 260 points of damage.
 
 Irae's form staggers in disbelief. You are ripped out of the [[shadowfell]] and she desperately dimension doors to the top of the [[castle-never]].
 
 As you are back in [[neverwinter]] you see the mages greet you, Bless on Mordai, Holy Weapon on Faey, Heal on all, Moradin clerics helps restore spell slots of Goatweaver.
 
-You fly up to halt [[kiaransalee]]'s restoration ritual. She only gets healing in (Power Word: Heal though), but cannot change form. She is stuck as [[irae]]'s form. In the next 3 rounds you reign down over 1000 points of radiant damage as she rolls 4 nat 1s to hit GW in a row, so that despite being the sole target of a god for 3 rounds, he's alive. At 1hp.
+You fly up to halt [[kiaransalee]]'s restoration ritual. She only gets healing in (Power Word: Heal though), but cannot change form. She is stuck as [[irae]]'s form. In the next 3 rounds you reign down over 1000 points of radiant damage with a huge amount of crits (Faey with a 200 round), meanwhile she rolls 4 nat 1s to hit GW in a row, so that despite being the sole target of a god for 3 rounds, he's alive. At 1hp.
 
-Kiaransalee tries a desperate Tenser's Transformation. Doesn't heal because of spirit shroud. Tries more healing, doesn't work. Goatweaver uses Tenser's Transformation from the Wand, and one final taunt later, you all unload your final 300+ damage and push her over the edge where she explodes in a cloud of radiant damage.
+Kiaransalee tries a desperate Tenser's Transformation. Doesn't heal because of spirit shroud. Tries more healing, doesn't work. Goatweaver uses Tenser's Transformation from the Wand, and one final taunt later, you all unload your final 300+ damage and push her over the edge where she explodes in a cloud of radiant particles.
 
 IMMEDIATE LEVEL 17
 
