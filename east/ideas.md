@@ -1,4 +1,6 @@
-## East
+# East Ideas
+Notes made while sketching out the last chapters of the campaign.
+None of this is canon.
 
 ## Motivation
 Irae wants to turn the world into a continent of undeath. Imperialist in the name of minimising suffering (death). Has demon lords unleashed to wreck havoc (can be uncovered by luskan grey cloaks investigating a certain ex-noble she was in contact with), although with the portal gone, they don't see a way for her to immediately control them. "With the energies summoned at the spine, sure, there would be ways to direct even these divine avatars of the abyss, but with the spine down, it would take something of commensurate energy.."

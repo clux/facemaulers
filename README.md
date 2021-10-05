@@ -28,7 +28,7 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 - [npcs](./npcs) :: important non-player-characters
 - [deities](./deities) :: significant members of the [pantheon](./deities/pantheon.md)
 - [factions](./factions) :: significant groups of characters and their properties
-- [rules](./rules) :: general dump folder for inspiration / homebrew / politics / dm's retro
+- [rules](./rules) :: dm's notes; [politics](./rules/politics.md) / [recreation](./rules/recreation.md) / [retrospective](./rules/retrospective.md)
 - [recaps](./recaps) :: a chronological trail with one dm's summary per session
 
 ## Player Resources
