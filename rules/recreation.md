@@ -1,6 +1,8 @@
 # Recreational
 Ideas for arts / cooking / painting / alcohol / drugs / other recreational activities.
 
+Think some of these come from pathfinder, but didn't save sources for everything here.
+
 ## Alcohol
 
 ### Available Alcohols
