@@ -1,4 +1,6 @@
 # Goatweaver
+> Lahevik Goatweaver
+
 Paladin of [[kavaki]].
 Honorary Arch-Mage of [[mages-guild]]
 Current understandee of the Book of Exalted Deeds:

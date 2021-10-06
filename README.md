@@ -17,9 +17,9 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 2. [Into the Abyss](./underdark) segue :: EP 4-19
 3. Escape, [Whiteplume](./whiteplume), and [Waterdeep](./waterdeep/waterdeep.md) :: EP 20-30
 4. [Seafaring](./seaofbones) on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
-5. [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) in the [North](./north) :: EP 45-56
+5. [North](./north); [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) :: EP 45-56
 6. [Corrupted giants](./spine) in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
-7. The [Silver](./factions/silver-helix.md) lich trail [East](./east) with :: EP 82-105
+7. The [Silver](./factions/silver-helix.md) Lich Trail :: EP 82-105
 8. Into the [Shadowfell](./planar/shadowfell.md) to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-125
 
 ### Special folders
@@ -46,20 +46,18 @@ Some additional scripts due to conventions herein:
 
 Final numbers with PCs highlighted
 
-```diff
-+ 124 Guy (Mordai)
-+ 100 Florent (Goatweaver)
-+ 84 Jay (Faey, Zed)
-38 April (Hjarka, Andraste)
--31 Richard (Pendle)
--29 James (Hans, Iz, Hanir)
--24 Spike (Windsorrow)
-10 Paul (Bron)
-4 Verity (Arqarin)
-2 Svein (Jendn)
--1 Shaun (Mammon)
--1 Rhys (Tyshdille)
-```
+- 124 Guy ([Mordai](./pcs/mordai.md))
+- 100 Florent ([Goatweaver](./pcs/goatweaver.md))
+- 84 Jay ([Faey](./pcs/faey.md), ~~[Zed](./pcs/zed.md)~~)
+- 38 April ([Hjarka](./pcs/hjarka.md), [Andraste](./pcs/andraste.md))
+- 31 Richard (~~[Pendle](./pcs/pendle.md)~~)
+- 29 James (~~[Hans](./pcs/hanir.md)~~, ~~[Iz](./pcs/iz.md)~~, ~~[Hanir](./pcs/hanir.md)~~)
+- 24 Spike ([Windsorrow](./pcs/windsorrow.md))
+- 10 Paul ([Bron](./pcs/bron.md))
+- 4 Verity (Arqarin)
+- 2 Svein (Jendn)
+- 1 Shaun (~~Mammon~~)
+- 1 Rhys (~~Tyshdille~~)
 
 ## Music
 Runs on ~~Rhythm~~ [jmusicbot](https://github.com/jagrosh/MusicBot) on a [private discord app](https://discord.com/developers/applications/890319108846006333).
