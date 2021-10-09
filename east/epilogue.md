@@ -53,6 +53,8 @@ https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending
 ### Gifts
 https://www.reddit.com/r/DnDBehindTheScreen/comments/joegou/20_friendly_npcs_bittersweet_last_gifts_to_pcs/
 
+https://www.reddit.com/r/DnD/comments/jxmzw0/ocartbring_out_the_best_in_your_boy_with_the_band/ for GW?
+
 ### Mordai
 [[mordai]] (under endgame) last visit by [[dahaka]].
 patron clearup.
