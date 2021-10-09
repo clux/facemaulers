@@ -1,5 +1,6 @@
 # Hjarka
 Earth Genasi fighter from [[gracklstugh]].
+https://www.dndbeyond.com/profile/apriltuesday/characters/5003990
 
 Found in Chryssalis.
 She's possessed by one elemental of her native realm.  Ogremoch.

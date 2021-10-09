@@ -6,7 +6,6 @@ Rottingham steals gold statue Pendle from them. They spend the episode getting i
 This is basically Spike's episode since he actually a genious and is able to come up with rhyming retorts on the fly.
 But people seem to enjoy this wacky episode. Party later writes fanfic about [[kenny]] (the cannon salesboy).
 
-
 Players:
 - Guy
 - April

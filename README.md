@@ -52,12 +52,12 @@ Final numbers with PCs highlighted
 - 38 April ([Hjarka](./pcs/hjarka.md), [Andraste](./pcs/andraste.md))
 - 31 Richard (~~[Pendle](./pcs/pendle.md)~~)
 - 29 James (~~[Hans](./pcs/hanir.md)~~, ~~[Iz](./pcs/iz.md)~~, ~~[Hanir](./pcs/hanir.md)~~)
-- 24 Spike ([Windsorrow](./pcs/windsorrow.md))
+- 24 Spike (~~[Dhoznak](./pcs/dhoznak.md)~~, [Windsorrow](./pcs/windsorrow.md), ~~[Chipgrin](./pcs/chipgrin.md)~~)
 - 10 Paul ([Bron](./pcs/bron.md))
-- 4 Verity (Arqarin)
-- 2 Svein (Jendn)
+- 4 Verity (~~[Arqarin](./pcs/arqarin.md)~~)
+- 2 Svein ([Jendn](./pcs/jendn.md))
 - 1 Shaun (~~Mammon~~)
-- 1 Rhys (~~Tyshdille~~)
+- 1 Rhys (~~[Tyshdille](./pcs/tyshdille.md)~~)
 
 ## Music
 Runs on ~~Rhythm~~ [jmusicbot](https://github.com/jagrosh/MusicBot) on a [private discord app](https://discord.com/developers/applications/890319108846006333).

@@ -1,4 +1,7 @@
 # Pendleblip
+> Pendleblip Godalming Curmudgin XVI
+https://www.dndbeyond.com/profile/Blatherwick/characters/3732720
+
 Chaotic arcane trickster gnome inventor.
 Doesn't want to hurt anyone, but will do really stupid things.
 

@@ -1,4 +1,9 @@
-# Hans Irel
+# Hanir
+> Hans Irel
+
+- **DISEASED** future version: https://www.dndbeyond.com/profile/Psiloclast/characters/10554907
+- past version: https://www.dndbeyond.com/profile/Psiloclast/characters/19053107
+
 Watchers of the Night with [[faey]] in the [[feywild]].
 Goes by Hans in real world // Hanir in faeywild.
 

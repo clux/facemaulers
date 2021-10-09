@@ -1,5 +1,6 @@
 # Faeynore
-> Faeynore Mllerelel
+> Faeynore Mellerelel
+https://www.dndbeyond.com/profile/oops_its_on_fire/characters/15435734
 
 Part of the Watchers of the Night in the [[feywild]] with [[hanir]].
 

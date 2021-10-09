@@ -1,5 +1,6 @@
 # Mordai
 > Mordai Godkin
+https://www.dndbeyond.com/profile/guyleaver/characters/3288264
 
 Warlock, only took a few levels in it and hid Chronomancy from patron.
 Divine Soul sorcerer after. Blessed by devils in Mephistar.
@@ -260,7 +261,7 @@ Demon locked original creature into book. Convinces them to go to 9 hells and de
 [paxos]: ../npcs/paxos "Paxos"
 [gehenna]: ../planar/gehenna "Gehenna"
 [celerom]: ../npcs/celerom "Celerum"
-[hanir]: hanir "Hans Irel"
+[hanir]: hanir "Hanir"
 [03-cursed-grove]: ../recaps/03-cursed-grove "03-cursed-grove"
 [10-kruthik-dungeon]: ../recaps/10-kruthik-dungeon "10-kruthik-dungeon"
 [18-infernal-gary]: ../recaps/18-infernal-gary "18-infernal-gary"

@@ -1,5 +1,6 @@
 # Iz
 > Iztlu Satza
+https://www.dndbeyond.com/profile/Psiloclast/characters/12897564
 
 **DISEASED** Yuan-ti pureblood GOO warlock searching for Xial in the ocean. Doesn't know who the god is or what he looks like.
 So will move on feelings based interaction with something relevant to Xial.

@@ -1,6 +1,8 @@
 # Zed
 > Zed Legrot
-Former surgeon/carpenter of the [[artemis]]. Barbarian Path of the Storm.
+https://www.dndbeyond.com/profile/oops_its_on_fire/characters/13547529
+
+**DISEASED** former surgeon/carpenter of the [[artemis]]. Barbarian Path of the Storm.
 
 ## Developments
 Became enslaved by [[koth]] in [[castle-never]] with [[iz]], and lived out his month in the shadowfell.
