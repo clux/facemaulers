@@ -1,5 +1,7 @@
 # Feywild
 
+Mostly concerning [[faey]]'s home `Mithrendain`.
+
 ## General features
 - Talking horses / unicorns?
 - Playful fey.

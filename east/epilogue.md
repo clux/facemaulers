@@ -1,26 +1,71 @@
 # Epilogue
 
-evangelion outro music: https://www.youtube.com/watch?v=f3ezPaYSnQQ
-another final one: tears of orphans: https://www.youtube.com/watch?v=mN2NWwJ2xlM
+Started in [[neverwinter]] in 125
 
-Tie in some gifts:
+##  Music
+sad music from fmab: https://www.youtube.com/watch?v=Y9_GAgFJMGY (20min)
+evangelion extened outro music: https://www.youtube.com/watch?v=f3ezPaYSnQQ (30m)
+
+## Start
+### Diana/Ursula
+(GW still in Tenser's Transformation, DC15 CON save vs exhaust)
+
+- "That was amazing, all of you."
+- "That is one colorful paladin you got." (Describe tenser's + teal 3-boob suit, burning red orcus wand).
+- To Mordai: "I've never seen someone cast spells as fast as you did there. If this is the power of chronomancy, then, wow. I know this is soon, but at some point, when you've had some time to think. We could use teachers at the mages guild to help improve the quality of our students."
+
+### Galeron
+shouts from side-street "NO DONT". Hear a crossbow bolt release. **Clank**
+Rush in to see Galeron and one graycloak hiding behind pieces of wood as a crossbow bolt flies over your heads from across the streets. Hear soft broken esophagus noises, something is definitely there.
+> What do you do?
+- save / kill Gilbert.
+If kill? Galeron will be upset, but will come around later in the episode (if they're there).
+If save? Galeron thankful (even though kid will need some care).
+- "oh my god, what a slaughter that was. Our numbers are decimated. How will we ever recover from this"
+(technically, gw can res one/two per day with the wand if he'll risk it)
+- "but, still, we are alive. and you did it. boy i hope this is the last time you come to me with bad news. listen, i need some time, maybe come see me tomorrow."
+
+Next day:
+- Faeynore, is it. I realize that we never spoke much. But just gotta say, that was some brilliant shooting. I've never seen anyone move so fast and shoot so accurately from such distances.
+- Faeynore proposal re: watchers. I know that you probably have your own place to go to, but maybe you would consider staying here. Our numbers are severly diminished, and we are not going to be able to protect or watch over anything, much less contain the undead plague from the cemetery.
+- I know this probably isn't a substitute for your home, but you have the tower, you can come and go as you please.
+- Isn't the faeywild all around us? Is there some version of this place that you can watch over as a watcher? That way you'll be close to us.
+
+-> arch-faey in faeywild (variant of neverwinter || or his home)
+-> potential future quests for faey and party to clear out the undead
+
+## Scythe
+Scythe on the ground. Not attunable by them.
+https://www.dndbeyond.com/magic-items/2391663-scythe-of-the-revenancer
+Can take it apart, but not destroy the pieces.
+
+However prophecy of the [[undying-soul]]:
+> The aligned three avenges that which came before. They shall become the true harbingers of the long peace. Through all means necessary, the errors of the past shall be corrected, and through conflict, peace will return. So sayeth the revenancer.
+**This actually happened; but the aligned three were them.**
+
+Potential future stupid quest: destroy [[orcus]] with it (highlighted in flavour text on the scythe) to forever destroy the scythe.
+
+## Denouement (EP name)
+TODO: Handle last part of Session Omega.
+https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending_the_campaign/
+
+## Ideas
+### Gifts
 https://www.reddit.com/r/DnDBehindTheScreen/comments/joegou/20_friendly_npcs_bittersweet_last_gifts_to_pcs/
 
-## Mordai
+### Mordai
 [[mordai]] (under endgame) last visit by [[dahaka]].
 patron clearup.
 Sever his ties with patron and divine faiths.
 A breakthrough feat that lets him retrofit his knowledge by actually using the weave.
+Needs to Modify Memory on Ursula/Diana/Sansuri to end it and he's free.
 
-## Faey
+### Faey
 [[faey]]
-Ask. He would think about it.
-Arch-faey manager route?
-He'll think about it.
-Watcher prep.
-Will sacrifice himself if __necessary__, but only calculated.
+Potential; Arch-faey manager route via Galeron above.
+TODO: Watcher prep.
 
-## GW
+### GW
 [[goatweaver]]
 Ask. Kavaki end? Die and travel with Kavaki?
 judge jury executioner of council(building name?) in neverwinter
@@ -30,9 +75,6 @@ private kavaki shrine? https://i.redd.it/dvji9bam8gn71.jpg
 he has put a serious target on himself with the wand of orcus if he's unwilling to relinquish it.
 potion of longevity for GW (1d6+6 years younger 90% chance)
 golden `Maul to the City` (+0 ceremonial, +2 CHA)
-
-## Zed
-For Jay more than Faey. He is in the ring. But no-one knows
 
 ### Waterdeep
 [[gregor]], they kind of saved him. it's probably best if his ending is left vague.
@@ -47,6 +89,9 @@ Galeron can set it up if we seed Gilbert.
 Need a cliffhanger to indicate that the world is still alive and you intend to keep playing with your friends.
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
+[neverwinter]: ../north/neverwinter "Neverwinter"
+[undying-soul]: ../factions/undying-soul "Undying Soul"
+[orcus]: ../deities/orcus "Orcus"
 [mordai]: ../pcs/mordai "Mordai"
 [dahaka]: ../deities/dahaka "Dahaka"
 [faey]: ../pcs/faey "Faeynore"
