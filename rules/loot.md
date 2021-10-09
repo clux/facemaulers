@@ -12,9 +12,11 @@ For once that did make it read the [[retrospective]] and see the dndbeyond list 
 - **Lightning Rod Ultragreatsword** via Terahex Armory
 - **Necrodancer Obsidian Sword** - +N - N being amount of attacks you did with it last round. Name it Rhytmnic Obsidian or something
 
-### Sources
+### Sources/Inspiration
 - https://www.reddit.com/r/DnDBehindTheScreen/comments/j4pxfn/artifacts_that_give_a_character_depth/ (oath + ward + blink)
 - https://old.reddit.com/r/DnDBehindTheScreen/comments/jeitfy/adornments_of_the_dark_conclave_an_item_for_every/ (rings)
+- https://www.dandwiki.com/wiki/5e_Artifacts
+- https://docs.google.com/document/d/1Rgv5b_4Se1fml5m-7UUq_R9VvV4lljLuCNCT9x6c2Ds - Terrahex's Vault
 
 ## Artifact Ideas
 ### Ring of the Wind Serpent
