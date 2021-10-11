@@ -93,10 +93,17 @@ https://www.reddit.com/r/DnD/comments/jxmzw0/ocartbring_out_the_best_in_your_boy
 
 ### Mordai
 [[mordai]] (under endgame) last visit by [[dahaka]].
-patron clearup.
-Sever his ties with patron and divine faiths.
-A breakthrough feat that lets him retrofit his knowledge by actually using the weave.
+
 Needs to Modify Memory on Ursula/Diana/Sansuri to end it and he's free.
+Gets a chance during Diana/Ursula encounter
+Need to remind him of consequences if it's not upheld?
+
+TODO:
+- patron clearup.
+- Sever his ties with patron and divine faiths.
+
+A breakthrough feat that lets him retrofit his knowledge by actually using the weave.
+
 
 ### Faey
 [[faey]]
@@ -104,9 +111,13 @@ Needs to Modify Memory on Ursula/Diana/Sansuri to end it and he's free.
 
 ### GW
 [[goatweaver]]
+- Wand of Orcus (keep or get other benefits)
+- Kavaki bro strats
+- Halls of Justice
 
-maybe a farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
-private kavaki shrine? https://i.redd.it/dvji9bam8gn71.jpg
+TODO:
+- maybe a farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
+- private kavaki shrine? https://i.redd.it/dvji9bam8gn71.jpg
 
 ### Waterdeep
 [[gregor]], they kind of saved him. it's probably best if his ending is left vague.
