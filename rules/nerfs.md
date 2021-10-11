@@ -52,3 +52,6 @@ Cheap to toss in an enemy with truesight to snipe a familiar once in a blue moon
 Potion of Speed effectively gives a free 50% damage increase to a player with two attacks (as well as speed boost and AC) without having to maintain concentration. Enemy spell casters will likely recognise this low level spell and just Dispel the effect (instant).
 
 Potion of Resistance similarly can double the HP pools of players when they use them well. If users get used to just barely surviving on resistance potions then the power creep necessitates that they keep getting them (and at the same time become increasingly vulnerable to a Dispel). Always split some damage between physical/elemental (physical cannot be resisted by potion), and keep certain elements unavailable for resistance purchase.
+
+### Wave's Cube of Force
+Covered in https://clux.github.io/probes/post/2020-10-04-antimagic-revisited/

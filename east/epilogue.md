@@ -2,19 +2,21 @@
 
 Started in [[neverwinter]] in 125
 
-##  Music
-sad music from fmab: https://www.youtube.com/watch?v=Y9_GAgFJMGY (20min)
-evangelion extened outro music: https://www.youtube.com/watch?v=f3ezPaYSnQQ (30m)
+NB: Original place where Stage2 happened has formed into a unique gemstones forming after the crazy damage. (Kiaransalite beautiful radiant orange gemstone that seem to emanate a soothing white flame not warm, not cold, just soothing)
 
-## Start
-### Diana/Ursula
+##  Music
+most of ep (divinity 2 ambient): https://www.youtube.com/watch?v=TYywTS-KoDM
+sad music from fmab: https://www.youtube.com/watch?v=Y9_GAgFJMGY (20min end)
+
+## Conversations
+### Diana/Ursula Chronomancy (Mordai)
 (GW still in Tenser's Transformation, DC15 CON save vs exhaust)
 
 - "That was amazing, all of you."
 - "That is one colorful paladin you got." (Describe tenser's + teal 3-boob suit, burning red orcus wand).
 - To Mordai: "I've never seen someone cast spells as fast as you did there. If this is the power of chronomancy, then, wow. I know this is soon, but at some point, when you've had some time to think. We could use teachers at the mages guild to help improve the quality of our students."
 
-### Galeron
+### Galeron Watchers (Faey)
 shouts from side-street "NO DONT". Hear a crossbow bolt release. **Clank**
 Rush in to see Galeron and one graycloak hiding behind pieces of wood as a crossbow bolt flies over your heads from across the streets. Hear soft broken esophagus noises, something is definitely there.
 > What do you do?
@@ -34,7 +36,7 @@ Next day:
 -> arch-faey in faeywild (variant of neverwinter || or his home)
 -> potential future quests for faey and party to clear out the undead
 
-## Scythe
+## Scythe Prophecy (Faey/Mordai)
 Scythe on the ground. Not attunable by them.
 https://www.dndbeyond.com/magic-items/2391663-scythe-of-the-revenancer
 Can take it apart, but not destroy the pieces.
@@ -44,6 +46,40 @@ However prophecy of the [[undying-soul]]:
 **This actually happened; but the aligned three were them.**
 
 Potential future stupid quest: destroy [[orcus]] with it (highlighted in flavour text on the scythe) to forever destroy the scythe.
+
+## Galeron - Halls of Justice (Goatweaver)
+He needs "reliable sources" for his judgement.
+- Ursula can vouch for him (he has his heart in the right place, and he is gathering immense power as a patron of Kavaki, that much is obvious - I have no doubt that he can use his powers for good in this city)
+- Gregor will absolutely not vouch for him.
+- Celerom can vouch for him. He can find a solution to the most complex moral dilemma, and he has friends behind him to help him out, if he, uh, gets confused.
+- Adalon can vouch for him. Someone behind a god of goliaths is not going to be a pushover. As a vengeance paladin he is a great candidate for running the punitive system. You will have no beauraucracy, and with his lifelong quest for justice, I think he's had more practice than anyone in identifying who's right or wrong.
+
+## Kavaki (Goatweaver)
+Maybe he can retire up there with Kavaki as his bro friend. What would they do? Go on long hikes in Gladsheim? Try to have GW help him date Selune?
+
+## Wand of Orcus (Goatweaver)
+Ignoring it for half a session => Wisdom Saves.
+Failures => Chaos effects (sees red in places he shouldn't, necrotic effects on touch, 2d8 necro damage ("i must feed")).
+Charisma save DC25 to give it up. "You have used me for your personal vengeance, I will not allow you to charge in isolation when we had a deal. What type of paladin are you that lies?"
+
+WIS DC is 20 now. Goes up by 1 each cast. After that it takes HP from him (not an amount he can't deal with), and if very unlucky causes chaos effects.
+
+- (used to resurrect battlefield): "I swear if you're going to use me for this repeatedly, I am going to throw up."
+
+- (on sequestring): "This will only delay the inevitable; the hand of my master holding my
+stiff shaft and swinging me around."
+- (if reactions): "Do not play these word games. A mace does not care about the orifice into which it is plunged." or "Do not play this game, I swing both ways." or "Do not include me in talk about your man dinglers. I must return to the blood lord to feed."
+- (mechanics): plane shift me to the Black Despot in Morglon'dar, and I shall free your hand of my girth.
+
+cliffhanger potential if he keeps it:
+- highlight red sense on a kid picking up a flower (technically stealing from a house's garden, to give to mommy)
+- staff throws up: "That's it! I cannot deal with your continued use. I must rest." -> red sparkling magic around the face of the mace, suddenly coalesces into this blob that's then **throw up noises** ejected all over your armor. light diminishes in the wand. and your armor gets a strong red stain.
+- as the sun sets: and a new look on good and evil, you carry out your path, with the Wand of Orcus as your gavel, and the unfaltering judgement of Kavaki behind you. finally, you can focus on delivering justice to the world. sure, the wand is a little stubborn and painful sometimes, but nothing you can't manage. and hey, you can stop time now, who is going to want to pick a fight over the staff with the Champion of Kavaki, the Archmage of Waterdeep; Lahevik Goatweaver.
+
+If he does relinquish it:
+- Mages award him a Potion of longevity for GW (1d6+6 years younger 90% chance).
+- Galeron gets the blacksmith to create a "Golden" `Maul to the City` +0 ceremonial, +2 CHA (not actually golden, just a coating, but has Kiaransalite inserted)
+- Maul to the City: https://www.pinterest.co.uk/pin/31173422412120668/
 
 ## Denouement (EP name)
 TODO: Handle last part of Session Omega.
@@ -64,19 +100,13 @@ Needs to Modify Memory on Ursula/Diana/Sansuri to end it and he's free.
 
 ### Faey
 [[faey]]
-Potential; Arch-faey manager route via Galeron above.
-TODO: Watcher prep.
+- Arch-faey manager route via Galeron above.
 
 ### GW
 [[goatweaver]]
-Ask. Kavaki end? Die and travel with Kavaki?
-judge jury executioner of council(building name?) in neverwinter
+
 maybe a farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
 private kavaki shrine? https://i.redd.it/dvji9bam8gn71.jpg
-
-he has put a serious target on himself with the wand of orcus if he's unwilling to relinquish it.
-potion of longevity for GW (1d6+6 years younger 90% chance)
-golden `Maul to the City` (+0 ceremonial, +2 CHA)
 
 ### Waterdeep
 [[gregor]], they kind of saved him. it's probably best if his ending is left vague.
