@@ -2,7 +2,7 @@
 > Lahevik Goatweaver
 https://www.dndbeyond.com/profile/Goatweaver/characters/3516860
 
-- Paladin.
+- Paladin
 - Champion of [[kavaki]]
 - Honorary Arch-Mage of [[mages-guild]]
 - Blunt Instrument of Justice
