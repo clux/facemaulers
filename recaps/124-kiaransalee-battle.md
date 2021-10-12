@@ -19,14 +19,13 @@ You fly up to halt [[kiaransalee]]'s restoration ritual. She only gets healing i
 
 Kiaransalee tries a desperate Tenser's Transformation. Doesn't heal because of spirit shroud. Tries more healing, doesn't work. Goatweaver uses Tenser's Transformation from the Wand, and one final taunt later, you all unload your final 300+ damage and push her over the edge where she explodes in a cloud of radiant particles.
 
-IMMEDIATE LEVEL 17
-
 ![](../north/neverwinter-landscape.jpg)
 
 NOTES:
 - Mordai ended up beaing the weakest in the battle (because GW took his plot item)
 - Mordai should get his 4th EB here at the end.
 - 125 will be Florent's 100th episode
+- Do level ups at story arcs
 
 TODO:
 - finalize [[epilogue]]
