@@ -2,8 +2,11 @@
 > Lahevik Goatweaver
 https://www.dndbeyond.com/profile/Goatweaver/characters/3516860
 
-Paladin of [[kavaki]].
-Honorary Arch-Mage of [[mages-guild]]
+- Paladin.
+- Champion of [[kavaki]]
+- Honorary Arch-Mage of [[mages-guild]]
+- Blunt Instrument of Justice
+
 Current understandee of the Book of Exalted Deeds:
 - visible halo
 - spell buffs, wis buff

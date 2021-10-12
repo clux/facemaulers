@@ -6,12 +6,15 @@ https://old.reddit.com/r/DnDBehindTheScreen/comments/g8pogt/session_omega_ending
 Started in [[neverwinter]] in 125
 
 NB: Original place where Stage2 happened has formed into a unique gemstones forming after the crazy damage. (Kiaransalite beautiful radiant orange gemstone that seem to emanate a soothing white flame not warm, not cold, just soothing)
+Kavastones
+Kavastonites
+Ramstones
 
 ##  Music
 most of ep (divinity 2 ambient): https://www.youtube.com/watch?v=TYywTS-KoDM
 sad music from fmab: https://www.youtube.com/watch?v=Y9_GAgFJMGY (20min end)
 
-## Conversations
+## Denouements
 ### Diana/Ursula Chronomancy (Mordai)
 (GW still in Tenser's Transformation, DC15 CON save vs exhaust)
 
@@ -24,6 +27,11 @@ then come back with Kiaransalite remains and scythe
 - To Mordai: "I've never seen someone cast spells as fast as you did there. If this is the power of chronomancy, then, wow. I know this is soon, but at some point, when you've had some time to think. We could use teachers at the mages guild to help improve the quality of our students."
 
 - Ursula about Staff if GW keeps it: "You know, that Wand Goatweaver is using seems a lot more powerful than I thought originally. Do you think he'll be able to handle it?"
+
+Diana + Ursula agrees to Modify Memory 8th.
+Celerom + Adalon + Sansuri
+GW + Faey
+(Adalon got Extinction)
 
 ### Sahaquiel Ending (Mordai)
 key points:
@@ -85,7 +93,11 @@ However prophecy of the [[undying-soul]]:
 
 Potential future stupid quest: destroy [[orcus]] with it (highlighted in flavour text on the scythe) to forever destroy the scythe.
 
+They immediately took it apart without identifying it :shrug:
+
 ### Galeron Watchers (Faey)
+> Faey wants to expand Watchers of the Night to the material plane. "We were far too close to a vengeful god returning to the world, so the Watchers need to be there to stop it happening again".
+
 Next day:
 - Faeynore, is it. I realize that we never spoke much. But just gotta say, that was some exceptional shooting. I've never seen anyone move so fast and shoot so accurately from such distances.
 - Faeynore proposal re: watchers. I know that you probably have your own place to go to, but maybe you would consider staying here. Our numbers are severly diminished, and we are not going to be able to protect or watch over anything, much less contain the undead plague from the cemetery.
@@ -116,12 +128,29 @@ He needs "reliable sources" for his judgement.
 **Let them decorate and plan out how it will run.**
 Test criminal?
 
+~~Kavaki Halls of Interstellar Justice~~
+"kavki's a busy god"
+
+Kavaki Court of Justice Eternal
+~~Kavaki Halls of Justice on Earth~~
+~~Kavaki Court of Justice~~
+
+podium for GW
+space for jury (to advice sentences)
+eternal words of kavaki
+"he knows if you've been good, kavaki's coming to the court of justice"
+"it's coming home, justice's coming home"
+
+rehabilitation program. not all criminals
+court of justice eternal international
+Blunt instrument of justice
+
 ### Kavaki (Goatweaver)
 Maybe he can retire up there with Kavaki as his bro friend. What would they do? Go on long hikes in Gladsheim? Try to have GW help him date Selune?
 
 This will have to be super improv...
 
-## Wand of Orcus (Goatweaver)
+### Wand of Orcus (Goatweaver)
 Uses it?
 Failures => At first - 2d8 necro damage ("i must feed")). GW can probably just start seeing this as an analogue of how Mordai uses self-dmg to cast chronomancy to rationalise it. "Another spell cast, another bit of blood flowing through and out of the muscles, nothing you feel haven't seen before. Taking damage is a natural state of spell casting, you've seen Sucy heal with Life Transference, you've seen Mordai use chronomancy, there's always some cost to high powered wizardry, and this isn't anything you'd struggle paladin heal in an instant. In fact, getting the blood flowing like this actually feels kind of good. Reminds you of those easier mauling days when the faces were at face height, and the face armor was just normal face bone armor."
 Failures repeated => sees red in places he shouldn't, slow decent into madness
@@ -129,6 +158,7 @@ Failures repeated => sees red in places he shouldn't, slow decent into madness
 Ignoring it for half a session => Wand pipes in: "It is time for you to complete your end of the bargain." (hopefully they try out spells so we can roleplay the rest, try to force the resurrection scenario).
 
 Charisma save DC30 to give it up (one time roll, can use luck, he has +15). "You have used me for your personal vengeance, our journey does not end until you have completed your side of the deal. What type of paladin would you be if you were willing to lie?"
+(he makes it with 32)
 
 If he succeeds in dropping it, then they can do what they wish with the staff and be gone with this arc. Mages are happy, but graycloaks remain dead.
 
@@ -156,25 +186,42 @@ Maybe they can bring a boat.
 
 Maybe here GW can get his rewards (to highlight that they are the protectors of the city).
 
+### Watchers of the Prime (Faey)
+sending to Isteria
+"kiaransalee stopped, far too close. may need to revisit plans to expand to other planes"
+expanding presence in material plane
+has a base in neverwinter
+eladrin bringing in
+-> warlock helpers
+watchers into material plane
+graycloaks push back on the expeditions
+
 ## One Last Get Together (Party)
 The final thing to do is prompt for one last time that the PCs get together. There is probably a suitable social occasion; the death of one, the marriage of another, a coronation of an NPC they helped or maybe even a PC taking the throne, or the big opening event for some enterprise one is opening in their retirement.
 You just need to set the scene and let them see how they reminisce about their time together, the roleplay standing in for the feeling of having been with this group for so long in real life.
 
+## Tapestry Commission
+`Lenissie Whitebringer` + 2 middle aged women
+"epic sized"
+200ft long, 10ft tall
+"golden thread"
+"kick starting the economy"
+
 ## Plan
 ### Immediate Stage
-- Diana/Ursula
-- Gilbert
-- Resurrections
-- Wand of Orcus first attempts and decisions
+- ~~Diana/Ursula~~
+- ~~Gilbert~~
+- ~~Resurrections~~ (1)
+- ~~Wand of Orcus first attempts and decisions~~
 - ANYTHING THEY WANT TO DO THAT DAY
 
 ### Second Stage
-- Galeron + Faey
-- Ceremony (Funeral or something else)?
-- Mordai + Dahaka
-- Faey: Try to get him child.
-- Halls of Justice
-- Kavaki Bro strats (he'll have to initiate something...)
+- ~~Galeron + Faey~~
+- ~~Ceremony (very short forced one)~~
+- ~~Mordai + Dahaka~~
+- ~~Faey: Try to get him child.~~ (he tought grayclosks!)
+- ~~Halls of Justice~~
+- ~~Kavaki Bro strats~~
 - EVERYONE LONG TERM WHAT THEY WANT TO DO
 - One last get-together if they split up..
 
@@ -184,14 +231,14 @@ Need a cliffhanger to indicate that the world is still alive and you intend to k
 - GW keeping orcus staff -> blurring the line of good and evil
 - Mordai keeping chronomancy -> sahaquiel loop indication (portrait or other)
 - Future event in the City (Zombies rising from the graveyard)
+- Faey using Irae's Eyes
+- Maerimydra?
 
 ### Mordai
 - Diana/Ursula chats/mind wipes
 - Sahaquiel Ending
 - Last knowledge
 - Let him design hist future
-
-A breakthrough feat that lets him retrofit his knowledge by actually using the weave?
 
 ### Faey
 - Arch-faey manager route via Galeron above.
@@ -215,7 +262,6 @@ Then misc:
 if he brings up something weird:
 - farm for his pets? https://i.redd.it/ry57if0dpsf71.jpg
 - private kavaki shrine? https://i.redd.it/dvji9bam8gn71.jpg
-
 
 ## Ideas
 ### Gifts
