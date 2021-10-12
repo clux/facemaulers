@@ -60,26 +60,28 @@ Understands the weave now.
 ## 87 chronomancy
 - DC18 on timepiece spells
 
-## Patron Paxos
+## Patron [[paxos]]
 Arcanoloth in the Gehanna
 
-## Patron Sahaquiel
+## Patron [[dahaka]] (Sahaquiel)
 - while alive; true Divine Soul/Patron
 - spell DC buffed to 20 somehow
 - modify memory 6th level, overcharge up to 8th level every 2 days
 - can do a once per week full rest refresh (chronomancy refresh 30min ritual)
 
 ## Endgame
-[[dahaka]] needs to remove chronomancy from him at the end.
-Last removal triggers meeting.
+He would like to go out as a divine soul sorcerer.
+Note that mordai was supposed to give back the book to [[paxos]], but he didn't.
 
-He would like to go out as a divine soul sorcerer
+- time magic to eradicate the pact
+- still sorcerer / wizard / warlock (but all under a single patron - sahaquiel as pact patron + sorcerer patron)
 
-time magic to eradicate the pact? or celestial warlock (paxos is sahaquiel)
-still sorcerer / wizard / warlock (but patron changed)
-mordai was supposed to give back the book? but he didn't.
-if his patron was sahaquiel all along; this was meant to be. he was never meant to give the book back. he needed it to end arklem/irae.
-earlier warlock dreams was actually weird fever dreams of sahaquiel? w/e.
+depending on patron choice in the epilogue, there's different endgames for sahaquiel/mordai.
+
+there is an opportunity for his patron being sahaquiel all along; i.e. this was meant to be:
+- he was never meant to give the book back. it was needed to end arklem/irae
+- earlier warlock dreams was actually weird fever dreams of sahaquiel? w/e.
+- someone has to place the book there in the past (cycles...)
 
 ## Patron Quests and Visions
 ### Fruit Quest
