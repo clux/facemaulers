@@ -6,7 +6,7 @@ Divine boon to party if they save him +1 STR up to 20.
 
 ## Links
 - Fight happened in [[81-fracto-nimbuli]].
-- Simulation in [[umnos-simulation]]
+- Simulation below
 
 ## Look
 (No larger than a regular giant.)

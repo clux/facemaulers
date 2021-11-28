@@ -12,7 +12,7 @@ Run pretty much verbatim from Out of the Abyss.
 - [[12-blingdenstone-taps]];
 - [[13-rockblight]]: Neheedra dead. Area 21 and 22 merged. They killed 3 rows of animated drow and activated Ogremoch.
 - [[14-pit-of-justice]] : Fought in pit. GW got a +1 Maul. Menhir temple cleansed by 3p party. Only a single EE. Modified its attack styles.
-- [[15-battle-for-blindgenstone]] : Goldwhisker fun + 3 player pudding king battle
+- [[15-battle-for-blingdenstone]] : Goldwhisker fun + 3 player pudding king battle
 - [[16-puzzling-devils]]: Left for [[solas-domain]] based on [[kazook]]'s quests
 - [[19-mizzrym]]: Returned and had [[gurnik]] res [[pendle]]
 - [[20-surface]]: clues from Ilvara deciphered, [[kazook]] created passage up
@@ -33,14 +33,14 @@ Who let them in? Incompetent ones that are bored with the protocol.
 - **Entemoch**: ancient prince of earth elementals - remnant summoning circle and energy that suffuses his cavern. Dark blue glow. Can summon elementals, might be source of Hjarka. Basilisks remain in there (can get a pet). Maybe her hidden elememtal markings light her.
 - **Ogremoch**: evil counterpart - 15m tall, eyes chipped obsidian. Just a magical sentient, transparent dust now (in Rockblight).
 - **Whiteshell**:  Salt mine outside. Perigrog Scrapedust runs it (hard working, distrusting).
-- **Pickshine Mines**: owned by miners guild. Garded by Galeb Duhr + 12 svirf. Much ore metal/mithral/adamantine/crystal caverns. Path out of Blindgenstone is through here!
+- **Pickshine Mines**: owned by miners guild. Garded by Galeb Duhr + 12 svirf. Much ore metal/mithral/adamantine/crystal caverns. Path out of Blingdenstone is through here!
 - **Stoneheart Quarry**: Contains earth elementals aiding the city. This place creates elemental gems (earth), rings of elemental command, stones of controlling earth elementals. Led by Nomi Pathshutter. Deceptively friendly but smart and exploitative (knows of Ogremoch). Would be interested in Hjarka.
 
 ### Inside city
 - **Ogremoch**: Rockblight dust. Teamed up with Medusa (Neheedra). Maybe it can lead them to Entemoch?
 - **Diggermattock Hall**: Chief Dorbo and Senni ([[diggermattocks]])who came from the surface originally. Wants to fully rebuild and sends patrols to uninhabited parts of the city.
 - **Miners Guild**: Led by Senni ([[diggermattocks]]). Oversees magic/enchantment/mining. Makin’ spell gems.
-- **Stoneheart Enclave**: Group of spellcasters originally trained by emerald enclave (hippie commune).  Elemental magic clerics (Callardujan and Segojan). They summon earth elementals to aid blindgenstone (xorn + galeb duhr). Control entrances, widening, sealing, gems. These are high level some of them. Leader is Yantha Coaxrock.
+- **Stoneheart Enclave**: Group of spellcasters originally trained by emerald enclave (hippie commune).  Elemental magic clerics (Callardujan and Segojan). They summon earth elementals to aid blingdenstone (xorn + galeb duhr). Control entrances, widening, sealing, gems. These are high level some of them. Leader is Yantha Coaxrock.
 - **Burrow Wardens**:  Svirf training under  veteran BW Jadger (ghost). Trisk Adamantelpiece Leader in training.
 - **Ghosts**: still occupying many houses, varying hostility. Starting to become a problem.
 - **Goldwhisker clan**: wererats led by Chipgrin. Wants truce with Diggermattocks.
@@ -275,7 +275,7 @@ If they don't go to anywhere or just lounge towards gracklstugh...
 [12-blingdenstone-taps]: ../recaps/12-blingdenstone-taps "12-blingdenstone-taps"
 [13-rockblight]: ../recaps/13-rockblight "13-rockblight"
 [14-pit-of-justice]: ../recaps/14-pit-of-justice "14-pit-of-justice"
-[15-battle-for-blindgenstone]: ../recaps/15-battle-for-blindgenstone "15-battle-for-blindgenstone"
+[15-battle-for-blingdenstone]: ../recaps/15-battle-for-blingdenstone "15-battle-for-blingdenstone"
 [16-puzzling-devils]: ../recaps/16-puzzling-devils "16-puzzling-devils"
 [solas-domain]: solas-domain "Solas' Domain"
 [kazook]: ../npcs/kazook "Kazook"

@@ -1,6 +1,6 @@
 23/06
 ## 73 Battle aftermath
-See [[wd-demogorgon]]. Even ran a [[demo-simulation]] for this.
+See [[wd-demogorgon]]. Even ran a simulation in there for this.
 Felgolos arrives late and everyone chats with Diano and Ursula about Kiaransalee and probably locations of Irae.
 Hanir's End.
 Deciding to resume in Halos next episode.

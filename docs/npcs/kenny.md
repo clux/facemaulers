@@ -19,7 +19,7 @@ And the greatest mystery of all yet remains: who is Bob?
 
 ## Cannon shop
 Sells cannons. Here's a fully loaded one:
-![](artemis-cannon.png)
+![](../seaofbones/artemis-cannon.png)
 
 Standard cannons (that's one weak looking cannon)
 
