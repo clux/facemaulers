@@ -10,7 +10,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   name: material
-  faviocon: favicon.jpg
+  favicon: favicon-96x96.png
   palette:
   - scheme: slate
     accent: amber
