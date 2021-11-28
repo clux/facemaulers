@@ -31,7 +31,7 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 
 - [pcs](./docs/pcs) :: players characters
 - [npcs](./docs/npcs) :: important non-player-characters
-- [deities](./docs/deities) :: significant members of the [pantheon](./docs/deities/pantheon.md)
+- [deities](./docs/deities) :: significant members of the [pantheon](./docs/deities/0-pantheon.md)
 - [factions](./docs/factions) :: significant groups of characters and their properties
 - [rules](./docs/rules) :: dm's notes; [politics](./docs/rules/politics.md), [recreation](./docs/rules/recreation.md), and a [retrospective](./docs/rules/retrospective.md)
 - [recaps](./docs/recaps) :: a chronological trail with one dm's summary per session

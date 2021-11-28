@@ -7,8 +7,10 @@ repo_url: https://github.com/clux/campaign
 repo_name: clux/campaign
 edit_uri: edit/main/docs
 theme:
-  icon: fontawesome/brands/github
+  icon:
+    repo: fontawesome/brands/github
   name: material
+  faviocon: favicon.jpg
   palette:
   - scheme: slate
     accent: amber
