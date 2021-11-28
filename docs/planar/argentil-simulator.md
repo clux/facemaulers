@@ -1,4 +1,4 @@
-# Argentil FFA  Simulator
+# Argentil Simulator
 A one shot FFA location in [[selune]]'s playground
 Played in [[113-selune-royale]].
 

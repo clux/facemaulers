@@ -26,7 +26,7 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 
 - [pcs](./pcs/goatweaver) :: players characters
 - [npcs](./npcs/irae) :: important non-player-characters
-- [deities](./deities/0-pantheon) :: significant members of the pantheon
+- [deities](./deities/pantheon) :: significant members of the pantheon
 - [factions](./factions/mages-guild) :: significant groups of characters and their properties
 - [rules](./rules/retrospective) :: dm's notes; [politics](./rules/politics.md), [recreation](./rules/recreation.md), and a [retrospective](./rules/retrospective.md)
 - [recaps](./recaps/01-waterdeep-start) :: a chronological trail with one dm's summary per session
