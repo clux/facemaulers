@@ -1,4 +1,7 @@
 # Campaign 2018-2021
+[![CI](https://github.com/clux/campaign/actions/workflows/release.yml/badge.svg)](https://github.com/clux/campaign/actions/workflows/release.yml)
+
+
 DM notes and brain organisation from a 3.5 year D&D 5e campaign.
 
 See the [**rendered github pages**](https://clux.github.io/campaign) for best effect.

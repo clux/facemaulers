@@ -2,8 +2,12 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Face Maulers 2018-2021
+site_name: Face Maulers
+repo_url: https://github.com/clux/campaign
+repo_name: clux/campaign
+edit_uri: edit/main/docs
 theme:
+  icon: fontawesome/brands/github
   name: material
   palette:
   - scheme: slate
@@ -22,6 +26,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.instant
+    - navigation.tracking
 markdown_extensions:
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
@@ -42,8 +48,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  # - pymdownx.emoji:
-      # emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -62,3 +66,13 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+copyright: 2018-2021
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/regular/bookmark
+      link: https://clux.dev
+    - icon: fontawesome/brands/github
+      link: https://github.com/clux/campaign
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/sszynrae
