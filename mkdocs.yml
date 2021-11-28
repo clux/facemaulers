@@ -30,6 +30,7 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.tracking
+    #- toc.integrate
 nav:
 - Campaign: index.md
 - PCs:
@@ -108,25 +109,6 @@ nav:
   - deities/selune.md
   - deities/umberlee.md
   - deities/xial.md
-- Rules:
-  - rules/calendar.md
-  - rules/chronomancy.md
-  - rules/combat.md
-  - rules/dungeons.md
-  - rules/economics.md
-  - rules/factions.md
-  - rules/generators.md
-  - rules/house.md
-  - rules/loot.md
-  - rules/maps.md
-  - rules/music.md
-  - rules/nerfs.md
-  - rules/npcs.md
-  - rules/politics.md
-  - rules/punishment.md
-  - rules/recreation.md
-  - rules/retrospective.md
-  - rules/shopping.md
 - Factions:
   - factions/arcane-brotherhood.md
   - factions/bregan-daerthe.md
@@ -136,19 +118,19 @@ nav:
   - factions/sunset-warriors.md
   - factions/undying-soul.md
 - Planar:
+  - planar/shadowfell.md
+  - planar/cityofbrass.md
+  - planar/feywild.md
+  - planar/ysgard.md
+  - planar/tesseract.md
   - planar/argentil-peak.md
   - planar/argentil-simulator.md
   - planar/cania.md
-  - planar/cityofbrass.md
-  - planar/feywild.md
   - planar/gehenna.md
+  - planar/penthacoron.md
   - planar/maerimydra.md
   - planar/morgolondar.md
   - planar/ormolu-complex.md
-  - planar/penthacoron.md
-  - planar/shadowfell.md
-  - planar/tesseract.md
-  - planar/ysgard.md
 - Sword Coast:
   - coast/waterdeep.md
   - coast/sunless-citadel.md
@@ -208,6 +190,7 @@ nav:
   - north/mirabar.md
   - north/toll-trolls.md
   - north/yeenoghus-lair.md
+- Spine:
   - spine/stormguard-citadel.md
   - spine/gilgrin-vault.md
   - spine/gilgrin.md
@@ -217,16 +200,16 @@ nav:
   - spine/protectorate.md
   - spine/rimehaze.md
 - East:
-  - east/acropolis.md
+  - east/nekrina.md
   - east/bonecity.md
-  - east/dragonlake-pier.md
+  - east/path-of-suffering.md
+  - east/irithyll.md
+  - east/irithyll-oubliette.md
+  - east/velddrinnsshar.md
+  - east/acropolis.md
   - east/epilogue.md
   - east/ideas.md
-  - east/irithyll-oubliette.md
-  - east/irithyll.md
-  - east/nekrina.md
-  - east/path-of-suffering.md
-  - east/velddrinnsshar.md
+  - east/dragonlake-pier.md
 - Recaps:
   - recaps/00-introduction.md
   - recaps/01-waterdeep-start.md
@@ -354,6 +337,25 @@ nav:
   - recaps/123-kiansalee-attacks.md
   - recaps/124-kiaransalee-battle.md
   - recaps/125-denouement.md
+- Rules:
+  - rules/retrospective.md
+  - rules/calendar.md
+  - rules/chronomancy.md
+  - rules/combat.md
+  - rules/dungeons.md
+  - rules/economics.md
+  - rules/factions.md
+  - rules/generators.md
+  - rules/house.md
+  - rules/loot.md
+  - rules/maps.md
+  - rules/music.md
+  - rules/nerfs.md
+  - rules/npcs.md
+  - rules/politics.md
+  - rules/punishment.md
+  - rules/recreation.md
+  - rules/shopping.md
 markdown_extensions:
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
