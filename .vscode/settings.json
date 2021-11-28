@@ -7,7 +7,7 @@
   "[markdown]": {
     "editor.quickSuggestions": true
   },
-  "foam.openDailyNote.directory": "./recaps",
+  "foam.openDailyNote.directory": "./docs/recaps",
   "foam.openDailyNote.fileExtension": "md",
   "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.files.ignore": [
