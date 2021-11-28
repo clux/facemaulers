@@ -363,7 +363,7 @@ https://divinityoriginalsin2.wiki.fextralife.com/Ancient+Temple
 [rimehaze]: ../spine/rimehaze "Rimehaze"
 [63-rime-turtles]: ../recaps/63-rime-turtles "63-rime-turtles"
 [72-prince-of-demons]: ../recaps/72-prince-of-demons "72-prince-of-demons"
-[wd-demogorgon]: ../waterdeep/wd-demogorgon "Waterdeep Siege"
+[wd-demogorgon]: ../coast/wd-demogorgon "Waterdeep Siege"
 [115-velddrinnsshark]: ../recaps/115-velddrinnsshark "115-velddrinnsshark"
 [120-liches]: ../recaps/120-liches "120-liches"
 [path-of-suffering]: ../east/path-of-suffering "Path of Suffering"

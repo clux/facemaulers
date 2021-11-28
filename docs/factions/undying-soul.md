@@ -98,7 +98,7 @@ Felgolos, Arklem, Irae must be present/die in the room of Kiaransalee.
 [valindra]: ../npcs/valindra "Valindra"
 [orcus]: ../deities/orcus "Orcus"
 [gilgrin-vault]: ../spine/gilgrin-vault "Gilgrin Vault"
-[wd-demogorgon]: ../waterdeep/wd-demogorgon "Waterdeep Siege"
+[wd-demogorgon]: ../coast/wd-demogorgon "Waterdeep Siege"
 [luskan]: ../north/luskan "Luskan"
 [arcane-brotherhood]: arcane-brotherhood "Arcane Brotherhood"
 [celerom]: ../npcs/celerom "Celerum"

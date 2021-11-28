@@ -2,7 +2,7 @@
 The magocracy that rules Waterdeep.
 
 ## Lower floor
-![](../waterdeep/mages-guild-lower.jpg)
+![](../coast/mages-guild-lower.jpg)
 
 ## Places
 Reclining chair study room.
