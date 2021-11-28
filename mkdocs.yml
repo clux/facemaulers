@@ -1,0 +1,64 @@
+# official tutorial
+# mkdocs-material: https://squidfunk.github.io/mkdocs-material/
+# mkdocs: https://www.mkdocs.org/user-guide/configuration/
+
+site_name: Face Maulers 2018-2021
+theme:
+  name: material
+  palette:
+  - scheme: slate
+    accent: amber
+    primary: black
+    media: "(prefers-color-scheme: dark)"
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  - scheme: default
+    media: "(prefers-color-scheme: light)"
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+markdown_extensions:
+  - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
+  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+  - nl2br # newline-to-break
+  - toc:
+      permalink: '#' # heading anchor
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  # - pymdownx.emoji:
+      # emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+plugins:
+  - search
+  - roamlinks
+    #- autolinks
+  - exclude:
+      glob:
+        - "*.tmp"
+        - "*.pdf"
+        - "*.gz"
+      regex:
+        - '.*\.(tmp|bin|tar)$'

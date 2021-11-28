@@ -14,22 +14,22 @@ Folders generally specify regions, these sometimes coincide entirely with chapte
 ### Chapters and content folders
 
 1. Introduction & [[sunless-citadel]] :: EP 1-4
-2. [Into the Abyss](./underdark/velkynvelve/) segue :: EP 4-19
+2. [Into the Abyss](./underdark/velkynvelve) segue :: EP 4-19
 3. Escape,  and [Waterdeep](./waterdeep/waterdeep.md) :: EP 20-30
-4. [Seafaring](./seaofbones) on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
-5. [North](./north); [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) :: EP 45-56
-6. [Corrupted giants](./spine) in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
+4. Seafaring on the [Artemis](./seaofbones/artemis.md) :: EP 31-46
+5. North in [Neverwinter](./north/neverwinter.md) & [Luskan](./north/luskan.md) :: EP 45-56
+6. Corrupted giants in [Stormguard Citadel](./spine/stormguard-citadel.md):: EP 57-81
 7. The [Silver](./factions/silver-helix.md) Lich Trail :: EP 82-105
 8. Into the [Shadowfell](./planar/shadowfell.md) to deal with the [Undying Soul](./factions/undying-soul.md) :: EP 106-125
 
 ### Special folders
 
-- [pcs](./pcs) :: players characters
-- [npcs](./npcs) :: important non-player-characters
-- [deities](./deities) :: significant members of the [pantheon](./deities/pantheon.md)
-- [factions](./factions) :: significant groups of characters and their properties
-- [rules](./rules) :: dm's notes; [politics](./rules/politics.md), [recreation](./rules/recreation.md), and a [retrospective](./rules/retrospective.md)
-- [recaps](./recaps) :: a chronological trail with one dm's summary per session
+- [pcs](./pcs/goatweaver) :: players characters
+- [npcs](./npcs/irae) :: important non-player-characters
+- [deities](./deities/pantheon) :: significant members of the [pantheon](./deities/pantheon.md)
+- [factions](./factions/mages-guild) :: significant groups of characters and their properties
+- [rules](./rules/retrospective) :: dm's notes; [politics](./rules/politics.md), [recreation](./rules/recreation.md), and a [retrospective](./rules/retrospective.md)
+- [recaps](./recaps/01-waterdeep-start) :: a chronological trail with one dm's summary per session
 
 ## Player Resources
 Resources maintained by players:
