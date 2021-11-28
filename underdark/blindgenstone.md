@@ -283,7 +283,7 @@ If they don't go to anywhere or just lounge towards gracklstugh...
 [gurnik]: ../npcs/gurnik "Gurnik"
 [pendle]: ../pcs/pendle "Pendleblip"
 [20-surface]: ../recaps/20-surface "20-surface"
-[hanir]: ../pcs/hanir "Hans Irel"
+[hanir]: ../pcs/hanir "Hanir"
 [zed]: ../pcs/zed "Zed"
 [diggermattocks]: ../npcs/diggermattocks "Dorbo"
 [blingdenstone-rockblight]: blingdenstone-rockblight "Rockblight"

@@ -9,6 +9,7 @@
   },
   "foam.openDailyNote.directory": "./recaps",
   "foam.openDailyNote.fileExtension": "md",
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.files.ignore": [
     "/.vscode",
     "/README.md",
@@ -31,5 +32,5 @@
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
 }

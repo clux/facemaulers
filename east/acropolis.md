@@ -414,7 +414,7 @@ made this up in [[121-kiaransal-three]]
 ##### Arklem notebook
 - sight of kiaransalee (necrotic version)
 - talks about the [[orcus]] heist by [[undying-soul]] (describe his capabilities)
-- reporpose DENIAL and BARGAINING sections from [[acropolis]]
+- reporpose DENIAL and BARGAINING sections from acropolis
 - Mordai: attune to Wand of Orcus and gain crazy dmg spells (although that setup is boring for GW)
 
 ##### Irae notebook
