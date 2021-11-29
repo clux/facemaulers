@@ -30,9 +30,16 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.tracking
-    #- toc.integrate
+    # not using toc.integrate - too inconsistent use of headers
+
+# NB: Maintaining the nav list is not necessary, but is needed to reorder.
+# Generated from "fd .md ." in docs/ folder.
+# nd mkdocs serve will tell us about uncovered documents or broken links
 nav:
-- Campaign: index.md
+- Campaign:
+  - index.md
+  - session_notes.md
+  - bag_of_holding.md
 - PCs:
   - pcs/mordai.md
   - pcs/goatweaver.md
@@ -110,13 +117,13 @@ nav:
   - deities/umberlee.md
   - deities/xial.md
 - Factions:
-  - factions/arcane-brotherhood.md
-  - factions/bregan-daerthe.md
-  - factions/graycloaks.md
   - factions/mages-guild.md
+  - factions/arcane-brotherhood.md
+  - factions/graycloaks.md
+  - factions/undying-soul.md
   - factions/silver-helix.md
   - factions/sunset-warriors.md
-  - factions/undying-soul.md
+  - factions/bregan-daerthe.md
 - Planar:
   - planar/shadowfell.md
   - planar/cityofbrass.md
@@ -132,73 +139,73 @@ nav:
   - planar/morgolondar.md
   - planar/ormolu-complex.md
 - Sword Coast:
-  - coast/waterdeep.md
-  - coast/sunless-citadel.md
+  - coast/yawning-portal.md
   - coast/oakhurst.md
-  - coast/baldursgate.md
-  - coast/candlekeep.md
+  - coast/sunless-citadel.md
   - coast/cursed-grove.md
+  - coast/waterdeep.md
   - coast/docks.md
   - coast/rulers.md
-  - coast/undermountain.md
   - coast/wd-demogorgon.md
-  - coast/yawning-portal.md
+  - coast/undermountain.md
+  - coast/candlekeep.md
+  - coast/baldursgate.md
 - Underdark:
   - underdark/velkynvelve.md
   - underdark/sloobludop.md
+  - underdark/darklake.md
+  - underdark/atishalla.md
+  - underdark/lirthuqos-lair.md
   - underdark/neverlight.md
+  - underdark/spider-cavern.md
   - underdark/blingdenstone.md
   - underdark/blingdenstone-justice-pit.md
   - underdark/blingdenstone-rockblight.md
-  - underdark/darklake.md
-  - underdark/atishalla.md
   - underdark/solas-domain.md
-  - underdark/lirthuqos-lair.md
-  - underdark/telnarquel.md
   - underdark/kruthik-lair.md
   - underdark/gracklstugh.md
   - underdark/menzo.md
-  - underdark/spider-cavern.md
+  - underdark/telnarquel.md
 - Escape:
   - whiteplume/evermoors.md
   - whiteplume/plume.md
-  - whiteplume/plume-escape.md
-  - whiteplume/plume-left.md
   - whiteplume/plume-right.md
+  - whiteplume/plume-left.md
+  - whiteplume/plume-escape.md
   - whiteplume/goat-village.md
   - whiteplume/kobold-lair.md
 - Sea:
   - seaofbones/artemis.md
-  - seaofbones/devils-reef.md
+  - seaofbones/piracy.md
+  - seaofbones/moray.md
+  - seaofbones/mirror-temple.md
+  - seaofbones/grundsgryn.md
   - seaofbones/empress.md
   - seaofbones/firewatch-island.md
-  - seaofbones/grundsgryn.md
-  - seaofbones/mirror-temple.md
-  - seaofbones/moray.md
-  - seaofbones/piracy.md
-  - seaofbones/ruathym.md
+  - seaofbones/devils-reef.md
   - seaofbones/trench-of-darkness.md
+  - seaofbones/ruathym.md
 - North:
-  - north/luskan.md
   - north/neverwinter.md
-  - north/neverwinter-end-battle.md
-  - north/boreal-valley.md
   - north/castle-never.md
   - north/castle-nowhere.md
   - north/evernight.md
-  - north/icewind-dale.md
-  - north/mirabar.md
   - north/toll-trolls.md
+  - north/luskan.md
+  - north/mirabar.md
+  - north/boreal-valley.md
+  - north/icewind-dale.md
   - north/yeenoghus-lair.md
+  - north/neverwinter-end-battle.md
 - Spine:
   - spine/stormguard-citadel.md
-  - spine/gilgrin-vault.md
+  - spine/rimehaze.md
   - spine/gilgrin.md
+  - spine/gilgrin-vault.md
+  - spine/protectorate.md
+  - spine/halos.md
   - spine/halos-2.md
   - spine/halos-3.md
-  - spine/halos.md
-  - spine/protectorate.md
-  - spine/rimehaze.md
 - East:
   - east/nekrina.md
   - east/bonecity.md

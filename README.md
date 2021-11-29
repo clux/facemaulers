@@ -1,17 +1,16 @@
 # Campaign 2018-2021
 [![CI](https://github.com/clux/campaign/actions/workflows/release.yml/badge.svg)](https://github.com/clux/campaign/actions/workflows/release.yml)
 
-
 DM notes and brain organisation from a 3.5 year D&D 5e campaign.
 
 See the [**rendered github pages**](https://clux.github.io/campaign) for best effect.
 
-## Second Brain
+## Setup
 This repo uses [foam](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
 
-To browse locally; follow the [last steps of foam install](https://foambubble.github.io/foam/#getting-started) (clone repo, open as workspace, install recommended extensions).
+The webpage is using [`mkdocs`](https://www.mkdocs.org/) with [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
 
-The main feature this gives is the ability to [follow markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) effectively.
+To browse locally in `code`; [clone + install extensions](https://foambubble.github.io/foam/#getting-started) to browes with [markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links).
 
 ## Organisation
 Folders generally specify regions, these sometimes coincide entirely with chapters of the campaign, but often not due to the amount of quick teleports between them.

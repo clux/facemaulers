@@ -1,5 +1,6 @@
 # Morglon'dar
-From the 4e Demonomicon.
+
+From the 4e Demonomicon. Potential plot hook for many things as an entry point to the abyss. Never materialised.
 
 ## Motivation
 Might see demon lords return even despite seeing some die.
