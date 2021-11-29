@@ -3,11 +3,11 @@
 ## Roles
 Via [Matt Colville: Tactics and Strategy #70](https://www.youtube.com/watch?v=FfYItCw00Z4)
 
-- infantry – novice positioning tools (physical blocks)
-- glass cannons – high dmg people protected by infantry
-- brute – low mobility, high damage, low ac, high hp
-- artillery – behind the infantry making hard to get – advanced positioning tools
-- boss – multiple of these together (needs reactions) - lynchpin
+- **infantry** – novice positioning tools (physical blocks)
+- **glass** cannons – high dmg people protected by infantry
+- **brute** – low mobility, high damage, low ac, high hp
+- **artillery** – behind the infantry making hard to get – advanced positioning tools
+- **boss** – multiple of these together (needs reactions) - lynchpin
 
 where:
 - ranged bosses needs to be further away from enemies > 45ft away.

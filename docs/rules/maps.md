@@ -5,15 +5,15 @@ Generally have favoured ones with less detail as it's easier to project societal
 
 ## Resources
 ### Subreddits
-- r/dndmaps
-- r/battlemaps
-- r/inkarnate
+- [r/dndmaps](http://old.reddit.com/r/dndmaps)
+- [r/battlemaps](https://old.reddit.com/r/battlemaps)
+- [r/inkarnate](https://old.reddit.com/r/inkarnate/)
 
 ## BL2
 Some maps were either screengrabs or based on borderlands 2:
 
-- Argentil Peak == Digistruct Peak map
-- Castle Never's spire == the handsome's sorcerer's spire
+- Argentil Peak == [Digistruct Peak](https://borderlands.fandom.com/wiki/The_Raid_on_Digistruct_Peak) map
+- Castle Never's Spire ~= [Dragon Keep](https://borderlands.fandom.com/wiki/Dragon_Keep) upper platform
 
 ## Creation
 https://dungeonscrawl.com/ is great for making maps in the dyson style.

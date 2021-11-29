@@ -40,6 +40,7 @@ nav:
   - index.md
   - session_notes.md
   - bag_of_holding.md
+  - wrapup.md
 - PCs:
   - pcs/mordai.md
   - pcs/goatweaver.md
@@ -103,18 +104,18 @@ nav:
   - npcs/zaehesh.md
 - Deities:
   - deities/pantheon.md
-  - deities/dahaka.md
-  - deities/demogorgon.md
-  - deities/eilistraee.md
   - deities/kavaki.md
-  - deities/kiaransalee.md
+  - deities/dahaka.md
   - deities/kraken.md
-  - deities/lolth.md
-  - deities/orcus.md
-  - deities/ravenqueen.md
-  - deities/seelie-court.md
   - deities/selune.md
+  - deities/seelie-court.md
   - deities/umberlee.md
+  - deities/kiaransalee.md
+  - deities/demogorgon.md
+  - deities/orcus.md
+  - deities/lolth.md
+  - deities/ravenqueen.md
+  - deities/eilistraee.md
   - deities/xial.md
 - Factions:
   - factions/mages-guild.md
@@ -344,7 +345,7 @@ nav:
   - recaps/123-kiansalee-attacks.md
   - recaps/124-kiaransalee-battle.md
   - recaps/125-denouement.md
-- Rules:
+- DM:
   - rules/retrospective.md
   - rules/calendar.md
   - rules/chronomancy.md
