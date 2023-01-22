@@ -116,7 +116,7 @@ Sleeping. Can be woken up. Annoying noble. Superiority, but nothing evil about h
 "well of course they complain, not everyone can be in charge of policies, and in times of decline, the sellers of the most superfluous goods always suffer first."
 Sleeping in the room with the rake?
 
-### #If they get caught
+#### If they get caught
 They will have valuables stolen from them and they'll be locked away in chamber. And they'll have to escape.
 
 Escape will be a dungeon where they are meant to rot, but end up having to break out inside castle waterdeep.

@@ -20,7 +20,7 @@ Planar gate to the mirror-world where [[umberlee]] resides. The place where [[hj
 ### Intro
 She'll see Cameroon in the mirror stuck on the other side
 - "How did you get into this mirror?" "Pretty sure you're the one in the mirror"
-- "I was just walking around this ancient temple taking a selfie #blessed".
+- "I was just walking around this ancient temple taking a selfie `#blessed`.
 
  ### Exploration
 - Dark blue vines crawl up from the wall. Magical blue torches light in your vicinity. Mirrors everywhere.

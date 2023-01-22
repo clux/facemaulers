@@ -1,3 +1,6 @@
+---
+type: readme
+---
 # Overview
 DM notes and brain organisation from a 3.5 year D&D 5e campaign.
 
