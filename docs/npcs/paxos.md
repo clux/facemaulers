@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Paxos
 Original patron of [[mordai]].
 

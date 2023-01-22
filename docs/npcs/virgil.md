@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Virgil
 Profane seagull from [[firewatch-island]].
 Wants prime seafood from [[devils-reef]] before imparting with information about the [[trench-of-darkness]]

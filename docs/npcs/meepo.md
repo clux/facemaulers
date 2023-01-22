@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Meepo
 Friendly red kobold adventurer who helped out the complete Sunless Citadel start adventure in episode 1-3.
 High monster voice. Curious, careful. Lucky. Goals; advancement of kobold-kin.

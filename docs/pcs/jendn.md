@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Jendn
 > Jendn Benderwalfrd
 https://www.dndbeyond.com/profile/thhethssmuz/characters/10999673

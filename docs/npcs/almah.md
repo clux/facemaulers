@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Almah
 Old lady inspired by Celeste. Extraplanar. Very old.
 she's under https://dnd5e.fandom.com/wiki/Nystul%27s_Magic_Aura so she appears non-magical.

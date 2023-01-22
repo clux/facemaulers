@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Valindra
 Overwizard and Master of the Tower Arcane in [[luskan]] 700AD.
 Agent of `Szass Tam` in Thay.

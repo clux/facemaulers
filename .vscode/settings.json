@@ -20,7 +20,9 @@
   ],
   "foam.graph.style": {
     "node": {
-        "creature": "#55aadd",
+        "pc": "#aadd55",
+        "npc": "#cc5555",
+        "deity": "#55aadd",
         "location": "#bada55",
         "recap": "#666",
         "note": "#eeeeee",

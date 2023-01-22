@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Jarlaxle
 
 Normally resides in the abyss. If she’s here, that means someone has summoned her visage through the underdark somehow. I’d blame the dark elves or some of the other.

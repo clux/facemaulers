@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Dorbo
 ![](dorbo.png)
 

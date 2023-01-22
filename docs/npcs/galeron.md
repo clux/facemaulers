@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Galeron
 Regiment Leader of the [[graycloaks]]
 

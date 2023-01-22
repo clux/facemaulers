@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Demogorgon
 The prince of demons.
 

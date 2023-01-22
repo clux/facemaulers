@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Goatweaver
 > Lahevik Goatweaver
 https://www.dndbeyond.com/profile/Goatweaver/characters/3516860

@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Windsorrow
 https://www.dndbeyond.com/profile/SpikeThinksYourAuthIsShit/characters/3767262
 

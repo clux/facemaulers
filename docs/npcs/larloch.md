@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Larloch
 
 The shadow king.

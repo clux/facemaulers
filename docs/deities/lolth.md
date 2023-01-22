@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Lolth
 Lolth the Demon Queen of Spiders is a goddess of egotism, preaching that the ultimate power of the self is achieved through the subordination of others, and the drow revere her above all others.
 Greater deity. Above [[kiaransalee]] by many levels.

@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Bron
 half-elf ranger, cruffy beard (half-elf beards are rubbish), skinny
 https://www.dndbeyond.com/profile/CaseAtreides/characters/3288416

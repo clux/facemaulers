@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Umberlee
 Lee is a tiamat strength creature, controlling an equally powerful Kraken.
 She ascended through Yog (kraken is a sun of an old one).

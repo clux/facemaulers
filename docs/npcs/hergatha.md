@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Hergatha
 Hergatha – the Storm Maiden. Personified goth version of Hjarka.
 You see her in the mirror, a plane touched creature wielding a dagger.

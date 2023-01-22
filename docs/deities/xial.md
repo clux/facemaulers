@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Xial
 
 Great old one. Basically a re-skinned [Yog-Sothoth](https://lovecraft.fandom.com/wiki/Yog-Sothoth).

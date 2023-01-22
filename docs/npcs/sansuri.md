@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Sansuri
 Storm giant smiling one. Countess of the Boreal Valley (to Jarl Storvald).
 (Rogue with levels in sorcerer)

@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Malexis
 Master of the Demon Mountain CC265 CR17 (son of Mephisto)
 Security guard for [[arklem]] in [[irithyll-oubliette]].

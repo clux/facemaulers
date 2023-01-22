@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Gurnik
 > Gurnik Tapfinger
 

@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Thoggi
 > Thoggi Slabchest
 ![](thoggi.png)

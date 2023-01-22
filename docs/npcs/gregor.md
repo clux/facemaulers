@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Gregor
 Husband of gemstone lady Elyon whose shop (Furious Gemstones) went bankrupt in gemstone shortage.
 He seems to want to leave his wife (who has kids).

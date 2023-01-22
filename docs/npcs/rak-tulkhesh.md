@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Rak Tulkhesh
 
 Undefeated Champion of the Onyx Octagon in the [[cityofbrass]].

@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Dahaka
 AKA Sahaquiel; Celestial Guardian of Time.
 Seen at [[grundsgryn]] in a terrifying light:

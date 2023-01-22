@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Faeynore
 > Faeynore Mellerelel
 https://www.dndbeyond.com/profile/oops_its_on_fire/characters/15435734

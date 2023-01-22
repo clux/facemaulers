@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Irae T'sarran
 Drow high priestess of [[kiaransalee]] (turned champion). Lived in [[maerimydra]] but took over the city, once she became a Lich, exterminated everyone, and moved it into a pocket dimension where she built her fortress.
 

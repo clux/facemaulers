@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Kenny
 Cannon salesboy in [[waterdeep]] working with his mother.
 

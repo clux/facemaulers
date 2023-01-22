@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Orcus
 Loosely based on https://forgottenrealms.fandom.com/wiki/Orcus
 

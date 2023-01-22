@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Sydney
 Secretary thiefling mean girl in the Tower Arcane in [[luskan]].
 Now operates the night club in [[bonecity]]

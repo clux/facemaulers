@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Ursula
 Grey/blue haired robed clumsy woman with glasses. (abjuration / illusion + lore)
 

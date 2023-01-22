@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Zaehesh
 Erinye emissary from Mephistar from department of long term interests.
 

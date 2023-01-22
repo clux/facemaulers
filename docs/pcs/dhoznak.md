@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Dhoznak
 > Dhoznak Warmforge
 https://www.dndbeyond.com/profile/SpikeThinksYourAuthIsShit/characters/3288503

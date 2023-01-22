@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Hjarka
 Earth Genasi fighter from [[gracklstugh]].
 https://www.dndbeyond.com/profile/apriltuesday/characters/5003990

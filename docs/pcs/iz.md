@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Iz
 > Iztlu Satza
 https://www.dndbeyond.com/profile/Psiloclast/characters/12897564

@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Pantheon
 Started out using standard 5e deities, but as need arose, a more fixed pantheon around the players stabilised.
 

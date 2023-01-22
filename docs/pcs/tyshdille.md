@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Tyshdille
 > Tyshdille Fireforge
 https://www.dndbeyond.com/profile/bibblyb/characters/17320841

@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Anjanu
 [[pendle]]'s new handler.
 

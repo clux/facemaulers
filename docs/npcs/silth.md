@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Silth
 > Silth the Infestor (Ancient Viridian Dragon 700yo)
 

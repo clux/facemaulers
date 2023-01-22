@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Felgolos
 ## Encounters
 - [[67-felgy]] (initial encounter)

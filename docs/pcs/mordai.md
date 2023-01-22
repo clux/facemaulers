@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Mordai
 > Mordai Godkin
 https://www.dndbeyond.com/profile/guyleaver/characters/3288264

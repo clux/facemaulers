@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Travok
 ![](travok.png)
 

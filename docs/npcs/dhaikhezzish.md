@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Dhaikhezzish
 Dhaikhezzish The Incandescent. The Flame of Truth, Grand Sultan of All The Efreet, The Crimson Firebrand of the [[cityofbrass]].
 (Magnus Incalesco of the [[silver-helix]])

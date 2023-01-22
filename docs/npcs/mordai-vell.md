@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Mordai Vell
 Rich noble warlock in [[neverwinter]] using the Graycloaks as his personal army for money. Warlock whose patron is [[koth]]. Uses the shadowfell's influence to summon undead and can be in good contact with [[koth]] as such.
 Killed [[goatweaver]] once.

@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Seelie Court
 ![](seelie-court.png)
 

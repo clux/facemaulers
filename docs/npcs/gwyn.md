@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Gwyn
 
 Misguided goolock who serves [[xial]] and was going to become food in lower plane.

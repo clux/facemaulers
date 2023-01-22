@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Raven Queen
 Queen of the Shadowfell
 ![](ravenqueen.png)

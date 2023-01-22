@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Celerum
 A more likely helper. Master mage.
 

@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Kraken
 The pet of [[umberlee]] somewhat controllable by [[hjarka]].
 

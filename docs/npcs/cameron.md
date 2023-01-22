@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Cameron
 
 Painter in [[waterdeep]] and stowaway aboard the [[artemis]].

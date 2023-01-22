@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Eilistraee
 > The dark maiden, the dark dancer
 Chaotic good drow goddess of beauty, song, dance, freedom.

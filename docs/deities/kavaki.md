@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Kavaki
 > The Ram Lord
 Domains: ~~Protection, Strength, Travel, War~~ Simplicity.

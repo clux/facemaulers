@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Fracto-Nimbuli
 DISEASED Corrupted Storm Giant ruler of [[halos-3]].
 

@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Zed
 > Zed Legrot
 https://www.dndbeyond.com/profile/oops_its_on_fire/characters/13547529

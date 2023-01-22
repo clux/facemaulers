@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Arqarin
 > Arabella Ravensword
 https://www.dndbeyond.com/profile/user-100995373/characters/3274848

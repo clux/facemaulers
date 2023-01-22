@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Hanir
 > Hans Irel
 

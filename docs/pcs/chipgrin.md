@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Chipgrin
 > Chipgrin GoldWisker
 https://www.dndbeyond.com/profile/SpikeThinksYourAuthIsShit/characters/5703343

@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Kiaransalee
 > The Wailing Banshee / The Revenancer
 Vengeful scythe wielding drow. Cruel, twisted, went insane ages ago.

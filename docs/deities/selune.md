@@ -1,3 +1,7 @@
+---
+type: deity
+---
+
 # Selune
 Lives on an island of Argentil.
 https://forgottenrealms.fandom.com/wiki/Gates_of_the_Moon

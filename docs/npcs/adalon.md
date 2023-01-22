@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Adalon
 High Chancellor Adalon the 5th of [[icewind-dale]] and Nobilis Argentum of [[silver-helix]].
 

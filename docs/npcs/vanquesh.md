@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Venquesh
 
 Venkash was a condescending devil in a cushy subcontractor job for dispater.

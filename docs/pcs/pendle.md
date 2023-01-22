@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Pendleblip
 > Pendleblip Godalming Curmudgin XVI
 https://www.dndbeyond.com/profile/Blatherwick/characters/3732720

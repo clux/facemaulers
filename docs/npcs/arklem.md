@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Arklem Greeth
 Grand archmage of [[arcane-brotherhood]] + Grand Extender of [[undying-soul]].
 

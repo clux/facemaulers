@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Kazook
 > Pickshine
 https://forgottenrealms.fandom.com/wiki/Kazook_Pickshine

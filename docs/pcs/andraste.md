@@ -1,3 +1,7 @@
+---
+type: pc
+---
+
 # Andraste
 Elven horizon walker.
 https://www.dndbeyond.com/profile/apriltuesday/characters/43082120

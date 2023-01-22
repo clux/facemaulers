@@ -1,3 +1,7 @@
+---
+type: npc
+---
+
 # Beniago
 > Beniago Kurth
 
