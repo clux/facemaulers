@@ -5,22 +5,34 @@
   "editor.lineHeight": 24,
   "workbench.colorTheme": "Seti Modified",
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
   },
-  "foam.openDailyNote.directory": "./docs/recaps",
+  "foam.openDailyNote.directory": "docs/recaps/",
   "foam.openDailyNote.fileExtension": "md",
   "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.files.ignore": [
     "/.vscode",
-    "/README.md",
-    "/add-recaps-here-once-704-is-closed",
-    "/TODOS.md"
+    "/.foam",
   ],
+  "foam.graph.style": {
+    "node": {
+        "creature": "#55aadd",
+        "recap": "#bada55",
+        "note": "#eeeeee",
+        "readme": "#cccccc",
+    }
+  },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "files.defaultLanguage": "markdown",
   "files.exclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    "**/README.md": true,
+    "/.foam": true,
   },
   "files.watcherExclude": {
     "**/node_modules": true
