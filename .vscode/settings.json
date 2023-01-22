@@ -28,8 +28,6 @@
         "tag": "#aa3"
     }
   },
-  "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync",
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true,
