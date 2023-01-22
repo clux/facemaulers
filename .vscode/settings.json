@@ -11,8 +11,6 @@
       "other": "on"
     }
   },
-  "foam.openDailyNote.directory": "docs/recaps/",
-  "foam.openDailyNote.fileExtension": "md",
   "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.files.ignore": [
     "/.vscode",
@@ -27,6 +25,7 @@
         "recap": "#666",
         "note": "#eeeeee",
         "readme": "#cccccc",
+        "tag": "#aa3"
     }
   },
   "git.enableSmartCommit": true,
