@@ -8,6 +8,8 @@ type: npc
 - [[68-goryms-egg]] (freeing felgolos)
 - [[69-vault-unseal]] (escape from gilgrin)
 - [[73-demo-gone-gone]] (arrived late for demogorgon battle)
+- [[118-acid-acropolis]] (dracolich foreshadowing and reveal)
+- [[119-felgolos-reborn]] (fought as dracolich)
 
 ## Post-Umnos
 left to retrieve the egg (they had enough on their hands), sent a message.
@@ -134,6 +136,8 @@ captured in polymorphed form (true sight see it), convert him to undead?
 [68-goryms-egg]: ../recaps/68-goryms-egg "68-goryms-egg"
 [69-vault-unseal]: ../recaps/69-vault-unseal "69-vault-unseal"
 [73-demo-gone-gone]: ../recaps/73-demo-gone-gone "73-demo-gone-gone"
+[118-acid-acropolis]: ../recaps/118-acid-acropolis "118-acid-acropolis"
+[119-felgolos-reborn]: ../recaps/119-felgolos-reborn "119-felgolos-reborn"
 [velddrinnsshar]: ../east/velddrinnsshar "V'elddrinnsshar"
 [kiaransalee]: ../deities/kiaransalee "Kiaransalee"
 [sunset-warriors]: ../factions/sunset-warriors "Sunset Warriors"
