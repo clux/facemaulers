@@ -4,7 +4,6 @@
 
 - Fight continues
 - We kill Valindra form
--
 
 **28/09**
 
@@ -23,8 +22,8 @@
         - White (Irae) => Weakness Radiant, Normal Force/Bludgeoning, Immune Necrotic, used Scythe
         - Green (likely Valindra) (triggered by Lightning) => Weakness Bludgeoning/Piercing, Immune Radiant, Normal Lightning/Fire (maybe super acid spray)
     - New Info
-        - Purple (Larloch) => 21 < AC ≤ 23, Necrotic Save (CON save > 26)
-        - Green (Valindra) => 25 < AC (29?)
+        - Purple (Larloch) => `21 < AC ≤ 23`, Necrotic Save (CON save `> 26`)
+        - Green (Valindra) => `25 < AC` (29?)
 - End of session stats:
     - Faey: Acid Resistance, Cloak Active, Potion of Speed (7 turns done)
     - GW: Necrotic+Acid Resistance, Spirit Shroud, Salweaver
@@ -838,7 +837,7 @@
     - ~~Potion of Flying (Faey)~~
     - ~~Potion of Fire Resistance~~
     - [~~Potion of Heroism~~](https://www.dndbeyond.com/magic-items/potion-of-heroism)
-    - [~~Potion of Invulnerability~~](https://roll20.net/compendium/dnd5e/Potion%20of%20Invulnerability#content)
+    - [~~Potion of Invulnerability~~](https://roll20.net/compendium/dnd5e/Potion%20of%20Invulnerability)
     - [Scroll of Tasha's Otherworldly Guise](https://www.dndbeyond.com/spells/tashas-otherworldly-guise)
     - ~~Potion of Supreme Healing (10d4+20)~~
 - Selune gives a ring of wishes with one wish
@@ -1262,7 +1261,7 @@
 
 - T-1hour:
     - Faey and GW: [Oil of slipperiness](https://www.dndbeyond.com/magic-items/oil-of-slipperiness) (8 hour, takes 10 min)
-        - [Freedom of Movement](https://roll20.net/compendium/dnd5e/Freedom%20of%20Movement#h-Freedom%20of%20Movement) (no magical slow/paralyze/restrain, 5 feet movement to escape grapple)
+        - [Freedom of Movement](https://roll20.net/compendium/dnd5e/Freedom%20of%20Movement) (no magical slow/paralyze/restrain, 5 feet movement to escape grapple)
     - All: into church tower
 - T-1min:
     - All: Potions of fire immunity (10min)
@@ -1536,7 +1535,7 @@
 - Flashback: GW in the valley, feeling no shame
 - GW sees frost giants walking away, and some spectral footprints going west. Frost giants ask GW who his owner is. ~~GW cannot bullshit for shit~~. Cold food good.
 - GW reaches a large stone door with horns on the side, and a tear shaped hole. A valkyrie with long plait greets him. This place is for children. GW is not a child. Awkward.
-- The philosophy of Kavaki is simple: [very long sentence about living simply]
+- The philosophy of Kavaki is simple: __very long sentence about living simply__
 - GW must determine who is morally right in several situations. He enters a bar, and sees a couple having a good time. Someone steals some moneybags! GW calls them a thief and tackles them. GW tells them off.
 - Next room, a kid bows down to an infernal creature. The infernal gives a gemstone to the child. The devil is red! But also, red in a deeper way. “Hey kid, not doing anything dark artsy, are you?” “Who’s that devilly looking guy you’re praying to?” stahp. why not maul stuff instead of sacrificing your brother. stay in school. GW offers to beat up some children. GW mauls the illusory devil in the face.
 - “I have a theory”. “blue, white, green = good”, “red, orange and to a lesser degree pink = evil colours” “yellow, not sure”. “Purple, not sure.”
@@ -1693,8 +1692,8 @@
 **21/01**
 
 - Pendle decides to “reseed the local squirrel population”
-- “Relocates” a “family of three” to “the other side of the ***m*****ore** **scenic route”
-- Hjarka takes the ***most*** **scenic route.
+- “Relocates” a “family of three” to “the other side of the **more** scenic route”
+- Hjarka takes the **most** scenic route.
 - Cat is a charismatic stealth pig and was with us the whole time
 - Pendle reaches the troll bridge, and wants to learn everything about it before he considers walking over it. The troll built the bridge. It is made of stone. Pendle wants to know if there are gems. Pendle tries to bullshit the troll about princes. The troll wants a gem for the bridge to cross. Pendle introduces the troll to the concept of credit. Pendle can cross the bridge, and Hjarka will pay for it. The troll is called Grax. Hjarka is identifiable by her trident and “island aesthetic”.
 - Faey’s hair is green today. Pendle has like “a northern lights aesthetic”. They meet at the gate.
@@ -1914,7 +1913,7 @@
     - dragon seemed stuck, killed this way
     - many ravens were away in the shadow city
     - some things might come from that city to here
-- [we were down there 10 days in reality]
+- we were down there 10 days in reality
 - GW chills with the raven while we check out the ball
 - Mordai sees black force holding down dragon, and someone seems to know
 - can’t scry anything else successfully except Mordecai having a jolly old time
@@ -2212,11 +2211,11 @@
 
 THE STACK
 
-[ ] Mirabar and summoning thing
-[ ] giants in the north being dicks
-[ ] finding Iz’s boat in Ruathym
-[ ] bringing the deeds back to Baldur’s gate – 10 grand
-[ ] fixing up the island
+- [ ] Mirabar and summoning thing
+- [ ] giants in the north being dicks
+- [ ] finding Iz’s boat in Ruathym
+- [ ] bringing the deeds back to Baldur’s gate – 10 grand
+- [ ] fixing up the island
 
 
 - we’ve been at sea for a three weeks…
@@ -2401,7 +2400,7 @@ THE STACK
 - do they know the man of barnacles?
     - from the sea
 - what do they know about the skull with tentacles symbol?
-    - <doesn’t seem to know>
+  - doesn’t seem to know
 
 - battle with a very bad strength sapping thing
 - Mordai ACTUALLY DIES but we revive him
@@ -3074,7 +3073,7 @@ LOOT:
 - Hjarka gets some… glowiness 🤔
 - Windsorrow goes mad and then gets petrified
 - drow medusa in a large room, we kill her and I get her head, Perseus-style
-    - well…https://www.reddit.com/r/dndnext/comments/7qobzi/my_players_got_a_medusas_head_now_what/
+    - well… https://www.reddit.com/r/dndnext/comments/7qobzi/my_players_got_a_medusas_head_now_what/
 
 
 ----------

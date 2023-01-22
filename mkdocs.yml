@@ -3,8 +3,8 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: Face Maulers
-repo_url: https://github.com/clux/campaign
-repo_name: clux/campaign
+repo_url: https://github.com/clux/facemaulers
+repo_name: clux/facemaulers
 edit_uri: edit/main/docs
 theme:
   icon:
@@ -370,7 +370,7 @@ markdown_extensions:
   - nl2br # newline-to-break
   - toc:
       permalink: '#' # heading anchor
-      slugify: !!python/name:pymdownx.slugs.uslugify
+      #slugify: !!python/name:pymdownx.slugs.uslugify
   - admonition
   - codehilite:
       guess_lang: false
