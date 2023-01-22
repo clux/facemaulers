@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 META: April out for two of these on Firewatch isle. 3/4. She has bluescale during that process. Jay joins as Zed during.
 
 2nd of July

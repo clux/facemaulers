@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Kavaki Variety
 15th Dec 2020
 

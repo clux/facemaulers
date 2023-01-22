@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 
 ## 24: Ziggurat -> gets surrounded
 22nd January 2019

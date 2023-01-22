@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 2nd of April 2019
 You find a mad old sorcerer in the mirror world; Hanir.
 You venture around the mirror world and see [[cameron]] on the other side of a wall asking for help.

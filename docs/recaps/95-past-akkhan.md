@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Past Akkhan
 2nd Feb 2021
 

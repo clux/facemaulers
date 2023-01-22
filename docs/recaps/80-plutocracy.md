@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 18/08
 BOUGHT ALL THE POTIONS. 12k GOLD WORTH. SUMMONED STAGWEAVER.
 

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 2nd Oct 2018
 ![](15-pudding-king.png)
 With `WindSorrow` running away to meditate in the middle of the session, `Hjarka` and `Mordai` went to the `Goldwhisker Warren` where they met the west country `Chipgrin Goldwhisker`, a moderately ameniable barbarian played by @spike. They were also having troubles with oozes and wanted space in `Blingdenstone`.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 07/07
 ## 74 Protectorate
 Meet up with Felgolos after porting out.

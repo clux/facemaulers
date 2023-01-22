@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 15th of April 2019
 
 With temple restored, Hjarka taking a level in Tempest Cleric, boat fixed, you head towards Grundsgryn.

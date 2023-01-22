@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 19th of March 2019
 
 They hire the Artemis with Mordecai as a drunk captain. Zed is the surgeon. Gedesto the quarter master.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 13th of June 2019
 You find Iz washed up on the beach of Grundsgryn before leaving. New party member.
 

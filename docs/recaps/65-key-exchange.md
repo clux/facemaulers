@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 21st of April 2020
 
 Protectorate talks more about history of Spine and Umnos (aka Fracto Nimbuli).

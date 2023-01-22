@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 14th of April 2020
 
 ## Rimehaze clear out

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 8th of October 2019
 Zed scouts ahead and talks to "Igor" who has been there for 3 months.
 He shows them the crusher (because they wanted to see it), but he ultimately leads them into a large chamber with many water pools.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ![](06-glabbagol.png)
 
 Those of you who survived the initial prison break from the drow encampment ran for their lives through various cave complexes in an attempt to ditch the tailing drow.

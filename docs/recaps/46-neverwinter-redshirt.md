@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 20th of August 2019?
 
 Loosened Gwyn who told them he was going to seek out his master via octopus ride.

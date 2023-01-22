@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 68 gorym 19/05
 The 3 of you went on a raiding mission into the vault of gilgrin (secure).
 Therein, you found the hammer of grymin, various other high level weaponry, and also a brass dragon, Felgolos, who could shapeshift.

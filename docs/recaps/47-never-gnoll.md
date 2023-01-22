@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 26th of September
 
 You venture across the towering bridge across the spires of Castle Never.

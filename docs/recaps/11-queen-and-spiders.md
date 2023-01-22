@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 4th Sep 2018
 TL:DR Fought Kruthik queen. Almost wiped to spider encounter.
 [[kruthik-lair]] + [[spider-cavern]].

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Winter Mazelord
 15 April 2021
 

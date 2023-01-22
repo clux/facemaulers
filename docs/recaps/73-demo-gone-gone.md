@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 23/06
 ## 73 Battle aftermath
 See [[wd-demogorgon]]. Even ran a simulation in there for this.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 1st of August
 ## 43 - Shipnanigans
 Seagull (Virgil) gets his liver and it tells you where the Tameraut sank.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 5th of November 2019
 
 Goatweaver learns of angrily breaking into Mordai's place, and she never came out, but was seen with glowing eyes instead.

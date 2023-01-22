@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Suddenly left on his own, `Pendle` was forced to roll the petrified `WindSorrow` back to town where cleric `Gurnik` agreed to restore him in exchange for a few entertaining pit fights, and for keeping his unsanctioned fights on the low-down.
 
 In the `Pit of Justice`, you met the resident champions `Travok` a duergar barbarian, and `Goatweaver` a goliath paladin, both seemingly under some control of `Gurnik`. The rules of combat were:

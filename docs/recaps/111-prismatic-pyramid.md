@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 111-prismatic-pyramid
 8 June 2021
 

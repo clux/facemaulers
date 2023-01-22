@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 
 ## 71 Preparing for Battle 09/06
 Arrived in Waterdeep by teleport. Felgolos takes a 4 day trip instead to avoid consequences of getting stuck in dragon defenses.

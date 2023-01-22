@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 18th of June 2019
 
 Command drop causes the pact weapon of Gwyn to drop. Just a hilt at that point, but Mordai takes it. They don't realize it's a pact weapon.

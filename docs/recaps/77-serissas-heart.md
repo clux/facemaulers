@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 28/07
 ## 77-serissas-heart
 killed serissa + 2 guards

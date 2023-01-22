@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 22nd of October 2019
 
 Now being able to open Selune's box, you get a ring of wishes (1 left).

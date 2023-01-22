@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 15th of October 2019
 
 Statue (with enchantments set up by Selune) shatters, pulverises. Fine black mist appears flowing outwards like pyroclastic avalanche.

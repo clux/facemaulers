@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 13th of January
 
 Goatweaver arrives from "the scenic route". He paid 5 gold and crossed the bridge with Marge.

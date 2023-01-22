@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 20th of April 2019
 ## 37 - 6 hour session at Vauxhall
 The future is scary. Tower sends out pulsating waves that hits and control people in these void waves. You escape the creature (Dahaka).

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Brass Banking
 02 Mar 2021
 

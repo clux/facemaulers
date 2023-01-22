@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 14th February 2020
 
 Waterdeep action.

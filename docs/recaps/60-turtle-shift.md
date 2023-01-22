@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 10th of March 2020
 
 Flashback to Goatweaver in the valley.

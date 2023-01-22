@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Argentil Headcount
 24th Nov 2020
 

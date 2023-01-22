@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 13th of November 2018
 Having signed a literal deal with the devil last session, the four of you were thrust into a realm of trials and tribulations. Waking up naked among a pile of rusted weaponry and bones, you saw fine foods, gold and magical items on display in the centre. After careful deliberation you chose your equipment (all the magic items, genie lamp, but no food).
 

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 29th Jan 2019
 The session that instigated the Cube of Force disambiguation. Efreeti exit fight.
 Pendle makes friends with them in the end (what is your wish; for you to be free), and they get some giant genie blades.

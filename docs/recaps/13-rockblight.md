@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 18th Sep 2018
 
 ![](13-rockblight-medusa.png)

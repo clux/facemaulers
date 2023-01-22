@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 After witnessing the disturbingly fertile grounds in the `Garden of Welcome`, along with mock-weddings enacted by possessed myconoids, you leave the `Neverlight Grove` after concerned discussions with the sovereign `Basida`.
 
 `Rasharoo`, the leader of the scouts, is accompanying you on your path to `Blingdenstone` while he and `Stool` scouts out the area for a potential replacement hideout for myconoids that have thus far eluded possession.

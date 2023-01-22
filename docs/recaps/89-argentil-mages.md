@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Argentil Mages
 1st Dec 2020
 

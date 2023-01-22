@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 122-gregorian-planning
 21 September 2021
 

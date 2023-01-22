@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 12th of March 2019
 
 They then went to the mages guild who were not keen on this. Detected the 9th level Gate spell.

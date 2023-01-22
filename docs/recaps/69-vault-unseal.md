@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 
 ## 69 - 26/05
 TL;DR south end explored to try to free felgolos, then returning egg from outside.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 3rd of October 2019
 
 You identify the flail used by the Flind, and keep clearing out gnoll cave. You find a sleeping duergar; [[tyshdille]] from gracklstugh. Captured by the gnolls. Sent to retrieve a stolen dragon egg. You free him and he joins the party.

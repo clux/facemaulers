@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 9th September 2018
 
 ![](12-blingdenstone.png)

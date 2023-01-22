@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Tue 2018-06-26
 Left Sunken Citadel. Saw a fungal creature chasing them around, huge, demonic.
 

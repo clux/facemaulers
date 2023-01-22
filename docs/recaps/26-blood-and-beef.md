@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 5th of February 2019
 
 Investigate if kobolds are the source of the children going away.

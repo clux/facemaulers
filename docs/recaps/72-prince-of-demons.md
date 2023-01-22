@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 72 Battle 16/06
 actual battle. slugfest.
 

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 109-arklem-oubliette
 
 After sneaking around in an Oubliette underneath Irithyll Cathedral, you found yourself embroiled in battle. Nothing too difficult, some unusual undead creatures that you all got into one corner and almost destroyed in two rounds.

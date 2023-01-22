@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 16th of Jule 2019
 ## 41 - defensive-night
 Hjarka catches blue scale and hides down there. As the evening approaches, you learn that at night, the undead come up from the sea below.

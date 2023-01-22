@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 24th of March 2020
 
 More questions for Berctha.

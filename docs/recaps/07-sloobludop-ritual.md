@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ![](07-demogorgon.png)
 
 You reached `Sloobludop`, a kua-toa village on the shore of Darklake. Led by `Shooshar`, it quickly became evident that he was not universally considered their saviour, and they had their own conflicting ideas of worship. Taken in by archpriest `Ploop` worshipping their Deep Sea Mother, he presented a plan to overthrow a newly minted rival archpriest `Blopp` worshipping a rival Deep Sea Father.

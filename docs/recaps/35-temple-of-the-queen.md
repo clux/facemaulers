@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 12th of April
 
 Door puzzle to start. They find the Apparatus of Kvalish in there.

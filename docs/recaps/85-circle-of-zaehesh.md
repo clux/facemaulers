@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Circle of Zaehesh
 3rd Nov 2020
 

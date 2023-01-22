@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 18th of February 2020
 
 They clear out hill giant hotel (final part, set free a bunch of wolves, lots of wolf RP with an uneasy truth).

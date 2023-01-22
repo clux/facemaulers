@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Welcome to the Sword Coast
 https://www.youtube.com/watch?v=hHLX_AChG5E
 

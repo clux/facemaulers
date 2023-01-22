@@ -21,7 +21,8 @@
   "foam.graph.style": {
     "node": {
         "creature": "#55aadd",
-        "recap": "#bada55",
+        "location": "#bada55",
+        "recap": "#666",
         "note": "#eeeeee",
         "readme": "#cccccc",
     }

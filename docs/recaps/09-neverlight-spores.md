@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ![](09-zuggtmoy.png)
 
 You ventured into the `Neverlight Grove`. Greeted by a field of mushrooms and zhurkwoods that you managed to awake, you eventually appeased the creature with the help of Stool's surprising persuasion skills. Though not without a critical reaction hit from the tree to oneshot `Pendleblip`.

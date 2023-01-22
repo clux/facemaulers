@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 23: Nine helps them kill Ctenmiir.
 15th January 2019
 Nine was the flesh golem.

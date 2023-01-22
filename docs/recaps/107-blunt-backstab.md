@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Blunt Backstab
 12 May 2021
 

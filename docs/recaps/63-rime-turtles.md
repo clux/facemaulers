@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 63-rimehaze
 7th of April 2020
 Found a book detailing the legend of Grymin the giantslayer.

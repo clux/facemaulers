@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 125-denouement
 12 October 2021
 

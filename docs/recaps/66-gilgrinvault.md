@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 28th of April 2020
 ## 66 hammer of grymin
 Ported in from puzzle episode.

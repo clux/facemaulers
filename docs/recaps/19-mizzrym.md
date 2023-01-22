@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 4th December 2018
 
 With the trials done and the previous owner of the signed book staring apprehensively at the five of you, `Solas` is left alive as you venture back to `Blindgenstone`. However, your brief previous encounter with drow scouts earlier had not gone unnoticed and an ambush lied waiting.

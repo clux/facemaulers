@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 9th of January 2020
 
 You take two horses and carriages up North to Luskan.

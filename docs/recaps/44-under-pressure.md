@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 8th of August 2019
 ## 44 - Into the Depths
 Pendle back. Gets a new handler Anjanu, who clips off a fingernail, and gives him a cloak that can glow with any color (TOC). Glowing red for now. GW __not__ pleased.

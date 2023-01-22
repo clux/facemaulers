@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 They sell Blackrazor after not liking its tone, but gained entrance to thieves guild.
 However, Pendle talks to [[vanquesh]] and enacts one of the T&C.
 

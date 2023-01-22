@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Oblexian Dig
 10th Nov 2020
 

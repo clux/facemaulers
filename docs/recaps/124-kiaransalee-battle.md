@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 124-kiaransalee-battle
 05 October 2021
 

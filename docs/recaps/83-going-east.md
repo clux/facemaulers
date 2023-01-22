@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Going east
 20th Oct 2020
 

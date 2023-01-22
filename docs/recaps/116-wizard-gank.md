@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 116-wizard-gank
 13 July 2021
 

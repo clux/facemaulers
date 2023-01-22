@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 67 felgolos 05/05
 talked to a brass dragon, not initially keen on you
 but you talked to it for a while in some moderately precarious circumstances

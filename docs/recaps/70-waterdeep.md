@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 70 Hanir Awakens 02/06
 (Birthday dnd. I resigned that week.)
 

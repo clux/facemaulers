@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ## 45 - Maerimydra
 13th of August 2019
 

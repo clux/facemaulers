@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 21/07
 
 The storm giants calling for backup returned with friends. 5 giants cause a rough fight, you've never encountered more than two giants at a time before. It's a good thing you had all this lightning resistance.

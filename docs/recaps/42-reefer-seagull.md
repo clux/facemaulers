@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 23rd of July 2019
 ## 42 - Reefer Seagul
 They talk to Virgil and inhabitants for closure.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Past Luskan
 17th Nov 2020
 

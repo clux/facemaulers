@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 20th November 2018
 Having completed the first two trials, you found yourself in some sort of escape / fight room. However, some beauraucratic confusion seemed to put you in the children's version. Nonetheless, you chose your champions after coming up with the PG answer to all the riddles.
 

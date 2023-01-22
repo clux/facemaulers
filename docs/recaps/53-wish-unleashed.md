@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 14th of November 2019
 
 Evil Mordai drags GW bleeding body out onto the floor. Taunts you and starts smiting GW.

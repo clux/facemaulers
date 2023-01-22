@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Tentacley Mine
 26th Jan 2021
 

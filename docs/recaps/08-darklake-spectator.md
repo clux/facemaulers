@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ![](08-darklake-spectator.png)
 
 You spent several days rowing across `Darklake`, where at a southern point you met a deep gnome. `Suooll` represented the `Blue Shadow`; an organisation of armed scavengers selling gear in `Gracklstugh`. Despite his inverted voice, you obtained a small list of items available for purchase at their temporary holding station in [[atishalla]].

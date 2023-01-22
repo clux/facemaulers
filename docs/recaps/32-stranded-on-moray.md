@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 26th of March 2019
 
 Boat crashes on shore at the end of last episode. Now it's stranded. They want tar to help patch it up.

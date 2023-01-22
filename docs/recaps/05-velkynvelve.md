@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 ![](05-velkynvelve.png)
 
 No recap. They escaped with Shooshar, Derendil, Eldeth, Stool.

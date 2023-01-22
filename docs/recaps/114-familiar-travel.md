@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 114-familiar-travel
 29 June 2021
 

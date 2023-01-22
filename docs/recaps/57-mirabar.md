@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 28th of January 2020
 
 The constructs armor is attempted to be filled with magic. Not trivial.

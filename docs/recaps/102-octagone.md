@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Octagone
 30 Mar 2021
 

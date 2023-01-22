@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 08/09
 You grab Umnos's loot and climb the tree at the summit of Halos up to Ysgard.
 

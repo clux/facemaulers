@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 113-selune-royale
 23 June 2021
 

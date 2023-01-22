@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 21st of January 2020
 
 Pendle back from the "More Scenic Route", Hjarka took the "Most" Scenic route.

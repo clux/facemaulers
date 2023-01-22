@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 9th of Oct 2018
 ![](16-chain-devil.png)
 You left `Blingdenstone` after a bit of resting and armouring up. `Kazook` had a tinkering friend that'd gone missing, and in search of greater powers, you ventured on.

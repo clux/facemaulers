@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 Undead Diplomacy
 8th Dec 2020
 

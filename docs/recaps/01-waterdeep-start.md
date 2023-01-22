@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 You met in the Yawning Portal in. Date? Early 2018. May 8th?/April9th?
 
 Our wandering adventurers took on a quest by Gael, a magic merchant of waterdeep, trying to corner the market on healing potions, by obtaining some healing fruit sold by Goblins in the village of oakhurst.

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 25th of February 2020
 
 Smiling one was Sansuri who offered them help

@@ -1,3 +1,7 @@
+---
+type: recap
+---
+
 11/08
 ### RECAP 5
 They defeated Neri after a long fight where she retreated continuously and tried to revive her allies. Hard battle where she swapped bodies with her identically dressed rangers, only revealing who she was when attacking with her storm bow.
