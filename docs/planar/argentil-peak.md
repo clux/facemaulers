@@ -9,6 +9,22 @@ Music:
 - https://www.youtube.com/watch?v=ET4a1I5lIEs (30min bandit slaughter)
 - https://www.youtube.com/watch?v=L-yk7bsfrOc (70min BL3 Ambient DOF)
 
+## Overview
+
+- [x] Digistruct overview and tannis quotes
+- [x] Deprivation Depot (first entrance - androsphinx + 2 deva gankers - outside 1 unicorn + 8 yetis)
+- [x] Theatre of Martyrdom (scorch - 2 chimeras + 10 centaurs)
+- [x] Butcher Base (dukino - 500 kobolds)
+- [x] Headshot Headquarters (black queen)
+- [x] Obliteration Station (bone head - cloud giants with flooding control weather + misty + 8 pegasi)
+- [ ] Garden of Murder (snow onions)
+- [x] Decimation Destination (doc mercy)
+- [x] Colosseum of Laceration (assassins)
+- [x] Area of Anguish (saturn / 2 planetars (but primordial style shoot magic thing) + 8 couatl)
+- [ ] Cannibal Canyon (awkward seal in)
+- [ ] Arena of Tribulation (last area, maybe skip - maybe add annoying rocs, but half HP)
+- [x] Tower of Torment (big boss - empyrean - child of annam)
+
 ## Combat Design
 - Infantry
 - Glass cannons
