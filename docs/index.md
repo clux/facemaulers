@@ -5,11 +5,14 @@ type: readme
 DM notes and brain organisation from a 3.5 year D&D 5e campaign.
 
 ## Setup
-This repo uses [`foam`](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
+This repo was setup with [`foam`](https://foambubble.github.io/foam/) as a [campaign brain](https://clux.github.io/probes/post/2020-09-27-second-brain/).
 
 The webpage is using [`mkdocs`](https://www.mkdocs.org/) with [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
 
-To browse locally in `code`; [clone repo + install extensions](https://foambubble.github.io/foam/#getting-started) to get working [markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links).
+To browse locally:
+
+- `code`; [clone repo + install extensions](https://foambubble.github.io/foam/#getting-started) to get working [markdown links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links)
+- `hx` open with a good markdown language server (e.g. `marksman`) and jump with `goto definition`
 
 ## Organisation
 Folders generally specify regions, these sometimes coincide entirely with chapters of the campaign, but often not due to the amount of quick teleports between them.

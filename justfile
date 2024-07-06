@@ -20,3 +20,14 @@ serve:
 stats:
   #!/usr/bin/env sh
   rg Players: -A 6 docs/recaps/ | rg "\- (\w*)" -r '$1' -o | sort | uniq -c | sort -hr
+
+# helper to try-upgrade everything in the pip environment
+upgrade:
+  #!/usr/bin/env bash
+  rm -rf ./venv
+  python3 -m venv venv
+  source venv/bin/activate
+  pip3 install mkdocs-material=="9.*"
+  pip3 install mkdocs-roamlinks-plugin
+  pip3 install mkdocs-exclude
+  pip3 freeze > requirements.txt
